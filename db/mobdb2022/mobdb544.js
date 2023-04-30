@@ -1,0 +1,41 @@
+MobData = {
+	544: [ {"id":"0","inid":0,"type":15,"name":"ギブソン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":77.72,"real_posy":45.94,"posx":438.05,"posy":129.5},
+	{"id":"1","inid":1,"type":15,"name":"ジョン・マルコ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":62.95,"real_posy":42.91,"posx":354.83,"posy":120.95},
+	{"id":"2","inid":2,"type":1,"name":"シェルラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":68.47,"real_posy":52.22,"posx":385.91,"posy":147.21},
+	{"id":"3","inid":4,"type":1,"name":"ノイト","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":83.08,"real_posy":49.63,"posx":468.26,"posy":139.9},
+	{"id":"4","inid":5,"type":1,"name":"レム","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":90.47,"real_posy":39.03,"posx":509.91,"posy":110.03},
+	{"id":"5","inid":3,"type":15,"name":"デーボラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":95,"real_posy":42.72,"posx":535.45,"posy":120.43},
+	{"id":"6","inid":6,"type":1,"name":"パルペナ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":49.67,"real_posy":45.72,"posx":279.97,"posy":128.88},
+	{"id":"7","inid":7,"type":1,"name":"シェンロウ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":38.53,"real_posy":42.25,"posx":217.18,"posy":119.1},
+	{"id":"8","inid":8,"type":1,"name":"警備兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":57.91,"real_posy":64.41,"posx":326.38,"posy":181.56},
+	{"id":"9","inid":8,"type":1,"name":"警備兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":61.58,"real_posy":68.53,"posx":347.08,"posy":193.19},
+	{"id":"10","inid":9,"type":1,"name":"悪徳露店商","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":55.69,"real_posy":55.91,"posx":313.88,"posy":157.6},
+	{"id":"11","inid":10,"type":1,"name":"ギルド戦ヘルパー","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":49.86,"real_posy":52.56,"posx":281.03,"posy":148.18},
+	{"id":"12","inid":11,"type":1,"name":"戦闘場の設計士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":53.06,"real_posy":56.13,"posx":299.08,"posy":158.22},
+	{"id":"13","inid":12,"type":3,"name":"ゲベル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":51.98,"real_posy":53.25,"posx":293,"posy":150.11},
+	{"id":"14","inid":13,"type":5,"name":"ルイス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":67.59,"real_posy":43.84,"posx":380.98,"posy":123.6},
+	{"id":"15","inid":16,"type":1,"name":"ユスピナ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":46.56,"real_posy":42.69,"posx":262.44,"posy":120.34},
+	{"id":"16","inid":14,"type":1,"name":"討伐団レーナ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":32.27,"real_posy":56.03,"posx":181.86,"posy":157.95},
+	{"id":"17","inid":17,"type":1,"name":"エルウッド","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":43.47,"real_posy":39.53,"posx":245.01,"posy":111.44},
+	{"id":"19","inid":15,"type":1,"name":"討伐騎士団長","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":31.98,"real_posy":64.53,"posx":180.28,"posy":181.92},
+]};
+MobList = {
+	544: ["モンスター", "ギブソン","ジョン・マルコ","シェルラ","デーボラ","ノイト","レム","パルペナ","シェンロウ","警備兵","悪徳露店商","ギルド戦ヘルパー","戦闘場の設計士","ゲベル","ルイス","討伐団レーナ","討伐騎士団長","ユスピナ","エルウッド",],
+};
+
+AreaData = {
+	544: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":50,"real_posx2":50,"real_posy":20,"real_posy2":20,"posx":281.82,"posx2":281.82,"posy":56.38,"posy2":56.38},
+	{"id":"1","type":0,"name":"_화면","access_map":"","is_secret":0,"real_posx":50,"real_posx2":50,"real_posy":20,"real_posy2":20,"posx":281.82,"posx2":281.82,"posy":56.38,"posy2":56.38},
+	{"id":"2","type":5,"name":"시작 영역","access_map":"","is_secret":0,"real_posx":82.55,"real_posx2":84.92,"real_posy":62.34,"real_posy2":66.5,"posx":465.26,"posx2":478.65,"posy":175.75,"posy2":187.47},
+	{"id":"3","type":6,"name":"秘密のダンジョン案内所","access_map":"","is_secret":0,"real_posx":63.67,"real_posx2":64.63,"real_posy":42.81,"real_posy2":44.06,"posx":358.88,"posx2":364.25,"posy":120.69,"posy2":124.21},
+	{"id":"4","type":6,"name":"冒険家協会バー","access_map":"","is_secret":0,"real_posx":76.22,"real_posx2":77.25,"real_posy":56.34,"real_posy2":57.47,"posx":429.6,"posx2":435.41,"posy":158.84,"posy2":162.01},
+	{"id":"5","type":3,"name":"모험가협회로-브룬","access_map":"[502] T01_I01.rmd","is_secret":0,"real_posx":84.8,"real_posx2":86.69,"real_posy":67.63,"real_posy2":70.66,"posx":477.95,"posx2":488.6,"posy":190.64,"posy2":199.18},
+	{"id":"6","type":6,"name":"RED STONE探検所","access_map":"","is_secret":0,"real_posx":90.48,"real_posx2":91.44,"real_posy":41.38,"real_posy2":42.78,"posx":510,"posx2":515.38,"posy":116.64,"posy2":120.6},
+	{"id":"7","type":7,"name":"길드전 입구 1","access_map":"","is_secret":0,"real_posx":45.14,"real_posx2":46.19,"real_posy":77.66,"real_posy2":78.88,"posx":254.43,"posx2":260.33,"posy":218.92,"posy2":222.35},
+	{"id":"8","type":7,"name":"길드전 입구 2","access_map":"","is_secret":0,"real_posx":55.36,"real_posx2":56.33,"real_posy":88.16,"real_posy2":89,"posx":312.03,"posx2":317.49,"posy":248.52,"posy2":250.9},
+	{"id":"9","type":7,"name":"길드전 입구 3","access_map":"","is_secret":0,"real_posx":65.61,"real_posx2":66.56,"real_posy":77.66,"real_posy2":78.69,"posx":369.8,"posx2":375.17,"posy":218.92,"posy2":221.82},
+	{"id":"10","type":6,"name":"ギルド戦入場区域","access_map":"","is_secret":0,"real_posx":55.09,"real_posx2":56.09,"real_posy":74.34,"real_posy2":75.31,"posx":310.53,"posx2":316.16,"posy":209.58,"posy2":212.31},
+	{"id":"11","type":6,"name":"討伐入場区域","access_map":"","is_secret":0,"real_posx":35.3,"real_posx2":36.05,"real_posy":55.13,"real_posy2":55.75,"posx":198.95,"posx2":203.17,"posy":155.4,"posy2":157.16},
+	{"id":"13","type":19,"name":"Area 12","access_map":"","is_secret":0,"real_posx":23.83,"real_posx2":25.48,"real_posy":56.38,"real_posy2":57.78,"posx":134.3,"posx2":143.64,"posy":158.92,"posy2":162.89},
+	{"id":"14","type":19,"name":"Area 13","access_map":"","is_secret":0,"real_posx":33.75,"real_posx2":35.38,"real_posy":45.63,"real_posy2":46.91,"posx":190.23,"posx2":199.39,"posy":128.62,"posy2":132.23},
+]};

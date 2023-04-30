@@ -1,0 +1,43 @@
+MobData = {
+	153: [ {"id":"0","inid":1,"type":1,"name":"Ｍギルド員","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":11.25,"real_posy":24.19,"posx":33.9,"posy":36.51},
+	{"id":"1","inid":2,"type":1,"name":"Ｍギルド員","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":7.52,"real_posy":24.44,"posx":22.65,"posy":36.89},
+	{"id":"2","inid":3,"type":1,"name":"Ｎギルド員","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":7.95,"real_posy":33.44,"posx":23.97,"posy":50.47},
+	{"id":"3","inid":4,"type":1,"name":"Ｎギルド員","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":6.64,"real_posy":37.5,"posx":20.01,"posy":56.6},
+	{"id":"4","inid":5,"type":1,"name":"戦闘場の設計士","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":31.5,"real_posy":10.19,"posx":94.93,"posy":15.38},
+	{"id":"5","inid":6,"type":14,"name":"シェンロウ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":21.47,"real_posy":19.63,"posx":64.7,"posy":29.62},
+	{"id":"6","inid":12,"type":1,"name":"Ｘギルド員","repop":120,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":26.47,"real_posy":26.91,"posx":79.77,"posy":40.61},
+	{"id":"7","inid":13,"type":1,"name":"Ｘギルド員","repop":120,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":30.45,"real_posy":28.69,"posx":91.78,"posy":43.3},
+	{"id":"8","inid":14,"type":1,"name":"Ｘギルドマスター","repop":120,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":26.52,"real_posy":30.31,"posx":79.91,"posy":45.75},
+	{"id":"9","inid":15,"type":1,"name":"Ｘギルド員","repop":120,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.45,"real_posy":26.63,"posx":85.75,"posy":40.19},
+	{"id":"10","inid":16,"type":1,"name":"Ｚギルドマスター","repop":120,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":10.97,"real_posy":36.25,"posx":33.06,"posy":54.72},
+	{"id":"11","inid":17,"type":1,"name":"Ｙギルド長老","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.97,"real_posy":26.75,"posx":45.11,"posy":40.38},
+	{"id":"12","inid":7,"type":14,"name":"パルペナ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.42,"real_posy":18.25,"posx":55.52,"posy":27.55},
+	{"id":"13","inid":8,"type":14,"name":"ギルド戦ヘルパー","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":37.14,"real_posy":14.41,"posx":111.93,"posy":21.75},
+	{"id":"14","inid":9,"type":14,"name":"警備兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":34.41,"real_posy":13.5,"posx":103.69,"posy":20.38},
+	{"id":"15","inid":9,"type":14,"name":"警備兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":47.81,"real_posy":19.5,"posx":144.09,"posy":29.43},
+	{"id":"16","inid":10,"type":5,"name":"悪徳商人","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":26.94,"real_posy":11.53,"posx":81.18,"posy":17.41},
+	{"id":"17","inid":18,"type":14,"name":"ギルドテレポータ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.44,"real_posy":37.66,"posx":55.57,"posy":56.84},
+	{"id":"18","inid":11,"type":14,"name":"パルセナ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":18.34,"real_posy":22.22,"posx":55.28,"posy":33.54},
+]};
+MobList = {
+	153: ["モンスター", "None.","Ｍギルド員","Ｍギルド員","Ｎギルド員","Ｎギルド員","戦闘場の設計士","シェンロウ","パルペナ","ギルド戦ヘルパー","警備兵","悪徳商人","パルセナ","Ｘギルド員","Ｘギルド員","Ｘギルドマスター","Ｘギルド員","Ｚギルドマスター","Ｙギルド長老","ギルドテレポータ",],
+};
+
+AreaData = {
+	153: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	{"id":"1","type":0,"name":"_화면","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	{"id":"2","type":4,"name":"Area 1","access_map":"","is_secret":0,"real_posx":12.34,"real_posx2":17.67,"real_posy":25.09,"real_posy2":29.44,"posx":37.2,"posx2":53.26,"posy":37.88,"posy2":44.43},
+	{"id":"3","type":3,"name":"Area 2","access_map":"[000]T01.rmd","is_secret":0,"real_posx":24.89,"real_posx2":27.44,"real_posy":39.84,"real_posy2":42.63,"posx":75.01,"posx2":82.69,"posy":60.14,"posy2":64.34},
+	{"id":"4","type":7,"name":"길드전 참가!","access_map":"","is_secret":0,"real_posx":39.89,"real_posx2":40.2,"real_posy":20.03,"real_posy2":20.66,"posx":120.22,"posx2":121.16,"posy":30.24,"posy2":31.18},
+	{"id":"5","type":4,"name":"Area 4","access_map":"","is_secret":0,"real_posx":6.19,"real_posx2":9.98,"real_posy":31.81,"real_posy2":34.88,"posx":18.65,"posx2":30.09,"posy":48.02,"posy2":52.64},
+	{"id":"6","type":4,"name":"Area 5","access_map":"","is_secret":0,"real_posx":5.09,"real_posx2":9.11,"real_posy":36.06,"real_posy2":39.47,"posx":15.35,"posx2":27.45,"posy":54.43,"posy2":59.58},
+	{"id":"7","type":4,"name":"Area 6","access_map":"","is_secret":0,"real_posx":24.72,"real_posx2":31.02,"real_posy":25.63,"real_posy2":31.25,"posx":74.49,"posx2":93.47,"posy":38.68,"posy2":47.17},
+	{"id":"8","type":4,"name":"Area 7","access_map":"","is_secret":0,"real_posx":10.14,"real_posx2":12.34,"real_posy":32.84,"real_posy2":37.75,"posx":30.56,"posx2":37.2,"posy":49.58,"posy2":56.98},
+	{"id":"9","type":6,"name":"ギルド戦待機所","access_map":"","is_secret":0,"real_posx":45.16,"real_posx2":49.22,"real_posy":19.09,"real_posy2":19.94,"posx":136.09,"posx2":148.33,"posy":28.82,"posy2":30.09},
+	{"id":"10","type":7,"name":"Area 9","access_map":"","is_secret":0,"real_posx":49.95,"real_posx2":50.27,"real_posy":29.97,"real_posy2":30.59,"posx":150.54,"posx2":151.49,"posy":45.24,"posy2":46.18},
+	{"id":"11","type":7,"name":"Area 10","access_map":"","is_secret":0,"real_posx":49.84,"real_posx2":50.2,"real_posy":9.94,"real_posy2":10.56,"posx":150.21,"posx2":151.3,"posy":15,"posy2":15.94},
+	{"id":"12","type":7,"name":"Area 11","access_map":"","is_secret":0,"real_posx":59.94,"real_posx2":60.25,"real_posy":19.91,"real_posy2":20.53,"posx":180.63,"posx2":181.58,"posy":30.05,"posy2":30.99},
+	{"id":"13","type":3,"name":"Area 12","access_map":"[153]GUILD_MATCH.rmd","is_secret":0,"real_posx":17.86,"real_posx2":20,"real_posy":38.34,"real_posy2":41.06,"posx":53.82,"posx2":60.27,"posy":57.88,"posy2":61.98},
+	{"id":"14","type":3,"name":"길드전맵 내부 이동","access_map":"[153]GUILD_MATCH.rmd","is_secret":0,"real_posx":49.02,"real_posx2":51.13,"real_posy":20.66,"real_posy2":23.31,"posx":147.72,"posx2":154.08,"posy":31.18,"posy2":35.19},
+	{"id":"15","type":6,"name":"ギルド戦臨時魔法陣","access_map":"","is_secret":0,"real_posx":16.3,"real_posx2":17.91,"real_posy":39,"real_posy2":39.56,"posx":49.11,"posx2":53.96,"posy":58.87,"posy2":59.72},
+]};

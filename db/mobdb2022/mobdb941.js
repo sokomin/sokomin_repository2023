@@ -1,0 +1,41 @@
+MobData = {
+	941: [ {"id":"0","inid":0,"type":2,"name":"戦略ポイント","repop":7200,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":74.25,"real_posy":60.47,"posx":148.5,"posy":60.47},
+	{"id":"1","inid":0,"type":2,"name":"戦略ポイント","repop":7200,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":61.5,"real_posy":109.66,"posx":123,"posy":109.66},
+	{"id":"2","inid":0,"type":2,"name":"戦略ポイント","repop":7200,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":127.89,"real_posy":46.53,"posx":255.78,"posy":46.53},
+	{"id":"3","inid":4,"type":2,"name":"ギルド紋章","repop":7200,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":42.86,"real_posy":29.78,"posx":85.72,"posy":29.78},
+]};
+MobList = {
+	941: ["モンスター", "戦略ポイント","None.","None.","None.","ギルド紋章",],
+};
+
+AreaData = {
+	941: [ {"id":"0","type":0,"name":"_필드 전체","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	{"id":"1","type":0,"name":"_화면","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	{"id":"2","type":2,"name":"공성 시작","access_map":"","is_secret":0,"real_posx":176.44,"real_posx2":182.94,"real_posy":158.38,"real_posy2":173.63,"posx":352.88,"posx2":365.88,"posy":158.38,"posy2":173.63},
+	{"id":"3","type":2,"name":"방어 1차 - 1","access_map":"","is_secret":0,"real_posx":128.31,"real_posx2":135.06,"real_posy":109.5,"real_posy2":123.13,"posx":256.63,"posx2":270.13,"posy":109.5,"posy2":123.13},
+	{"id":"4","type":2,"name":"攻城チーム特殊ポータル入口","access_map":"","is_secret":0,"real_posx":139.69,"real_posx2":146.75,"real_posy":80.13,"real_posy2":95,"posx":279.38,"posx2":293.5,"posy":80.13,"posy2":95},
+	{"id":"5","type":2,"name":"방어 2차-1","access_map":"","is_secret":0,"real_posx":108.69,"real_posx2":115.44,"real_posy":88.38,"real_posy2":102.38,"posx":217.38,"posx2":230.88,"posy":88.38,"posy2":102.38},
+	{"id":"6","type":2,"name":"방어 3차-2","access_map":"","is_secret":0,"real_posx":59.28,"real_posx2":66.66,"real_posy":37.63,"real_posy2":52.38,"posx":118.56,"posx2":133.31,"posy":37.63,"posy2":52.38},
+	{"id":"7","type":5,"name":"시작 영역","access_map":"","is_secret":0,"real_posx":178.28,"real_posx2":198.72,"real_posy":170,"real_posy2":197.81,"posx":356.56,"posx2":397.44,"posy":170,"posy2":197.81},
+	{"id":"8","type":7,"name":"수성 팀","access_map":"","is_secret":0,"real_posx":34.42,"real_posx2":44.44,"real_posy":35.78,"real_posy2":48.03,"posx":68.84,"posx2":88.88,"posy":35.78,"posy2":48.03},
+	{"id":"9","type":2,"name":"방어 1차 - 3","access_map":"","is_secret":0,"real_posx":100.84,"real_posx2":107.31,"real_posy":120,"real_posy2":135.31,"posx":201.69,"posx2":214.63,"posy":120,"posy2":135.31},
+	{"id":"10","type":12,"name":"攻城チーム特殊ポータル入口","access_map":"","is_secret":0,"real_posx":167.69,"real_posx2":170.84,"real_posy":155.78,"real_posy2":163.22,"posx":335.38,"posx2":341.69,"posy":155.78,"posy2":163.22},
+	{"id":"11","type":12,"name":"攻城チーム特殊ポータル出口","access_map":"","is_secret":0,"real_posx":90.66,"real_posx2":93.98,"real_posy":67.84,"real_posy2":75.56,"posx":181.31,"posx2":187.97,"posy":67.84,"posy2":75.56},
+	{"id":"12","type":3,"name":"서쪽 포탈 입구","access_map":"[941]GB_LV05.rmd","is_secret":0,"real_posx":161.03,"real_posx2":163.47,"real_posy":174.69,"real_posy2":177.81,"posx":322.06,"posx2":326.94,"posy":174.69,"posy2":177.81},
+	{"id":"13","type":3,"name":"서쪽 포탈 출구","access_map":"","is_secret":0,"real_posx":93.59,"real_posx2":96.09,"real_posy":150.75,"real_posy2":154.13,"posx":187.19,"posx2":192.19,"posy":150.75,"posy2":154.13},
+	{"id":"14","type":3,"name":"북쪽 포탈 입구","access_map":"[941]GB_LV05.rmd","is_secret":0,"real_posx":181.94,"real_posx2":184.59,"real_posy":143.5,"real_posy2":147.13,"posx":363.88,"posx2":369.19,"posy":143.5,"posy2":147.13},
+	{"id":"15","type":3,"name":"북쪽 포탈 출구","access_map":"","is_secret":0,"real_posx":159.41,"real_posx2":162,"real_posy":66.81,"real_posy2":70.94,"posx":318.81,"posx2":324,"posy":66.81,"posy2":70.94},
+	{"id":"16","type":0,"name":"특수 포탈 출현 영역","access_map":"","is_secret":0,"real_posx":90.91,"real_posx2":93.97,"real_posy":77.22,"real_posy2":81.5,"posx":181.81,"posx2":187.94,"posy":77.22,"posy2":81.5},
+	{"id":"17","type":12,"name":"臨時テスト","access_map":"","is_secret":0,"real_posx":1.27,"real_posx2":3.66,"real_posy":192.38,"real_posy2":197.5,"posx":2.53,"posx2":7.31,"posy":192.38,"posy2":197.5},
+	{"id":"18","type":4,"name":"길드 전략 포인트 1","access_map":"","is_secret":0,"real_posx":125.08,"real_posx2":130.61,"real_posy":42.06,"real_posy2":50.66,"posx":250.16,"posx2":261.22,"posy":42.06,"posy2":50.66},
+	{"id":"19","type":3,"name":"중앙3차 입구","access_map":"[941]GB_LV05.rmd","is_secret":0,"real_posx":53.34,"real_posx2":55.33,"real_posy":41.78,"real_posy2":44.66,"posx":106.69,"posx2":110.66,"posy":41.78,"posy2":44.66},
+	{"id":"20","type":3,"name":"중앙3차 출구","access_map":"","is_secret":0,"real_posx":61.55,"real_posx2":63.72,"real_posy":52.53,"real_posy2":55.38,"posx":123.09,"posx2":127.44,"posy":52.53,"posy2":55.38},
+	{"id":"21","type":3,"name":"중앙2차 입구","access_map":"[941]GB_LV05.rmd","is_secret":0,"real_posx":102.64,"real_posx2":104.92,"real_posy":84.84,"real_posy2":87.25,"posx":205.28,"posx2":209.84,"posy":84.84,"posy2":87.25},
+	{"id":"22","type":3,"name":"중앙2차 출구","access_map":"","is_secret":0,"real_posx":111.39,"real_posx2":113.42,"real_posy":102.44,"real_posy2":104.97,"posx":222.78,"posx2":226.84,"posy":102.44,"posy2":104.97},
+	{"id":"23","type":3,"name":"남동문 입구","access_map":"[941]GB_LV05.rmd","is_secret":0,"real_posx":124.17,"real_posx2":126.11,"real_posy":111.19,"real_posy2":113.19,"posx":248.34,"posx2":252.22,"posy":111.19,"posy2":113.19},
+	{"id":"24","type":3,"name":"남동문 출구","access_map":"","is_secret":0,"real_posx":129.38,"real_posx2":131.3,"real_posy":123.56,"real_posy2":126.47,"posx":258.75,"posx2":262.59,"posy":123.56,"posy2":126.47},
+	{"id":"25","type":3,"name":"남서문 입구","access_map":"[941]GB_LV05.rmd","is_secret":0,"real_posx":106.16,"real_posx2":108.11,"real_posy":114.59,"real_posy2":116.94,"posx":212.31,"posx2":216.22,"posy":114.59,"posy2":116.94},
+	{"id":"26","type":3,"name":"남서문 출구","access_map":"","is_secret":0,"real_posx":97.97,"real_posx2":100.13,"real_posy":130.84,"real_posy2":133.41,"posx":195.94,"posx2":200.25,"posy":130.84,"posy2":133.41},
+	{"id":"27","type":3,"name":"북동문 입구","access_map":"[941]GB_LV05.rmd","is_secret":0,"real_posx":136.31,"real_posx2":138.2,"real_posy":92.72,"real_posy2":94.97,"posx":272.63,"posx2":276.41,"posy":92.72,"posy2":94.97},
+	{"id":"28","type":3,"name":"북동문 출구","access_map":"","is_secret":0,"real_posx":147,"real_posx2":149,"real_posy":78.28,"real_posy2":80.69,"posx":294,"posx2":298,"posy":78.28,"posy2":80.69},
+]};
