@@ -1,0 +1,478 @@
+\Data/bgm.dat
+\Data/capa.dat
+\Data/carving.dat
+\Data/checkObjectData.dat
+\Data/creatureInfo.dat
+\Data/defaultJob.dat
+\Data/doorObjectCrashMap.dat
+\Data/effect_data.dat
+\Data/emoticon.dat
+\Data/fieldInfo.dat
+\Data/guideSystemLevelQuest.dat
+\Data/JournalData.dat
+\Data/JournalKindData.dat
+\Data/logToolText.dat
+\Data/mapList.dat
+\Data/objectCrashMap.dat
+\Data/simpleDataPack.dat
+\Data/skill.dat
+\Data/textData.dat
+\Data/title.dat
+\Data/toolText.dat
+\Data/type01.gsd
+\Data/type02.gsd
+\Data/type03.gsd
+\Data/type04.gsd
+\Data/type12.gsd
+\Data/warpPortal.dat
+\Data/wm_dungeon.dat
+\Data/wm_field.dat
+\Data\Bgm/38 YatikanuForest.ogg
+\Data\Bgm/39 Yatikanu Boss.ogg
+\Data\Bgm/40 Yatikanu Dungeon.ogg
+\Data\creaturebody/109_Foxytail.sad
+\Data\creaturebody/23~33_Gleamgolem.sad
+\Data\creaturebody/34~44_Rebito.sad
+\Data\Effects/Beartrap.sad
+\Data\Effects/blue.sad
+\Data\Effects/designation_promotion_bat_ui.sad
+\Data\Effects/designation_promotion_blossom_ui.sad
+\Data\Effects/designation_promotion_firework_ui.sad
+\Data\Effects/designation_promotion_heart_ui.sad
+\Data\Effects/designation_promotion_snow_ui.sad
+\Data\Effects/designation_yaticanu_fairy_ui.sad
+\Data\Effects/designation_YatikanuDungeon.sad
+\Data\Effects/designation_YatikanuVillage.sad
+\Data\Effects/dust_skill_Aridne04.sad
+\Data\Effects/Fx_Detonation_effect.sad
+\Data\Effects/Fx_wood_fairy_Aura.sad
+\Data\Effects/hit_lightningFang.sad
+\Data\Effects/mousetrap2.sad
+\Data\Effects/red.sad
+\Data\Effects/shoot_Big_laser.sad
+\Data\Effects/shoot_Big_laser_end.sad
+\Data\Effects/skill_Aridne02.sad
+\Data\Effects/skill_Aridne03_1.sad
+\Data\Effects/skill_Aridne03_2.sad
+\Data\Effects/skill_Aridne03_3.sad
+\Data\Effects/skill_Aridne03_4.sad
+\Data\Effects/skill_Aridne04.sad
+\Data\Effects/skill_explosion_trap2.sad
+\Data\Effects/skill_Shaman01.sad
+\Data\Effects/skill_Shaman02_1.sad
+\Data\Effects/skill_Shaman02_2.sad
+\Data\Effects/skill_Shockwave.sad
+\Data\Effects/skill_ShootThorne.sad
+\Data\Effects/skill_ThunderBall.sad
+\Data\Effects/skill_ThunderRoar.sad
+\Data\Heros/Rogue01.sad
+\Data\Heros/Rogue03.sad
+\Data\Interface\game/designation_icon.sd
+\Data\Interface\game/emoticon000.sad
+\Data\Interface\game/generalEvent_halloween.sd
+\Data\Interface\game/generalEvent_jp.sd
+\Data\Interface\game/generalEvent_kor.sd
+\Data\Interface\game/generalEvent_usa.sd
+\Data\Interface\game/halloween_name_bar.sd
+\Data\Interface\game/interface2.sd
+\Data\Interface\game/name_bar_halloween.sd
+\Data\Interface\game/PK.sad
+\Data\Mapset\Yatikanu Forest/crash_info.txt
+\Data\Mapset\Yatikanu Forest/tile.mpr
+\Data\Mapset\Yatikanu Forest/tile.mpw
+\Data\Mapset\Yatikanu Forest\Buildings/sn__building_0000.rbd
+\Data\Mapset\Yatikanu Forest\Buildings/sn__building_0001.rbd
+\Data\Mapset\Yatikanu Forest\Buildings/sn__building_0002.rbd
+\Data\Mapset\Yatikanu Forest\Buildings/sn__object_0000.rbd
+\Data\Mapset\Yatikanu Forest\Buildings/sn__object_0001.rbd
+\Data\Mapset\Yatikanu Forest\Buildings/sn__object_0002.rbd
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0000.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0000.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0001.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0001.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0002.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0002.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0003.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0003.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0004.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0004.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0005.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0005.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0006.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0006.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0007.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0007.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0008.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0008.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0009.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0009.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0010.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0010.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0011.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0011.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0012.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0012.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0013.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0013.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0014.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0014.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0015.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0015.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0016.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0016.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0017.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0017.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0018.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0018.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0019.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0019.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0020.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0020.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0021.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0021.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0022.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0022.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0023.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0023.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0024.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0024.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0025.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0025.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0026.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0026.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0027.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0027.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0028.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0028.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0029.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0029.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0030.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0030.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0031.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0031.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0032.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0032.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0033.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0033.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0034.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0034.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0035.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0035.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0036.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0036.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0037.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0037.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0038.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0038.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0039.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0039.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0040.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0040.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0041.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0041.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0042.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0042.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0043.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0043.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0044.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0044.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0045.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0045.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0046.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0046.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0047.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0047.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0048.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0048.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0049.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0049.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0050.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0050.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0051.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0051.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0052.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0052.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0053.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0053.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0054.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0054.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0055.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0055.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0056.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0056.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0057.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0057.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0058.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0058.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0059.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0059.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0060.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0060.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0061.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0061.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0062.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0062.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0063.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0063.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0064.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0064.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0065.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0065.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0066.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0066.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0067.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0067.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0068.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0068.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0069.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0069.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0070.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0070.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0071.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0071.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0072.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0072.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0073.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0073.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0074.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0074.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0075.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0075.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0076.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0076.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0077.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0077.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0078.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0078.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0079.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0079.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0080.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0080.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0081.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0081.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0082.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0082.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0083.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0083.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0084.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0084.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0085.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0085.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0086.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0086.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0087.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0087.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0088.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0088.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0089.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0089.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0090.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0090.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0091.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0091.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0092.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0092.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0093.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0093.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0094.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0094.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0095.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0095.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0096.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0096.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0097.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0097.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0098.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0098.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0099.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0099.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0100.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0100.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0101.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0101.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0102.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0102.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0103.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0103.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0104.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0104.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0105.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0105.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0106.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0106.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0107.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0107.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0108.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0108.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0109.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0109.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0110.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0110.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0111.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0111.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0112.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0112.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0113.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0113.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0114.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0114.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0115.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0115.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0116.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0116.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0117.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0117.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0118.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0118.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0119.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0119.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0120.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0120.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0121.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0121.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0122.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0122.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0123.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0123.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0124.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0124.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0125.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0125.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0126.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0126.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0127.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0127.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0128.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0128.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0129.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0129.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0130.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0130.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0131.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0131.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0132.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0132.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0133.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0133.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0134.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0134.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0135.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0135.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0136.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0136.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0137.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0137.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0138.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0138.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0139.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0139.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0140.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0140.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0141.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0141.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0142.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0142.rso
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0143.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0144.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0145.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0146.rfo
+\Data\Mapset\Yatikanu Forest\Objects/sn__object_0147.rfo
+\Data\Misc/iconItem.smi
+\Data\Misc/iconSkill.smi
+\Data\monsters/Aridne.plt
+\Data\monsters/Aridne.sad
+\Data\monsters/Aridne_baby.plt
+\Data\monsters/Aridne_baby.sad
+\Data\monsters/Aridne_baby_01.plt
+\Data\monsters/Aridne_baby_01.sad
+\Data\monsters/Jaguar_01.plt
+\Data\monsters/Jaguar_01.sad
+\Data\monsters/Jaguar_02.plt
+\Data\monsters/Jaguar_02.sad
+\Data\monsters/Jaguar_03.plt
+\Data\monsters/Jaguar_03.sad
+\Data\monsters/Smilodon01.plt
+\Data\monsters/Smilodon01.sad
+\Data\monsters/Smilodon02.plt
+\Data\monsters/Smilodon02.sad
+\Data\monsters/ThunderTiger.plt
+\Data\monsters/ThunderTiger.sad
+\Data\monsters/Woods_Guardian_01.plt
+\Data\monsters/Woods_Guardian_01.sad
+\Data\monsters/Woods_Guardian_02.plt
+\Data\monsters/Woods_Guardian_02.sad
+\Data\monsters/Woods_Guardian_03.plt
+\Data\monsters/Woods_Guardian_03.sad
+\Data\monsters/wood_Fairy01.sad
+\Data\monsters/wood_Fairy02.sad
+\Data\NPC/NPC_Haze.plt
+\Data\NPC/NPC_Haze.sad
+\Data\NPC/NPC_Hidenell.plt
+\Data\NPC/NPC_Hidenell.sad
+\Data\NPC/NPC_Kaylyn.plt
+\Data\NPC/NPC_Kaylyn.sad
+\Data\NPC/NPC_Leyan.plt
+\Data\NPC/NPC_Leyan.sad
+\Data\Scenario/Red Stone.rpd
+\Data\Scenario\Red Stone/item.dat
+\Data\Scenario\Red Stone/job2.dat
+\Data\Scenario\Red Stone\Map/GH2_00.rmd
+\Data\Scenario\Red Stone\Map/GH3_00.rmd
+\Data\Scenario\Red Stone\Map/GH4_00.rmd
+\Data\Scenario\Red Stone\Map/GH5_00.rmd
+\Data\Scenario\Red Stone\Map/[000]T01.rmd
+\Data\Scenario\Red Stone\Map/[010]G13.rmd
+\Data\Scenario\Red Stone\Map/[028]Prison.rmd
+\Data\Scenario\Red Stone\Map/[071]T03.rmd
+\Data\Scenario\Red Stone\Map/[074]T04.rmd
+\Data\Scenario\Red Stone\Map/[1007]YatikanuForest_1.rmd
+\Data\Scenario\Red Stone\Map/[1007]YatikanuForest_1.rmd.tga
+\Data\Scenario\Red Stone\Map/[1008]YatikanuForest_2.rmd
+\Data\Scenario\Red Stone\Map/[1008]YatikanuForest_2.rmd.tga
+\Data\Scenario\Red Stone\Map/[1009]YatikanuForest_3.rmd
+\Data\Scenario\Red Stone\Map/[1009]YatikanuForest_3.rmd.tga
+\Data\Scenario\Red Stone\Map/[1010]GallerionCamp.rmd
+\Data\Scenario\Red Stone\Map/[1010]GallerionCamp.rmd.tga
+\Data\Scenario\Red Stone\Map/[1010]T21.rmd
+\Data\Scenario\Red Stone\Map/[1010]T21.rmd.tga
+\Data\Scenario\Red Stone\Map/[1011]YatikanuRaid01.rmd
+\Data\Scenario\Red Stone\Map/[1012]YatikanuRaid02.rmd
+\Data\Scenario\Red Stone\Map/[1013]SYatikanuRaid02.rmd
+\Data\Scenario\Red Stone\Map/[193]T08.rmd
+\Data\Scenario\Red Stone\Map/[214]T11.rmd
+\Data\Scenario\Red Stone\Map/[252]T11_V01.rmd
+\Data\Scenario\Red Stone\Map/[279]M05.rmd
+\Data\Scenario\Red Stone\Map/[340]T16.rmd
+\Data\Scenario\Red Stone\Map/[373]T02.rmd
+\Data\Scenario\Red Stone\Map/[376]T07.rmd
+\Data\Scenario\Red Stone\Map/[434]S13.rmd
+\Data\Scenario\Red Stone\Map/[451]T13.rmd
+\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd
+\Data\Scenario\Red Stone\Map/[544] T01_I01_B01.rmd
+\Data\Scenario\Red Stone\Map/[544] T01_I01_B01.rmd.tga
+\Data\Scenario\Red Stone\Map/[782]H02.rmd
+\Data\Scenario\Red Stone\Map/[826]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[878]PlainOfDivineAnimals.rmd
+\Data\Scenario\Red Stone\Map/[880]ForestOfLife_OutSkirts.rmd
+\Data\Scenario\Red Stone\Map/[942]GH_LV01.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Atina_byroad]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Atina_byroad]000.rmd.tga
+\Data\Scenario\Red Stone\Map\expansion/[damel]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[demon_king]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[destory_ruins]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_01]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_01]000.rmd.tga
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_02]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_02]000.rmd.tga
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_03]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_03]000.rmd.tga
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_04]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_04]000.rmd.tga
+\Data\Scenario\Red Stone\Map\expansion/[Gregory]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Yatikanu]000.rmd
+\Data\Sound\effect/O.wav
+\Data\Sound\effect/X.wav
+\Data\UI/DimensionHub.dat
+\Data\UI/DimensionHub_Progress.dat
+\Data\UI/FieldEvolution.dat
+\Data\UI/GeneralBoardEventUI.dat

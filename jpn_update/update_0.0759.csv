@@ -1,0 +1,287 @@
+\Data/capa.dat
+\Data/carving.dat
+\Data/checkObjectData.dat
+\Data/ContentsOpen.dat
+\Data/costume.dat
+\Data/creatureInfo.dat
+\Data/defaultJob.dat
+\Data/effect_data.dat
+\Data/emoticon.dat
+\Data/fieldInfo.dat
+\Data/guideSystemLevelQuest.dat
+\Data/logToolText.dat
+\Data/mapList.dat
+\Data/mapLocationInfo.dat
+\Data/NewLotteryItemGrade.dat
+\Data/objectCrashMap.dat
+\Data/questEX_Data.dat
+\Data/questPlayerEffect_Data.dat
+\Data/simpleDataPack.dat
+\Data/skill.dat
+\Data/skill_rdf.dat
+\Data/textData.dat
+\Data/title.dat
+\Data/toolText.dat
+\Data/type01.gsd
+\Data/type02.gsd
+\Data/type03.gsd
+\Data/type04.gsd
+\Data/type12.gsd
+\Data/wm_dungeon.dat
+\Data/wm_field.dat
+\Data\cosbody/BeastTamer_Cos_StarRevelator.sad
+\Data\cosbody/Maid_Cos_StarRevelator.sad
+\Data\cosbody/Maid_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Summoner_Cos_StarRevelator.sad
+\Data\creaturebody/224_Altina.sad
+\Data\creaturebody/225_Alisa.sad
+\Data\creaturebody/225_Laura.sad
+\Data\creaturebody/226_Lean.sad
+\Data\creaturebody/227_Crow.sad
+\Data\creaturebody/240_Larien.sad
+\Data\creaturebody/241_SuperStarLarien.sad
+\Data\creaturebody/242_Choucream.sad
+\Data\creaturebody/243_SuperStarChoucream.sad
+\Data\creaturebody/244_Ceris.sad
+\Data\creaturebody/245_SuperStarCeris.sad
+\Data\creaturebody/246_Dexter.sad
+\Data\creaturebody/247_SuperStarDexter.sad
+\Data\creaturebody/248_IceAngle.sad
+\Data\Effects/charge_yelling.sad
+\Data\Effects/explosion_holy_protecting.sad
+\Data\Effects/Fx_03_front_Star.sad
+\Data\Effects/FX_Ballack_swing.sad
+\Data\Effects/Fx_black_explosion.sad
+\Data\Effects/Fx_black_star_02.sad
+\Data\Effects/Fx_burn_black_wave_00.sad
+\Data\Effects/fx_explosion_illusion.sad
+\Data\Effects/Fx_flame_disc.sad
+\Data\Effects/Fx_magic_circle.sad
+\Data\Effects/Fx_mirage_00.sad
+\Data\Effects/Fx_pet_clowns_whaler_00.sad
+\Data\Effects/Fx_pet_phantomarrow_missile_00.sad
+\Data\Effects/Fx_Quest01.sad
+\Data\Effects/Fx_shaft_spray_00.sad
+\Data\Effects/Fx_stigma_rework.sad
+\Data\Effects/hit_inferno_bite.sad
+\Data\Effects/new_explosion_gliding_fire.sad
+\Data\Effects/Redgem03.sad
+\Data\Effects/Redgem03_1.sad
+\Data\Effects/shoot_dark_beam.sad
+\Data\Effects/Spring_Event_grow_Effects.sad
+\Data\Effects/Track_Ishmelga_NEW_FX.sad
+\Data\event/bme_Zephyr.dat
+\Data\event/FX_Zephyr_Intro_08.sad
+\Data\event/Zephyr_Intro.sad
+\Data\Interface\game/bringUpCharacter005.sad
+\Data\Interface\game/bringUpCharacter006.sad
+\Data\Interface\game/bringUpCharacter007.sad
+\Data\Interface\game/bringUpCharacter008.sad
+\Data\Interface\game/creature_c.sd
+\Data\Interface\game/creature_p.sd
+\Data\Interface\game/designation_icon.sd
+\Data\Interface\game/emoticon000.sad
+\Data\Interface\game/emoticon001.sad
+\Data\Interface\game/generalEvent_jp.sd
+\Data\Interface\game/generalEvent_kor.sd
+\Data\Interface\game/interface2.sd
+\Data\Interface\game/magic_carpet14.sad
+\Data\Interface\game/Spring_Event_grow_Effects.sad
+\Data\Mapset\Dungeon\Objects/sn__object_0138.rfo
+\Data\Mapset\Dungeon\Objects/sn__object_0139.rfo
+\Data\Mapset\Dungeon\Objects/sn__object_0140.rfo
+\Data\Mapset\Dungeon\Objects/sn__object_0141.rfo
+\Data\Mapset\Dungeon\Objects/sn__object_0142.rfo
+\Data\Mapset\Dungeon\Objects/sn__object_0143.rfo
+\Data\Mapset\Dungeon\Objects/sn__object_0144.rfo
+\Data\Mapset\Dungeon\Objects/sn__object_0145.rfo
+\Data\Mapset\Dungeon\Objects/sn__object_0274.rso
+\Data\Mapset\Dungeon\Objects/sn__object_0275.rso
+\Data\Mapset\Dungeon\Objects/sn__object_0276.rso
+\Data\Mapset\Dungeon\Objects/sn__object_0277.rso
+\Data\Mapset\Dungeon\Objects/sn__object_0278.rso
+\Data\Mapset\Dungeon\Objects/sn__object_0279.rso
+\Data\Mapset\Grassland\Objects/sn__object_0108.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0109.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0110.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0111.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0112.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0113.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0114.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0115.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0116.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0117.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0118.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0119.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0120.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0121.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0122.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0123.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0124.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0125.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0126.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0127.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0128.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0129.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0130.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0131.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0132.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0133.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0134.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0135.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0136.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0137.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0138.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0139.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0140.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0141.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0142.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0143.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0144.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0145.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0146.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0147.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0148.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0149.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0150.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0151.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0152.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0153.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0154.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0155.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0156.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0157.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0158.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0159.rfo
+\Data\Mapset\Grassland\Objects/sn__object_0249.rso
+\Data\Mapset\Grassland\Objects/sn__object_0250.rso
+\Data\Mapset\Room\Objects/sn__object_0431.rfo
+\Data\Mapset\Room\Objects/sn__object_0432.rfo
+\Data\Mapset\Room\Objects/sn__object_0433.rfo
+\Data\Mapset\Room\Objects/sn__object_0434.rfo
+\Data\Mapset\Room\Objects/sn__object_0435.rfo
+\Data\Mapset\Room\Objects/sn__object_0436.rfo
+\Data\Mapset\Room\Objects/sn__object_0437.rfo
+\Data\Mapset\Room\Objects/sn__object_0438.rfo
+\Data\Mapset\Room\Objects/sn__object_0439.rfo
+\Data\Mapset\Room\Objects/sn__object_0440.rfo
+\Data\Mapset\Room\Objects/sn__object_0463.rso
+\Data\Mapset\Room\Objects/sn__object_0464.rso
+\Data\Mapset\Room\Objects/sn__object_0465.rso
+\Data\Mapset\Room\Objects/sn__object_0466.rso
+\Data\MiniPet/Abyss.sad
+\Data\MiniPet/Auri.sad
+\Data\MiniPet/Bauri.sad
+\Data\MiniPet/Catoblepas.sad
+\Data\MiniPet/Daeji.sad
+\Data\MiniPet/Dauri.sad
+\Data\MiniPet/Gouri.sad
+\Data\MiniPet/Harphy.sad
+\Data\MiniPet/Heomu.sad
+\Data\MiniPet/HongSu.sad
+\Data\MiniPet/HukAm.sad
+\Data\MiniPet/Illusion.sad
+\Data\MiniPet/Jaoring.sad
+\Data\MiniPet/JinGwang.sad
+\Data\MiniPet/Kerberos.sad
+\Data\MiniPet/Mu.sad
+\Data\MiniPet/Muuri.sad
+\Data\MiniPet/Nuuri.sad
+\Data\MiniPet/Pauri.sad
+\Data\MiniPet/phantom.sad
+\Data\MiniPet/PokHwa.sad
+\Data\MiniPet/Seiren.sad
+\Data\MiniPet/SpiritOfFantasy.sad
+\Data\MiniPet/TaiPoon.sad
+\Data\Misc/creature.smi
+\Data\Misc/iconItem.smi
+\Data\Misc/iconSkill.smi
+\Data\monsters/Ballack_1.plt
+\Data\monsters/Ballack_1.sad
+\Data\monsters/Darline_Undead.sad
+\Data\monsters/NPC_Poun_210209.plt
+\Data\monsters/NPC_Poun_210209.sad
+\Data\monsters/Track_Ishmelga.sad
+\Data\NPC/NPC_Poun_210209.plt
+\Data\NPC/NPC_Poun_210209.sad
+\Data\Scenario/Red Stone.rpd
+\Data\Scenario\Red Stone/item.dat
+\Data\Scenario\Red Stone/job2.dat
+\Data\Scenario\Red Stone\Map/[000]T01.rmd
+\Data\Scenario\Red Stone\Map/[010]G13.rmd
+\Data\Scenario\Red Stone\Map/[028]Prison.rmd
+\Data\Scenario\Red Stone\Map/[1007]YatikanuForest_1.rmd
+\Data\Scenario\Red Stone\Map/[1008]YatikanuForest_2.rmd
+\Data\Scenario\Red Stone\Map/[1009]YatikanuForest_3.rmd
+\Data\Scenario\Red Stone\Map/[1010]T21.rmd
+\Data\Scenario\Red Stone\Map/[1014]D12.rmd
+\Data\Scenario\Red Stone\Map/[1015]CoolCave.rmd
+\Data\Scenario\Red Stone\Map/[1015]CoolCave.rmd.tga
+\Data\Scenario\Red Stone\Map/[1016]LonelyIsland.rmd
+\Data\Scenario\Red Stone\Map/[1016]LonelyIsland.rmd.tga
+\Data\Scenario\Red Stone\Map/[221]M10_S01_B11.rmd
+\Data\Scenario\Red Stone\Map/[293]M05_D01_B02.rmd
+\Data\Scenario\Red Stone\Map/[300]G28.rmd
+\Data\Scenario\Red Stone\Map/[369]S04.rmd
+\Data\Scenario\Red Stone\Map/[373]T02.rmd
+\Data\Scenario\Red Stone\Map/[397]T02_I01.rmd
+\Data\Scenario\Red Stone\Map/[414]G20_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[429]T02_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[430]T05_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[434]S13.rmd
+\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd
+\Data\Scenario\Red Stone\Map/[506]BF_U01.rmd
+\Data\Scenario\Red Stone\Map/[544] T01_I01_B01.rmd
+\Data\Scenario\Red Stone\Map/[737]BF_U03.rmd
+\Data\Scenario\Red Stone\Map/[738]BF_U04.rmd
+\Data\Scenario\Red Stone\Map/[739]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[741]BF_U06.rmd
+\Data\Scenario\Red Stone\Map/[742]BF_U07.rmd
+\Data\Scenario\Red Stone\Map/[743]R02.rmd
+\Data\Scenario\Red Stone\Map/[744]R03.rmd
+\Data\Scenario\Red Stone\Map/[745]R01.rmd
+\Data\Scenario\Red Stone\Map/[749]BF_U03.rmd
+\Data\Scenario\Red Stone\Map/[750]BF_U03.rmd
+\Data\Scenario\Red Stone\Map/[751]BF_U03.rmd
+\Data\Scenario\Red Stone\Map/[752]BF_U03.rmd
+\Data\Scenario\Red Stone\Map/[753]BF_U03.rmd
+\Data\Scenario\Red Stone\Map/[779]BF_C01.rmd
+\Data\Scenario\Red Stone\Map/[782]H02.rmd
+\Data\Scenario\Red Stone\Map/[802]BF_U06.rmd
+\Data\Scenario\Red Stone\Map/[803]BF_U06.rmd
+\Data\Scenario\Red Stone\Map/[804]BF_U07.rmd
+\Data\Scenario\Red Stone\Map/[805]BF_U07.rmd
+\Data\Scenario\Red Stone\Map/[829]D01_02.rmd
+\Data\Scenario\Red Stone\Map/[848]D01_02.rmd
+\Data\Scenario\Red Stone\Map/[849]D01_02.rmd
+\Data\Scenario\Red Stone\Map/[850]D01_02.rmd
+\Data\Scenario\Red Stone\Map/[851]D01_02.rmd
+\Data\Scenario\Red Stone\Map/[852]D01_02.rmd
+\Data\Scenario\Red Stone\Map/[873]T10.rmd
+\Data\Scenario\Red Stone\Map/[876]D10.rmd
+\Data\Scenario\Red Stone\Map/[877]D11.rmd
+\Data\Scenario\Red Stone\Map/[886]G03.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss1]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss2]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss3]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss3_Scenario]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[confession]002.rmd
+\Data\Scenario\Red Stone\Map\expansion/[demon_king]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_01]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_02]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_03]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_04]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[nest_of_thief]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[out_of_control]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[sacrifice_altar]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Silent_lake]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Tartars_Tomb]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Yatikanu]000.rmd
+\Data\UI/ComposeCostume.dat
+\Data\UI/Costume_Color.dat
+\Data\UI/Costume_Color_Hidden.dat
+\Data\UI/DimensionHub.dat
+\Data\UI/DimensionHub_Progress.dat
+\Data\UI/FieldEvolution.dat
+\Data\UI/GeneralBoardEventUI.dat
+\Data\UI/ReinforceCostume.dat

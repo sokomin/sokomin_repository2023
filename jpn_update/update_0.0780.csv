@@ -1,0 +1,132 @@
+\Data/capa.dat
+\Data/carving.dat
+\Data/chaosGround.dat
+\Data/ContentsOpen.dat
+\Data/costume.dat
+\Data/creatureInfo.dat
+\Data/defaultJob.dat
+\Data/effect_data.dat
+\Data/itemEX_Data.dat
+\Data/itemGroup.dat
+\Data/logToolText.dat
+\Data/neponEx.dat
+\Data/rb.dat
+\Data/RTHelp.dat
+\Data/simpleDataPack.dat
+\Data/skill.dat
+\Data/textData.dat
+\Data/toolText.dat
+\Data\cosbody/Captain_cos02_swim.plt
+\Data\cosbody/Captain_cos02_swim.sad
+\Data\cosbody/Captain_Cos15_Techwear.sad
+\Data\cosbody/Princess_Cos15_Techwear.sad
+\Data\cosbody/Princess_Cos15_Techwear_skin_eff.sad
+\Data\cosequipment/Captain_cos02_Head_weapon.plt
+\Data\cosequipment/Captain_cos02_Head_weapon.sad
+\Data\cosequipment/Captain_cos02_weapon.plt
+\Data\cosequipment/Captain_cos02_weapon.sad
+\Data\cosequipment/Captain_Cos15_Techwear_wp_eff2.sad
+\Data\cosequipment/Princess_Cos15_Techwear_wp_eff.sad
+\Data\creaturebody/262_Siteulillon.plt
+\Data\creaturebody/262_Siteulillon.sad
+\Data\creaturebody/263_Atipikal.plt
+\Data\creaturebody/263_Atipikal.sad
+\Data\creaturebody/264_Bluff_Fairy.plt
+\Data\creaturebody/264_Bluff_Fairy.sad
+\Data\creaturebody/NEW_Pet_Evening_Bella.plt
+\Data\creaturebody/NEW_Pet_Evening_Bella.sad
+\Data\Effects/Fx_Captain_AnchorMark.sad
+\Data\Effects/Fx_Captain_AnchorTornado.sad
+\Data\Effects/Fx_Captain_AnchorTornado_2.sad
+\Data\Effects/Fx_Captain_FractureMark.sad
+\Data\Effects/Fx_Captain_GreatDisenbarking.sad
+\Data\Effects/Fx_Captain_HardAnchorage.sad
+\Data\Effects/Fx_Captain_hit_WaterDamage.sad
+\Data\Effects/FX_Captain_StrongDrinker.sad
+\Data\Interface\game/creature_c.sd
+\Data\Interface\game/creature_p.sd
+\Data\Interface\game/drop_item_effect_red.sad
+\Data\Interface\game/interface2.sd
+\Data\Interface\game/magic_carpet25.sad
+\Data\Interface\game/personal_shop_07.sd
+\Data\Interface\game/Treasure_Box_drop.sad
+\Data\Interface\game/Treasure_Box_open.sad
+\Data\Interface\Heros/Captain.sad
+\Data\Misc/creature.smi
+\Data\Misc/iconItem.smi
+\Data\Misc/iconSkill.smi
+\Data\monsters/Caterpollar_Rebito.sad
+\Data\Scenario/Red Stone.rpd
+\Data\Scenario\Red Stone/item.dat
+\Data\Scenario\Red Stone/job2.dat
+\Data\Scenario\Red Stone\Map/GH2_00.rmd
+\Data\Scenario\Red Stone\Map/GH4_00.rmd
+\Data\Scenario\Red Stone\Map/[000]T01.rmd
+\Data\Scenario\Red Stone\Map/[028]Prison.rmd
+\Data\Scenario\Red Stone\Map/[036]T06.rmd
+\Data\Scenario\Red Stone\Map/[074]T04.rmd
+\Data\Scenario\Red Stone\Map/[1010]T21.rmd
+\Data\Scenario\Red Stone\Map/[214]T11.rmd
+\Data\Scenario\Red Stone\Map/[252]T11_V01.rmd
+\Data\Scenario\Red Stone\Map/[281]M24.rmd
+\Data\Scenario\Red Stone\Map/[300]G28.rmd
+\Data\Scenario\Red Stone\Map/[340]T16.rmd
+\Data\Scenario\Red Stone\Map/[347]T14.rmd
+\Data\Scenario\Red Stone\Map/[375]T05.rmd
+\Data\Scenario\Red Stone\Map/[376]T07.rmd
+\Data\Scenario\Red Stone\Map/[386]H01.rmd
+\Data\Scenario\Red Stone\Map/[433]chobozone.rmd
+\Data\Scenario\Red Stone\Map/[434]S13.rmd
+\Data\Scenario\Red Stone\Map/[451]T13.rmd
+\Data\Scenario\Red Stone\Map/[476]Hell.rmd
+\Data\Scenario\Red Stone\Map/[480]T19.rmd
+\Data\Scenario\Red Stone\Map/[491]M09_H01_F01.rmd
+\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd
+\Data\Scenario\Red Stone\Map/[506]BF_U01.rmd
+\Data\Scenario\Red Stone\Map/[507]BF_C01.rmd
+\Data\Scenario\Red Stone\Map/[639]M24.rmd
+\Data\Scenario\Red Stone\Map/[640]M24.rmd
+\Data\Scenario\Red Stone\Map/[683]S15.rmd
+\Data\Scenario\Red Stone\Map/[684]S15.rmd
+\Data\Scenario\Red Stone\Map/[734]G21_G04_F01.rmd
+\Data\Scenario\Red Stone\Map/[781]H01.rmd
+\Data\Scenario\Red Stone\Map/[782]H02.rmd
+\Data\Scenario\Red Stone\Map/[783]L01.rmd
+\Data\Scenario\Red Stone\Map/[784]EST.rmd
+\Data\Scenario\Red Stone\Map/[785]Ro8.rmd
+\Data\Scenario\Red Stone\Map/[786]KE7.rmd
+\Data\Scenario\Red Stone\Map/[789]RE01.rmd
+\Data\Scenario\Red Stone\Map/[793]Fear.rmd
+\Data\Scenario\Red Stone\Map/[810]H01.rmd
+\Data\Scenario\Red Stone\Map/[811]H01.rmd
+\Data\Scenario\Red Stone\Map/[812]H02.rmd
+\Data\Scenario\Red Stone\Map/[813]H02.rmd
+\Data\Scenario\Red Stone\Map/[837]S13.rmd
+\Data\Scenario\Red Stone\Map/[838]S13.rmd
+\Data\Scenario\Red Stone\Map\expansion/[chaos_10]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[nest_of_ifrit]000.rmd
+\Data\UI/ComposeCostume.dat
+\Data\UI/Costume_Color.dat
+\Data\UI/Costume_Color_Hidden.dat
+\Data\UI/Craft.dat
+\Data\UI/DimensionHub.dat
+\Data\UI/DimensionHub_Progress.dat
+\Data\UI/eliteSubjugation.dat
+\Data\UI/FieldEvolution.dat
+\Data\UI/GeneralBoardEventUI.dat
+\Data\UI/General_ItemList_MidSize.dat
+\Data\UI/JumgpingGuideUI_2.dat
+\Data\UI/JumpingGuideUI_1.dat
+\Data\UI/JumpingGuideUI_2.dat
+\Data\UI/JumpingGuideUI_3.dat
+\Data\UI/MiniGameEventUI.dat
+\Data\UI/neponCreatureAdventure.dat
+\Data\UI/ReinforceCostume.dat
+\Data\UI/ReinforceRelicPrefix.dat
+\Data\UI/ReinforceRingPrefix.dat
+\Data\UI/RelicUpgrade.dat
+\Data\UI/RestructureRingPrefix.dat
+\Data\UI/SeasonPass.dat
+\Data\UI/seasonpass_1.dat
+\Data\UI/SeasonPass_2.dat
+\Data\UI/UltBottomlessBox.dat

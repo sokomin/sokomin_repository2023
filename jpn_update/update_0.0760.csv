@@ -1,0 +1,391 @@
+\Data/capa.dat
+\Data/carving.dat
+\Data/creatureInfo.dat
+\Data/defaultJob.dat
+\Data/fieldInfo.dat
+\Data/guideSystemLevelQuest.dat
+\Data/JournalData.dat
+\Data/JournalKindData.dat
+\Data/logToolText.dat
+\Data/mapList.dat
+\Data/mapLocationInfo.dat
+\Data/neponEx.dat
+\Data/NewLotteryItemGrade.dat
+\Data/rid.dat
+\Data/skill.dat
+\Data/textData.dat
+\Data/toolText.dat
+\Data/type01.gsd
+\Data/type02.gsd
+\Data/type03.gsd
+\Data/type04.gsd
+\Data/type12.gsd
+\Data/wm_dungeon.dat
+\Data/wm_field.dat
+\Data\creaturebody/249~252_Pegasus.plt
+\Data\creaturebody/249~252_Pegasus.sad
+\Data\creaturebody/253_Serius.plt
+\Data\creaturebody/253_Serius.sad
+\Data\creaturebody/254_Hydragon.plt
+\Data\creaturebody/254_Hydragon.sad
+\Data\creaturebody/255_harpiea.plt
+\Data\creaturebody/255_Harpiea.sad
+\Data\creaturebody/256_Cretion.plt
+\Data\creaturebody/256_Cretion.sad
+\Data\Heros/summon_beast_04_02.sad
+\Data\Interface\game/creature_c.sd
+\Data\Interface\game/creature_p.sd
+\Data\Interface\game/generalEvent_jp.sd
+\Data\Interface\game/interface2.sd
+\Data\Interface\game/magic_carpet14.sad
+\Data\Interface\game/name_bar_GoldenLabito.sd
+\Data\Mapset\Dungeon\Objects/sn__object_0274.rso
+\Data\Misc/creature.smi
+\Data\Misc/iconItem.smi
+\Data\monsters/Transring_Darline.plt
+\Data\monsters/Transring_Darline.sad
+\Data\monsters/Transring_Deline.plt
+\Data\monsters/Transring_Deline.sad
+\Data\NPC/Transring_Darline.plt
+\Data\NPC/Transring_Darline.sad
+\Data\NPC/Transring_Deline.plt
+\Data\NPC/Transring_Deline.sad
+\Data\Scenario/Red Stone.rpd
+\Data\Scenario\Red Stone/item.dat
+\Data\Scenario\Red Stone/job2.dat
+\Data\Scenario\Red Stone\Map/[000]T01.rmd
+\Data\Scenario\Red Stone\Map/[001]G07.rmd
+\Data\Scenario\Red Stone\Map/[016]G16.rmd
+\Data\Scenario\Red Stone\Map/[028]Prison.rmd
+\Data\Scenario\Red Stone\Map/[029]G15.rmd
+\Data\Scenario\Red Stone\Map/[030]M19.rmd
+\Data\Scenario\Red Stone\Map/[031]M12.rmd
+\Data\Scenario\Red Stone\Map/[046]M12_M01_B10.rmd
+\Data\Scenario\Red Stone\Map/[1000]D01.rmd
+\Data\Scenario\Red Stone\Map/[1001]D01.rmd
+\Data\Scenario\Red Stone\Map/[1002]D01.rmd
+\Data\Scenario\Red Stone\Map/[1003]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[1004]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[1005]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[1006]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[1007]YatikanuForest_1.rmd
+\Data\Scenario\Red Stone\Map/[1008]YatikanuForest_2.rmd
+\Data\Scenario\Red Stone\Map/[1009]YatikanuForest_3.rmd
+\Data\Scenario\Red Stone\Map/[1014]D12.rmd
+\Data\Scenario\Red Stone\Map/[1017]Hidden_layers_D01_02.rmd
+\Data\Scenario\Red Stone\Map/[1018]Hidden_layers_D01_03.rmd
+\Data\Scenario\Red Stone\Map/[126]G30_H01_B03.rmd
+\Data\Scenario\Red Stone\Map/[128]G32.rmd
+\Data\Scenario\Red Stone\Map/[130]G09.rmd
+\Data\Scenario\Red Stone\Map/[131]G10.rmd
+\Data\Scenario\Red Stone\Map/[151]G30_H01_B04.rmd
+\Data\Scenario\Red Stone\Map/[154]D01.rmd
+\Data\Scenario\Red Stone\Map/[156]D06.rmd
+\Data\Scenario\Red Stone\Map/[160]D02_D02_B02.rmd
+\Data\Scenario\Red Stone\Map/[163]D02_D04_B01.rmd
+\Data\Scenario\Red Stone\Map/[165]D02_D05_B01.rmd
+\Data\Scenario\Red Stone\Map/[167]D02_D06_B01.rmd
+\Data\Scenario\Red Stone\Map/[169]D05.rmd
+\Data\Scenario\Red Stone\Map/[209]M12_M02_B1.rmd
+\Data\Scenario\Red Stone\Map/[210]M12_M02_B2.rmd
+\Data\Scenario\Red Stone\Map/[214]T11.rmd
+\Data\Scenario\Red Stone\Map/[221]M10_S01_B11.rmd
+\Data\Scenario\Red Stone\Map/[242]M10_S01_F11.rmd
+\Data\Scenario\Red Stone\Map/[254]T11_P01.rmd
+\Data\Scenario\Red Stone\Map/[259]M11.rmd
+\Data\Scenario\Red Stone\Map/[270]P01_H02_B01.rmd
+\Data\Scenario\Red Stone\Map/[273]P01_H03_F01.rmd
+\Data\Scenario\Red Stone\Map/[280]D17.rmd
+\Data\Scenario\Red Stone\Map/[281]M24.rmd
+\Data\Scenario\Red Stone\Map/[286]M05_C03_B01.rmd
+\Data\Scenario\Red Stone\Map/[294]M05_D01_B03.rmd
+\Data\Scenario\Red Stone\Map/[295]M81.rmd
+\Data\Scenario\Red Stone\Map/[299]D17_C01_B04.rmd
+\Data\Scenario\Red Stone\Map/[328]D11_S01_B04.rmd
+\Data\Scenario\Red Stone\Map/[329]D08_C01_B01.rmd
+\Data\Scenario\Red Stone\Map/[330]D08_C01_B02.rmd
+\Data\Scenario\Red Stone\Map/[336]G06_H02_B01.rmd
+\Data\Scenario\Red Stone\Map/[337]G06_H03_F01.rmd
+\Data\Scenario\Red Stone\Map/[341]M01.rmd
+\Data\Scenario\Red Stone\Map/[344]M01_D01_B02.rmd
+\Data\Scenario\Red Stone\Map/[345]M01_D01_B03.rmd
+\Data\Scenario\Red Stone\Map/[346]M01_D01_B04.rmd
+\Data\Scenario\Red Stone\Map/[355]M01_D01_B05.rmd
+\Data\Scenario\Red Stone\Map/[356]M01_D01_B06.rmd
+\Data\Scenario\Red Stone\Map/[357]M01_D01_B07.rmd
+\Data\Scenario\Red Stone\Map/[358]G04_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[365]D09.rmd
+\Data\Scenario\Red Stone\Map/[366]G20.rmd
+\Data\Scenario\Red Stone\Map/[369]S04.rmd
+\Data\Scenario\Red Stone\Map/[371]S08.rmd
+\Data\Scenario\Red Stone\Map/[372]S09.rmd
+\Data\Scenario\Red Stone\Map/[383]D09_S01_F04.rmd
+\Data\Scenario\Red Stone\Map/[385]S04_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[405]D07_S01_B01.rmd
+\Data\Scenario\Red Stone\Map/[426]D05_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[429]T02_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[430]T05_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[433]chobozone.rmd
+\Data\Scenario\Red Stone\Map/[436]S14.rmd
+\Data\Scenario\Red Stone\Map/[437]S15.rmd
+\Data\Scenario\Red Stone\Map/[439]S05.rmd
+\Data\Scenario\Red Stone\Map/[444]S22.rmd
+\Data\Scenario\Red Stone\Map/[472]G21_G02_F01.rmd
+\Data\Scenario\Red Stone\Map/[473]G21_G03_F01.rmd
+\Data\Scenario\Red Stone\Map/[474]G21_G04_F01.rmd
+\Data\Scenario\Red Stone\Map/[488]BF_01.rmd
+\Data\Scenario\Red Stone\Map/[494]S24_C02_B02.rmd
+\Data\Scenario\Red Stone\Map/[495]T03_C01_B01.rmd
+\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd
+\Data\Scenario\Red Stone\Map/[506]BF_U01.rmd
+\Data\Scenario\Red Stone\Map/[510]T07_D02_B02.rmd
+\Data\Scenario\Red Stone\Map/[515]D17_H01_B3.rmd
+\Data\Scenario\Red Stone\Map/[519]G28_G01_D03.rmd
+\Data\Scenario\Red Stone\Map/[601]G07.rmd
+\Data\Scenario\Red Stone\Map/[602]G07.rmd
+\Data\Scenario\Red Stone\Map/[603]G16.rmd
+\Data\Scenario\Red Stone\Map/[604]G16.rmd
+\Data\Scenario\Red Stone\Map/[605]G15.rmd
+\Data\Scenario\Red Stone\Map/[606]G15.rmd
+\Data\Scenario\Red Stone\Map/[607]M19.rmd
+\Data\Scenario\Red Stone\Map/[608]M19.rmd
+\Data\Scenario\Red Stone\Map/[609]M12.rmd
+\Data\Scenario\Red Stone\Map/[610]M12.rmd
+\Data\Scenario\Red Stone\Map/[611]G30_H01_B03.rmd
+\Data\Scenario\Red Stone\Map/[612]G30_H01_B03.rmd
+\Data\Scenario\Red Stone\Map/[613]G32.rmd
+\Data\Scenario\Red Stone\Map/[614]G32.rmd
+\Data\Scenario\Red Stone\Map/[615]G09.rmd
+\Data\Scenario\Red Stone\Map/[616]G09.rmd
+\Data\Scenario\Red Stone\Map/[617]G10.rmd
+\Data\Scenario\Red Stone\Map/[618]G10.rmd
+\Data\Scenario\Red Stone\Map/[619]G30_H01_B04.rmd
+\Data\Scenario\Red Stone\Map/[620]G30_H01_B04.rmd
+\Data\Scenario\Red Stone\Map/[621]D01.rmd
+\Data\Scenario\Red Stone\Map/[622]D01.rmd
+\Data\Scenario\Red Stone\Map/[623]D06.rmd
+\Data\Scenario\Red Stone\Map/[624]D06.rmd
+\Data\Scenario\Red Stone\Map/[625]D02_D02_B02.rmd
+\Data\Scenario\Red Stone\Map/[626]D02_D02_B02.rmd
+\Data\Scenario\Red Stone\Map/[627]D02_D06_B01.rmd
+\Data\Scenario\Red Stone\Map/[628]D02_D06_B01.rmd
+\Data\Scenario\Red Stone\Map/[629]D05.rmd
+\Data\Scenario\Red Stone\Map/[630]D05.rmd
+\Data\Scenario\Red Stone\Map/[631]M12_M02_B1.rmd
+\Data\Scenario\Red Stone\Map/[632]M12_M02_B1.rmd
+\Data\Scenario\Red Stone\Map/[633]M12_M02_B2.rmd
+\Data\Scenario\Red Stone\Map/[634]M12_M02_B2.rmd
+\Data\Scenario\Red Stone\Map/[635]M11.rmd
+\Data\Scenario\Red Stone\Map/[636]M11.rmd
+\Data\Scenario\Red Stone\Map/[637]D17.rmd
+\Data\Scenario\Red Stone\Map/[638]D17.rmd
+\Data\Scenario\Red Stone\Map/[639]M24.rmd
+\Data\Scenario\Red Stone\Map/[640]M24.rmd
+\Data\Scenario\Red Stone\Map/[641]M81.rmd
+\Data\Scenario\Red Stone\Map/[642]M81.rmd
+\Data\Scenario\Red Stone\Map/[643]D08_C01_B01.rmd
+\Data\Scenario\Red Stone\Map/[644]D08_C01_B01.rmd
+\Data\Scenario\Red Stone\Map/[645]D08_C01_B02.rmd
+\Data\Scenario\Red Stone\Map/[646]D08_C01_B02.rmd
+\Data\Scenario\Red Stone\Map/[647]G06_H02_B01.rmd
+\Data\Scenario\Red Stone\Map/[648]G06_H02_B01.rmd
+\Data\Scenario\Red Stone\Map/[649]M01.rmd
+\Data\Scenario\Red Stone\Map/[650]M01.rmd
+\Data\Scenario\Red Stone\Map/[651]M01_D01_B02.rmd
+\Data\Scenario\Red Stone\Map/[652]M01_D01_B02.rmd
+\Data\Scenario\Red Stone\Map/[653]M01_D01_B03.rmd
+\Data\Scenario\Red Stone\Map/[654]M01_D01_B03.rmd
+\Data\Scenario\Red Stone\Map/[655]M01_D01_B04.rmd
+\Data\Scenario\Red Stone\Map/[656]M01_D01_B04.rmd
+\Data\Scenario\Red Stone\Map/[657]M01_D01_B05.rmd
+\Data\Scenario\Red Stone\Map/[658]M01_D01_B05.rmd
+\Data\Scenario\Red Stone\Map/[659]M01_D01_B06.rmd
+\Data\Scenario\Red Stone\Map/[660]M01_D01_B06.rmd
+\Data\Scenario\Red Stone\Map/[661]M01_D01_B07.rmd
+\Data\Scenario\Red Stone\Map/[662]M01_D01_B07.rmd
+\Data\Scenario\Red Stone\Map/[663]D09.rmd
+\Data\Scenario\Red Stone\Map/[664]D09.rmd
+\Data\Scenario\Red Stone\Map/[665]G20.rmd
+\Data\Scenario\Red Stone\Map/[666]G20.rmd
+\Data\Scenario\Red Stone\Map/[667]S04.rmd
+\Data\Scenario\Red Stone\Map/[668]S04.rmd
+\Data\Scenario\Red Stone\Map/[669]S08.rmd
+\Data\Scenario\Red Stone\Map/[670]S08.rmd
+\Data\Scenario\Red Stone\Map/[671]S09.rmd
+\Data\Scenario\Red Stone\Map/[672]S09.rmd
+\Data\Scenario\Red Stone\Map/[673]D09_S01_F04.rmd
+\Data\Scenario\Red Stone\Map/[674]D09_S01_F04.rmd
+\Data\Scenario\Red Stone\Map/[675]D07_S01_B01.rmd
+\Data\Scenario\Red Stone\Map/[676]D07_S01_B01.rmd
+\Data\Scenario\Red Stone\Map/[677]D05_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[678]D05_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[679]T05_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[680]T05_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[681]S14.rmd
+\Data\Scenario\Red Stone\Map/[682]S14.rmd
+\Data\Scenario\Red Stone\Map/[683]S15.rmd
+\Data\Scenario\Red Stone\Map/[684]S15.rmd
+\Data\Scenario\Red Stone\Map/[685]S05.rmd
+\Data\Scenario\Red Stone\Map/[686]S05.rmd
+\Data\Scenario\Red Stone\Map/[687]S22.rmd
+\Data\Scenario\Red Stone\Map/[688]S22.rmd
+\Data\Scenario\Red Stone\Map/[689]G21_G03_F01.rmd
+\Data\Scenario\Red Stone\Map/[690]G21_G03_F01.rmd
+\Data\Scenario\Red Stone\Map/[691]BF_01.rmd
+\Data\Scenario\Red Stone\Map/[692]BF_01.rmd
+\Data\Scenario\Red Stone\Map/[693]S24_C02_B02.rmd
+\Data\Scenario\Red Stone\Map/[694]S24_C02_B02.rmd
+\Data\Scenario\Red Stone\Map/[695]T03_C01_B01.rmd
+\Data\Scenario\Red Stone\Map/[696]T03_C01_B01.rmd
+\Data\Scenario\Red Stone\Map/[697]T07_D02_B02.rmd
+\Data\Scenario\Red Stone\Map/[698]T07_D02_B02.rmd
+\Data\Scenario\Red Stone\Map/[699]D17_H01_B3.rmd
+\Data\Scenario\Red Stone\Map/[700]D17_H01_B3.rmd
+\Data\Scenario\Red Stone\Map/[701]G28_G01_D03.rmd
+\Data\Scenario\Red Stone\Map/[702]G28_G01_D03.rmd
+\Data\Scenario\Red Stone\Map/[703]M12_M01_B10.rmd
+\Data\Scenario\Red Stone\Map/[704]M12_M01_B10.rmd
+\Data\Scenario\Red Stone\Map/[705]D02_D04_B01.rmd
+\Data\Scenario\Red Stone\Map/[706]D02_D04_B01.rmd
+\Data\Scenario\Red Stone\Map/[707]D02_D05_B01.rmd
+\Data\Scenario\Red Stone\Map/[708]D02_D05_B01.rmd
+\Data\Scenario\Red Stone\Map/[709]D17_C01_B04.rmd
+\Data\Scenario\Red Stone\Map/[710]D17_C01_B04.rmd
+\Data\Scenario\Red Stone\Map/[711]M10_S01_F11.rmd
+\Data\Scenario\Red Stone\Map/[712]M10_S01_F11.rmd
+\Data\Scenario\Red Stone\Map/[713]S04_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[714]S04_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[715]G04_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[716]G04_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[717]P01_H02_B01.rmd
+\Data\Scenario\Red Stone\Map/[718]P01_H02_B01.rmd
+\Data\Scenario\Red Stone\Map/[719]P01_H03_F01.rmd
+\Data\Scenario\Red Stone\Map/[720]P01_H03_F01.rmd
+\Data\Scenario\Red Stone\Map/[721]M05_C03_B01.rmd
+\Data\Scenario\Red Stone\Map/[722]M05_C03_B01.rmd
+\Data\Scenario\Red Stone\Map/[723]M05_D01_B03.rmd
+\Data\Scenario\Red Stone\Map/[724]M05_D01_B03.rmd
+\Data\Scenario\Red Stone\Map/[725]D11_S01_B04.rmd
+\Data\Scenario\Red Stone\Map/[726]D11_S01_B04.rmd
+\Data\Scenario\Red Stone\Map/[727]G06_H03_F01.rmd
+\Data\Scenario\Red Stone\Map/[728]G06_H03_F01.rmd
+\Data\Scenario\Red Stone\Map/[729]T02_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[730]T02_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[731]G21_G02_F01.rmd
+\Data\Scenario\Red Stone\Map/[732]G21_G02_F01.rmd
+\Data\Scenario\Red Stone\Map/[733]G21_G04_F01.rmd
+\Data\Scenario\Red Stone\Map/[734]G21_G04_F01.rmd
+\Data\Scenario\Red Stone\Map/[735]BF_U02.rmd
+\Data\Scenario\Red Stone\Map/[736]BF_D01.rmd
+\Data\Scenario\Red Stone\Map/[737]BF_U03.rmd
+\Data\Scenario\Red Stone\Map/[739]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[741]BF_U06.rmd
+\Data\Scenario\Red Stone\Map/[742]BF_U07.rmd
+\Data\Scenario\Red Stone\Map/[746]T02_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[747]T02_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[748]T02_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[749]BF_U03.rmd
+\Data\Scenario\Red Stone\Map/[750]BF_U03.rmd
+\Data\Scenario\Red Stone\Map/[751]BF_U03.rmd
+\Data\Scenario\Red Stone\Map/[752]BF_U03.rmd
+\Data\Scenario\Red Stone\Map/[753]BF_U03.rmd
+\Data\Scenario\Red Stone\Map/[754]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[755]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[756]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[757]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[758]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[773]BF02_bridge.rmd
+\Data\Scenario\Red Stone\Map/[774]R01.rmd
+\Data\Scenario\Red Stone\Map/[775]BF02_bridge.rmd
+\Data\Scenario\Red Stone\Map/[776]BF02_bridge.rmd
+\Data\Scenario\Red Stone\Map/[777]R01.rmd
+\Data\Scenario\Red Stone\Map/[778]R01.rmd
+\Data\Scenario\Red Stone\Map/[779]BF_C01.rmd
+\Data\Scenario\Red Stone\Map/[780]BF_U08.rmd
+\Data\Scenario\Red Stone\Map/[781]H01.rmd
+\Data\Scenario\Red Stone\Map/[782]H02.rmd
+\Data\Scenario\Red Stone\Map/[791]T02.rmd
+\Data\Scenario\Red Stone\Map/[792]G01.rmd
+\Data\Scenario\Red Stone\Map/[794]G01.rmd
+\Data\Scenario\Red Stone\Map/[795]D01.rmd
+\Data\Scenario\Red Stone\Map/[796]D02.rmd
+\Data\Scenario\Red Stone\Map/[802]BF_U06.rmd
+\Data\Scenario\Red Stone\Map/[803]BF_U06.rmd
+\Data\Scenario\Red Stone\Map/[804]BF_U07.rmd
+\Data\Scenario\Red Stone\Map/[805]BF_U07.rmd
+\Data\Scenario\Red Stone\Map/[806]BF_C01.rmd
+\Data\Scenario\Red Stone\Map/[807]BF_C01.rmd
+\Data\Scenario\Red Stone\Map/[808]BF_U08.rmd
+\Data\Scenario\Red Stone\Map/[809]BF_U08.rmd
+\Data\Scenario\Red Stone\Map/[810]H01.rmd
+\Data\Scenario\Red Stone\Map/[811]H01.rmd
+\Data\Scenario\Red Stone\Map/[812]H02.rmd
+\Data\Scenario\Red Stone\Map/[813]H02.rmd
+\Data\Scenario\Red Stone\Map/[814]G01.rmd
+\Data\Scenario\Red Stone\Map/[815]G01.rmd
+\Data\Scenario\Red Stone\Map/[816]G01.rmd
+\Data\Scenario\Red Stone\Map/[817]G01.rmd
+\Data\Scenario\Red Stone\Map/[818]D01.rmd
+\Data\Scenario\Red Stone\Map/[819]D01.rmd
+\Data\Scenario\Red Stone\Map/[820]D02.rmd
+\Data\Scenario\Red Stone\Map/[821]D02.rmd
+\Data\Scenario\Red Stone\Map/[822]BF_D01.rmd
+\Data\Scenario\Red Stone\Map/[823]BF_D01.rmd
+\Data\Scenario\Red Stone\Map/[824]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[825]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[826]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[828]D01_01.rmd
+\Data\Scenario\Red Stone\Map/[829]D01_02.rmd
+\Data\Scenario\Red Stone\Map/[830]D01_03.rmd
+\Data\Scenario\Red Stone\Map/[843]D01_01.rmd
+\Data\Scenario\Red Stone\Map/[844]D01_01.rmd
+\Data\Scenario\Red Stone\Map/[845]D01_01.rmd
+\Data\Scenario\Red Stone\Map/[846]D01_01.rmd
+\Data\Scenario\Red Stone\Map/[847]D01_01.rmd
+\Data\Scenario\Red Stone\Map/[848]D01_02.rmd
+\Data\Scenario\Red Stone\Map/[849]D01_02.rmd
+\Data\Scenario\Red Stone\Map/[850]D01_02.rmd
+\Data\Scenario\Red Stone\Map/[851]D01_02.rmd
+\Data\Scenario\Red Stone\Map/[852]D01_02.rmd
+\Data\Scenario\Red Stone\Map/[853]D01_03.rmd
+\Data\Scenario\Red Stone\Map/[854]D01_03.rmd
+\Data\Scenario\Red Stone\Map/[855]D01_03.rmd
+\Data\Scenario\Red Stone\Map/[856]D01_03.rmd
+\Data\Scenario\Red Stone\Map/[857]D01_03.rmd
+\Data\Scenario\Red Stone\Map/[858]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[859]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[860]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[861]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[862]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[863]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[864]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[865]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[866]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[867]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[868]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[869]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[870]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[871]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[872]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[874]D00.rmd
+\Data\Scenario\Red Stone\Map/[875]D01.rmd
+\Data\Scenario\Red Stone\Map/[881]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[909]D00.rmd
+\Data\Scenario\Red Stone\Map/[910]D00.rmd
+\Data\Scenario\Red Stone\Map/[911]D00.rmd
+\Data\Scenario\Red Stone\Map\expansion/[demon_king]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_01]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[queen]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[sacrifice_altar]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Yatikanu]000.rmd
+\Data\UI/ComposeCostume.dat
+\Data\UI/Costume_Color.dat
+\Data\UI/Costume_Color_Hidden.dat
+\Data\UI/DimensionHub.dat
+\Data\UI/DimensionHub_Progress.dat
+\Data\UI/FieldEvolution.dat
+\Data\UI/GeneralBoardEventUI.dat
+\Data\UI/ReinforceCostume.dat
+\Data\UI/ReinforceRelicPrefix.dat
+\Data\UI/ReinforceRingPrefix.dat
+\Data\UI/RelicUpgrade.dat

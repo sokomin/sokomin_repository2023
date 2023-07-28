@@ -1,0 +1,229 @@
+\Data/capa.dat
+\Data/carving.dat
+\Data/checkObjectData.dat
+\Data/costume.dat
+\Data/costumeList.dat
+\Data/creatureInfo.dat
+\Data/defaultJob.dat
+\Data/effect_data.dat
+\Data/guideSystemLevelQuest.dat
+\Data/logToolText.dat
+\Data/mapList.dat
+\Data/mapLocationInfo.dat
+\Data/neponEx.dat
+\Data/NewLotteryItemGrade.dat
+\Data/objectCrashMap.dat
+\Data/rid.dat
+\Data/simpleDataPack.dat
+\Data/skill.dat
+\Data/textData.dat
+\Data/title.dat
+\Data/toolText.dat
+\Data/type12.gsd
+\Data\cosbody/Alchemist_Cos_StarRevelator.plt
+\Data\cosbody/Alchemist_Cos_StarRevelator.sad
+\Data\cosbody/Alchemist_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Archer_Cos_StarRevelator.plt
+\Data\cosbody/Archer_Cos_StarRevelator.sad
+\Data\cosbody/Archer_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Beastman_Cos_StarRevelator.plt
+\Data\cosbody/Beastman_Cos_StarRevelator.sad
+\Data\cosbody/Beastman_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/BeastTamer_Cos_HW.sad
+\Data\cosbody/BeastTamer_Cos_StarRevelator.plt
+\Data\cosbody/BeastTamer_Cos_StarRevelator.sad
+\Data\cosbody/BeastTamer_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Champion_Cos_StarRevelator.plt
+\Data\cosbody/Champion_Cos_StarRevelator.sad
+\Data\cosbody/Champion_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/DemonSorceress_Cos_StarRevelator.plt
+\Data\cosbody/DemonSorceress_Cos_StarRevelator.sad
+\Data\cosbody/DemonSorceress_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Devil_Cos_StarRevelator.plt
+\Data\cosbody/Devil_Cos_StarRevelator.sad
+\Data\cosbody/Devil_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Fallen_Cos_StarRevelator.plt
+\Data\cosbody/Fallen_Cos_StarRevelator.sad
+\Data\cosbody/Fallen_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Knight_Cos_StarRevelator.plt
+\Data\cosbody/Knight_Cos_StarRevelator.sad
+\Data\cosbody/Knight_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Lancer_Cos_StarRevelator.plt
+\Data\cosbody/Lancer_Cos_StarRevelator.sad
+\Data\cosbody/Lancer_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Magicalgirl_Cos_StarRevelator.plt
+\Data\cosbody/Magicalgirl_Cos_StarRevelator.sad
+\Data\cosbody/Magicalgirl_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Maid_Cos_StarRevelator.plt
+\Data\cosbody/Maid_Cos_StarRevelator.sad
+\Data\cosbody/Maid_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Monk_Cos_StarRevelator.plt
+\Data\cosbody/Monk_Cos_StarRevelator.sad
+\Data\cosbody/Monk_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Musketeer_Cos_StarRevelator.plt
+\Data\cosbody/Musketeer_Cos_StarRevelator.sad
+\Data\cosbody/Musketeer_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Necromancer_Cos_StarRevelator.plt
+\Data\cosbody/Necromancer_Cos_StarRevelator.sad
+\Data\cosbody/Necromancer_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Opticalist_Cos_StarRevelator.plt
+\Data\cosbody/Opticalist_Cos_StarRevelator.sad
+\Data\cosbody/Opticalist_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Priest_Cos_StarRevelator.plt
+\Data\cosbody/Priest_Cos_StarRevelator.sad
+\Data\cosbody/Priest_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Princess_Cos_StarRevelator.plt
+\Data\cosbody/Princess_Cos_StarRevelator.sad
+\Data\cosbody/Princess_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Rogue_Cos_StarRevelator.plt
+\Data\cosbody/Rogue_Cos_StarRevelator.sad
+\Data\cosbody/Rogue_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/SoulBringer_Cos_StarRevelator.plt
+\Data\cosbody/SoulBringer_Cos_StarRevelator.sad
+\Data\cosbody/SoulBringer_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Summoner_Cos_StarRevelator.plt
+\Data\cosbody/Summoner_Cos_StarRevelator.sad
+\Data\cosbody/Summoner_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Warrior_Cos_StarRevelator.plt
+\Data\cosbody/Warrior_Cos_StarRevelator.sad
+\Data\cosbody/Warrior_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Wizard_Cos_StarRevelator.plt
+\Data\cosbody/Wizard_Cos_StarRevelator.sad
+\Data\cosbody/Wizard_Cos_StarRevelator_skin_eff.sad
+\Data\cosbody/Wolf_Cos_StarRevelator.plt
+\Data\cosbody/Wolf_Cos_StarRevelator.sad
+\Data\cosbody/Wolf_Cos_StarRevelator_skin_eff.sad
+\Data\cosequipment/Alchemist_Cos_StarRevelator_Shield.sad
+\Data\cosequipment/Alchemist_Cos_StarRevelator_Weapon.sad
+\Data\cosequipment/Alchemist_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/All_Cos_StarRevelator_wp_eff.plt
+\Data\cosequipment/Archer_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Beastman_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/BeastTamer_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Champion_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/DemonSorceress_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Devil_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Fallen_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Knight_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Lancer_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Magicalgirl_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Maid_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Monk_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Musketeer_Cos_StarRevelator_Weapon.sad
+\Data\cosequipment/Musketeer_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Necromancer_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Opticalist_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Priest_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Princess_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Rogue_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/SoulBringer_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Summoner_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Warrior_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Wizard_Cos_StarRevelator_wp_eff.sad
+\Data\cosequipment/Wolf_Cos_StarRevelator_wp_eff.sad
+\Data\creaturebody/224_Altina.sad
+\Data\creaturebody/225_Alisa.sad
+\Data\creaturebody/225_Laura.sad
+\Data\creaturebody/226_Lean.sad
+\Data\creaturebody/227_Crow.sad
+\Data\creaturebody/240_Larien.sad
+\Data\creaturebody/241_SuperStarLarien.sad
+\Data\creaturebody/242_Choucream.sad
+\Data\creaturebody/243_SuperStarChoucream.sad
+\Data\creaturebody/244_Ceris.sad
+\Data\creaturebody/245_SuperStarCeris.sad
+\Data\creaturebody/246_Dexter.sad
+\Data\creaturebody/247_SuperStarDexter.sad
+\Data\Effects/arrow_fire.sad
+\Data\Effects/arrow_water.sad
+\Data\Effects/explosion_glacial_shard.sad
+\Data\Effects/explosion_layer_storm.sad
+\Data\Effects/Fx_SpecialCostume.sad
+\Data\Effects/hit_fire_water.sad
+\Data\Effects/new_explosion_gliding_fire.sad
+\Data\Effects/shoot_dual_arrow.sad
+\Data\Effects/shoot_gliding_fire.sad
+\Data\Effects/skill_interval_shooter.sad
+\Data\Effects/skill_magical_archer.sad
+\Data\Effects/stack_land_marker.sad
+\Data\Effects/Track_Ishmelga_NEW_FX.sad
+\Data\Interface\game/bringUpCharacter005.sad
+\Data\Interface\game/bringUpCharacter006.sad
+\Data\Interface\game/bringUpCharacter007.sad
+\Data\Interface\game/bringUpCharacter008.sad
+\Data\Interface\game/creature_c.sd
+\Data\Interface\game/creature_p.sd
+\Data\Interface\game/designation_icon.sd
+\Data\Interface\game/generalEvent_kor.sd
+\Data\Interface\game/generalEvent_winter_kr.sd
+\Data\Interface\game/interface2.sd
+\Data\Interface\game/name_bar_winter.sd
+\Data\Mapset\Brunenstig\Objects/sn__object_0139.rso
+\Data\Misc/creature.smi
+\Data\Misc/iconItem.smi
+\Data\Misc/iconSkill.smi
+\Data\monsters/Track_Ishmelga.sad
+\Data\Scenario/Red Stone.rpd
+\Data\Scenario\Red Stone/item.dat
+\Data\Scenario\Red Stone/job2.dat
+\Data\Scenario\Red Stone\Map/[000]T01.rmd
+\Data\Scenario\Red Stone\Map/[010]G13.rmd
+\Data\Scenario\Red Stone\Map/[028]Prison.rmd
+\Data\Scenario\Red Stone\Map/[071]T03.rmd
+\Data\Scenario\Red Stone\Map/[074]T04.rmd
+\Data\Scenario\Red Stone\Map/[1008]YatikanuForest_2.rmd
+\Data\Scenario\Red Stone\Map/[1009]YatikanuForest_3.rmd
+\Data\Scenario\Red Stone\Map/[1010]T21.rmd
+\Data\Scenario\Red Stone\Map/[214]T11.rmd
+\Data\Scenario\Red Stone\Map/[254]T11_P01.rmd
+\Data\Scenario\Red Stone\Map/[260]M11_C01_B01.rmd
+\Data\Scenario\Red Stone\Map/[261]M11_C01_B02.rmd
+\Data\Scenario\Red Stone\Map/[263]M11_C02_B01.rmd
+\Data\Scenario\Red Stone\Map/[340]T16.rmd
+\Data\Scenario\Red Stone\Map/[373]T02.rmd
+\Data\Scenario\Red Stone\Map/[375]T05.rmd
+\Data\Scenario\Red Stone\Map/[376]T07.rmd
+\Data\Scenario\Red Stone\Map/[434]S13.rmd
+\Data\Scenario\Red Stone\Map/[437]S15.rmd
+\Data\Scenario\Red Stone\Map/[440]NP.rmd
+\Data\Scenario\Red Stone\Map/[443]T15.rmd
+\Data\Scenario\Red Stone\Map/[444]S22.rmd
+\Data\Scenario\Red Stone\Map/[453]T15_T01_F01.rmd
+\Data\Scenario\Red Stone\Map/[454]T15_T01_F02.rmd
+\Data\Scenario\Red Stone\Map/[460]T15_C01.rmd
+\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd
+\Data\Scenario\Red Stone\Map/[544] T01_I01_B01.rmd
+\Data\Scenario\Red Stone\Map/[739]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[743]R02.rmd
+\Data\Scenario\Red Stone\Map/[744]R03.rmd
+\Data\Scenario\Red Stone\Map/[745]R01.rmd
+\Data\Scenario\Red Stone\Map/[754]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[755]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[756]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[757]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[758]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[826]G16_D03_B03.rmd.tga
+\Data\Scenario\Red Stone\Map/[828]D01_01.rmd
+\Data\Scenario\Red Stone\Map/[843]D01_01.rmd
+\Data\Scenario\Red Stone\Map/[844]D01_01.rmd
+\Data\Scenario\Red Stone\Map/[845]D01_01.rmd
+\Data\Scenario\Red Stone\Map/[846]D01_01.rmd
+\Data\Scenario\Red Stone\Map/[847]D01_01.rmd
+\Data\Scenario\Red Stone\Map/[873]T10.rmd
+\Data\Scenario\Red Stone\Map/[878]PlainOfDivineAnimals.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss1]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss2]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss3]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss3_Scenario]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[demon_king]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[destory_ruins]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_03]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Yatikanu]000.rmd
+\Data\UI/ComposeCostume.dat
+\Data\UI/Costume_Color.dat
+\Data\UI/Costume_Color_Hidden.dat
+\Data\UI/DimensionHub.dat
+\Data\UI/DimensionHub_Progress.dat
+\Data\UI/FieldEvolution.dat
+\Data\UI/GeneralBoardEventUI.dat
+\Data\UI/ReinforceCostume.dat

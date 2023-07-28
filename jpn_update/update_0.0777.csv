@@ -1,0 +1,331 @@
+\Data/capa.dat
+\Data/carving.dat
+\Data/ContentsOpen.dat
+\Data/costume.dat
+\Data/creatureInfo.dat
+\Data/effect_data.dat
+\Data/fieldInfo.dat
+\Data/gameSimpleText.dat
+\Data/guideSystemLevelQuest.dat
+\Data/jobDataForJapan.dat
+\Data/jobDataForUSA.dat
+\Data/JournalKindData.dat
+\Data/logToolText.dat
+\Data/mapList.dat
+\Data/nameFilter.dat
+\Data/neponEx.dat
+\Data/NewLotteryItemGrade.dat
+\Data/rb.dat
+\Data/RTHelp.dat
+\Data/simpleDataPack.dat
+\Data/skill.dat
+\Data/textData.dat
+\Data/title.dat
+\Data/toolText.dat
+\Data\cosbody/Alchemist_Cos02_.sad
+\Data\cosbody/Alchemist_Cos04.sad
+\Data\cosbody/Alchemist_Cos08_Contest_kor.sad
+\Data\cosbody/Alchemist_cos1.sad
+\Data\cosbody/Alchemist_Cos15_Techwear.plt
+\Data\cosbody/Alchemist_Cos15_Techwear.sad
+\Data\cosbody/Alchemist_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Alchemist_cos3.sad
+\Data\cosbody/Alchemist_cos5.sad
+\Data\cosbody/Alchemist_Cos9_Holy&Dark.sad
+\Data\cosbody/Alchemist_cos_Collabo02.sad
+\Data\cosbody/Alchemist_cos_santa.sad
+\Data\cosbody/Alchemist_Cos_StarRevelator.sad
+\Data\cosbody/Archer_Cos15_Techwear.plt
+\Data\cosbody/Archer_Cos15_Techwear.sad
+\Data\cosbody/Archer_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Beastman_Cos15_Techwear.plt
+\Data\cosbody/Beastman_Cos15_Techwear.sad
+\Data\cosbody/Beastman_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/BeastTamer_Cos15_Techwear.plt
+\Data\cosbody/BeastTamer_Cos15_Techwear.sad
+\Data\cosbody/BeastTamer_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Captain_cos03_suit.plt
+\Data\cosbody/Captain_cos03_suit.sad
+\Data\cosbody/Captain_Cos15_Techwear.plt
+\Data\cosbody/Captain_Cos15_Techwear.sad
+\Data\cosbody/Captain_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Champion_Cos15_Techwear.plt
+\Data\cosbody/Champion_Cos15_Techwear.sad
+\Data\cosbody/Champion_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/DemonSorceress_Cos15_Techwear.plt
+\Data\cosbody/DemonSorceress_Cos15_Techwear.sad
+\Data\cosbody/DemonSorceress_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Devil_Cos15_Techwear.plt
+\Data\cosbody/Devil_Cos15_Techwear.sad
+\Data\cosbody/Devil_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Fallen_Cos15_Techwear.plt
+\Data\cosbody/Fallen_Cos15_Techwear.sad
+\Data\cosbody/Fallen_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Knight_Cos15_Techwear.plt
+\Data\cosbody/Knight_Cos15_Techwear.sad
+\Data\cosbody/Knight_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Lancer_Cos15_Techwear.plt
+\Data\cosbody/Lancer_Cos15_Techwear.sad
+\Data\cosbody/Lancer_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Magicalgirl_Cos15_Techwear.plt
+\Data\cosbody/Magicalgirl_Cos15_Techwear.sad
+\Data\cosbody/Magicalgirl_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Maid_Cos15_Techwear.plt
+\Data\cosbody/Maid_Cos15_Techwear.sad
+\Data\cosbody/Maid_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Monk_Cos15_Techwear.plt
+\Data\cosbody/Monk_Cos15_Techwear.sad
+\Data\cosbody/Monk_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Monk_cos3_suit.sad
+\Data\cosbody/Monk_cos_Collabo01.sad
+\Data\cosbody/Musketeer_Cos03.sad
+\Data\cosbody/Musketeer_Cos05_180312.sad
+\Data\cosbody/Musketeer_Cos09_Holy&Dark.sad
+\Data\cosbody/Musketeer_Cos15_Techwear.plt
+\Data\cosbody/Musketeer_Cos15_Techwear.sad
+\Data\cosbody/Musketeer_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Musketeer_cos_01.sad
+\Data\cosbody/Musketeer_Cos_08.sad
+\Data\cosbody/Musketeer_cos_Collabo02.sad
+\Data\cosbody/Musketeer_cos_Collabo03.sad
+\Data\cosbody/Musketeer_cos_Collabo04.sad
+\Data\cosbody/Musketeer_cos_HW.sad
+\Data\cosbody/Musketeer_cos_santa.sad
+\Data\cosbody/Musketeer_Cos_StarRevelator.sad
+\Data\cosbody/Musketeer_cos_swim.sad
+\Data\cosbody/Necromancer_Cos15_Techwear.plt
+\Data\cosbody/Necromancer_Cos15_Techwear.sad
+\Data\cosbody/Necromancer_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Opticalist_Cos15_Techwear.plt
+\Data\cosbody/Opticalist_Cos15_Techwear.sad
+\Data\cosbody/Opticalist_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Priest_Cos15_Techwear.plt
+\Data\cosbody/Priest_Cos15_Techwear.sad
+\Data\cosbody/Priest_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Princess_Cos15_Techwear.plt
+\Data\cosbody/Princess_Cos15_Techwear.sad
+\Data\cosbody/Princess_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Rogue_Cos08_Contest.sad
+\Data\cosbody/Rogue_Cos15_Techwear.plt
+\Data\cosbody/Rogue_Cos15_Techwear.sad
+\Data\cosbody/Rogue_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Rogue_cos5_POL.sad
+\Data\cosbody/SoulBringer_Cos15_Techwear.plt
+\Data\cosbody/SoulBringer_Cos15_Techwear.sad
+\Data\cosbody/SoulBringer_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Summoner_Cos15_Techwear.plt
+\Data\cosbody/Summoner_Cos15_Techwear.sad
+\Data\cosbody/Summoner_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Warrior_Cos15_Techwear.plt
+\Data\cosbody/Warrior_Cos15_Techwear.sad
+\Data\cosbody/Warrior_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Wizard_Cos15_Techwear.plt
+\Data\cosbody/Wizard_Cos15_Techwear.sad
+\Data\cosbody/Wizard_Cos15_Techwear_skin_eff.sad
+\Data\cosbody/Wolf_Cos15_Techwear.plt
+\Data\cosbody/Wolf_Cos15_Techwear.sad
+\Data\cosbody/Wolf_Cos15_Techwear_skin_eff.sad
+\Data\cosequipment/Alchemist_Cos15_Techwear_Shield.sad
+\Data\cosequipment/Alchemist_Cos15_Techwear_weapon.sad
+\Data\cosequipment/Alchemist_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/All_Cos15_Techwear_wp_eff.plt
+\Data\cosequipment/Archer_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Beastman_Cos15_Techwear.plt
+\Data\cosequipment/Beastman_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/BeastTamer_Cos15_Techwear.plt
+\Data\cosequipment/BeastTamer_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Captain_Cos03_Head_weapon.sad
+\Data\cosequipment/Captain_Cos03_weapon.sad
+\Data\cosequipment/Captain_Cos15_Techwear_Head_weapon.sad
+\Data\cosequipment/Captain_Cos15_Techwear_weapon.sad
+\Data\cosequipment/Captain_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Captain_Cos15_Techwear_wp_eff2.sad
+\Data\cosequipment/Champion_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/DemonSorceress_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Devil_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Fallen_Cos15_Techwear.plt
+\Data\cosequipment/Fallen_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Knight_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Lancer_Cos15_Techwear.plt
+\Data\cosequipment/Lancer_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Magicalgirl_Cos15_Techwear.plt
+\Data\cosequipment/Magicalgirl_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Maid_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Monk_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Musketeer_Cos15_Techwear_weapon.sad
+\Data\cosequipment/Musketeer_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Necromancer_Cos15_Techwear.plt
+\Data\cosequipment/Necromancer_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Opticalist_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Priest_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Princess_Cos15_Techwear.plt
+\Data\cosequipment/Princess_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Rogue_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/SoulBringer_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Summoner_Cos15_Techwear.plt
+\Data\cosequipment/Summoner_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Warrior_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Wizard_Cos15_Techwear_wp_eff.sad
+\Data\cosequipment/Wolf_Cos15_Techwear_wp_eff.sad
+\Data\creaturebody/104_Lagerberg.sad
+\Data\creaturebody/181_KingRoianII.sad
+\Data\creaturebody/182_Ichinose Hajime.sad
+\Data\creaturebody/197_GoldEmperor.sad
+\Data\creaturebody/258_Nemerian.plt
+\Data\creaturebody/258_Nemerian.sad
+\Data\creaturebody/259_Kerendia.plt
+\Data\creaturebody/259_Kerendia.sad
+\Data\creaturebody/260_Schrag.plt
+\Data\creaturebody/260_Schrag.sad
+\Data\creaturebody/261_Falcon.plt
+\Data\creaturebody/261_Falcon.sad
+\Data\creaturebody/262_Siteulillon.plt
+\Data\creaturebody/262_Siteulillon.sad
+\Data\creaturebody/263_Atipikal.plt
+\Data\creaturebody/263_Atipikal.sad
+\Data\creaturebody/264_Bluff_Fairy.plt
+\Data\creaturebody/264_Bluff_Fairy.sad
+\Data\Effects/Exp_VisionMiling.sad
+\Data\Effects/Hit_arrow_vertical.sad
+\Data\Effects/nds5.sad
+\Data\Effects/Skill_blazestep.sad
+\Data\Effects/Skill_blazestep_aura.sad
+\Data\Heros/Alchemist01.sad
+\Data\Heros/Alchemist02.sad
+\Data\Heros/Alchemist03.sad
+\Data\Heros/Musketeer01.sad
+\Data\Heros/Musketeer02.sad
+\Data\Heros/Musketeer03.sad
+\Data\Interface\game/creature_c.sd
+\Data\Interface\game/creature_p.sd
+\Data\Interface\game/Dice_Rolling.sad
+\Data\Interface\game/interface.sd
+\Data\Interface\game/interface2.sd
+\Data\Interface\game/magic_carpet24.sad
+\Data\Interface\game/personal_shop_07.sd
+\Data\Interface\game/RS_Pass_50rank.sad
+\Data\Misc/creature.smi
+\Data\Misc/iconItem.smi
+\Data\Misc/iconSkill.smi
+\Data\monsters/DistinguisherTiren.plt
+\Data\monsters/DistinguisherTiren.sad
+\Data\monsters/Oberon.plt
+\Data\monsters/Oberon.sad
+\Data\monsters/Yatikanu_dragon.sad
+\Data\monsters/Yatikanu_dragon_PH2.sad
+\Data\NPC/DistinguisherTiren.plt
+\Data\NPC/DistinguisherTiren.sad
+\Data\NPC/Oberon.plt
+\Data\NPC/Oberon.sad
+\Data\Scenario/Red Stone.rpd
+\Data\Scenario\Red Stone/item.dat
+\Data\Scenario\Red Stone/job2.dat
+\Data\Scenario\Red Stone/packageitem.dat
+\Data\Scenario\Red Stone\Map/Guild_savana_1.rmd
+\Data\Scenario\Red Stone\Map/[000]T01.rmd
+\Data\Scenario\Red Stone\Map/[017]G16_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[028]Prison.rmd
+\Data\Scenario\Red Stone\Map/[076]G26_G02.rmd
+\Data\Scenario\Red Stone\Map/[078]G26_G04.rmd
+\Data\Scenario\Red Stone\Map/[083]G26_G09.rmd
+\Data\Scenario\Red Stone\Map/[085]G26_G11.rmd
+\Data\Scenario\Red Stone\Map/[086]G26_G12.rmd
+\Data\Scenario\Red Stone\Map/[1008]YatikanuForest_2.rmd
+\Data\Scenario\Red Stone\Map/[1010]T21.rmd
+\Data\Scenario\Red Stone\Map/[1011]YatikanuRaid01.rmd
+\Data\Scenario\Red Stone\Map/[1012]YatikanuRaid02.rmd
+\Data\Scenario\Red Stone\Map/[1015]CoolCave.rmd
+\Data\Scenario\Red Stone\Map/[1018]Hidden_layers_D01_03.rmd
+\Data\Scenario\Red Stone\Map/[101]G27_H01_F01.rmd
+\Data\Scenario\Red Stone\Map/[106]T04_H01_B01.rmd
+\Data\Scenario\Red Stone\Map/[123]G30_H01_F01.rmd
+\Data\Scenario\Red Stone\Map/[124]G30_H01_B01.rmd
+\Data\Scenario\Red Stone\Map/[135]G31_C01_F01.rmd
+\Data\Scenario\Red Stone\Map/[141]G31_C01_B06.rmd
+\Data\Scenario\Red Stone\Map/[208]M80_D01_F1.rmd
+\Data\Scenario\Red Stone\Map/[216]T11_D01_B02.rmd
+\Data\Scenario\Red Stone\Map/[218]T11_D01_B04.rmd
+\Data\Scenario\Red Stone\Map/[269]P01_H01_F01.rmd
+\Data\Scenario\Red Stone\Map/[277]P01_H05_F01.rmd
+\Data\Scenario\Red Stone\Map/[367]G23.rmd
+\Data\Scenario\Red Stone\Map/[374]T09.rmd
+\Data\Scenario\Red Stone\Map/[375]T05.rmd
+\Data\Scenario\Red Stone\Map/[418]H02.rmd
+\Data\Scenario\Red Stone\Map/[419]D01_S01_B01.rmd
+\Data\Scenario\Red Stone\Map/[432]T08_H02_B01.rmd
+\Data\Scenario\Red Stone\Map/[433]chobozone.rmd
+\Data\Scenario\Red Stone\Map/[443]T15.rmd
+\Data\Scenario\Red Stone\Map/[445]T02_P02.rmd
+\Data\Scenario\Red Stone\Map/[448]cabin.rmd
+\Data\Scenario\Red Stone\Map/[451]T13.rmd
+\Data\Scenario\Red Stone\Map/[474]G21_G04_F01.rmd
+\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd
+\Data\Scenario\Red Stone\Map/[525]Friends_02.rmd
+\Data\Scenario\Red Stone\Map/[544] T01_I01_B01.rmd
+\Data\Scenario\Red Stone\Map/[733]G21_G04_F01.rmd
+\Data\Scenario\Red Stone\Map/[734]G21_G04_F01.rmd
+\Data\Scenario\Red Stone\Map/[781]H01.rmd
+\Data\Scenario\Red Stone\Map/[784]EST.rmd
+\Data\Scenario\Red Stone\Map/[785]Ro8.rmd
+\Data\Scenario\Red Stone\Map/[786]KE7.rmd
+\Data\Scenario\Red Stone\Map/[788]HGA01.rmd
+\Data\Scenario\Red Stone\Map/[810]H01.rmd
+\Data\Scenario\Red Stone\Map/[811]H01.rmd
+\Data\Scenario\Red Stone\Map/[880]ForestOfLife_OutSkirts.rmd
+\Data\Scenario\Red Stone\Map/[943]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[944]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[945]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[946]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[947]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[948]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[949]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[950]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[951]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[952]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[953]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[954]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[955]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[956]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[957]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[958]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[959]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[960]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[961]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[962]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[963]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[964]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[965]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[966]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[967]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[968]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[969]GH_LV02.rmd
+\Data\Scenario\Red Stone\Map/[970]GH_LV03.rmd
+\Data\Scenario\Red Stone\Map/[971]GH_LV03.rmd
+\Data\Scenario\Red Stone\Map/[972]GH_LV03.rmd
+\Data\Scenario\Red Stone\Map/[973]GH_LV03.rmd
+\Data\Scenario\Red Stone\Map/[974]GH_LV03.rmd
+\Data\Scenario\Red Stone\Map/[975]GH_LV03.rmd
+\Data\Scenario\Red Stone\Map/[976]GH_LV03.rmd
+\Data\Scenario\Red Stone\Map/[977]GH_LV03.rmd
+\Data\Scenario\Red Stone\Map/[979]GH_LV04.rmd
+\Data\Scenario\Red Stone\Map/[979]WORD_Q.rmd
+\Data\Scenario\Red Stone\Map/[980]GH_LV04.rmd
+\Data\Scenario\Red Stone\Map/[981]GH_LV04.rmd
+\Data\Scenario\Red Stone\Map/[982]GH_LV05.rmd
+\Data\Scenario\Red Stone\Map/[983]Guild_savana cliff_0.rmd
+\Data\Scenario\Red Stone\Map/[984]Guild_savana cliff_1.rmd
+\Data\Scenario\Red Stone\Map/[985]Guild_savana_0.rmd
+\Data\Scenario\Red Stone\Map/[986]Word_Q.rmd
+\Data\Scenario\Red Stone\Map/[987]monsterworld.rmd
+\Data\Scenario\Red Stone\Map/[988]monsterworld.rmd
+\Data\Scenario\Red Stone\Map\expansion/[arch_devil]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss3]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[EliteArenaBoss1]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Gregory]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Hactor_lab]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[miznacave_hide]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Trial_S]000.rmd
+\Data\UI/JumpingGuideUI_1.dat
+\Data\UI/JumpingGuideUI_3.dat
+\Data\UI/MiniGameEventUI.dat
+\Data\UI/SeasonPass.dat

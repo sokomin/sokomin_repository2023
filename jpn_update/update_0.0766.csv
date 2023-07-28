@@ -1,0 +1,1806 @@
+\Data/capa.dat
+\Data/ContentsOpen.dat
+\Data/creatureInfo.dat
+\Data/defaultJob.dat
+\Data/emoticon.dat
+\Data/fieldInfo.dat
+\Data/guideSystemLevelQuest.dat
+\Data/JournalData.dat
+\Data/JournalKindData.dat
+\Data/logToolText.dat
+\Data/mapList.dat
+\Data/mapLocationInfo.dat
+\Data/neponEx.dat
+\Data/rb.dat
+\Data/simpleGameText.dat
+\Data/skill.dat
+\Data/skill_sound_test.dat
+\Data/textData.dat
+\Data/toolText.dat
+\Data/type01.gsd
+\Data/type02.gsd
+\Data/type03.gsd
+\Data/type04.gsd
+\Data/type12.gsd
+\Data/wm_dungeon.dat
+\Data/wm_field.dat
+\Data\Interface\game/interface2.sd
+\Data\Interface\game/number.sd
+\Data\Misc/iconItem.smi
+\Data\monsters/NPC_EinerGarfield.plt
+\Data\monsters/NPC_EinerGarfield.sad
+\Data\monsters/NPC_Shultz.plt
+\Data\monsters/NPC_Shultz.sad
+\Data\NPC/NPC_EinerGarfield.plt
+\Data\NPC/NPC_EinerGarfield.sad
+\Data\NPC/NPC_Shultz.plt
+\Data\NPC/NPC_Shultz.sad
+\Data\Scenario/Red Stone.rpd
+\Data\Scenario\Red Stone/item.dat
+\Data\Scenario\Red Stone/job2.dat
+\Data\Scenario\Red Stone\Map/GH2_00.rmd
+\Data\Scenario\Red Stone\Map/GH2_01.rmd
+\Data\Scenario\Red Stone\Map/GH2_02.rmd
+\Data\Scenario\Red Stone\Map/GH3_00.rmd
+\Data\Scenario\Red Stone\Map/GH3_01.rmd
+\Data\Scenario\Red Stone\Map/GH4_00.rmd
+\Data\Scenario\Red Stone\Map/GH4_01.rmd
+\Data\Scenario\Red Stone\Map/GH5_00.rmd
+\Data\Scenario\Red Stone\Map/[000]T01.rmd
+\Data\Scenario\Red Stone\Map/[028]Prison.rmd
+\Data\Scenario\Red Stone\Map/[074]T04.rmd
+\Data\Scenario\Red Stone\Map/[1019]T01_I01.rmd
+\Data\Scenario\Red Stone\Map/[1020]D03.rmd
+\Data\Scenario\Red Stone\Map/[1020]D03.rmd.tga
+\Data\Scenario\Red Stone\Map/[1021]D04.rmd
+\Data\Scenario\Red Stone\Map/[1021]D04.rmd.tga
+\Data\Scenario\Red Stone\Map/[1022]confession_repetitive.rmd
+\Data\Scenario\Red Stone\Map/[105]T04_H01_F01.rmd
+\Data\Scenario\Red Stone\Map/[107]T04_H02_F01.rmd
+\Data\Scenario\Red Stone\Map/[110]T04_H03_F01.rmd
+\Data\Scenario\Red Stone\Map/[193]T08.rmd
+\Data\Scenario\Red Stone\Map/[252]T11_V01.rmd
+\Data\Scenario\Red Stone\Map/[258]M10_S01_F20.rmd
+\Data\Scenario\Red Stone\Map/[262]M11_C01_B03.rmd
+\Data\Scenario\Red Stone\Map/[340]T16.rmd
+\Data\Scenario\Red Stone\Map/[375]T05.rmd
+\Data\Scenario\Red Stone\Map/[377]T01_N01.rmd
+\Data\Scenario\Red Stone\Map/[416]T04_H04_F01.rmd
+\Data\Scenario\Red Stone\Map/[417]T04_H04_F02.rmd
+\Data\Scenario\Red Stone\Map/[464]M10_H01_F01.rmd
+\Data\Scenario\Red Stone\Map/[465]M09_H01_F01.rmd
+\Data\Scenario\Red Stone\Map/[478]Bifrost.rmd
+\Data\Scenario\Red Stone\Map/[479]Nest.rmd
+\Data\Scenario\Red Stone\Map/[480]T19.rmd
+\Data\Scenario\Red Stone\Map/[491]M09_H01_F01.rmd
+\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd
+\Data\Scenario\Red Stone\Map/[544] T01_I01_B01.rmd
+\Data\Scenario\Red Stone\Map/[735]BF_U02.rmd
+\Data\Scenario\Red Stone\Map/[742]BF_U07.rmd
+\Data\Scenario\Red Stone\Map/[779]BF_C01.rmd
+\Data\Scenario\Red Stone\Map/[781]H01.rmd
+\Data\Scenario\Red Stone\Map/[786]KE7.rmd
+\Data\Scenario\Red Stone\Map/[804]BF_U07.rmd
+\Data\Scenario\Red Stone\Map/[805]BF_U07.rmd
+\Data\Scenario\Red Stone\Map/[806]BF_C01.rmd
+\Data\Scenario\Red Stone\Map/[807]BF_C01.rmd
+\Data\Scenario\Red Stone\Map/[810]H01.rmd
+\Data\Scenario\Red Stone\Map/[811]H01.rmd
+\Data\Scenario\Red Stone\Map/[873]T10.rmd
+\Data\Scenario\Red Stone\Map/[941]GB_LV05.rmd
+\Data\Scenario\Red Stone\Map/[941]GB_LV05.rmd.tga
+\Data\Scenario\Red Stone\Map/[942]GH_LV01.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss2]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss4]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss5]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss6]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[association_ruin]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Atina_byroad]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[confession]002.rmd
+\Data\Scenario\Red Stone\Map\expansion/[damel]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_01]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_03]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Jepyro_hideout]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Material_cave]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Trial_P]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Trial_S]000.rmd
+\Data\Sound_test/Acid Venom_hit.wav
+\Data\Sound_test/Advanced Blocking.wav
+\Data\Sound_test/advent_action.wav
+\Data\Sound_test/altering hitter Swing.wav
+\Data\Sound_test/altering hitter.wav
+\Data\Sound_test/altering hitter_hit.wav
+\Data\Sound_test/altering striker swing.wav
+\Data\Sound_test/altering striker swing_hit.wav
+\Data\Sound_test/ApocalypsePurnisher_hit.wav
+\Data\Sound_test/Aqua Bamboo.wav
+\Data\Sound_test/Aqua Bamboo_12.wav
+\Data\Sound_test/Aqua Bamboo_hit.wav
+\Data\Sound_test/Armadillo Rolling.wav
+\Data\Sound_test/Armadillo Rolling_HIT.wav
+\Data\Sound_test/Armour Disassembler.wav
+\Data\Sound_test/arrow_shot.wav
+\Data\Sound_test/Assassination_act.wav
+\Data\Sound_test/Assassination_cast.wav
+\Data\Sound_test/Assassination_hit.wav
+\Data\Sound_test/Astral Spirit_cast.wav
+\Data\Sound_test/Attack Order.wav
+\Data\Sound_test/Attack Order_00.wav
+\Data\Sound_test/Attack Order_12.wav
+\Data\Sound_test/Bait_01.wav
+\Data\Sound_test/Bait_11.wav
+\Data\Sound_test/Battle March_cast.wav
+\Data\Sound_test/Beast berserker.wav
+\Data\Sound_test/Big Service_cast.wav
+\Data\Sound_test/Big Sparrow.wav
+\Data\Sound_test/Big Sparrow_HIT.wav
+\Data\Sound_test/Big Swing.wav
+\Data\Sound_test/Big Swing_hit.wav
+\Data\Sound_test/binding immunity_effect.wav
+\Data\Sound_test/binding words_cast.wav
+\Data\Sound_test/Bit Glider.wav
+\Data\Sound_test/Bit Glider_hit.wav
+\Data\Sound_test/bit launch_action.wav
+\Data\Sound_test/Bitter Shield.wav
+\Data\Sound_test/Black Fire Wave_action.wav
+\Data\Sound_test/Black Smoke_action.wav
+\Data\Sound_test/Black Star of Disaster_action.wav
+\Data\Sound_test/Black Star_action..wav
+\Data\Sound_test/Black Star_action.wav
+\Data\Sound_test/Black Star_Bomb.wav
+\Data\Sound_test/Black Volcanic Bomb_action.wav
+\Data\Sound_test/BladeGrinding_Action.wav
+\Data\Sound_test/BladeShower_Action.wav
+\Data\Sound_test/Bless.wav
+\Data\Sound_test/Blessed Hammer.wav
+\Data\Sound_test/Blessed Hammer_HIT.wav
+\Data\Sound_test/Blind Attack.wav
+\Data\Sound_test/Blind Sinker.wav
+\Data\Sound_test/Blocking.wav
+\Data\Sound_test/Blood Compact_cast.wav
+\Data\Sound_test/Blood Cross_cast.wav
+\Data\Sound_test/Blood Rage.wav
+\Data\Sound_test/Blood Shaker Swing.wav
+\Data\Sound_test/Blood Shaker.wav
+\Data\Sound_test/Bloody Wing.wav
+\Data\Sound_test/Bloody Wing_HIT.wav
+\Data\Sound_test/Blunt_hit.wav
+\Data\Sound_test/Bone Crusher.wav
+\Data\Sound_test/Bone Crusher_HIT.wav
+\Data\Sound_test/Booby Trap_cast.wav
+\Data\Sound_test/Booby Trap_hit.wav
+\Data\Sound_test/Boomerang Shield.wav
+\Data\Sound_test/Boomerang Shield_HIT.wav
+\Data\Sound_test/Boosting Charge_cast.wav
+\Data\Sound_test/Boss_Shouting_Death.wav
+\Data\Sound_test/Boss_Shouting_High.wav
+\Data\Sound_test/Boss_Shouting_Middle.wav
+\Data\Sound_test/Bouncing Chakram_action.wav
+\Data\Sound_test/Bow Attack.wav
+\Data\Sound_test/Bow Striking.wav
+\Data\Sound_test/Bow Striking_HIT.wav
+\Data\Sound_test/Branch Fist.wav
+\Data\Sound_test/Breaking Point.wav
+\Data\Sound_test/Breast Fire_act.wav
+\Data\Sound_test/Breeding Record.wav
+\Data\Sound_test/Broad Blade.wav
+\Data\Sound_test/Broad Blade_HIT.wav
+\Data\Sound_test/Broom Charge_cast.wav
+\Data\Sound_test/Broom Dusting_cast.wav
+\Data\Sound_test/Broom Swing_cast.wav
+\Data\Sound_test/Broom Swing_hit.wav
+\Data\Sound_test/Bubble Explosion.wav
+\Data\Sound_test/Bubble Explosion_hit.wav
+\Data\Sound_test/Burning Orb.wav
+\Data\Sound_test/burning_sphere_exp.wav
+\Data\Sound_test/Care.wav
+\Data\Sound_test/Catch Throwing.wav
+\Data\Sound_test/Chain Explosion.wav
+\Data\Sound_test/Chain Explosion_HIT.wav
+\Data\Sound_test/Chained Claw.wav
+\Data\Sound_test/Chained Claw_HIT.wav
+\Data\Sound_test/Changeable Weather.wav
+\Data\Sound_test/Charging.wav
+\Data\Sound_test/Chilling Touch.wav
+\Data\Sound_test/Chilling Touch_HIT.wav
+\Data\Sound_test/Chop Kick_hit.wav
+\Data\Sound_test/Club Attack.wav
+\Data\Sound_test/codestruction_action.wav
+\Data\Sound_test/Cold Hammer.wav
+\Data\Sound_test/Comet Shooting_act.wav
+\Data\Sound_test/Comet Shooting_hit.wav
+\Data\Sound_test/Comfort.wav
+\Data\Sound_test/Complete Protection 2.wav
+\Data\Sound_test/Complete Protection.wav
+\Data\Sound_test/Concentration.wav
+\Data\Sound_test/consensus_cast.wav
+\Data\Sound_test/Contract_cast.wav
+\Data\Sound_test/Cracking.wav
+\Data\Sound_test/cracking_cast.wav
+\Data\Sound_test/creature_attfir.wav
+\Data\Sound_test/creature_att_blo.wav
+\Data\Sound_test/creature_att_cut.wav
+\Data\Sound_test/creature_att_dar.wav
+\Data\Sound_test/creature_att_ear.wav
+\Data\Sound_test/creature_att_fla.wav
+\Data\Sound_test/creature_att_lig.wav
+\Data\Sound_test/creature_att_wat.wav
+\Data\Sound_test/creature_att_win.wav
+\Data\Sound_test/creature_buff.wav
+\Data\Sound_test/creature_cast.wav
+\Data\Sound_test/creature_debuff.wav
+\Data\Sound_test/creature_general.wav
+\Data\Sound_test/Critical Elbow_act.wav
+\Data\Sound_test/Critical Hit.wav
+\Data\Sound_test/Critical Hit_HIT.wav
+\Data\Sound_test/Cry Mimicry_cast.wav
+\Data\Sound_test/Cure.wav
+\Data\Sound_test/Damage Diffusion.wav
+\Data\Sound_test/Damage Pool_cast.wav
+\Data\Sound_test/Dance Along_cast.wav
+\Data\Sound_test/Dancing Blocker 2.wav
+\Data\Sound_test/Dancing Blocker.wav
+\Data\Sound_test/Dark Weapon.wav
+\Data\Sound_test/Death Touch.wav
+\Data\Sound_test/Defence Order.wav
+\Data\Sound_test/Degenerate_hit.wav
+\Data\Sound_test/Delay Crushing.wav
+\Data\Sound_test/Delay Crushing_HIT.wav
+\Data\Sound_test/Demon Commander_action.wav
+\Data\Sound_test/Demon Knight_cast.wav
+\Data\Sound_test/Demon Soldier_action.wav
+\Data\Sound_test/Desensitization.wav
+\Data\Sound_test/desensitization_cast.wav
+\Data\Sound_test/Destroy unholy.wav
+\Data\Sound_test/destruction_action.wav
+\Data\Sound_test/Detecting Group_cast.wav
+\Data\Sound_test/Devil Illusion_cast.wav
+\Data\Sound_test/Diasrm Trap_cast.wav
+\Data\Sound_test/Diasrm Trap_hit.wav
+\Data\Sound_test/Diffusion Acid_cast.wav
+\Data\Sound_test/Disappearance.wav
+\Data\Sound_test/Disarm Trap_cast.wav
+\Data\Sound_test/Disarm Trap_hit.wav
+\Data\Sound_test/Disk of Extermination_cast.wav
+\Data\Sound_test/Displacement.wav
+\Data\Sound_test/Divine Arch.wav
+\Data\Sound_test/dodge.wav
+\Data\Sound_test/doomsday_action.wav
+\Data\Sound_test/Doppelganger_Cast.wav
+\Data\Sound_test/Double Charging.wav
+\Data\Sound_test/Double Smashing 1.wav
+\Data\Sound_test/Double Smashing 2.wav
+\Data\Sound_test/Double Smashing 3.wav
+\Data\Sound_test/Double Smashing_HIT.wav
+\Data\Sound_test/Double Throwing_act.wav
+\Data\Sound_test/Double Throwing_cast.wav
+\Data\Sound_test/Double Throwing_hit.wav
+\Data\Sound_test/DoubleSwing_Action.wav
+\Data\Sound_test/Down Kick_act.wav
+\Data\Sound_test/Down Kick_cast.wav
+\Data\Sound_test/Down Kick_hit.wav
+\Data\Sound_test/Dragon Twister.wav
+\Data\Sound_test/Draw Body_hit.wav
+\Data\Sound_test/drop_item_dx_unique.wav
+\Data\Sound_test/drop_item_ult_unique.wav
+\Data\Sound_test/drop_item_unique.wav
+\Data\Sound_test/Dueling.wav
+\Data\Sound_test/Dummy step.wav
+\Data\Sound_test/Dummy Teleport.wav
+\Data\Sound_test/Dust Devil_action.wav
+\Data\Sound_test/Earth Heal.wav
+\Data\Sound_test/Earthquake.wav
+\Data\Sound_test/Embrace.wav
+\Data\Sound_test/Energy Wind_act.wav
+\Data\Sound_test/Energy Wind_hit.wav
+\Data\Sound_test/Eternal Projector.wav
+\Data\Sound_test/Evangelism.wav
+\Data\Sound_test/Exorcism Encounter.wav
+\Data\Sound_test/Exorcism Ritual_hit.wav
+\Data\Sound_test/Exorcism Ritual_swing.wav
+\Data\Sound_test/Expansion.wav
+\Data\Sound_test/Explosion_Rifle.wav
+\Data\Sound_test/Extreme Broom Rush_cast.wav
+\Data\Sound_test/Fanaticism.wav
+\Data\Sound_test/Fear.wav
+\Data\Sound_test/Feather Needle.wav
+\Data\Sound_test/Feather Needle_HIT.wav
+\Data\Sound_test/Feeding Red Pepper.wav
+\Data\Sound_test/fierce impact_hit.wav
+\Data\Sound_test/Final Charging.wav
+\Data\Sound_test/Final Charging_HIT.wav
+\Data\Sound_test/FinalizingPound_Cast.wav
+\Data\Sound_test/Fine Day.wav
+\Data\Sound_test/Fire Ball_CREATE.wav
+\Data\Sound_test/Fire Ball_FIRE.wav
+\Data\Sound_test/Fire Ball_HIT.wav
+\Data\Sound_test/Fire Bolt.wav
+\Data\Sound_test/Fire Bolt_hit.wav
+\Data\Sound_test/First Aid_cast.wav
+\Data\Sound_test/Fist Attack.wav
+\Data\Sound_test/Flame Claw.wav
+\Data\Sound_test/Flame Claw_HIT.wav
+\Data\Sound_test/Flame Ring.wav
+\Data\Sound_test/Flame Storm.wav
+\Data\Sound_test/Flame_Rifle.wav
+\Data\Sound_test/Flash Tackle.wav
+\Data\Sound_test/Florence Special_hit.wav
+\Data\Sound_test/Flying Chop Kick_act.wav
+\Data\Sound_test/Flying Chop Kick_cast.wav
+\Data\Sound_test/Flying Chop Kick_hit.wav
+\Data\Sound_test/Flying Dish_action.wav
+\Data\Sound_test/Flying Dish_hit.wav
+\Data\Sound_test/Foggy Morning_00.wav
+\Data\Sound_test/Force Drain.wav
+\Data\Sound_test/Fountain Barrier.wav
+\Data\Sound_test/Four Bagger Charging.wav
+\Data\Sound_test/Freedom.wav
+\Data\Sound_test/Friction Stone_hit.wav
+\Data\Sound_test/From now on BCT_cast.wav
+\Data\Sound_test/From now on BCT_hit.wav
+\Data\Sound_test/Frost Bite_hit.wav
+\Data\Sound_test/Frost Quake.wav
+\Data\Sound_test/Frozen Dagger.wav
+\Data\Sound_test/Full Moon.wav
+\Data\Sound_test/Gale Punch.wav
+\Data\Sound_test/Gale Punch_11.wav
+\Data\Sound_test/Gale Punch_jsm.wav
+\Data\Sound_test/Ghost_die.wav
+\Data\Sound_test/Girl's Paradise_cast.wav
+\Data\Sound_test/Gliding Fire.wav
+\Data\Sound_test/Gloom Gasp.wav
+\Data\Sound_test/Gloomy Day_jsm.wav
+\Data\Sound_test/God's Hand.wav
+\Data\Sound_test/Goliath Slayer_hit.wav
+\Data\Sound_test/Grand Claw.wav
+\Data\Sound_test/Grand Claw_HIT.wav
+\Data\Sound_test/Gravity Amplifying.wav
+\Data\Sound_test/Great Guts.wav
+\Data\Sound_test/GunShooting.wav
+\Data\Sound_test/Halberd Attack.wav
+\Data\Sound_test/Halberd Strike.wav
+\Data\Sound_test/HallucinationSmoke_Cast.wav
+\Data\Sound_test/happy_blossom_cast.wav
+\Data\Sound_test/Haste.wav
+\Data\Sound_test/Hatred Growling.wav
+\Data\Sound_test/hawk_dissect_action.wav
+\Data\Sound_test/Heal Wound.wav
+\Data\Sound_test/Healing(Monster).wav
+\Data\Sound_test/Healing.wav
+\Data\Sound_test/Healing2.wav
+\Data\Sound_test/Healling(Monster).wav
+\Data\Sound_test/Heavenly Pressing.wav
+\Data\Sound_test/Heavy Broom_action.wav
+\Data\Sound_test/Hedger Hedging.wav
+\Data\Sound_test/Hedger Hedging_11.wav
+\Data\Sound_test/hell cannibal.wav
+\Data\Sound_test/Hell Prison_cast.wav
+\Data\Sound_test/hit_end_cast.wav
+\Data\Sound_test/Hit_Gun.wav
+\Data\Sound_test/Hit_Mark.wav
+\Data\Sound_test/Hit_Musketeer break.wav
+\Data\Sound_test/Hit_Musketeer Kick.wav
+\Data\Sound_test/Hold Monster.wav
+\Data\Sound_test/Hold Person.wav
+\Data\Sound_test/Holy Blocking.wav
+\Data\Sound_test/Holy Circle.wav
+\Data\Sound_test/Holy Circle_HIT.wav
+\Data\Sound_test/Holy cross.wav
+\Data\Sound_test/Holyshock Blocking.wav
+\Data\Sound_test/Horizon Swing.wav
+\Data\Sound_test/Horizon Swing_HIT.wav
+\Data\Sound_test/Hot Enchanting.wav
+\Data\Sound_test/hot skin.wav
+\Data\Sound_test/Howling Blast.wav
+\Data\Sound_test/Howling Blast_exp.wav
+\Data\Sound_test/Hundred Sword.wav
+\Data\Sound_test/Hunting Treasure.wav
+\Data\Sound_test/Hurricain Impact.wav
+\Data\Sound_test/Hurricain Impact_hit.wav
+\Data\Sound_test/hurricain shock.wav
+\Data\Sound_test/hurricain shock_hit.wav
+\Data\Sound_test/Hwabyung_cast.wav
+\Data\Sound_test/Hwabyung_Hit.wav
+\Data\Sound_test/Ice Bolt.wav
+\Data\Sound_test/Ice Bolt_hit.wav
+\Data\Sound_test/Icicle Stalgmite_exp.wav
+\Data\Sound_test/Icy Stalagmite.wav
+\Data\Sound_test/Illusion Spear.wav
+\Data\Sound_test/Illusion Spear_HIT.wav
+\Data\Sound_test/IllusionSword_Action.wav
+\Data\Sound_test/IllusionSword_Hit.wav
+\Data\Sound_test/Impulse_cast.wav
+\Data\Sound_test/incenerate_1.wav
+\Data\Sound_test/incenerate_HIT.wav
+\Data\Sound_test/Incinerate.wav
+\Data\Sound_test/incinerate_2.wav
+\Data\Sound_test/Inferno Bar_cast.wav
+\Data\Sound_test/Inferno Bite_hit.wav
+\Data\Sound_test/Inferno Breath.wav
+\Data\Sound_test/Ink Spray.wav
+\Data\Sound_test/Interval Shooter.wav
+\Data\Sound_test/Iron Blade.wav
+\Data\Sound_test/Iron Claw.wav
+\Data\Sound_test/Iron Claw_Hit.wav
+\Data\Sound_test/Jabber Hitter_cast.wav
+\Data\Sound_test/Javelin Tempest.wav
+\Data\Sound_test/Javelin Tempest_HIT.wav
+\Data\Sound_test/Judgement Day.wav
+\Data\Sound_test/JumHyeol_cast.wav
+\Data\Sound_test/JumHyeol_hit.wav
+\Data\Sound_test/jump attack.wav
+\Data\Sound_test/jump wild stemp.wav
+\Data\Sound_test/jump wild stemp_hit.wav
+\Data\Sound_test/jump.wav
+\Data\Sound_test/Jumping Skipping_cast.wav
+\Data\Sound_test/Kelby.wav
+\Data\Sound_test/Key of The Dimension Door_cast.wav
+\Data\Sound_test/KiHap_cast.wav
+\Data\Sound_test/Kiss of Princess_act.wav
+\Data\Sound_test/Kiss of Princess_hit.wav
+\Data\Sound_test/Knocking Shot.wav
+\Data\Sound_test/Lance Charging.wav
+\Data\Sound_test/Lance.wav
+\Data\Sound_test/Land Marker.wav
+\Data\Sound_test/Land Marker_HIT.wav
+\Data\Sound_test/Laser Beam.wav
+\Data\Sound_test/Laser Beam_HIT.wav
+\Data\Sound_test/Layer Storm.wav
+\Data\Sound_test/leaders_bell.ogg
+\Data\Sound_test/Left Front Kick_act.wav
+\Data\Sound_test/Left Front Kick_hit.wav
+\Data\Sound_test/lethal_weapon_action.wav
+\Data\Sound_test/level_up.wav
+\Data\Sound_test/Levitate.wav
+\Data\Sound_test/Life Drain.wav
+\Data\Sound_test/Life Drain_HIT.wav
+\Data\Sound_test/Lift Up.wav
+\Data\Sound_test/Light Beam.wav
+\Data\Sound_test/Light Velocity.wav
+\Data\Sound_test/Lightning Thunder.wav
+\Data\Sound_test/Lightning Thunder_hit.wav
+\Data\Sound_test/Lightning Winder_act.wav
+\Data\Sound_test/Lightning Winder_hit.wav
+\Data\Sound_test/Lock Pick_act.wav
+\Data\Sound_test/Lock Pick_hit.wav
+\Data\Sound_test/Lower Accuracy_cast.wav
+\Data\Sound_test/Lunatic Howling.wav
+\Data\Sound_test/Machine Arrow.wav
+\Data\Sound_test/Magic Box_act.wav
+\Data\Sound_test/Magic Box_hit.wav
+\Data\Sound_test/Magic Dispelling.wav
+\Data\Sound_test/Magical Arrow.wav
+\Data\Sound_test/Main start.wav
+\Data\Sound_test/Mass.wav
+\Data\Sound_test/maximum_brake_cast.wav
+\Data\Sound_test/mclsup.wav
+\Data\Sound_test/Meditation.wav
+\Data\Sound_test/Mediumism_cast.wav
+\Data\Sound_test/Mediumism_hit.wav
+\Data\Sound_test/Melting.wav
+\Data\Sound_test/Meteor Shower.wav
+\Data\Sound_test/Meteor Shower_exp.wav
+\Data\Sound_test/Mirror Tower.wav
+\Data\Sound_test/Mistic Fog.wav
+\Data\Sound_test/Monster Charging 1.wav
+\Data\Sound_test/monster_get away.wav
+\Data\Sound_test/monster_summon.wav
+\Data\Sound_test/Monstrous Bullet_cast.wav
+\Data\Sound_test/Moon Cry.wav
+\Data\Sound_test/Mousetrap_cast.wav
+\Data\Sound_test/Mousetrap_hit.wav
+\Data\Sound_test/Muscle Inflation.wav
+\Data\Sound_test/Musketeer Kick.wav
+\Data\Sound_test/Name of Justice_act.wav
+\Data\Sound_test/Nameless Attack_cast.wav
+\Data\Sound_test/Nameless Attack_hit.wav
+\Data\Sound_test/nondmgatt.wav
+\Data\Sound_test/Nonstop Gun Shooting.wav
+\Data\Sound_test/Notification of Death.wav
+\Data\Sound_test/open the redeye_hit.wav
+\Data\Sound_test/open_door.wav
+\Data\Sound_test/Optical Hole_ACTION.wav
+\Data\Sound_test/Optical Hole_HIT.wav
+\Data\Sound_test/Parallel Sting.wav
+\Data\Sound_test/Party Heal.wav
+\Data\Sound_test/Patrol Order.wav
+\Data\Sound_test/PhantomBladeStrom_Cast.wav
+\Data\Sound_test/Pickpocket_hit.wav
+\Data\Sound_test/Piercing Arrow.wav
+\Data\Sound_test/Piercing Arrow_HIT.wav
+\Data\Sound_test/Pigeon Post_cast.wav
+\Data\Sound_test/pigeon.wav
+\Data\Sound_test/Pincer Attack.wav
+\Data\Sound_test/Played Dead_cast.wav
+\Data\Sound_test/Plot of Shadow_hit.wav
+\Data\Sound_test/Plump Gulp_act.wav
+\Data\Sound_test/Poison Bomb_hit.wav
+\Data\Sound_test/Poison Gas_cast.wav
+\Data\Sound_test/Poisonous Claw_act.wav
+\Data\Sound_test/Poisonous Dagger_cast.wav
+\Data\Sound_test/possession_bear_swing.wav
+\Data\Sound_test/possession_bull_swing.wav
+\Data\Sound_test/possession_hawk_cast.wav
+\Data\Sound_test/possession_puma_action.wav
+\Data\Sound_test/possession_snake_action.wav
+\Data\Sound_test/Power of Vitalization.wav
+\Data\Sound_test/Pray.wav
+\Data\Sound_test/Prayer.wav
+\Data\Sound_test/Protecting Elemental.wav
+\Data\Sound_test/Protecting Evil.wav
+\Data\Sound_test/pumb.wav
+\Data\Sound_test/Quasar Scattering_act.wav
+\Data\Sound_test/Quasar Scattering_exp.wav
+\Data\Sound_test/Quasar Scattering_hit.wav
+\Data\Sound_test/Rabbit Habbit_cast.wav
+\Data\Sound_test/Rabbit Run.wav
+\Data\Sound_test/Rabbit Rush.wav
+\Data\Sound_test/radiation_cast.wav
+\Data\Sound_test/Raise Skeleton.wav
+\Data\Sound_test/Rapid Reading.wav
+\Data\Sound_test/Rapid Stinger.wav
+\Data\Sound_test/Rapid Stinger_HIT.wav
+\Data\Sound_test/RCD_action.wav
+\Data\Sound_test/rebirth.wav
+\Data\Sound_test/Recorder.wav
+\Data\Sound_test/Redemption.wav
+\Data\Sound_test/Reflexion Skin.wav
+\Data\Sound_test/Regeneration.wav
+\Data\Sound_test/release_action.wav
+\Data\Sound_test/Restoration.wav
+\Data\Sound_test/Resurrection.wav
+\Data\Sound_test/Reverie Body_cast.wav
+\Data\Sound_test/Reversal_cast.wav
+\Data\Sound_test/Rifle Shooting.wav
+\Data\Sound_test/Right Turn Kick_act.wav
+\Data\Sound_test/Right Turn Kick_hit.wav
+\Data\Sound_test/Rock Bounding.wav
+\Data\Sound_test/Rocker Slinger_hit.wav
+\Data\Sound_test/Rose Garden_act.wav
+\Data\Sound_test/Rounding Boom 2.wav
+\Data\Sound_test/Rounding Boom.wav
+\Data\Sound_test/Rounding Boom_HIT.wav
+\Data\Sound_test/Rumble Dumble_act.wav
+\Data\Sound_test/Rumble Dumble_hit.wav
+\Data\Sound_test/SAD_cast.wav
+\Data\Sound_test/Saint Shield.wav
+\Data\Sound_test/Scimitar Cutting.wav
+\Data\Sound_test/Scimitar Cutting_HIT.wav
+\Data\Sound_test/Scold.wav
+\Data\Sound_test/scream fear.wav
+\Data\Sound_test/Screw Punch_act.wav
+\Data\Sound_test/Screw Punch_hit.wav
+\Data\Sound_test/Seeker Arrow.wav
+\Data\Sound_test/Shade Wing_cast.wav
+\Data\Sound_test/Shadow Sneaking_cast.wav
+\Data\Sound_test/Shield Flash.wav
+\Data\Sound_test/Shimmering Shield.wav
+\Data\Sound_test/ShiningExplosion_Exp.wav
+\Data\Sound_test/ShockLiberation_Action.wav
+\Data\Sound_test/Shooting Arrow.wav
+\Data\Sound_test/Shooting Arrow_HIT.wav
+\Data\Sound_test/Shooting light_ACTION.wav
+\Data\Sound_test/Shooting light_HIT.wav
+\Data\Sound_test/Shooting Star.wav
+\Data\Sound_test/Shooting Star_HIT.wav
+\Data\Sound_test/Side Step.wav
+\Data\Sound_test/Sing Along_cast.wav
+\Data\Sound_test/Sixth Sense_cast.wav
+\Data\Sound_test/skill_level_up.wav
+\Data\Sound_test/Skull Penetrator.wav
+\Data\Sound_test/Skull Penetrator_HIT.wav
+\Data\Sound_test/Slant Slashing.wav
+\Data\Sound_test/Slant Slashing_HIT.wav
+\Data\Sound_test/Slap Slap_act.wav
+\Data\Sound_test/Slap Slap_hit.wav
+\Data\Sound_test/Sleepy Hole2.wav
+\Data\Sound_test/Sling Around_act.wav
+\Data\Sound_test/Sling Bottling_hit.wav
+\Data\Sound_test/Sling Stone_hit.wav
+\Data\Sound_test/Sling Swing_act.wav
+\Data\Sound_test/Slip Slap_act.wav
+\Data\Sound_test/Slip Slap_hit.wav
+\Data\Sound_test/Slow Poison_cast.wav
+\Data\Sound_test/Smashing Velocity.wav
+\Data\Sound_test/Smashing Velocity_HIT.wav
+\Data\Sound_test/Smashing.wav
+\Data\Sound_test/Smashing_HIT.wav
+\Data\Sound_test/Snipe.wav
+\Data\Sound_test/Snipe_HIT.wav
+\Data\Sound_test/Sonic Blade 2.wav
+\Data\Sound_test/Sonic Blade 3.wav
+\Data\Sound_test/Sonic Blade.wav
+\Data\Sound_test/Sonic Blade_HIT.wav
+\Data\Sound_test/Sonic Blow.wav
+\Data\Sound_test/Sonic Blow_HIT.wav
+\Data\Sound_test/soul blaze_cast.wav
+\Data\Sound_test/soul chase_cast.wav
+\Data\Sound_test/soul exile_cast.wav
+\Data\Sound_test/Soul Oath_cast.wav
+\Data\Sound_test/Southern Cross.wav
+\Data\Sound_test/Southern Cross_HIT.wav
+\Data\Sound_test/Spear Throwing.wav
+\Data\Sound_test/Spear Throwing_HIT.wav
+\Data\Sound_test/Spear_ground.wav
+\Data\Sound_test/spear_hit.wav
+\Data\Sound_test/Spectral Fist.wav
+\Data\Sound_test/Spell Field_cast.wav
+\Data\Sound_test/Spider Sting.wav
+\Data\Sound_test/Spike Shielding 2.wav
+\Data\Sound_test/Spike Shielding.wav
+\Data\Sound_test/Spin Arising.wav
+\Data\Sound_test/Spin Drusting.wav
+\Data\Sound_test/Spin Drusting_hit.wav
+\Data\Sound_test/Spinning Broom_action.wav
+\Data\Sound_test/Spinning Broom_hit.wav
+\Data\Sound_test/Spread Arrow.wav
+\Data\Sound_test/Staff Attack.wav
+\Data\Sound_test/Staff Attack_hit.wav
+\Data\Sound_test/Star Release_act.wav
+\Data\Sound_test/Star Release_hit.wav
+\Data\Sound_test/Stare.wav
+\Data\Sound_test/Startling Liner.wav
+\Data\Sound_test/Startling Liner_HIT.wav
+\Data\Sound_test/Stellar Peer_act.wav
+\Data\Sound_test/Stellar Peer_cast.wav
+\Data\Sound_test/Stone Touch.wav
+\Data\Sound_test/Stormy_Weather.wav
+\Data\Sound_test/Straight Spike.wav
+\Data\Sound_test/Sweep Kick_act.wav
+\Data\Sound_test/Sweep Kick_hit.wav
+\Data\Sound_test/Sweep Off_cast.wav
+\Data\Sound_test/Sweep Up Dust_cast.wav
+\Data\Sound_test/Swellfish Bubble.wav
+\Data\Sound_test/Swellfish Bubble_02.wav
+\Data\Sound_test/SwiftTumbling_Action.wav
+\Data\Sound_test/Swing Around.wav
+\Data\Sound_test/Swing Infinity.wav
+\Data\Sound_test/Sword Attack.wav
+\Data\Sound_test/Sword Crush_hit.wav
+\Data\Sound_test/sword_hit.wav
+\Data\Sound_test/Tail Chaser.wav
+\Data\Sound_test/Tail Chaser_HIT.wav
+\Data\Sound_test/Tail Spear.wav
+\Data\Sound_test/Tail_hit.wav
+\Data\Sound_test/Tame.wav
+\Data\Sound_test/Tank Rush.wav
+\Data\Sound_test/Tank Rush_HIT.wav
+\Data\Sound_test/Telekinesis.wav
+\Data\Sound_test/Telekinesis_HIT.wav
+\Data\Sound_test/Teleportation.wav
+\Data\Sound_test/Terrible Dreams_cast.wav
+\Data\Sound_test/Thorn Armour.wav
+\Data\Sound_test/Thorn Smashing.wav
+\Data\Sound_test/Throwing Dagger_act.wav
+\Data\Sound_test/Throwing Dagger_hit.wav
+\Data\Sound_test/Thrusting Spear.wav
+\Data\Sound_test/Thrusting Spear_HIT.wav
+\Data\Sound_test/thrusting Swing.wav
+\Data\Sound_test/Thrusting.wav
+\Data\Sound_test/Thrusting_HIT.wav
+\Data\Sound_test/time control_cast.wav
+\Data\Sound_test/Tornado Shield.wav
+\Data\Sound_test/Toxin Explosin_hit.wav
+\Data\Sound_test/TracesCross_Cast.wav
+\Data\Sound_test/Trap_act.wav
+\Data\Sound_test/triple clutch_hit.wav
+\Data\Sound_test/Tripple Tune Kick_act.wav
+\Data\Sound_test/Tripple Tune Kick_cast.wav
+\Data\Sound_test/Turkey Charging.wav
+\Data\Sound_test/Turn Undead.wav
+\Data\Sound_test/Twirling Protector.wav
+\Data\Sound_test/Twirling Protector_Through.wav
+\Data\Sound_test/Typhoon Impulse.wav
+\Data\Sound_test/typhoon slash_action.wav
+\Data\Sound_test/Ultra Nova_hit.wav
+\Data\Sound_test/UnbeatenTwinSword_Action.wav
+\Data\Sound_test/UnicornsRoar_Cast.wav
+\Data\Sound_test/Vacuum Point.wav
+\Data\Sound_test/Vertical Smashing.wav
+\Data\Sound_test/Vertical Smashing_HIT.wav
+\Data\Sound_test/Vertical Swing.wav
+\Data\Sound_test/Vertical Swing_HIT.wav
+\Data\Sound_test/Vital Elbow_hit.wav
+\Data\Sound_test/Void Bow.wav
+\Data\Sound_test/VolcanicBreak_Exp.wav
+\Data\Sound_test/VolcanicClawling_Exp.wav
+\Data\Sound_test/VolcanicShot_Exp.wav
+\Data\Sound_test/War Cry.wav
+\Data\Sound_test/Water Cannon.wav
+\Data\Sound_test/Water Cannon_HIT.wav
+\Data\Sound_test/WaterFall.wav
+\Data\Sound_test/Weapon Defender.wav
+\Data\Sound_test/Whip Attack.wav
+\Data\Sound_test/Whip Attack_HIT.wav
+\Data\Sound_test/Whirling Spear.wav
+\Data\Sound_test/Wide Turn Kick_hit.wav
+\Data\Sound_test/Winding Claw_01.wav
+\Data\Sound_test/Winding Scythe.wav
+\Data\Sound_test/Windmill Slash_action.wav
+\Data\Sound_test/Windmill Slash_hit.wav
+\Data\Sound_test/Windy.wav
+\Data\Sound_test/Windy_01.wav
+\Data\Sound_test/Wolf Claw.wav
+\Data\Sound_test/Wolf Claw_HIT.wav
+\Data\Sound_test/Wolf fang.wav
+\Data\Sound_test/Worm Bite_act.wav
+\Data\Sound_test/Worm Bite_cast.wav
+\Data\Sound_test/Worship.wav
+\Data\Sound_test/Yelling.wav
+\Data\Sound_test/_addone.wav
+\Data\Sound_test/_crydragon.wav
+\Data\Sound_test/_crydragon2.wav
+\Data\Sound_test/_downstar.wav
+\Data\Sound_test/_fire_five.wav
+\Data\Sound_test/_fire_four.wav
+\Data\Sound_test/_fire_one.wav
+\Data\Sound_test/_fire_three.wav
+\Data\Sound_test/_fire_two.wav
+\Data\Sound_test/_flowerline.wav
+\Data\Sound_test/_flydragon.wav
+\Data\Sound_test/_handclap.wav
+\Data\Sound_test/_howlingdragon.wav
+\Data\Sound_test/_leftjanpick.wav
+\Data\Sound_test/_ppang_one.wav
+\Data\Sound_test/_ppang_one2.wav
+\Data\Sound_test/_rightjanpick.wav
+\Data\Sound_test/_ringmybell.wav
+\Data\Sound_test/_ringmybell2.wav
+\Data\Sound_test/_ringmybell3.wav
+\Data\Sound_test/_spray.wav
+\Data\Sound_test/_upstar.wav
+\Data\Sound_test\effect/auction_close.wav
+\Data\Sound_test\effect/auction_open.wav
+\Data\Sound_test\effect/blueBtn.wav
+\Data\Sound_test\effect/completeBtn.wav
+\Data\Sound_test\effect/completeQuest.wav
+\Data\Sound_test\effect/CreatureCreate01.wav
+\Data\Sound_test\effect/CreatureCreate02.wav
+\Data\Sound_test\effect/CreatureMixTure01.wav
+\Data\Sound_test\effect/CreatureMixTure02.wav
+\Data\Sound_test\effect/CreatureMixTure03.wav
+\Data\Sound_test\effect/CreatureReinforce01.wav
+\Data\Sound_test\effect/CreatureReinforce02.wav
+\Data\Sound_test\effect/destory_item.wav
+\Data\Sound_test\effect/duel_countdown.wav
+\Data\Sound_test\effect/duel_start.wav
+\Data\Sound_test\effect/enchant_fail.wav
+\Data\Sound_test\effect/enchant_success.wav
+\Data\Sound_test\effect/equip_item.wav
+\Data\Sound_test\effect/equip_ring.wav
+\Data\Sound_test\effect/greenBtn.wav
+\Data\Sound_test\effect/infor_window.wav
+\Data\Sound_test\effect/item_buy.wav
+\Data\Sound_test\effect/item_move.wav
+\Data\Sound_test\effect/item_refine.wav
+\Data\Sound_test\effect/item_repair.wav
+\Data\Sound_test\effect/item_restore.wav
+\Data\Sound_test\effect/O.wav
+\Data\Sound_test\effect/pick_up_gold.wav
+\Data\Sound_test\effect/pick_up_item.wav
+\Data\Sound_test\effect/polishing_animation.wav
+\Data\Sound_test\effect/polishing_fail.wav
+\Data\Sound_test\effect/polishing_success.wav
+\Data\Sound_test\effect/quest_complete.wav
+\Data\Sound_test\effect/quest_phase.wav
+\Data\Sound_test\effect/recover_death_penelty.wav
+\Data\Sound_test\effect/redBtn.wav
+\Data\Sound_test\effect/reinforce_fail.wav
+\Data\Sound_test\effect/reinforce_success.wav
+\Data\Sound_test\effect/remove_item.wav
+\Data\Sound_test\effect/RSE_Activate.wav
+\Data\Sound_test\effect/RSE_All_Success.wav
+\Data\Sound_test\effect/RSE_Drop.wav
+\Data\Sound_test\effect/RSE_Input_Fail.wav
+\Data\Sound_test\effect/RSE_Input_Success.wav
+\Data\Sound_test\effect/skill_activaition.wav
+\Data\Sound_test\effect/summon_carpet.wav
+\Data\Sound_test\effect/tab_change.wav
+\Data\Sound_test\effect/trade_window.wav
+\Data\Sound_test\effect/use_item.wav
+\Data\Sound_test\effect/X.wav
+\Data\Sound_test\event/Astral Spirit_cast.wav
+\Data\Sound_test\event/barobaros12_Event_1.wav
+\Data\Sound_test\event/barobaros12_Event_2.wav
+\Data\Sound_test\event/Beast berserker.wav
+\Data\Sound_test\event/burning_sphere_exp.wav
+\Data\Sound_test\event/Charging.wav
+\Data\Sound_test\event/Contract_cast.wav
+\Data\Sound_test\event/doomsday_action.wav
+\Data\Sound_test\event/Dragon Twister.wav
+\Data\Sound_test\event/Earth Heal.wav
+\Data\Sound_test\event/Earthquake.wav
+\Data\Sound_test\event/Falcon_Boss Intro.wav
+\Data\Sound_test\event/Fanaticism.wav
+\Data\Sound_test\event/fierce impact_hit.wav
+\Data\Sound_test\event/Flash.wav
+\Data\Sound_test\event/Gapp_event_1.wav
+\Data\Sound_test\event/Gapp_event_2.wav
+\Data\Sound_test\event/Ghost0.wav
+\Data\Sound_test\event/Giant_InfectedMonster_event.wav
+\Data\Sound_test\event/Impulse_cast.wav
+\Data\Sound_test\event/Lightning Thunder_hit.wav
+\Data\Sound_test\event/Meteor Shower_exp.wav
+\Data\Sound_test\event/MutatedDevil_2_event_.wav
+\Data\Sound_test\event/Thorn Armour.wav
+\Data\Sound_test\event/Twirling Protector_Through.wav
+\Data\Sound_test\event/Ultra Nova_hit.wav
+\Data\Sound_test\event/Water Cannon_HIT.wav
+\Data\Sound_test\event/WaterFall.wav
+\Data\Sound_test\event/Whirling Spear.wav
+\Data\Sound_test\event/Worm Bite_act.wav
+\Data\Sound_test\event/Worm Bite_cast.wav
+\Data\Sound_test\event/_crydragon.wav
+\Data\Sound_test\event/_ppang_one.wav
+\Data\Sound_test\minipet/arm_bk.wav
+\Data\Sound_test\minipet/arm_e1.wav
+\Data\Sound_test\minipet/arm_e2.wav
+\Data\Sound_test\minipet/arm_e3.wav
+\Data\Sound_test\minipet/arm_fi.wav
+\Data\Sound_test\minipet/arm_in.wav
+\Data\Sound_test\minipet/arm_lv.wav
+\Data\Sound_test\minipet/arm_n1.wav
+\Data\Sound_test\minipet/arm_n2.wav
+\Data\Sound_test\minipet/arm_n3.wav
+\Data\Sound_test\minipet/arm_ot.wav
+\Data\Sound_test\minipet/arm_s1.wav
+\Data\Sound_test\minipet/arm_s2.wav
+\Data\Sound_test\minipet/arm_uu.wav
+\Data\Sound_test\minipet/bit_bk.wav
+\Data\Sound_test\minipet/bit_e1.wav
+\Data\Sound_test\minipet/bit_e2.wav
+\Data\Sound_test\minipet/bit_e3.wav
+\Data\Sound_test\minipet/bit_fi.wav
+\Data\Sound_test\minipet/bit_in.wav
+\Data\Sound_test\minipet/bit_lv.wav
+\Data\Sound_test\minipet/bit_n1.wav
+\Data\Sound_test\minipet/bit_n2.wav
+\Data\Sound_test\minipet/bit_n3.wav
+\Data\Sound_test\minipet/bit_ot.wav
+\Data\Sound_test\minipet/bit_s1.wav
+\Data\Sound_test\minipet/bit_s2.wav
+\Data\Sound_test\minipet/bit_uu.wav
+\Data\Sound_test\minipet/cha_bk.wav
+\Data\Sound_test\minipet/cha_e1.wav
+\Data\Sound_test\minipet/cha_e2.wav
+\Data\Sound_test\minipet/cha_e3.wav
+\Data\Sound_test\minipet/cha_fi.wav
+\Data\Sound_test\minipet/cha_in.wav
+\Data\Sound_test\minipet/cha_lv.wav
+\Data\Sound_test\minipet/cha_n1.wav
+\Data\Sound_test\minipet/cha_n2.wav
+\Data\Sound_test\minipet/cha_n3.wav
+\Data\Sound_test\minipet/cha_ot.wav
+\Data\Sound_test\minipet/cha_s1.wav
+\Data\Sound_test\minipet/cha_s2.wav
+\Data\Sound_test\minipet/cha_uu.wav
+\Data\Sound_test\minipet/dao_bk.wav
+\Data\Sound_test\minipet/dao_e1.wav
+\Data\Sound_test\minipet/dao_e2.wav
+\Data\Sound_test\minipet/dao_e3.wav
+\Data\Sound_test\minipet/dao_fi.wav
+\Data\Sound_test\minipet/dao_in.wav
+\Data\Sound_test\minipet/dao_lv.wav
+\Data\Sound_test\minipet/dao_n1.wav
+\Data\Sound_test\minipet/dao_n2.wav
+\Data\Sound_test\minipet/dao_n3.wav
+\Data\Sound_test\minipet/dao_ot.wav
+\Data\Sound_test\minipet/dao_s1.wav
+\Data\Sound_test\minipet/dao_s2.wav
+\Data\Sound_test\minipet/dao_uu.wav
+\Data\Sound_test\minipet/dyg_e1.wav
+\Data\Sound_test\minipet/dyg_e2.wav
+\Data\Sound_test\minipet/dyg_e3.wav
+\Data\Sound_test\minipet/dyg_in.wav
+\Data\Sound_test\minipet/dyg_lv.wav
+\Data\Sound_test\minipet/dyg_n1.wav
+\Data\Sound_test\minipet/dyg_ot.wav
+\Data\Sound_test\minipet/eyg_e1.wav
+\Data\Sound_test\minipet/eyg_e2.wav
+\Data\Sound_test\minipet/eyg_e3.wav
+\Data\Sound_test\minipet/eyg_in.wav
+\Data\Sound_test\minipet/eyg_lv.wav
+\Data\Sound_test\minipet/eyg_n1.wav
+\Data\Sound_test\minipet/eyg_ot.wav
+\Data\Sound_test\minipet/fyg_e1.wav
+\Data\Sound_test\minipet/fyg_e2.wav
+\Data\Sound_test\minipet/fyg_e3.wav
+\Data\Sound_test\minipet/fyg_in.wav
+\Data\Sound_test\minipet/fyg_lv.wav
+\Data\Sound_test\minipet/fyg_n1.wav
+\Data\Sound_test\minipet/fyg_ot.wav
+\Data\Sound_test\minipet/gno_bk.wav
+\Data\Sound_test\minipet/gno_e1.wav
+\Data\Sound_test\minipet/gno_e2.wav
+\Data\Sound_test\minipet/gno_e3.wav
+\Data\Sound_test\minipet/gno_fi.wav
+\Data\Sound_test\minipet/gno_in.wav
+\Data\Sound_test\minipet/gno_lv.wav
+\Data\Sound_test\minipet/gno_n1.wav
+\Data\Sound_test\minipet/gno_n2.wav
+\Data\Sound_test\minipet/gno_n3.wav
+\Data\Sound_test\minipet/gno_ot.wav
+\Data\Sound_test\minipet/gno_s1.wav
+\Data\Sound_test\minipet/gno_s2.wav
+\Data\Sound_test\minipet/gno_uu.wav
+\Data\Sound_test\minipet/goo_bk.wav
+\Data\Sound_test\minipet/goo_e1.wav
+\Data\Sound_test\minipet/goo_e2.wav
+\Data\Sound_test\minipet/goo_e3.wav
+\Data\Sound_test\minipet/goo_fi.wav
+\Data\Sound_test\minipet/goo_in.wav
+\Data\Sound_test\minipet/goo_lv.wav
+\Data\Sound_test\minipet/goo_n1.wav
+\Data\Sound_test\minipet/goo_n2.wav
+\Data\Sound_test\minipet/goo_n3.wav
+\Data\Sound_test\minipet/goo_ot.wav
+\Data\Sound_test\minipet/goo_s1.wav
+\Data\Sound_test\minipet/goo_s2.wav
+\Data\Sound_test\minipet/goo_uu.wav
+\Data\Sound_test\minipet/hao_bk.wav
+\Data\Sound_test\minipet/hao_e1.wav
+\Data\Sound_test\minipet/hao_e2.wav
+\Data\Sound_test\minipet/hao_e3.wav
+\Data\Sound_test\minipet/hao_fi.wav
+\Data\Sound_test\minipet/hao_in.wav
+\Data\Sound_test\minipet/hao_lv.wav
+\Data\Sound_test\minipet/hao_n1.wav
+\Data\Sound_test\minipet/hao_n2.wav
+\Data\Sound_test\minipet/hao_n3.wav
+\Data\Sound_test\minipet/hao_ot.wav
+\Data\Sound_test\minipet/hao_s1.wav
+\Data\Sound_test\minipet/hao_s2.wav
+\Data\Sound_test\minipet/hao_uu.wav
+\Data\Sound_test\minipet/lyg_e1.wav
+\Data\Sound_test\minipet/lyg_e2.wav
+\Data\Sound_test\minipet/lyg_e3.wav
+\Data\Sound_test\minipet/lyg_in.wav
+\Data\Sound_test\minipet/lyg_lv.wav
+\Data\Sound_test\minipet/lyg_n1.wav
+\Data\Sound_test\minipet/lyg_ot.wav
+\Data\Sound_test\minipet/mio_bk.wav
+\Data\Sound_test\minipet/mio_e1.wav
+\Data\Sound_test\minipet/mio_e2.wav
+\Data\Sound_test\minipet/mio_e3.wav
+\Data\Sound_test\minipet/mio_fi.wav
+\Data\Sound_test\minipet/mio_in.wav
+\Data\Sound_test\minipet/mio_lv.wav
+\Data\Sound_test\minipet/mio_n1.wav
+\Data\Sound_test\minipet/mio_n2.wav
+\Data\Sound_test\minipet/mio_n3.wav
+\Data\Sound_test\minipet/mio_ot.wav
+\Data\Sound_test\minipet/mio_s1.wav
+\Data\Sound_test\minipet/mio_s2.wav
+\Data\Sound_test\minipet/mio_uu.wav
+\Data\Sound_test\minipet/poo_bk.wav
+\Data\Sound_test\minipet/poo_e1.wav
+\Data\Sound_test\minipet/poo_e2.wav
+\Data\Sound_test\minipet/poo_e3.wav
+\Data\Sound_test\minipet/poo_fi.wav
+\Data\Sound_test\minipet/poo_in.wav
+\Data\Sound_test\minipet/poo_lv.wav
+\Data\Sound_test\minipet/poo_n1.wav
+\Data\Sound_test\minipet/poo_n2.wav
+\Data\Sound_test\minipet/poo_n3.wav
+\Data\Sound_test\minipet/poo_ot.wav
+\Data\Sound_test\minipet/poo_s1.wav
+\Data\Sound_test\minipet/poo_s2.wav
+\Data\Sound_test\minipet/poo_uu.wav
+\Data\Sound_test\minipet/sal_bk.wav
+\Data\Sound_test\minipet/sal_e1.wav
+\Data\Sound_test\minipet/sal_e2.wav
+\Data\Sound_test\minipet/sal_e3.wav
+\Data\Sound_test\minipet/sal_fi.wav
+\Data\Sound_test\minipet/sal_in.wav
+\Data\Sound_test\minipet/sal_lv.wav
+\Data\Sound_test\minipet/sal_n1.wav
+\Data\Sound_test\minipet/sal_n2.wav
+\Data\Sound_test\minipet/sal_n3.wav
+\Data\Sound_test\minipet/sal_ot.wav
+\Data\Sound_test\minipet/sal_s1.wav
+\Data\Sound_test\minipet/sal_s2.wav
+\Data\Sound_test\minipet/sal_uu.wav
+\Data\Sound_test\minipet/sha_bk.wav
+\Data\Sound_test\minipet/sha_e1.wav
+\Data\Sound_test\minipet/sha_e2.wav
+\Data\Sound_test\minipet/sha_e3.wav
+\Data\Sound_test\minipet/sha_fi.wav
+\Data\Sound_test\minipet/sha_in.wav
+\Data\Sound_test\minipet/sha_lv.wav
+\Data\Sound_test\minipet/sha_n1.wav
+\Data\Sound_test\minipet/sha_n2.wav
+\Data\Sound_test\minipet/sha_n3.wav
+\Data\Sound_test\minipet/sha_ot.wav
+\Data\Sound_test\minipet/sha_s1.wav
+\Data\Sound_test\minipet/sha_s2.wav
+\Data\Sound_test\minipet/sha_uu.wav
+\Data\Sound_test\minipet/sil_bk.wav
+\Data\Sound_test\minipet/sil_e1.wav
+\Data\Sound_test\minipet/sil_e2.wav
+\Data\Sound_test\minipet/sil_e3.wav
+\Data\Sound_test\minipet/sil_fi.wav
+\Data\Sound_test\minipet/sil_in.wav
+\Data\Sound_test\minipet/sil_lv.wav
+\Data\Sound_test\minipet/sil_n1.wav
+\Data\Sound_test\minipet/sil_n2.wav
+\Data\Sound_test\minipet/sil_n3.wav
+\Data\Sound_test\minipet/sil_ot.wav
+\Data\Sound_test\minipet/sil_s1.wav
+\Data\Sound_test\minipet/sil_s1_A.wav
+\Data\Sound_test\minipet/sil_s2.wav
+\Data\Sound_test\minipet/sil_uu.wav
+\Data\Sound_test\minipet/soo_bk.wav
+\Data\Sound_test\minipet/soo_e1.wav
+\Data\Sound_test\minipet/soo_e2.wav
+\Data\Sound_test\minipet/soo_e3.wav
+\Data\Sound_test\minipet/soo_fi.wav
+\Data\Sound_test\minipet/soo_in.wav
+\Data\Sound_test\minipet/soo_lv.wav
+\Data\Sound_test\minipet/soo_n1.wav
+\Data\Sound_test\minipet/soo_n2.wav
+\Data\Sound_test\minipet/soo_n3.wav
+\Data\Sound_test\minipet/soo_ot.wav
+\Data\Sound_test\minipet/soo_s1.wav
+\Data\Sound_test\minipet/soo_s2.wav
+\Data\Sound_test\minipet/soo_uu.wav
+\Data\Sound_test\minipet/suo_bk.wav
+\Data\Sound_test\minipet/suo_e1.wav
+\Data\Sound_test\minipet/suo_e2.wav
+\Data\Sound_test\minipet/suo_e3.wav
+\Data\Sound_test\minipet/suo_fi.wav
+\Data\Sound_test\minipet/suo_in.wav
+\Data\Sound_test\minipet/suo_lv.wav
+\Data\Sound_test\minipet/suo_n1.wav
+\Data\Sound_test\minipet/suo_n2.wav
+\Data\Sound_test\minipet/suo_n3.wav
+\Data\Sound_test\minipet/suo_ot.wav
+\Data\Sound_test\minipet/suo_s1.wav
+\Data\Sound_test\minipet/suo_s2.wav
+\Data\Sound_test\minipet/suo_uu.wav
+\Data\Sound_test\minipet/und_bk.wav
+\Data\Sound_test\minipet/und_e1.wav
+\Data\Sound_test\minipet/und_e2.wav
+\Data\Sound_test\minipet/und_e3.wav
+\Data\Sound_test\minipet/und_fi.wav
+\Data\Sound_test\minipet/und_in.wav
+\Data\Sound_test\minipet/und_lv.wav
+\Data\Sound_test\minipet/und_n1.wav
+\Data\Sound_test\minipet/und_n2.wav
+\Data\Sound_test\minipet/und_n3.wav
+\Data\Sound_test\minipet/und_ot.wav
+\Data\Sound_test\minipet/und_s1.wav
+\Data\Sound_test\minipet/und_s2.wav
+\Data\Sound_test\minipet/und_uu.wav
+\Data\Sound_test\minipet/wag_e1.wav
+\Data\Sound_test\minipet/wag_e2.wav
+\Data\Sound_test\minipet/wag_e3.wav
+\Data\Sound_test\minipet/wag_in.wav
+\Data\Sound_test\minipet/wag_lv.wav
+\Data\Sound_test\minipet/wag_n1.wav
+\Data\Sound_test\minipet/wag_ot.wav
+\Data\Sound_test\minipet/wha_bk.wav
+\Data\Sound_test\minipet/wha_e1.wav
+\Data\Sound_test\minipet/wha_e2.wav
+\Data\Sound_test\minipet/wha_e3.wav
+\Data\Sound_test\minipet/wha_fi.wav
+\Data\Sound_test\minipet/wha_in.wav
+\Data\Sound_test\minipet/wha_lv.wav
+\Data\Sound_test\minipet/wha_n1.wav
+\Data\Sound_test\minipet/wha_n2.wav
+\Data\Sound_test\minipet/wha_n3.wav
+\Data\Sound_test\minipet/wha_ot.wav
+\Data\Sound_test\minipet/wha_s1.wav
+\Data\Sound_test\minipet/wha_s2.wav
+\Data\Sound_test\minipet/wha_uu.wav
+\Data\Sound_test\minipet/wig_e1.wav
+\Data\Sound_test\minipet/wig_e2.wav
+\Data\Sound_test\minipet/wig_e3.wav
+\Data\Sound_test\minipet/wig_in.wav
+\Data\Sound_test\minipet/wig_lv.wav
+\Data\Sound_test\minipet/wig_n1.wav
+\Data\Sound_test\minipet/wig_ot.wav
+\Data\Sound_test\minipet/wis_bk.wav
+\Data\Sound_test\minipet/wis_e1.wav
+\Data\Sound_test\minipet/wis_e2.wav
+\Data\Sound_test\minipet/wis_e3.wav
+\Data\Sound_test\minipet/wis_fi.wav
+\Data\Sound_test\minipet/wis_in.wav
+\Data\Sound_test\minipet/wis_lv.wav
+\Data\Sound_test\minipet/wis_n1.wav
+\Data\Sound_test\minipet/wis_n2.wav
+\Data\Sound_test\minipet/wis_n3.wav
+\Data\Sound_test\minipet/wis_ot.wav
+\Data\Sound_test\minipet/wis_s1.wav
+\Data\Sound_test\minipet/wis_s2.wav
+\Data\Sound_test\minipet/wis_uu.wav
+\Data\Sound_test\minipet/zee_bk.wav
+\Data\Sound_test\minipet/zee_e1.wav
+\Data\Sound_test\minipet/zee_e2.wav
+\Data\Sound_test\minipet/zee_e3.wav
+\Data\Sound_test\minipet/zee_fi.wav
+\Data\Sound_test\minipet/zee_in.wav
+\Data\Sound_test\minipet/zee_lv.wav
+\Data\Sound_test\minipet/zee_n1.wav
+\Data\Sound_test\minipet/zee_n2.wav
+\Data\Sound_test\minipet/zee_n3.wav
+\Data\Sound_test\minipet/zee_ot.wav
+\Data\Sound_test\minipet/zee_s1.wav
+\Data\Sound_test\minipet/zee_s2.wav
+\Data\Sound_test\minipet/zee_uu.wav
+\Data\Sound_test\monster/AggressiveNative0.wav
+\Data\Sound_test\monster/AggressiveNative_die.wav
+\Data\Sound_test\monster/Archmage0.wav
+\Data\Sound_test\monster/Archmage_die.wav
+\Data\Sound_test\monster/Assassin0.wav
+\Data\Sound_test\monster/Assassin_die.wav
+\Data\Sound_test\monster/Bahomate0.wav
+\Data\Sound_test\monster/Bahomate_die.wav
+\Data\Sound_test\monster/BigMole0.wav
+\Data\Sound_test\monster/BigMole_die.wav
+\Data\Sound_test\monster/Centaurs0.wav
+\Data\Sound_test\monster/Centaurs_die.wav
+\Data\Sound_test\monster/CockFighter0.wav
+\Data\Sound_test\monster/CockFighter_die.wav
+\Data\Sound_test\monster/Conjuerer0.wav
+\Data\Sound_test\monster/Conjuerer_die.wav
+\Data\Sound_test\monster/DarkElf0.wav
+\Data\Sound_test\monster/DarkElf_die.wav
+\Data\Sound_test\monster/DarkFire0.wav
+\Data\Sound_test\monster/DarkFire_die.wav
+\Data\Sound_test\monster/DarkPriest0.wav
+\Data\Sound_test\monster/DarkPriest_die.wav
+\Data\Sound_test\monster/DemiBeholder0.wav
+\Data\Sound_test\monster/DemiBeholder_die.wav
+\Data\Sound_test\monster/Demon0.wav
+\Data\Sound_test\monster/Demon_die.wav
+\Data\Sound_test\monster/ElfKing0.wav
+\Data\Sound_test\monster/ElfKing_die.wav
+\Data\Sound_test\monster/FallenWizard0.wav
+\Data\Sound_test\monster/FallenWizard_die.wav
+\Data\Sound_test\monster/FireBogy0.wav
+\Data\Sound_test\monster/FireBogy_die.wav
+\Data\Sound_test\monster/Gargoyle0.wav
+\Data\Sound_test\monster/Gargoyle_die.wav
+\Data\Sound_test\monster/Ghost0.wav
+\Data\Sound_test\monster/GhostArmor0.wav
+\Data\Sound_test\monster/GhostArmor_die.wav
+\Data\Sound_test\monster/Ghost_die.wav
+\Data\Sound_test\monster/Giant0.wav
+\Data\Sound_test\monster/GiantWorm0.wav
+\Data\Sound_test\monster/GiantWorm_die.wav
+\Data\Sound_test\monster/Giant_die.wav
+\Data\Sound_test\monster/InsectSwarm0.wav
+\Data\Sound_test\monster/InsectSwarm_die.wav
+\Data\Sound_test\monster/JellyFish0.wav
+\Data\Sound_test\monster/JellyFish_die.wav
+\Data\Sound_test\monster/KingCrab0.wav
+\Data\Sound_test\monster/KingCrab_die.wav
+\Data\Sound_test\monster/Lich0.wav
+\Data\Sound_test\monster/Lich_die.wav
+\Data\Sound_test\monster/LivingDead0.wav
+\Data\Sound_test\monster/LivingDead_die.wav
+\Data\Sound_test\monster/LizardRider0.wav
+\Data\Sound_test\monster/LizardRider_DIE.wav
+\Data\Sound_test\monster/LizardWarrior0.wav
+\Data\Sound_test\monster/LizardWarrior_die.wav
+\Data\Sound_test\monster/MadBear0.wav
+\Data\Sound_test\monster/MadBear_die.wav
+\Data\Sound_test\monster/MermanKnight0.wav
+\Data\Sound_test\monster/Mermanknight_die.wav
+\Data\Sound_test\monster/MetalGolem0.wav
+\Data\Sound_test\monster/MetalGolem_die.wav
+\Data\Sound_test\monster/Mummy0.wav
+\Data\Sound_test\monster/Mummy_die.wav
+\Data\Sound_test\monster/Ogre0.wav
+\Data\Sound_test\monster/Ogre_die.wav
+\Data\Sound_test\monster/RatFighter0.wav
+\Data\Sound_test\monster/RatFighter_die.wav
+\Data\Sound_test\monster/RedDemon0.wav
+\Data\Sound_test\monster/RedDemon_die.wav
+\Data\Sound_test\monster/Reptile0.wav
+\Data\Sound_test\monster/Reptile_die.wav
+\Data\Sound_test\monster/Salamander0.wav
+\Data\Sound_test\monster/Salamander_die.wav
+\Data\Sound_test\monster/Scorpion0.wav
+\Data\Sound_test\monster/Scorpion_die.wav
+\Data\Sound_test\monster/SkeletonAxe0.wav
+\Data\Sound_test\monster/SkeletonAxe_die.wav
+\Data\Sound_test\monster/SkeletonKnight0.wav
+\Data\Sound_test\monster/SkeletonKnight_die.wav
+\Data\Sound_test\monster/SkeletonSword0.wav
+\Data\Sound_test\monster/SkeletonSword_die.wav
+\Data\Sound_test\monster/Spider0.wav
+\Data\Sound_test\monster/Spider_die.wav
+\Data\Sound_test\monster/TempleKnight0.wav
+\Data\Sound_test\monster/TempleKnight_die.wav
+\Data\Sound_test\monster/TimberMan0.wav
+\Data\Sound_test\monster/TimberMan_die.wav
+\Data\Sound_test\monster/TongueEye0.wav
+\Data\Sound_test\monster/TongueEye_die.wav
+\Data\Sound_test\monster/TurtleDragon0.wav
+\Data\Sound_test\monster/TurtleDragon_die.wav
+\Data\Sound_test\monster/Vampire0.wav
+\Data\Sound_test\monster/Vampire_die.wav
+\Data\Sound_test\monster/WhiteShadow0.wav
+\Data\Sound_test\monster/WhiteShadow_die.wav
+\Data\Sound_test\monster/Wolf0.wav
+\Data\Sound_test\monster/Wolf_die.wav
+\Data\Sound_test\monster/Zombie0.wav
+\Data\Sound_test\monster/Zombie_die.wav
+\Data\Sound_test\Voice\Action/Alchemist_Attack_1.wav
+\Data\Sound_test\Voice\Action/Alchemist_Attack_2.wav
+\Data\Sound_test\Voice\Action/Alchemist_Attack_3.wav
+\Data\Sound_test\Voice\Action/Alchemist_Charging_1.wav
+\Data\Sound_test\Voice\Action/Alchemist_Charging_2.wav
+\Data\Sound_test\Voice\Action/Alchemist_Die_1.wav
+\Data\Sound_test\Voice\Action/Alchemist_Hit_1.wav
+\Data\Sound_test\Voice\Action/Alchemist_Hit_2.wav
+\Data\Sound_test\Voice\Action/Alchemist_Hit_3.wav
+\Data\Sound_test\Voice\Action/Alchemist_Hit_4.wav
+\Data\Sound_test\Voice\Action/Alchemist_Hit_5.wav
+\Data\Sound_test\Voice\Action/Alchemist_Hit_6.wav
+\Data\Sound_test\Voice\Action/Alchemist_Rest_1.wav
+\Data\Sound_test\Voice\Action/Alchemist_Skill_1.wav
+\Data\Sound_test\Voice\Action/Alchemist_Skill_2.wav
+\Data\Sound_test\Voice\Action/Alchemist_Skill_3.wav
+\Data\Sound_test\Voice\Action/Alchemist_Skill_4.wav
+\Data\Sound_test\Voice\Action/Alchemist_Skill_5.wav
+\Data\Sound_test\Voice\Action/Alchemist_Skill_6.wav
+\Data\Sound_test\Voice\Action/Alchemist_Skill_7.wav
+\Data\Sound_test\Voice\Action/Alchemist_Skill_8.wav
+\Data\Sound_test\Voice\Action/Beast_Man_Attack_1.wav
+\Data\Sound_test\Voice\Action/Beast_Man_Attack_2.wav
+\Data\Sound_test\Voice\Action/Beast_Man_Attack_3.wav
+\Data\Sound_test\Voice\Action/Beast_Man_Die_1.wav
+\Data\Sound_test\Voice\Action/Beast_Man_Hit_1.wav
+\Data\Sound_test\Voice\Action/Beast_Man_Hit_2.wav
+\Data\Sound_test\Voice\Action/Beast_Man_Hit_3.wav
+\Data\Sound_test\Voice\Action/Beast_Man_Hit_4.wav
+\Data\Sound_test\Voice\Action/Beast_Man_Hit_5.wav
+\Data\Sound_test\Voice\Action/Beast_Man_Rest_1.wav
+\Data\Sound_test\Voice\Action/Beast_Man_Skill_1.wav
+\Data\Sound_test\Voice\Action/Beast_Man_Skill_2.wav
+\Data\Sound_test\Voice\Action/Beast_Man_Skill_3.wav
+\Data\Sound_test\Voice\Action/Beast_Man_Skill_4.wav
+\Data\Sound_test\Voice\Action/Beast_Man_Skill_5.wav
+\Data\Sound_test\Voice\Action/Beast_Man_Skill_6.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Attack_1.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Attack_2.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Attack_3.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Attack_4.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Attack_5.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Attack_6.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Attack_7.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Attack_8.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Charging_1.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Charging_2.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Charging_3.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Die_1.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Hit_1.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Hit_2.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Hit_3.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Hit_4.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Hit_5.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Hit_6.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Hit_7.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Rest_1.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Skill_1.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Skill_2.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Skill_3.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Skill_4.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Skill_5.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Skill_6.wav
+\Data\Sound_test\Voice\Action/Beast_Tamer_Skill_7.wav
+\Data\Sound_test\Voice\Action/Champion_Attack_1.wav
+\Data\Sound_test\Voice\Action/Champion_Attack_2.wav
+\Data\Sound_test\Voice\Action/Champion_Attack_3.wav
+\Data\Sound_test\Voice\Action/Champion_Attack_4.wav
+\Data\Sound_test\Voice\Action/Champion_Charging_1.wav
+\Data\Sound_test\Voice\Action/Champion_Hit_1.wav
+\Data\Sound_test\Voice\Action/Champion_Rest_1.wav
+\Data\Sound_test\Voice\Action/Champion_Skill_1.wav
+\Data\Sound_test\Voice\Action/Champion_Skill_2.wav
+\Data\Sound_test\Voice\Action/Champion_Skill_3.wav
+\Data\Sound_test\Voice\Action/Champion_Skill_4.wav
+\Data\Sound_test\Voice\Action/Champion_Skill_5.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Attack_1.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Attack_2.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Attack_3.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Die_1.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Hit_1.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Hit_2.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Hit_3.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Hit_4.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Hit_5.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Hit_6.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Rest_1.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Skill_1.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Skill_10.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Skill_2.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Skill_3.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Skill_4.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Skill_5.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Skill_6.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Skill_7.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Skill_8.wav
+\Data\Sound_test\Voice\Action/Demon_Sorceress_Skill_9.wav
+\Data\Sound_test\Voice\Action/Devil_Attack_1.wav
+\Data\Sound_test\Voice\Action/Devil_Attack_2.wav
+\Data\Sound_test\Voice\Action/Devil_Attack_3.wav
+\Data\Sound_test\Voice\Action/Devil_Die_1.wav
+\Data\Sound_test\Voice\Action/Devil_Hit_1.wav
+\Data\Sound_test\Voice\Action/Devil_Hit_2.wav
+\Data\Sound_test\Voice\Action/Devil_Hit_3.wav
+\Data\Sound_test\Voice\Action/Devil_Hit_4.wav
+\Data\Sound_test\Voice\Action/Devil_Hit_5.wav
+\Data\Sound_test\Voice\Action/Devil_Hit_6.wav
+\Data\Sound_test\Voice\Action/Devil_Hit_7.wav
+\Data\Sound_test\Voice\Action/Devil_Rest_1.wav
+\Data\Sound_test\Voice\Action/Devil_Skill_1.wav
+\Data\Sound_test\Voice\Action/Devil_Skill_2.wav
+\Data\Sound_test\Voice\Action/Devil_Skill_3.wav
+\Data\Sound_test\Voice\Action/Devil_Skill_4.wav
+\Data\Sound_test\Voice\Action/Devil_Skill_5.wav
+\Data\Sound_test\Voice\Action/Devil_Skill_6.wav
+\Data\Sound_test\Voice\Action/Devil_Skill_7.wav
+\Data\Sound_test\Voice\Action/Devil_Skill_8.wav
+\Data\Sound_test\Voice\Action/Fallen_Angel_Attack_1.wav
+\Data\Sound_test\Voice\Action/Fallen_Angel_Attack_2.wav
+\Data\Sound_test\Voice\Action/Fallen_Angel_Attack_3.wav
+\Data\Sound_test\Voice\Action/Fallen_Angel_Attack_4.wav
+\Data\Sound_test\Voice\Action/Fallen_Angel_Skill_1.wav
+\Data\Sound_test\Voice\Action/Fallen_Angel_Skill_2.wav
+\Data\Sound_test\Voice\Action/Fallen_Angel_Skill_3.wav
+\Data\Sound_test\Voice\Action/Fallen_Angel_Skill_4.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Attack_1.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Attack_10.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Attack_2.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Attack_3.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Attack_4.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Attack_5.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Attack_6.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Attack_7.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Attack_8.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Attack_9.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Charging_1.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Die_1.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Hit_1.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Hit_2.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Hit_3.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Hit_4.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Hit_5.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Hit_6.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Hit_7.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Rest_1.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Skill_1.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Skill_2.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Skill_3.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Skill_4.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Skill_5.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Skill_6.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Skill_7.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Skill_8.wav
+\Data\Sound_test\Voice\Action/Knight_Warrior_Skill_9.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Attack_1.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Attack_2.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Attack_3.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Attack_4.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Attack_5.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Attack_6.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Attack_7.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Charging_1.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Die_1.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Hit_1.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Hit_2.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Hit_3.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Hit_4.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Hit_5.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Hit_6.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Hit_7.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Rest_1.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Skill_1.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Skill_2.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Skill_3.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Skill_4.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Skill_5.wav
+\Data\Sound_test\Voice\Action/Magic Archer_Skill_6.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Attack_1.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Attack_2.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Attack_3.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Attack_4.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Attack_5.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Attack_6.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Attack_7.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Attack_8.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Die_1.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Hit_1.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Hit_2.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Hit_3.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Hit_4.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Hit_5.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Hit_6.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Hit_7.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Rest_1.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Skill_1.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Skill_2.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Skill_3.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Skill_4.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Skill_5.wav
+\Data\Sound_test\Voice\Action/Magical_Girl_Skill_6.wav
+\Data\Sound_test\Voice\Action/Maid_Attack_1.wav
+\Data\Sound_test\Voice\Action/Maid_Attack_2.wav
+\Data\Sound_test\Voice\Action/Maid_Attack_3.wav
+\Data\Sound_test\Voice\Action/Maid_Attack_4.wav
+\Data\Sound_test\Voice\Action/Maid_Die_1.wav
+\Data\Sound_test\Voice\Action/Maid_Hit_1.wav
+\Data\Sound_test\Voice\Action/Maid_Hit_2.wav
+\Data\Sound_test\Voice\Action/Maid_Hit_3.wav
+\Data\Sound_test\Voice\Action/Maid_Hit_4.wav
+\Data\Sound_test\Voice\Action/Maid_Hit_5.wav
+\Data\Sound_test\Voice\Action/Maid_Hit_6.wav
+\Data\Sound_test\Voice\Action/Maid_Rest_1.wav
+\Data\Sound_test\Voice\Action/Maid_Skill_1.wav
+\Data\Sound_test\Voice\Action/Maid_Skill_10.wav
+\Data\Sound_test\Voice\Action/Maid_Skill_2.wav
+\Data\Sound_test\Voice\Action/Maid_Skill_3.wav
+\Data\Sound_test\Voice\Action/Maid_Skill_4.wav
+\Data\Sound_test\Voice\Action/Maid_Skill_5.wav
+\Data\Sound_test\Voice\Action/Maid_Skill_6.wav
+\Data\Sound_test\Voice\Action/Maid_Skill_7.wav
+\Data\Sound_test\Voice\Action/Maid_Skill_8.wav
+\Data\Sound_test\Voice\Action/Maid_Skill_9.wav
+\Data\Sound_test\Voice\Action/Musketeer_Attack_1.wav
+\Data\Sound_test\Voice\Action/Musketeer_Attack_2.wav
+\Data\Sound_test\Voice\Action/Musketeer_Attack_3.wav
+\Data\Sound_test\Voice\Action/Musketeer_Attack_4.wav
+\Data\Sound_test\Voice\Action/Musketeer_Die_1.wav
+\Data\Sound_test\Voice\Action/Musketeer_Hit_1.wav
+\Data\Sound_test\Voice\Action/Musketeer_Hit_2.wav
+\Data\Sound_test\Voice\Action/Musketeer_Hit_3.wav
+\Data\Sound_test\Voice\Action/Musketeer_Hit_4.wav
+\Data\Sound_test\Voice\Action/Musketeer_Hit_6.wav
+\Data\Sound_test\Voice\Action/Musketeer_Hit_7.wav
+\Data\Sound_test\Voice\Action/Musketeer_Rest_1.wav
+\Data\Sound_test\Voice\Action/Musketeer_Skill_1.wav
+\Data\Sound_test\Voice\Action/Musketeer_Skill_2.wav
+\Data\Sound_test\Voice\Action/Musketeer_Skill_3.wav
+\Data\Sound_test\Voice\Action/Musketeer_Skill_4.wav
+\Data\Sound_test\Voice\Action/Musketeer_Skill_5.wav
+\Data\Sound_test\Voice\Action/Musketeer_Skill_6.wav
+\Data\Sound_test\Voice\Action/Musketeer_Skill_7.wav
+\Data\Sound_test\Voice\Action/Necromancer_Attack_1.wav
+\Data\Sound_test\Voice\Action/Necromancer_Attack_2.wav
+\Data\Sound_test\Voice\Action/Necromancer_Attack_3.wav
+\Data\Sound_test\Voice\Action/Necromancer_Die_1.wav
+\Data\Sound_test\Voice\Action/Necromancer_Hit_1.wav
+\Data\Sound_test\Voice\Action/Necromancer_Hit_2.wav
+\Data\Sound_test\Voice\Action/Necromancer_Hit_3.wav
+\Data\Sound_test\Voice\Action/Necromancer_Hit_4.wav
+\Data\Sound_test\Voice\Action/Necromancer_Hit_5.wav
+\Data\Sound_test\Voice\Action/Necromancer_Hit_6.wav
+\Data\Sound_test\Voice\Action/Necromancer_Hit_7.wav
+\Data\Sound_test\Voice\Action/Necromancer_Rest_1.wav
+\Data\Sound_test\Voice\Action/Necromancer_Skill_1.wav
+\Data\Sound_test\Voice\Action/Necromancer_Skill_2.wav
+\Data\Sound_test\Voice\Action/Necromancer_Skill_3.wav
+\Data\Sound_test\Voice\Action/Necromancer_Skill_4.wav
+\Data\Sound_test\Voice\Action/Necromancer_Skill_5.wav
+\Data\Sound_test\Voice\Action/Necromancer_Skill_6.wav
+\Data\Sound_test\Voice\Action/Necromancer_Skill_7.wav
+\Data\Sound_test\Voice\Action/Necromancer_Skill_8.wav
+\Data\Sound_test\Voice\Action/Opticalist_Attack_1.wav
+\Data\Sound_test\Voice\Action/Opticalist_Attack_2.wav
+\Data\Sound_test\Voice\Action/Opticalist_Die_1.wav
+\Data\Sound_test\Voice\Action/Opticalist_Hit_1.wav
+\Data\Sound_test\Voice\Action/Opticalist_Hit_2.wav
+\Data\Sound_test\Voice\Action/Opticalist_Hit_3.wav
+\Data\Sound_test\Voice\Action/Opticalist_Rest_1.wav
+\Data\Sound_test\Voice\Action/Opticalist_Skill_1.wav
+\Data\Sound_test\Voice\Action/Opticalist_Skill_2.wav
+\Data\Sound_test\Voice\Action/Opticalist_Skill_3.wav
+\Data\Sound_test\Voice\Action/Opticalist_Skill_4.wav
+\Data\Sound_test\Voice\Action/Princess_Attack_1.wav
+\Data\Sound_test\Voice\Action/Princess_Attack_2.wav
+\Data\Sound_test\Voice\Action/Princess_Attack_3.wav
+\Data\Sound_test\Voice\Action/Princess_Attack_4.wav
+\Data\Sound_test\Voice\Action/Princess_Attack_5.wav
+\Data\Sound_test\Voice\Action/Princess_Attack_6.wav
+\Data\Sound_test\Voice\Action/Princess_Attack_7.wav
+\Data\Sound_test\Voice\Action/Princess_Die_1.wav
+\Data\Sound_test\Voice\Action/Princess_Hit_1.wav
+\Data\Sound_test\Voice\Action/Princess_Hit_2.wav
+\Data\Sound_test\Voice\Action/Princess_Hit_3.wav
+\Data\Sound_test\Voice\Action/Princess_Hit_4.wav
+\Data\Sound_test\Voice\Action/Princess_Hit_5.wav
+\Data\Sound_test\Voice\Action/Princess_Hit_6.wav
+\Data\Sound_test\Voice\Action/Princess_Hit_7.wav
+\Data\Sound_test\Voice\Action/Princess_Rest_1.wav
+\Data\Sound_test\Voice\Action/Princess_Skill_1.wav
+\Data\Sound_test\Voice\Action/Princess_Skill_10.wav
+\Data\Sound_test\Voice\Action/Princess_Skill_11.wav
+\Data\Sound_test\Voice\Action/Princess_Skill_12.wav
+\Data\Sound_test\Voice\Action/Princess_Skill_13.wav
+\Data\Sound_test\Voice\Action/Princess_Skill_2.wav
+\Data\Sound_test\Voice\Action/Princess_Skill_3.wav
+\Data\Sound_test\Voice\Action/Princess_Skill_4.wav
+\Data\Sound_test\Voice\Action/Princess_Skill_5.wav
+\Data\Sound_test\Voice\Action/Princess_Skill_6.wav
+\Data\Sound_test\Voice\Action/Princess_Skill_7.wav
+\Data\Sound_test\Voice\Action/Princess_Skill_8.wav
+\Data\Sound_test\Voice\Action/Princess_Skill_9.wav
+\Data\Sound_test\Voice\Action/Prist_Attack_1.wav
+\Data\Sound_test\Voice\Action/Prist_Attack_2.wav
+\Data\Sound_test\Voice\Action/Prist_Attack_3.wav
+\Data\Sound_test\Voice\Action/Prist_Attack_4.wav
+\Data\Sound_test\Voice\Action/Prist_Attack_5.wav
+\Data\Sound_test\Voice\Action/Prist_Die_1.wav
+\Data\Sound_test\Voice\Action/Prist_Hit_1.wav
+\Data\Sound_test\Voice\Action/Prist_Hit_2.wav
+\Data\Sound_test\Voice\Action/Prist_Hit_3.wav
+\Data\Sound_test\Voice\Action/Prist_Hit_4.wav
+\Data\Sound_test\Voice\Action/Prist_Hit_5.wav
+\Data\Sound_test\Voice\Action/Prist_Hit_6.wav
+\Data\Sound_test\Voice\Action/Prist_Hit_7.wav
+\Data\Sound_test\Voice\Action/Prist_Rest_1.wav
+\Data\Sound_test\Voice\Action/Prist_Skill_1.wav
+\Data\Sound_test\Voice\Action/Prist_Skill_2.wav
+\Data\Sound_test\Voice\Action/Prist_Skill_3.wav
+\Data\Sound_test\Voice\Action/Prist_Skill_4.wav
+\Data\Sound_test\Voice\Action/Prist_Skill_5.wav
+\Data\Sound_test\Voice\Action/Prist_Skill_6.wav
+\Data\Sound_test\Voice\Action/Prist_Skill_7.wav
+\Data\Sound_test\Voice\Action/Prist_Skill_8.wav
+\Data\Sound_test\Voice\Action/Prist_Skill_9.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Attack_1.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Attack_2.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Attack_3.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Attack_4.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Attack_5.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Attack_6.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Attack_7.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Charging_1.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Charging_2.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Charging_3.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Die_1.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Hit_1.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Hit_2.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Hit_3.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Hit_4.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Hit_5.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Hit_6.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Hit_7.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Rest_1.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Skill_1.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Skill_10.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Skill_11.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Skill_2.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Skill_3.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Skill_4.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Skill_5.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Skill_6.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Skill_7.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Skill_8.wav
+\Data\Sound_test\Voice\Action/Rogue_Fighter_Skill_9.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Attack_1.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Attack_2.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Attack_3.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Charging_1.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Charging_2.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Die_1.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Hit_1.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Hit_2.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Hit_3.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Hit_4.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Hit_5.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Hit_6.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Hit_7.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Rest_1.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Skill_1.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Skill_2.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Skill_3.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Skill_4.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Skill_5.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Skill_6.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Skill_7.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Skill_8.wav
+\Data\Sound_test\Voice\Action/SoulBringer_Skill_9.wav
+\Data\Sound_test\Voice\Action/Wizard_Attack_1.wav
+\Data\Sound_test\Voice\Action/Wizard_Attack_2.wav
+\Data\Sound_test\Voice\Action/Wizard_Attack_3.wav
+\Data\Sound_test\Voice\Action/Wizard_Attack_4.wav
+\Data\Sound_test\Voice\Action/Wizard_Charging_1.wav
+\Data\Sound_test\Voice\Action/Wizard_Charging_2.wav
+\Data\Sound_test\Voice\Action/Wizard_Charging_3.wav
+\Data\Sound_test\Voice\Action/Wizard_Charging_4.wav
+\Data\Sound_test\Voice\Action/Wizard_Die_1.wav
+\Data\Sound_test\Voice\Action/Wizard_Hit_1.wav
+\Data\Sound_test\Voice\Action/Wizard_Hit_2.wav
+\Data\Sound_test\Voice\Action/Wizard_Hit_3.wav
+\Data\Sound_test\Voice\Action/Wizard_Hit_4.wav
+\Data\Sound_test\Voice\Action/Wizard_Hit_5.wav
+\Data\Sound_test\Voice\Action/Wizard_Hit_6.wav
+\Data\Sound_test\Voice\Action/Wizard_Hit_7.wav
+\Data\Sound_test\Voice\Action/Wizard_Rest_1.wav
+\Data\Sound_test\Voice\Action/Wizard_Skill_1.wav
+\Data\Sound_test\Voice\Action/Wizard_Skill_2.wav
+\Data\Sound_test\Voice\Action/Wizard_Skill_3.wav
+\Data\Sound_test\Voice\Action/Wizard_Skill_4.wav
+\Data\Sound_test\Voice\Action/Wizard_Skill_5.wav
+\Data\Sound_test\Voice\Action/Wizard_Skill_6.wav
+\Data\Sound_test\Voice\Action/Wizard_Skill_7.wav
+\Data\Sound_test\Voice\Action/Wizard_Skill_8.wav
+\Data\Sound_test\Voice\Action/Wizard_Skill_9.wav
+\Data\Sound_test\Voice\Npc/NPC_Angel_M01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Angel_M01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Angel_M01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Angel_M01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Darlin_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Darlin_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Darlin_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Darlin_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Derlin_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Derlin_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Derlin_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Derlin_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_Boy02_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_Boy02_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_Boy02_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_Boy02_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_F02_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_F02_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_F02_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_F02_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_Girl01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_Girl01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_Girl01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_Girl01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_Girl02_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_Girl02_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_Girl02_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_Girl02_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_M01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_M01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_M01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_M01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_M02_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_M02_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_M02_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Gypsy_M02_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Hired_F01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Hired_F01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Hired_F01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Hired_F01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Hired_M01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Hired_M01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Hired_M01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Hired_M01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Mage_F01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Mage_F01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Mage_F01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Mage_F01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Mage_M01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Mage_M01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Merchant_F01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Merchant_F01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Merchant_F01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Merchant_F01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Merchant_M01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Merchant_M01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Merchant_M01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Merchant_M01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Midlife_F01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Midlife_F01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Midlife_F01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Midlife_F01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Midlife_F02_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Midlife_F02_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Midlife_F02_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Midlife_F02_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Midlife_M01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Midlife_M01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Midlife_M01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Midlife_M01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Midlife_M02_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Midlife_M02_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Midlife_M02_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Midlife_M02_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_Boy01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_Boy01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_Boy01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_Boy01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_F01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_F01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_F01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_F01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_F02_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_F02_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_F02_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_F02_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_Girl01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_Girl01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_Girl01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_Girl01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_M01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_M01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_M01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_M01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_M02_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_M02_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_M02_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Noble_M02_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Old_F01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Old_F01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Old_F01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Old_F01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Old_M01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Old_M01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Old_M01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Old_M01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Priest_F01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Priest_F01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Priest_F01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Priest_F01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Priest_M01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Priest_M01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Priest_M01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Priest_M01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Soldier_F01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Soldier_F01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Soldier_F01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Soldier_F01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Soldier_M01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Soldier_M01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Soldier_M01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Soldier_M01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Worker_M01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Worker_M01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Worker_M01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Worker_M01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_Boy01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_Boy01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_Boy01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_Boy01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_Boy02_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_Boy02_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_Boy02_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_Boy02_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_F01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_F01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_F01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_F01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_F02_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_F02_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_F02_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_F02_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_Girl01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_Girl01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_Girl01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_Girl01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_Girl02_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_Girl02_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_Girl02_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_Girl02_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_M01_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_M01_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_M01_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_M01_Meet_04.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_M02_Meet_01.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_M02_Meet_02.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_M02_Meet_03.wav
+\Data\Sound_test\Voice\Npc/NPC_Young_M02_Meet_04.wav
+\Data\UI/ComposeCostume.dat
+\Data\UI/ComposeCostume.zip
+\Data\UI/Costume_Color.dat
+\Data\UI/Costume_Color_Hidden.dat
+\Data\UI/DimensionHub.dat
+\Data\UI/DimensionHub_Progress.dat
+\Data\UI/FieldEvolution.dat
+\Data\UI/GeneralBoardEventUI.dat
+\Data\UI/MiniGameEventUI.dat
+\Data\UI/ReinforceCostume.dat
+\Data\UI/ReinforceRelicPrefix.dat
+\Data\UI/ReinforceRingPrefix.dat
+\Data\UI/RelicUpgrade.dat
+\Data\UI/SeasonPass.dat
+\Data\UI/seasonpass_1.dat
+\Data\UI/SeasonPass_2.dat

@@ -1,0 +1,294 @@
+\Data/abnormalStatus.dat
+\Data/ActionVoiceData.dat
+\Data/capa.dat
+\Data/carving.dat
+\Data/ContentsOpen.dat
+\Data/costume.dat
+\Data/creatureInfo.dat
+\Data/defaultJob.dat
+\Data/fieldInfo.dat
+\Data/guideSystemLevelQuest.dat
+\Data/itemEX_Data.dat
+\Data/jobData.dat
+\Data/JournalData.dat
+\Data/JournalKindData.dat
+\Data/logToolText.dat
+\Data/mapList.dat
+\Data/mapLocationInfo.dat
+\Data/neponEx.dat
+\Data/rb.dat
+\Data/simpleDataPack.dat
+\Data/skill.dat
+\Data/skill_rdf.dat
+\Data/subjugation.dat
+\Data/textData.dat
+\Data/toolText.dat
+\Data/type01.gsd
+\Data/type02.gsd
+\Data/type03.gsd
+\Data/type03_2.gsd
+\Data/type04.gsd
+\Data/type12.gsd
+\Data/type12_2.gsd
+\Data/wm_dungeon.dat
+\Data/wm_field.dat
+\Data\Equipment/Captain_mw01.plt
+\Data\Equipment/Captain_mw01.sad
+\Data\Equipment/Captain_mw01_Head.plt
+\Data\Equipment/Captain_mw01_Head.sad
+\Data\Equipment/Captain_mw02.plt
+\Data\Equipment/Captain_mw02.sad
+\Data\Equipment/Captain_mw02_Head.plt
+\Data\Equipment/Captain_mw02_Head.sad
+\Data\Equipment/Captain_mw03.plt
+\Data\Equipment/Captain_mw03.sad
+\Data\Equipment/Captain_mw03_Head.plt
+\Data\Equipment/Captain_mw03_Head.sad
+\Data\Equipment/Captain_mw04.plt
+\Data\Equipment/Captain_mw04.sad
+\Data\Equipment/Captain_mw04_Head.plt
+\Data\Equipment/Captain_mw04_Head.sad
+\Data\Equipment/Captain_mw05.plt
+\Data\Equipment/Captain_mw05.sad
+\Data\Equipment/Captain_mw05_Head.plt
+\Data\Equipment/Captain_mw05_Head.sad
+\Data\Equipment/Captain_mw06.plt
+\Data\Equipment/Captain_mw06.sad
+\Data\Equipment/Captain_mw06_Head.plt
+\Data\Equipment/Captain_mw06_Head.sad
+\Data\Equipment/Captain_mw07.plt
+\Data\Equipment/Captain_mw07.sad
+\Data\Equipment/Captain_mw07_Head.plt
+\Data\Equipment/Captain_mw07_Head.sad
+\Data\Equipment/Captain_mw08.plt
+\Data\Equipment/Captain_mw08.sad
+\Data\Equipment/Captain_mw08_Head.plt
+\Data\Equipment/Captain_mw08_Head.sad
+\Data\Heros/Captain01.plt
+\Data\Heros/Captain01.sad
+\Data\Heros/Captain02.plt
+\Data\Heros/Captain02.sad
+\Data\Heros/Captain03.plt
+\Data\Heros/Captain03.sad
+\Data\Interface\game/designation_icon.sd
+\Data\Interface\game/generalEvent_jp.sd
+\Data\Interface\game/interface2.sd
+\Data\Interface\game/job_icon_captain.sad
+\Data\Interface\game/magic_carpet23.sad
+\Data\Interface\game/number.sd
+\Data\Interface\game/worldMap.sd
+\Data\Mapset\Room\Objects/sn__object_0532.rso
+\Data\Mapset\Room\Objects/sn__object_0533.rso
+\Data\Mapset\Room\Objects/sn__object_0534.rso
+\Data\Mapset\Yatikanu Forest_Night/crash_info.txt
+\Data\Mapset\Yatikanu Forest_Night/tile.mpr
+\Data\Mapset\Yatikanu Forest_Night/tile.mpw
+\Data\Mapset\Yatikanu Forest_Night\Buildings/sn__building_0000.rbd
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0000.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0000.rso
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0001.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0001.rso
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0002.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0002.rso
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0003.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0003.rso
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0004.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0004.rso
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0005.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0005.rso
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0006.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0006.rso
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0007.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0007.rso
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0008.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0008.rso
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0009.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0009.rso
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0010.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0010.rso
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0011.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0011.rso
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0012.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0012.rso
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0013.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0013.rso
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0014.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0014.rso
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0015.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0015.rso
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0016.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0016.rso
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0017.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0017.rso
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0018.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0019.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0020.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0021.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0022.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0023.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0024.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0025.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0026.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0027.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0028.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0029.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0030.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0031.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0032.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0033.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0034.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0035.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0036.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0037.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0038.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0039.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0040.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0041.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0042.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0043.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0044.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0045.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0046.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0047.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0048.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0049.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0050.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0051.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0052.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0053.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0054.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0055.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0056.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0057.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0058.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0059.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0060.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0061.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0062.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0063.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0064.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0065.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0066.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0067.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0068.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0069.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0070.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0071.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0072.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0073.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0074.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0075.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0076.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0077.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0078.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0079.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0080.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0081.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0082.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0083.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0084.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0085.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0086.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0087.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0088.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0089.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0090.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0091.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0092.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0093.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0094.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0095.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0096.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0097.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0098.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0099.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0100.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0101.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0102.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0103.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0104.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0105.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0106.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0107.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0108.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0109.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0110.rfo
+\Data\Mapset\Yatikanu Forest_Night\Objects/sn__object_0111.rfo
+\Data\Misc/iconGuildSkill.smi
+\Data\Misc/iconItem.smi
+\Data\Misc/iconSkill.smi
+\Data\Misc/ItemFieldShape.sd
+\Data\Misc/loading.smi
+\Data\monsters/Forest_guardian_night.plt
+\Data\monsters/Forest_guardian_night.sad
+\Data\monsters/Forest_Imp_FeatherHat.plt
+\Data\monsters/Forest_Imp_FeatherHat.sad
+\Data\monsters/Forest_Imp_HornHat.sad
+\Data\monsters/Forest_Imp_LeafHat.sad
+\Data\monsters/Forest_Shaman_night.plt
+\Data\monsters/Forest_Shaman_night.sad
+\Data\monsters/NPC_Lunaby.plt
+\Data\monsters/NPC_Lunaby.sad
+\Data\monsters/NPC_Solabi.plt
+\Data\monsters/NPC_Solabi.sad
+\Data\monsters/Smilodon03.plt
+\Data\monsters/Smilodon03.sad
+\Data\monsters/wood_fairy03.plt
+\Data\monsters/wood_fairy03.sad
+\Data\monsters/wood_fairy04.plt
+\Data\monsters/wood_fairy04.sad
+\Data\NPC/NPC_Lunaby.plt
+\Data\NPC/NPC_Lunaby.sad
+\Data\NPC/NPC_Solabi.plt
+\Data\NPC/NPC_Solabi.sad
+\Data\Scenario/Red Stone.rpd
+\Data\Scenario\Red Stone/item.dat
+\Data\Scenario\Red Stone/job2.dat
+\Data\Scenario\Red Stone/packageitem.dat
+\Data\Scenario\Red Stone\Map/GH2_00.rmd
+\Data\Scenario\Red Stone\Map/GH2_01.rmd
+\Data\Scenario\Red Stone\Map/GH2_02.rmd
+\Data\Scenario\Red Stone\Map/GH3_00.rmd
+\Data\Scenario\Red Stone\Map/GH3_01.rmd
+\Data\Scenario\Red Stone\Map/GH4_00.rmd
+\Data\Scenario\Red Stone\Map/GH4_01.rmd
+\Data\Scenario\Red Stone\Map/GH5_00.rmd
+\Data\Scenario\Red Stone\Map/[000]T01.rmd
+\Data\Scenario\Red Stone\Map/[028]Prison.rmd
+\Data\Scenario\Red Stone\Map/[071]T03.rmd
+\Data\Scenario\Red Stone\Map/[074]T04.rmd
+\Data\Scenario\Red Stone\Map/[1010]T21.rmd
+\Data\Scenario\Red Stone\Map/[1016]LonelyIsland.rmd
+\Data\Scenario\Red Stone\Map/[1024]WestSwamp_Cave_B1.rmd
+\Data\Scenario\Red Stone\Map/[1024]WestSwamp_Cave_B1.rmd.tga
+\Data\Scenario\Red Stone\Map/[1025]YatikanuForest_4.rmd
+\Data\Scenario\Red Stone\Map/[1025]YatikanuForest_4.rmd.tga
+\Data\Scenario\Red Stone\Map/[1026]YatikanuForest_5.rmd
+\Data\Scenario\Red Stone\Map/[1026]YatikanuForest_5.rmd.tga
+\Data\Scenario\Red Stone\Map/[1027]YatikanuForest_6.rmd
+\Data\Scenario\Red Stone\Map/[1027]YatikanuForest_6.rmd.tga
+\Data\Scenario\Red Stone\Map/[193]T08.rmd
+\Data\Scenario\Red Stone\Map/[214]T11.rmd
+\Data\Scenario\Red Stone\Map/[255]T11_GUILD_CRT.rmd
+\Data\Scenario\Red Stone\Map/[281]M24.rmd
+\Data\Scenario\Red Stone\Map/[375]T05.rmd
+\Data\Scenario\Red Stone\Map/[377]T01_N01.rmd
+\Data\Scenario\Red Stone\Map/[446]S12_C01_B01.rmd
+\Data\Scenario\Red Stone\Map/[479]Nest.rmd
+\Data\Scenario\Red Stone\Map/[496]M01_H01_F01.rmd
+\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd
+\Data\Scenario\Red Stone\Map/[506]BF_U01.rmd
+\Data\Scenario\Red Stone\Map/[721]M05_C03_B01.rmd
+\Data\Scenario\Red Stone\Map/[722]M05_C03_B01.rmd
+\Data\Scenario\Red Stone\Map/[735]BF_U02.rmd
+\Data\Scenario\Red Stone\Map/[743]R02.rmd
+\Data\Scenario\Red Stone\Map/[744]R03.rmd
+\Data\Scenario\Red Stone\Map/[745]R01.rmd
+\Data\Scenario\Red Stone\Map/[885]G02.rmd
+\Data\Scenario\Red Stone\Map/[886]G03.rmd
+\Data\Scenario\Red Stone\Map/[942]GH_LV01.rmd
+\Data\Scenario\Red Stone\Map\expansion/[pojection_cave]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Yatikanu]000.rmd
+\Data\UI/Craft.dat
+\Data\UI/General_ItemList_MidSize.dat
+\Data\UI/MiniGameEventUI.dat

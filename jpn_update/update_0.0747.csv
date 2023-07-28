@@ -1,0 +1,127 @@
+\Data/capa.dat
+\Data/creatureInfo.dat
+\Data/defaultJob.dat
+\Data/effect_data.dat
+\Data/emoticon.dat
+\Data/fieldInfo.dat
+\Data/guideSystemLevelQuest.dat
+\Data/JournalData.dat
+\Data/JournalKindData.dat
+\Data/questEX_Data.dat
+\Data/rid.dat
+\Data/skill.dat
+\Data/textData.dat
+\Data/title.dat
+\Data/toolText.dat
+\Data\creaturebody/212_Seal.plt
+\Data\creaturebody/212_Seal.sad
+\Data\Effects/aura_dueling.sad
+\Data\Effects/designation_Shurag_ui.sad
+\Data\Effects/effect_monster_enterance.sad
+\Data\Effects/explosion_bottlebomb_flame.sad
+\Data\Effects/explosion_bottlebomb_ice.sad
+\Data\Effects/explosion_bottlebomb_poison.sad
+\Data\Effects/explosion_throw_flamebottle.sad
+\Data\Effects/explosion_throw_icebottle.sad
+\Data\Effects/explosion_throw_poisonbottle.sad
+\Data\Effects/Fx_ground_crash.sad
+\Data\Effects/Fx_ground_crash_BG.sad
+\Data\Effects/Fx_ground_crash_Light.sad
+\Data\Effects/Fx_hit_slash.sad
+\Data\Effects/Fx_sword_blow.sad
+\Data\Effects/Fx_thunder_tornado.sad
+\Data\Effects/Fx_war_whoop_ground.sad
+\Data\Effects/Fx_Whirlwind_extra_shot.sad
+\Data\Effects/Fx_Zephyr_act3.sad
+\Data\Effects/RedGem02.sad
+\Data\Effects/skill_cast_cresent_lightning.sad
+\Data\Interface\game/bringUpCharacter001.sad
+\Data\Interface\game/bringUpCharacter002.sad
+\Data\Interface\game/bringUpCharacter003.sad
+\Data\Interface\game/bringUpCharacter004.sad
+\Data\Interface\game/creature_p.sd
+\Data\Interface\game/designation_icon.sd
+\Data\Interface\game/emoticon000.sad
+\Data\Interface\game/interface.sd
+\Data\Interface\game/interface2.sd
+\Data\Interface\game/jp_guide_screenshot.sd
+\Data\Interface\game/magic_carpet01.sad
+\Data\Interface\game/magic_carpet03.sad
+\Data\Interface\game/magic_carpet04.sad
+\Data\Interface\game/magic_carpet05.sad
+\Data\Interface\game/neponCreatureCardTwikle.sad
+\Data\Mapset\Dungeon\Buildings/sn__building_0003.rbd
+\Data\Misc/iconItem.smi
+\Data\Misc/iconSkill.smi
+\Data\monsters/Zephyr.sad
+\Data\Scenario/Red Stone.rpd
+\Data\Scenario\Red Stone/item.dat
+\Data\Scenario\Red Stone/job2.dat
+\Data\Scenario\Red Stone\Map/GH2_00.rmd
+\Data\Scenario\Red Stone\Map/GH2_01.rmd
+\Data\Scenario\Red Stone\Map/GH2_02.rmd
+\Data\Scenario\Red Stone\Map/GH3_00.rmd
+\Data\Scenario\Red Stone\Map/GH3_01.rmd
+\Data\Scenario\Red Stone\Map/GH4_00.rmd
+\Data\Scenario\Red Stone\Map/GH4_01.rmd
+\Data\Scenario\Red Stone\Map/GH5_00.rmd
+\Data\Scenario\Red Stone\Map/[000]T01.rmd
+\Data\Scenario\Red Stone\Map/[028]Prison.rmd
+\Data\Scenario\Red Stone\Map/[071]T03.rmd
+\Data\Scenario\Red Stone\Map/[074]T04.rmd
+\Data\Scenario\Red Stone\Map/[094]T01_Bank01.rmd
+\Data\Scenario\Red Stone\Map/[193]T08.rmd
+\Data\Scenario\Red Stone\Map/[200]T08_I01.rmd
+\Data\Scenario\Red Stone\Map/[202]T08_BANK01.rmd
+\Data\Scenario\Red Stone\Map/[214]T11.rmd
+\Data\Scenario\Red Stone\Map/[257]T11_I01.rmd
+\Data\Scenario\Red Stone\Map/[340]T16.rmd
+\Data\Scenario\Red Stone\Map/[373]T02.rmd
+\Data\Scenario\Red Stone\Map/[375]T05.rmd
+\Data\Scenario\Red Stone\Map/[376]T07.rmd
+\Data\Scenario\Red Stone\Map/[397]T02_I01.rmd
+\Data\Scenario\Red Stone\Map/[412]T01_D01_B02.rmd
+\Data\Scenario\Red Stone\Map/[440]NP.rmd
+\Data\Scenario\Red Stone\Map/[444]S22.rmd
+\Data\Scenario\Red Stone\Map/[451]T13.rmd
+\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd
+\Data\Scenario\Red Stone\Map/[503] T04_I01.rmd
+\Data\Scenario\Red Stone\Map/[505]D18.rmd
+\Data\Scenario\Red Stone\Map/[506]BF_U01.rmd
+\Data\Scenario\Red Stone\Map/[507]BF_C01.rmd
+\Data\Scenario\Red Stone\Map/[517]G28_G01_D01.rmd
+\Data\Scenario\Red Stone\Map/[544] T01_I01_B01.rmd
+\Data\Scenario\Red Stone\Map/[735]BF_U02.rmd
+\Data\Scenario\Red Stone\Map/[738]BF_U04.rmd
+\Data\Scenario\Red Stone\Map/[824]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[826]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[868]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[869]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[870]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[871]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[872]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[876]D10.rmd
+\Data\Scenario\Red Stone\Map/[877]D11.rmd
+\Data\Scenario\Red Stone\Map/[942]GH_LV01.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss1]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss2]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss3]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss3_Scenario]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Cave_La]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[curse_tomb_tower]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[dead_treasure]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[demon_king]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[gigastemple]001.rmd
+\Data\Scenario\Red Stone\Map\expansion/[hagu_treasure]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Jepyro_hideout]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Jepyro_hideout]000.rmd.tga
+\Data\Scenario\Red Stone\Map\expansion/[miznacave_hide]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[moliner tower]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[mysteryarea_of_darkelf]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[nest_of_kingcrab]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[salty_cave]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[sealedarea_of_darksoul]000.rmd
+\Data\Sound\effect/blueBtn.wav
+\Data\Sound\effect/completeBtn.wav
+\Data\Sound\effect/greenBtn.wav
+\Data\Sound\effect/redBtn.wav

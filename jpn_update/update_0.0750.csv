@@ -1,0 +1,252 @@
+\Data/capa.dat
+\Data/carving.dat
+\Data/creatureInfo.dat
+\Data/effect_data.dat
+\Data/emoticon.dat
+\Data/fieldInfo.dat
+\Data/guideSystemLevelQuest.dat
+\Data/guildMarkInfo.dat
+\Data/JournalData.dat
+\Data/JournalKindData.dat
+\Data/mapList.dat
+\Data/mapLocationInfo.dat
+\Data/neponEx.dat
+\Data/NewLotteryItemGrade.dat
+\Data/rid.dat
+\Data/simpleDataPack.dat
+\Data/skill.dat
+\Data/summonPot.dat
+\Data/textData.dat
+\Data/title.dat
+\Data/toolText.dat
+\Data/type01.gsd
+\Data/type02.gsd
+\Data/type03.gsd
+\Data/type04.gsd
+\Data/type12.gsd
+\Data/wm_dungeon.dat
+\Data/wm_field.dat
+\Data\creaturebody/100_VampirePrinces.sad
+\Data\creaturebody/101_IceQueen.sad
+\Data\creaturebody/102_Witchhwonteu.sad
+\Data\creaturebody/103_Reale.sad
+\Data\creaturebody/103_Valkyrie.sad
+\Data\creaturebody/104_Lagerberg.sad
+\Data\creaturebody/106_Outcast Rudolf.sad
+\Data\creaturebody/107_FairyOfChristmasSocks.sad
+\Data\creaturebody/108_SantaRabito.sad
+\Data\creaturebody/109_Foxytail.sad
+\Data\creaturebody/110_Houndevil.sad
+\Data\creaturebody/111_Leopold.sad
+\Data\creaturebody/112_Melias.sad
+\Data\creaturebody/113_Abyss.sad
+\Data\creaturebody/114_Penguin.sad
+\Data\creaturebody/115_PrincessLoon.sad
+\Data\creaturebody/116_MysticCocoon.sad
+\Data\creaturebody/117_DrLusid.sad
+\Data\creaturebody/118_Wyatt Pig.sad
+\Data\creaturebody/119_Corinth Pig.sad
+\Data\creaturebody/120_Filbert Pig.sad
+\Data\creaturebody/121_Mason Pig.sad
+\Data\creaturebody/122_Kumann.sad
+\Data\creaturebody/123_Specter.sad
+\Data\creaturebody/124_BatMask_1.sad
+\Data\creaturebody/125_BatMask_2.sad
+\Data\creaturebody/126_BatMask_3.sad
+\Data\creaturebody/127_BatMask_4.sad
+\Data\creaturebody/128_LittleApprenticeWitch.sad
+\Data\creaturebody/129_PumpkinHeadKnight.sad
+\Data\creaturebody/12_LittleGhost_wom.sad
+\Data\creaturebody/130_Fate_Archer.sad
+\Data\creaturebody/131_Fate_Assassin.sad
+\Data\creaturebody/132_Fate_Berserker.sad
+\Data\creaturebody/133_Fate_Lancer.sad
+\Data\creaturebody/134_Fate_Rider.sad
+\Data\creaturebody/135_Fate_Saver.sad
+\Data\creaturebody/136~139_LittleRabbit.sad
+\Data\creaturebody/13~22_LittleGhost.sad
+\Data\creaturebody/140_Lycanthrope.sad
+\Data\creaturebody/141_KentarousKnight.sad
+\Data\creaturebody/141_Spine_Lady.sad
+\Data\creaturebody/145_Silky.sad
+\Data\creaturebody/149_KingCravenette.sad
+\Data\creaturebody/150_Gaia.sad
+\Data\creaturebody/151_Crescenti.sad
+\Data\creaturebody/152_Gravitiana.sad
+\Data\creaturebody/153_BabyPony.sad
+\Data\creaturebody/157_ChampionSquirrel.sad
+\Data\creaturebody/161_Tricster.sad
+\Data\creaturebody/162_Aurora.sad
+\Data\creaturebody/163_Taiga.sad
+\Data\creaturebody/164_Thanatos.sad
+\Data\creaturebody/197_GoldEmperor.sad
+\Data\creaturebody/198_Pet_Deline.sad
+\Data\creaturebody/199_Pet_Darline.sad
+\Data\creaturebody/1_FlameDog_collar.sad
+\Data\creaturebody/204_Hermit.sad
+\Data\creaturebody/205_AmanitaMagician.sad
+\Data\creaturebody/206_Darkness_Nebula.sad
+\Data\creaturebody/207_Oneinall.sad
+\Data\creaturebody/20_LittleGhost_man.sad
+\Data\creaturebody/216_Tinyfox.sad
+\Data\creaturebody/217_Littlelotlle.sad
+\Data\creaturebody/218_Whaleily.sad
+\Data\creaturebody/219_SacredFox.sad
+\Data\creaturebody/220_Dracania.sad
+\Data\creaturebody/221_Whaetheland.sad
+\Data\creaturebody/222_MagicLancer.sad
+\Data\creaturebody/223_Wizard.sad
+\Data\creaturebody/23~33_Gleamgolem.sad
+\Data\creaturebody/2~11_FlameDog.sad
+\Data\creaturebody/34~44_Rebito.sad
+\Data\creaturebody/45~55_Blossoms.sad
+\Data\creaturebody/56~60_Lame.sad
+\Data\creaturebody/61.SkeletonWarrior.sad
+\Data\creaturebody/62_SkeletonWarrior.sad
+\Data\creaturebody/63~65_SkeletonWarrior.sad
+\Data\creaturebody/6670_Crewdal.sad
+\Data\creaturebody/67_Crewdal_Blood.sad
+\Data\creaturebody/68_Crewdal.sad
+\Data\creaturebody/69_Crewdal.sad
+\Data\creaturebody/71_Vido.sad
+\Data\creaturebody/72_Kallyrot_mo.sad
+\Data\creaturebody/73_Kallyrot_re.sad
+\Data\creaturebody/74_Kallyrot_a.sad
+\Data\creaturebody/75~78_Pfaff.sad
+\Data\creaturebody/79~83_RedAepssol.sad
+\Data\creaturebody/82_RedAepssol.sad
+\Data\creaturebody/84_ChickWarrior_strong.sad
+\Data\creaturebody/85_ChickWarrior_lucky.sad
+\Data\creaturebody/86_ChickWarrior_wise.sad
+\Data\creaturebody/87_ChickWarrior_quick.sad
+\Data\creaturebody/88_ChickWarrior_solid.sad
+\Data\creaturebody/89_KoboldtheWizard.sad
+\Data\creaturebody/90_WitchMago.sad
+\Data\creaturebody/91_Dreas.sad
+\Data\creaturebody/92_KnightSpear.sad
+\Data\creaturebody/93_Dobereuteu.sad
+\Data\creaturebody/94_TimeSeullrat.sad
+\Data\creaturebody/95_Amethys.sad
+\Data\creaturebody/96_Teuruik.sad
+\Data\creaturebody/97_Griffon.sad
+\Data\creaturebody/98_Minoghoul.sad
+\Data\creaturebody/99_Incubus.sad
+\Data\Effects/designation_promotion_bat_ui.sad
+\Data\Effects/designation_promotion_snow_ui.sad
+\Data\Effects/hit_bithive.sad
+\Data\Effects/hit_photoncannon.sad
+\Data\Effects/RedGem01.sad
+\Data\Effects/RedGem02.sad
+\Data\Effects/RedGem02_1.sad
+\Data\Effects/shoot_Big_laser.sad
+\Data\Effects/shoot_Big_laser_end.sad
+\Data\Effects/shoot_laserbeam.sad
+\Data\Effects/skill_cast_cresent_lightning.sad
+\Data\Effects/skill_cast_op_melting_eyes.sad
+\Data\Effects/skill_cast_op_opticalhole.sad
+\Data\Effects/skill_timecontrolEffect_2.sad
+\Data\Effects/status_photonfocus.sad
+\Data\Effects/Thankgivingfx.sad
+\Data\Effects/Thanksgivingfx.sad
+\Data\Interface\game/creature_c.sd
+\Data\Interface\game/creature_p.sd
+\Data\Interface\game/designation_icon.sd
+\Data\Interface\game/emoticon000.sad
+\Data\Interface\game/generalEvent_jp.sd
+\Data\Interface\game/generalEvent_kor.sd
+\Data\Interface\game/generalEvent_usa.sd
+\Data\Interface\game/guild_icon_shape07.sd
+\Data\Interface\game/interface.sd
+\Data\Interface\game/interface2.sd
+\Data\Interface\game/interface_korea.sd
+\Data\Interface\game/Thankgivingfx.sad
+\Data\Interface\game/usa_guide_screenshot.sd
+\Data\Mapset\Yatikanu Forest/tile.mpr
+\Data\Mapset\Yatikanu Forest/tile.mpw
+\Data\Misc/creature.smi
+\Data\Misc/iconItem.smi
+\Data\Misc/iconSkill.smi
+\Data\Misc/loading.smi
+\Data\NPC/NPC_Haze.plt
+\Data\NPC/NPC_Haze.sad
+\Data\NPC/NPC_Hidenell.plt
+\Data\NPC/NPC_Hidenell.sad
+\Data\NPC/NPC_Kaylyn.plt
+\Data\NPC/NPC_Kaylyn.sad
+\Data\NPC/NPC_Leyan.plt
+\Data\NPC/NPC_Leyan.sad
+\Data\Scenario/Red Stone.rpd
+\Data\Scenario\Red Stone/item.dat
+\Data\Scenario\Red Stone/job2.dat
+\Data\Scenario\Red Stone\Map/GH2_00.rmd
+\Data\Scenario\Red Stone\Map/GH2_01.rmd
+\Data\Scenario\Red Stone\Map/GH2_02.rmd
+\Data\Scenario\Red Stone\Map/GH3_00.rmd
+\Data\Scenario\Red Stone\Map/GH3_01.rmd
+\Data\Scenario\Red Stone\Map/GH4_00.rmd
+\Data\Scenario\Red Stone\Map/GH4_01.rmd
+\Data\Scenario\Red Stone\Map/GH5_00.rmd
+\Data\Scenario\Red Stone\Map/[000]T01.rmd
+\Data\Scenario\Red Stone\Map/[028]Prison.rmd
+\Data\Scenario\Red Stone\Map/[036]T06.rmd
+\Data\Scenario\Red Stone\Map/[068]G24.rmd
+\Data\Scenario\Red Stone\Map/[1000]D01.rmd
+\Data\Scenario\Red Stone\Map/[1000]D01.rmd.tga
+\Data\Scenario\Red Stone\Map/[1001]D01.rmd
+\Data\Scenario\Red Stone\Map/[1001]D01.rmd.tga
+\Data\Scenario\Red Stone\Map/[1002]D01.rmd
+\Data\Scenario\Red Stone\Map/[1002]D01.rmd.tga
+\Data\Scenario\Red Stone\Map/[1003]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[1003]WasteLandOfDeath.rmd.tga
+\Data\Scenario\Red Stone\Map/[1004]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[1004]WasteLandOfDeath.rmd.tga
+\Data\Scenario\Red Stone\Map/[1005]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[1005]WasteLandOfDeath.rmd.tga
+\Data\Scenario\Red Stone\Map/[1006]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[1006]WasteLandOfDeath.rmd.tga
+\Data\Scenario\Red Stone\Map/[193]T08.rmd
+\Data\Scenario\Red Stone\Map/[200]T08_I01.rmd
+\Data\Scenario\Red Stone\Map/[214]T11.rmd
+\Data\Scenario\Red Stone\Map/[252]T11_V01.rmd
+\Data\Scenario\Red Stone\Map/[257]T11_I01.rmd
+\Data\Scenario\Red Stone\Map/[259]M11.rmd
+\Data\Scenario\Red Stone\Map/[367]G23.rmd
+\Data\Scenario\Red Stone\Map/[375]T05.rmd
+\Data\Scenario\Red Stone\Map/[376]T07.rmd
+\Data\Scenario\Red Stone\Map/[397]T02_I01.rmd
+\Data\Scenario\Red Stone\Map/[434]S13.rmd
+\Data\Scenario\Red Stone\Map/[440]NP.rmd
+\Data\Scenario\Red Stone\Map/[496]M01_H01_F01.rmd
+\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd
+\Data\Scenario\Red Stone\Map/[503] T04_I01.rmd
+\Data\Scenario\Red Stone\Map/[506]BF_U01.rmd
+\Data\Scenario\Red Stone\Map/[635]M11.rmd
+\Data\Scenario\Red Stone\Map/[636]M11.rmd
+\Data\Scenario\Red Stone\Map/[782]H02.rmd
+\Data\Scenario\Red Stone\Map/[786]KE7.rmd
+\Data\Scenario\Red Stone\Map/[801]GvG_standby_0.rmd
+\Data\Scenario\Red Stone\Map/[825]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[863]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[864]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[865]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[866]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[867]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[874]D00.rmd
+\Data\Scenario\Red Stone\Map/[875]D01.rmd
+\Data\Scenario\Red Stone\Map/[876]D10.rmd
+\Data\Scenario\Red Stone\Map/[878]PlainOfDivineAnimals.rmd
+\Data\Scenario\Red Stone\Map/[879]ForestOfLife_Center.rmd
+\Data\Scenario\Red Stone\Map/[880]ForestOfLife_OutSkirts.rmd
+\Data\Scenario\Red Stone\Map/[881]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[885]G02.rmd
+\Data\Scenario\Red Stone\Map/[909]D00.rmd
+\Data\Scenario\Red Stone\Map/[909]D00.rmd.tga
+\Data\Scenario\Red Stone\Map/[910]D00.rmd
+\Data\Scenario\Red Stone\Map/[910]D00.rmd.tga
+\Data\Scenario\Red Stone\Map/[911]D00.rmd
+\Data\Scenario\Red Stone\Map/[911]D00.rmd.tga
+\Data\Scenario\Red Stone\Map/[942]GH_LV01.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss3]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[demon_king]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Jepyro_hideout]000.rmd
+\Data\UI/GeneralBoardEventUI.dat

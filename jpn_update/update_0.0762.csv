@@ -1,0 +1,299 @@
+\Data/capa.dat
+\Data/carving.dat
+\Data/checkObjectData.dat
+\Data/creatureInfo.dat
+\Data/defaultJob.dat
+\Data/effect_data.dat
+\Data/emoticon.dat
+\Data/fieldInfo.dat
+\Data/guideSystemLevelQuest.dat
+\Data/JournalData.dat
+\Data/JournalKindData.dat
+\Data/logToolText.dat
+\Data/mapList.dat
+\Data/mapLocationInfo.dat
+\Data/NewLotteryItemGrade.dat
+\Data/objectCrashMap.dat
+\Data/rb.dat
+\Data/rid.dat
+\Data/simpleDataPack.dat
+\Data/skill.dat
+\Data/skill_rdf.dat
+\Data/subjugation.dat
+\Data/textData.dat
+\Data/title.dat
+\Data/toolText.dat
+\Data/type01.gsd
+\Data/type02.gsd
+\Data/type03.gsd
+\Data/type04.gsd
+\Data/type12.gsd
+\Data/wm_dungeon.dat
+\Data/wm_field.dat
+\Data\creaturebody/Pet_Bella_nurse_w.plt
+\Data\creaturebody/Pet_Bella_nurse_w.sad
+\Data\Effects/designation_seasonpass_season1.sad
+\Data\Effects/Fx_02_black_Halberd.sad
+\Data\Effects/Fx_02_front_Halberd.sad
+\Data\Effects/Fx_triple_gate_halberd_back_00.sad
+\Data\Effects/Fx_triple_gate_halberd_front_00.sad
+\Data\Interface\game/Bingo_Check.sad
+\Data\Interface\game/creature_c.sd
+\Data\Interface\game/creature_p.sd
+\Data\Interface\game/designation_icon.sd
+\Data\Interface\game/emoticon001.sad
+\Data\Interface\game/Iconshine.sad
+\Data\Interface\game/interface2.sd
+\Data\Interface\game/magic_carpet18.sad
+\Data\Interface\game/magic_carpet19.sad
+\Data\Interface\game/magic_carpet20.sad
+\Data\Interface\game/magic_carpet21.sad
+\Data\Interface\game/magic_carpet22.sad
+\Data\Mapset\Room\Objects/sn__object_0018.rfo
+\Data\Mapset\Room\Objects/sn__object_0023.rfo
+\Data\Mapset\Room\Objects/sn__object_0111.rso
+\Data\Mapset\Room\Objects/sn__object_0112.rso
+\Data\Mapset\Room\Objects/sn__object_0136.rfo
+\Data\Mapset\Room\Objects/sn__object_0137.rfo
+\Data\Mapset\Room\Objects/sn__object_0138.rfo
+\Data\Mapset\Room\Objects/sn__object_0139.rfo
+\Data\Mapset\Room\Objects/sn__object_0227.rfo
+\Data\Mapset\Room\Objects/sn__object_0228.rfo
+\Data\Mapset\Room\Objects/sn__object_0229.rfo
+\Data\Mapset\Room\Objects/sn__object_0230.rfo
+\Data\Mapset\Room\Objects/sn__object_0347.rfo
+\Data\Mapset\Room\Objects/sn__object_0348.rfo
+\Data\Mapset\Room\Objects/sn__object_0349.rfo
+\Data\Mapset\Room\Objects/sn__object_0350.rfo
+\Data\Mapset\Room\Objects/sn__object_0351.rfo
+\Data\Mapset\Room\Objects/sn__object_0352.rfo
+\Data\Mapset\Room\Objects/sn__object_0353.rfo
+\Data\Mapset\Room\Objects/sn__object_0354.rfo
+\Data\Mapset\Room\Objects/sn__object_0355.rfo
+\Data\Mapset\Room\Objects/sn__object_0356.rfo
+\Data\Mapset\Room\Objects/sn__object_0357.rfo
+\Data\Mapset\Room\Objects/sn__object_0358.rfo
+\Data\Mapset\Room\Objects/sn__object_0359.rfo
+\Data\Mapset\Room\Objects/sn__object_0360.rfo
+\Data\Mapset\Room\Objects/sn__object_0361.rfo
+\Data\Mapset\Room\Objects/sn__object_0362.rfo
+\Data\Mapset\Room\Objects/sn__object_0368.rso
+\Data\Mapset\Room\Objects/sn__object_0369.rso
+\Data\Mapset\Room\Objects/sn__object_0370.rso
+\Data\Mapset\Room\Objects/sn__object_0371.rso
+\Data\Mapset\Room\Objects/sn__object_0372.rso
+\Data\Mapset\Room\Objects/sn__object_0373.rso
+\Data\Mapset\Room\Objects/sn__object_0374.rso
+\Data\Mapset\Room\Objects/sn__object_0375.rso
+\Data\Mapset\Room\Objects/sn__object_0376.rso
+\Data\Mapset\Room\Objects/sn__object_0377.rso
+\Data\Mapset\Room\Objects/sn__object_0378.rso
+\Data\Mapset\Room\Objects/sn__object_0379.rso
+\Data\Mapset\Room\Objects/sn__object_0395.rso
+\Data\Mapset\Room\Objects/sn__object_0396.rso
+\Data\Mapset\Room\Objects/sn__object_0397.rso
+\Data\Mapset\Room\Objects/sn__object_0398.rso
+\Data\Mapset\Room\Objects/sn__object_0441.rfo
+\Data\Mapset\Room\Objects/sn__object_0442.rfo
+\Data\Mapset\Room\Objects/sn__object_0443.rfo
+\Data\Mapset\Room\Objects/sn__object_0444.rfo
+\Data\Mapset\Room\Objects/sn__object_0445.rfo
+\Data\Mapset\Room\Objects/sn__object_0446.rfo
+\Data\Mapset\Room\Objects/sn__object_0447.rfo
+\Data\Mapset\Room\Objects/sn__object_0448.rfo
+\Data\Mapset\Room\Objects/sn__object_0449.rfo
+\Data\Mapset\Room\Objects/sn__object_0450.rfo
+\Data\Mapset\Room\Objects/sn__object_0451.rfo
+\Data\Mapset\Room\Objects/sn__object_0452.rfo
+\Data\Mapset\Room\Objects/sn__object_0453.rfo
+\Data\Mapset\Room\Objects/sn__object_0454.rfo
+\Data\Mapset\Room\Objects/sn__object_0455.rfo
+\Data\Mapset\Room\Objects/sn__object_0456.rfo
+\Data\Mapset\Room\Objects/sn__object_0457.rfo
+\Data\Mapset\Room\Objects/sn__object_0458.rfo
+\Data\Mapset\Room\Objects/sn__object_0459.rfo
+\Data\Mapset\Room\Objects/sn__object_0460.rfo
+\Data\Mapset\Room\Objects/sn__object_0461.rfo
+\Data\Mapset\Room\Objects/sn__object_0462.rfo
+\Data\Mapset\Room\Objects/sn__object_0463.rfo
+\Data\Mapset\Room\Objects/sn__object_0464.rfo
+\Data\Mapset\Room\Objects/sn__object_0465.rfo
+\Data\Mapset\Room\Objects/sn__object_0466.rfo
+\Data\Mapset\Room\Objects/sn__object_0467.rfo
+\Data\Mapset\Room\Objects/sn__object_0467.rso
+\Data\Mapset\Room\Objects/sn__object_0468.rfo
+\Data\Mapset\Room\Objects/sn__object_0468.rso
+\Data\Mapset\Room\Objects/sn__object_0469.rfo
+\Data\Mapset\Room\Objects/sn__object_0469.rso
+\Data\Mapset\Room\Objects/sn__object_0470.rfo
+\Data\Mapset\Room\Objects/sn__object_0470.rso
+\Data\Mapset\Room\Objects/sn__object_0471.rfo
+\Data\Mapset\Room\Objects/sn__object_0471.rso
+\Data\Mapset\Room\Objects/sn__object_0472.rfo
+\Data\Mapset\Room\Objects/sn__object_0472.rso
+\Data\Mapset\Room\Objects/sn__object_0473.rfo
+\Data\Mapset\Room\Objects/sn__object_0473.rso
+\Data\Mapset\Room\Objects/sn__object_0474.rfo
+\Data\Mapset\Room\Objects/sn__object_0474.rso
+\Data\Mapset\Room\Objects/sn__object_0475.rfo
+\Data\Mapset\Room\Objects/sn__object_0475.rso
+\Data\Mapset\Room\Objects/sn__object_0476.rfo
+\Data\Mapset\Room\Objects/sn__object_0476.rso
+\Data\Mapset\Room\Objects/sn__object_0477.rfo
+\Data\Mapset\Room\Objects/sn__object_0477.rso
+\Data\Mapset\Room\Objects/sn__object_0478.rfo
+\Data\Mapset\Room\Objects/sn__object_0478.rso
+\Data\Mapset\Room\Objects/sn__object_0479.rfo
+\Data\Mapset\Room\Objects/sn__object_0479.rso
+\Data\Mapset\Room\Objects/sn__object_0480.rfo
+\Data\Mapset\Room\Objects/sn__object_0481.rfo
+\Data\Mapset\Room\Objects/sn__object_0482.rfo
+\Data\Mapset\Room\Objects/sn__object_0483.rfo
+\Data\Mapset\Room\Objects/sn__object_0484.rfo
+\Data\Mapset\Room\Objects/sn__object_0485.rfo
+\Data\Mapset\Room\Objects/sn__object_0486.rfo
+\Data\Mapset\Room\Objects/sn__object_0487.rfo
+\Data\Mapset\Room\Objects/sn__object_0488.rfo
+\Data\Mapset\Room\Objects/sn__object_0489.rfo
+\Data\Mapset\Room\Objects/sn__object_0490.rfo
+\Data\Mapset\Room\Objects/sn__object_0491.rfo
+\Data\Mapset\Room\Objects/sn__object_0492.rfo
+\Data\Mapset\Room\Objects/sn__object_0493.rfo
+\Data\Mapset\Room\Objects/sn__object_0494.rfo
+\Data\Mapset\Room\Objects/sn__object_0495.rfo
+\Data\Mapset\Room\Objects/sn__object_0496.rfo
+\Data\Mapset\Room\Objects/sn__object_0497.rfo
+\Data\Mapset\Room\Objects/sn__object_0498.rfo
+\Data\Mapset\Room\Objects/sn__object_0499.rfo
+\Data\Mapset\Room\Objects/sn__object_0500.rfo
+\Data\Mapset\Room\Objects/sn__object_0501.rfo
+\Data\Mapset\Room\Objects/sn__object_0502.rfo
+\Data\Mapset\Room\Objects/sn__object_0503.rfo
+\Data\Mapset\Room\Objects/sn__object_0504.rfo
+\Data\Mapset\Room\Objects/sn__object_0505.rfo
+\Data\Mapset\Room\Objects/sn__object_0506.rfo
+\Data\Mapset\Room\Objects/sn__object_0507.rfo
+\Data\Mapset\Room\Objects/sn__object_0508.rfo
+\Data\Mapset\Room\Objects/sn__object_0509.rfo
+\Data\Mapset\Room\Objects/sn__object_0510.rfo
+\Data\Mapset\Room\Objects/sn__object_0511.rfo
+\Data\Mapset\Room\Objects/sn__object_0512.rfo
+\Data\Misc/creature.smi
+\Data\Misc/iconItem.smi
+\Data\monsters/NPC_Known.plt
+\Data\monsters/NPC_Known.sad
+\Data\monsters/NPC_Lennie.plt
+\Data\monsters/NPC_Lennie.sad
+\Data\NPC/NPC_Known.plt
+\Data\NPC/NPC_Known.sad
+\Data\NPC/NPC_Lennie.plt
+\Data\NPC/NPC_Lennie.sad
+\Data\Scenario/Red Stone.rpd
+\Data\Scenario\Red Stone/item.dat
+\Data\Scenario\Red Stone/job2.dat
+\Data\Scenario\Red Stone\Map/GH2_00.rmd
+\Data\Scenario\Red Stone\Map/GH2_01.rmd
+\Data\Scenario\Red Stone\Map/GH2_02.rmd
+\Data\Scenario\Red Stone\Map/GH3_00.rmd
+\Data\Scenario\Red Stone\Map/GH3_01.rmd
+\Data\Scenario\Red Stone\Map/GH4_00.rmd
+\Data\Scenario\Red Stone\Map/GH4_01.rmd
+\Data\Scenario\Red Stone\Map/GH5_00.rmd
+\Data\Scenario\Red Stone\Map/[000]T01.rmd
+\Data\Scenario\Red Stone\Map/[005]G07_D01_B03.rmd
+\Data\Scenario\Red Stone\Map/[010]G13.rmd
+\Data\Scenario\Red Stone\Map/[027]Prison.rmd
+\Data\Scenario\Red Stone\Map/[1000]D01.rmd
+\Data\Scenario\Red Stone\Map/[1001]D01.rmd
+\Data\Scenario\Red Stone\Map/[1002]D01.rmd
+\Data\Scenario\Red Stone\Map/[1003]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[1004]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[1005]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[1006]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[1008]YatikanuForest_2.rmd
+\Data\Scenario\Red Stone\Map/[1009]YatikanuForest_3.rmd
+\Data\Scenario\Red Stone\Map/[1014]D12.rmd
+\Data\Scenario\Red Stone\Map/[1019]T01_I01.rmd
+\Data\Scenario\Red Stone\Map/[128]G32.rmd
+\Data\Scenario\Red Stone\Map/[193]T08.rmd
+\Data\Scenario\Red Stone\Map/[254]T11_P01.rmd
+\Data\Scenario\Red Stone\Map/[375]T05.rmd
+\Data\Scenario\Red Stone\Map/[444]S22.rmd
+\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd
+\Data\Scenario\Red Stone\Map/[544] T01_I01_B01.rmd
+\Data\Scenario\Red Stone\Map/[605]G15.rmd
+\Data\Scenario\Red Stone\Map/[606]G15.rmd
+\Data\Scenario\Red Stone\Map/[627]D02_D06_B01.rmd
+\Data\Scenario\Red Stone\Map/[628]D02_D06_B01.rmd
+\Data\Scenario\Red Stone\Map/[635]M11.rmd
+\Data\Scenario\Red Stone\Map/[636]M11.rmd
+\Data\Scenario\Red Stone\Map/[683]S15.rmd
+\Data\Scenario\Red Stone\Map/[684]S15.rmd
+\Data\Scenario\Red Stone\Map/[693]S24_C02_B02.rmd
+\Data\Scenario\Red Stone\Map/[694]S24_C02_B02.rmd
+\Data\Scenario\Red Stone\Map/[717]P01_H02_B01.rmd
+\Data\Scenario\Red Stone\Map/[718]P01_H02_B01.rmd
+\Data\Scenario\Red Stone\Map/[721]M05_C03_B01.rmd
+\Data\Scenario\Red Stone\Map/[722]M05_C03_B01.rmd
+\Data\Scenario\Red Stone\Map/[727]G06_H03_F01.rmd
+\Data\Scenario\Red Stone\Map/[728]G06_H03_F01.rmd
+\Data\Scenario\Red Stone\Map/[729]T02_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[730]T02_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[731]G21_G02_F01.rmd
+\Data\Scenario\Red Stone\Map/[732]G21_G02_F01.rmd
+\Data\Scenario\Red Stone\Map/[733]G21_G04_F01.rmd
+\Data\Scenario\Red Stone\Map/[734]G21_G04_F01.rmd
+\Data\Scenario\Red Stone\Map/[735]BF_U02.rmd
+\Data\Scenario\Red Stone\Map/[746]T02_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[747]T02_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[748]T02_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[756]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[773]BF02_bridge.rmd
+\Data\Scenario\Red Stone\Map/[774]R01.rmd
+\Data\Scenario\Red Stone\Map/[775]BF02_bridge.rmd
+\Data\Scenario\Red Stone\Map/[776]BF02_bridge.rmd
+\Data\Scenario\Red Stone\Map/[777]R01.rmd
+\Data\Scenario\Red Stone\Map/[778]R01.rmd
+\Data\Scenario\Red Stone\Map/[796]D02.rmd
+\Data\Scenario\Red Stone\Map/[820]D02.rmd
+\Data\Scenario\Red Stone\Map/[821]D02.rmd
+\Data\Scenario\Red Stone\Map/[873]T10.rmd
+\Data\Scenario\Red Stone\Map/[874]D00.rmd
+\Data\Scenario\Red Stone\Map/[878]PlainOfDivineAnimals.rmd
+\Data\Scenario\Red Stone\Map/[883]Harmington_workshop.rmd
+\Data\Scenario\Red Stone\Map/[885]G02.rmd
+\Data\Scenario\Red Stone\Map/[886]G03.rmd
+\Data\Scenario\Red Stone\Map/[909]D00.rmd
+\Data\Scenario\Red Stone\Map/[910]D00.rmd
+\Data\Scenario\Red Stone\Map/[911]D00.rmd
+\Data\Scenario\Red Stone\Map/[942]GH_LV01.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss1]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss2]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss3]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss4]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss5]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss6]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[association_ruin]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[chaos_9]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[pojection_cave]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[sacrifice_altar]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[tantillessB9]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[tomb]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Trial_P]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Trial_S]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Yatikanu]000.rmd
+\Data\UI/ComposeCostume.dat
+\Data\UI/Costume_Color.dat
+\Data\UI/Costume_Color_Hidden.dat
+\Data\UI/DimensionHub.dat
+\Data\UI/DimensionHub_Progress.dat
+\Data\UI/FieldEvolution.dat
+\Data\UI/GeneralBoardEventUI.dat
+\Data\UI/MiniGameEventUI.dat
+\Data\UI/ReinforceCostume.dat
+\Data\UI/ReinforceRelicPrefix.dat
+\Data\UI/ReinforceRingPrefix.dat
+\Data\UI/RelicUpgrade.dat
+\Data\UI/SeasonPass.dat
+\Data\UI/seasonpass_1.dat
+\Data\UI/SeasonPass_2.dat

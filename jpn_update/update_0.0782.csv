@@ -1,0 +1,153 @@
+\Data/capa.dat
+\Data/carving.dat
+\Data/ContentsOpen.dat
+\Data/costume.dat
+\Data/creatureInfo.dat
+\Data/effect_data.dat
+\Data/fieldInfo.dat
+\Data/guideSystemLevelQuest.dat
+\Data/itemEX_Data.dat
+\Data/item_option_open.dat
+\Data/logToolText.dat
+\Data/mapList.dat
+\Data/mapLocationInfo.dat
+\Data/neponEx.dat
+\Data/PrefixEnchant.dat
+\Data/rb.dat
+\Data/simpleDataPack.dat
+\Data/skill.dat
+\Data/skill_rdf.dat
+\Data/subjugation.dat
+\Data/subjugation_elite.dat
+\Data/textData.dat
+\Data/toolText.dat
+\Data/wm_dungeon.dat
+\Data\cosbody/Captain_cos02_swim.sad
+\Data\cosbody/Captain_cos9_Holy&Dark.plt
+\Data\cosbody/Captain_cos9_Holy&Dark.sad
+\Data\cosequipment/Captain_cos09_Head_weapon.plt
+\Data\cosequipment/Captain_cos09_Head_weapon.sad
+\Data\cosequipment/Captain_cos9_weapon.plt
+\Data\cosequipment/Captain_cos9_weapon.sad
+\Data\creaturebody/NEW_Pet_Evening_Bella.plt
+\Data\creaturebody/NEW_Pet_Evening_Bella.sad
+\Data\Effects/Fx_GlobalAura.sad
+\Data\Effects/Fx_SaveZone.sad
+\Data\Effects/Redgem05.sad
+\Data\Effects/Redgem05_1.sad
+\Data\Interface\game/Arrow.sad
+\Data\Interface\game/Bingo_Check_02.sad
+\Data\Interface\game/Bingo_Line_1.sad
+\Data\Interface\game/Bingo_Line_2.sad
+\Data\Interface\game/Bingo_Line_3.sad
+\Data\Interface\game/Bingo_Line_4.sad
+\Data\Interface\game/creature_c.sd
+\Data\Interface\game/creature_p.sd
+\Data\Interface\game/interface2.sd
+\Data\Interface\game/ItemOpenOptionEf.sad
+\Data\Mapset\Room\Objects/sn__object_0579.rso
+\Data\Misc/creature.smi
+\Data\Misc/iconItem.smi
+\Data\monsters/AncientStone_01.sad
+\Data\monsters/AncientStone_02.sad
+\Data\monsters/GrimReaper.plt
+\Data\monsters/GrimReaper.sad
+\Data\monsters/NPC_Maestro_Shana.plt
+\Data\monsters/NPC_Maestro_Shana.sad
+\Data\monsters/NPC_Maestro_Shery.plt
+\Data\monsters/NPC_Maestro_Shery.sad
+\Data\NPC/NPC_Maestro_Shana.plt
+\Data\NPC/NPC_Maestro_Shana.sad
+\Data\NPC/NPC_Maestro_Shery.plt
+\Data\NPC/NPC_Maestro_Shery.sad
+\Data\Scenario/Red Stone.rpd
+\Data\Scenario\Red Stone/item.dat
+\Data\Scenario\Red Stone/job2.dat
+\Data\Scenario\Red Stone\Map/[000]T01.rmd
+\Data\Scenario\Red Stone\Map/[028]Prison.rmd
+\Data\Scenario\Red Stone\Map/[1000]D01.rmd
+\Data\Scenario\Red Stone\Map/[1001]D01.rmd
+\Data\Scenario\Red Stone\Map/[1002]D01.rmd
+\Data\Scenario\Red Stone\Map/[1003]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[1004]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[1005]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[1006]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[1007]YatikanuForest_1.rmd
+\Data\Scenario\Red Stone\Map/[1008]YatikanuForest_2.rmd
+\Data\Scenario\Red Stone\Map/[1009]YatikanuForest_3.rmd
+\Data\Scenario\Red Stone\Map/[1010]T21.rmd
+\Data\Scenario\Red Stone\Map/[1023]L02.rmd
+\Data\Scenario\Red Stone\Map/[1025]YatikanuForest_4.rmd
+\Data\Scenario\Red Stone\Map/[1026]YatikanuForest_5.rmd
+\Data\Scenario\Red Stone\Map/[1027]YatikanuForest_6.rmd
+\Data\Scenario\Red Stone\Map/[1028]L03.rmd
+\Data\Scenario\Red Stone\Map/[322]D08.rmd
+\Data\Scenario\Red Stone\Map/[374]T09.rmd
+\Data\Scenario\Red Stone\Map/[397]T02_I01.rmd
+\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd
+\Data\Scenario\Red Stone\Map/[739]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[754]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[755]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[756]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[757]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[758]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[783]L01.rmd
+\Data\Scenario\Red Stone\Map/[791]T02.rmd
+\Data\Scenario\Red Stone\Map/[792]G01.rmd
+\Data\Scenario\Red Stone\Map/[794]G01.rmd
+\Data\Scenario\Red Stone\Map/[795]D01.rmd
+\Data\Scenario\Red Stone\Map/[796]D02.rmd
+\Data\Scenario\Red Stone\Map/[816]G01.rmd
+\Data\Scenario\Red Stone\Map/[817]G01.rmd
+\Data\Scenario\Red Stone\Map/[818]D01.rmd
+\Data\Scenario\Red Stone\Map/[819]D01.rmd
+\Data\Scenario\Red Stone\Map/[820]D02.rmd
+\Data\Scenario\Red Stone\Map/[821]D02.rmd
+\Data\Scenario\Red Stone\Map/[824]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[825]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[826]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[828]D01_01.rmd
+\Data\Scenario\Red Stone\Map/[829]D01_02.rmd
+\Data\Scenario\Red Stone\Map/[830]D01_03.rmd
+\Data\Scenario\Red Stone\Map/[843]D01_01.rmd
+\Data\Scenario\Red Stone\Map/[844]D01_01.rmd
+\Data\Scenario\Red Stone\Map/[845]D01_01.rmd
+\Data\Scenario\Red Stone\Map/[846]D01_01.rmd
+\Data\Scenario\Red Stone\Map/[847]D01_01.rmd
+\Data\Scenario\Red Stone\Map/[848]D01_02.rmd
+\Data\Scenario\Red Stone\Map/[849]D01_02.rmd
+\Data\Scenario\Red Stone\Map/[850]D01_02.rmd
+\Data\Scenario\Red Stone\Map/[851]D01_02.rmd
+\Data\Scenario\Red Stone\Map/[852]D01_02.rmd
+\Data\Scenario\Red Stone\Map/[853]D01_03.rmd
+\Data\Scenario\Red Stone\Map/[854]D01_03.rmd
+\Data\Scenario\Red Stone\Map/[855]D01_03.rmd
+\Data\Scenario\Red Stone\Map/[856]D01_03.rmd
+\Data\Scenario\Red Stone\Map/[857]D01_03.rmd
+\Data\Scenario\Red Stone\Map/[858]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[859]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[860]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[861]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[862]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[863]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[864]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[865]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[866]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[867]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[868]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[869]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[870]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[871]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[872]G16_D03_B03.rmd
+\Data\Scenario\Red Stone\Map/[874]D00.rmd
+\Data\Scenario\Red Stone\Map/[875]D01.rmd
+\Data\Scenario\Red Stone\Map/[876]D10.rmd
+\Data\Scenario\Red Stone\Map/[879]ForestOfLife_Center.rmd
+\Data\Scenario\Red Stone\Map/[880]ForestOfLife_OutSkirts.rmd
+\Data\Scenario\Red Stone\Map/[881]WasteLandOfDeath.rmd
+\Data\Scenario\Red Stone\Map/[886]G03.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Distorted_Academy]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[EliteArenaBoss1]000.rmd
+\Data\UI/Craft.dat
+\Data\UI/ItemOptionOpen.dat
+\Data\UI/UltBottomlessBox.dat
