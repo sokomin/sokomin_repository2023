@@ -1,0 +1,328 @@
+\Data/capa.dat
+\Data/checkObjectData.dat
+\Data/contentsJob.dat
+\Data/ContentsOpen.dat
+\Data/costume.dat
+\Data/DecorateSkin.dat
+\Data/defaultJob.dat
+\Data/dimensionDungeon.dat
+\Data/effect_data.dat
+\Data/fieldInfo.dat
+\Data/guideSystemLevelQuest.dat
+\Data/logToolText.dat
+\Data/MagicJewelContents.dat
+\Data/mapList.dat
+\Data/questEX_Data.dat
+\Data/rb.dat
+\Data/simpleDataPack.dat
+\Data/skill.dat
+\Data/SkillExtension.dat
+\Data/subjugation.dat
+\Data/survival.dat
+\Data/textData.dat
+\Data/textData2.dat
+\Data/toolText.dat
+\Data/VariableCapa.dat
+\Data\cosbody/25_Captain_Cos_05.plt
+\Data\cosbody/25_Captain_Cos_05.sad
+\Data\cosbody\Elemental Ruler/03_Archer_Cos_11_07_CHfx.sad
+\Data\cosbody\Elemental Ruler/03_Archer_Cos_11_10_CHptfx.sad
+\Data\cosbody\Elemental Ruler/04_Lancer_Cos_11_10_CHptfx.sad
+\Data\cosbody\Elemental Ruler/06_Summoner_Cos_11_01_CH.sad
+\Data\cosbody\Elemental Ruler/06_Summoner_Cos_11_04_CHpt.sad
+\Data\cosbody\Elemental Ruler/06_Summoner_Cos_11_07_CHfx.sad
+\Data\cosbody\Elemental Ruler/06_Summoner_Cos_11_10_CHptfx.sad
+\Data\cosbody\Elemental Ruler/07_Rogue_Cos_11_07_CHfx.sad
+\Data\cosbody\Elemental Ruler/07_Rogue_Cos_11_10_CHptfx.sad
+\Data\cosbody\Elemental Ruler/11_Wizard_Cos_11_07_CHfx.sad
+\Data\cosbody\Elemental Ruler/12_Wolf_Cos_11_07_CHfx.sad
+\Data\cosbody\Elemental Ruler/12_Wolf_Cos_11_10_CHptfx.sad
+\Data\cosbody\Elemental Ruler/14_Magicalgirl_Cos_11_01_CH.plt
+\Data\cosbody\Elemental Ruler/16_Devil_Cos_11_07_CHfx.sad
+\Data\cosbody\Elemental Ruler/16_Devil_Cos_11_10_CHptfx.sad
+\Data\cosbody\Elemental Ruler/19_Opticalist_Cos_11_07_CHfx.sad
+\Data\cosbody\Elemental Ruler/19_Opticalist_Cos_11_10_CHptfx.sad
+\Data\cosbody\Elemental Ruler/21_Maid_Cos_11_01_CH.sad
+\Data\cosbody\Elemental Ruler/21_Maid_Cos_11_07_CHfx.sad
+\Data\cosbody\Elemental Ruler/21_Maid_Cos_11_10_CHptfx.sad
+\Data\cosbody\Elemental Ruler/22_DemonSorceress_Cos_11_01_CH.plt
+\Data\cosbody\Elemental Ruler/22_DemonSorceress_Cos_11_01_CH.sad
+\Data\cosbody\Elemental Ruler/22_DemonSorceress_Cos_11_10_CHptfx.sad
+\Data\cosbody\Elemental Ruler/25_Captain_Cos_11_10_CHptfx.sad
+\Data\cosbody\Elemental Ruler/DarkAdv_Cos_11_Back.sad
+\Data\cosbody\Elemental Ruler/DarkAdv_Cos_11_Front.sad
+\Data\cosbody\Elemental Ruler/DarkBasic_Cos_11_Back.sad
+\Data\cosbody\Elemental Ruler/DarkBasic_Cos_11_Front.sad
+\Data\cosbody\Elemental Ruler/EarthAdv_Cos_11_Back.sad
+\Data\cosbody\Elemental Ruler/EarthAdv_Cos_11_Front.sad
+\Data\cosbody\Elemental Ruler/EarthBasic_Cos_11_Back.sad
+\Data\cosbody\Elemental Ruler/EarthBasic_Cos_11_Front.sad
+\Data\cosbody\Elemental Ruler/Fireadv_Cos_11_back.sad
+\Data\cosbody\Elemental Ruler/Fireadv_Cos_11_front.sad
+\Data\cosbody\Elemental Ruler/Firebasic_Cos_11_back.sad
+\Data\cosbody\Elemental Ruler/Firebasic_Cos_11_front.sad
+\Data\cosbody\Elemental Ruler/LightAdv_Cos_11_front.sad
+\Data\cosbody\Elemental Ruler/LightBasic_Cos_11_front.sad
+\Data\cosbody\Elemental Ruler/WindAdv_Cos_11_back.sad
+\Data\cosbody\Elemental Ruler/WindAdv_Cos_11_front.sad
+\Data\cosbody\Elemental Ruler/WindBasic_Cos_11_back.sad
+\Data\cosbody\Elemental Ruler/WindBasic_Cos_11_front.sad
+\Data\cosequipment/25_Captain_Cos_05_mw_weapon.plt
+\Data\cosequipment/25_Captain_Cos_05_mw_weapon.sad
+\Data\cosequipment/25_Captain_Cos_05_mw_weapon_Head.plt
+\Data\cosequipment/25_Captain_Cos_05_mw_weapon_Head.sad
+\Data\cosequipment\Elemental Ruler/03_Archer_Cos_11_02_MW.sad
+\Data\cosequipment\Elemental Ruler/03_Archer_Cos_11_08_MWfx.sad
+\Data\cosequipment\Elemental Ruler/03_Archer_Cos_11_11_MWptfx.sad
+\Data\cosequipment\Elemental Ruler/05_BeastTamer_Cos_11_08_MWfx.sad
+\Data\cosequipment\Elemental Ruler/05_BeastTamer_Cos_11_11_MWptfx.sad
+\Data\cosequipment\Elemental Ruler/06_Summoner_Cos_11_08_MWfx.sad
+\Data\cosequipment\Elemental Ruler/06_Summoner_Cos_11_11_MWptfx.sad
+\Data\cosequipment\Elemental Ruler/09_Priest_Cos_11_03_SW.sad
+\Data\cosequipment\Elemental Ruler/09_Priest_Cos_11_06_SWpt.sad
+\Data\cosequipment\Elemental Ruler/11_Wizard_Cos_11_02_MW.sad
+\Data\cosequipment\Elemental Ruler/11_Wizard_Cos_11_05_MWpt.sad
+\Data\cosequipment\Elemental Ruler/11_Wizard_Cos_11_08_MWfx.sad
+\Data\cosequipment\Elemental Ruler/11_Wizard_Cos_11_11_MWptfx.sad
+\Data\cosequipment\Elemental Ruler/12_Wolf_Cos_11_08_MWfx.sad
+\Data\cosequipment\Elemental Ruler/12_Wolf_Cos_11_11_MWptfx.sad
+\Data\cosequipment\Elemental Ruler/14_Magicalgirl_Cos_11_01_CH.plt
+\Data\cosequipment\Elemental Ruler/15_Necromancer_Cos_11_02_MW.sad
+\Data\cosequipment\Elemental Ruler/15_Necromancer_Cos_11_05_MWpt.sad
+\Data\cosequipment\Elemental Ruler/16_Devil_Cos_11_08_MWfx.sad
+\Data\cosequipment\Elemental Ruler/16_Devil_Cos_11_11_MWptfx.sad
+\Data\cosequipment\Elemental Ruler/22_DemonSorceress_Cos_11_01_CH.plt
+\Data\Effects/FX_Champion_Bear's_Roar.sad
+\Data\Effects/FX_Champion_Bear's_Roar_red.sad
+\Data\Effects/FX_Champion_Menasing_Bloom.sad
+\Data\Effects/Last Dance_Additional Hit.sad
+\Data\Effects/Lethal Weapon.sad
+\Data\Effects/Lethal Weapon_2.sad
+\Data\Effects/Lethal Weapon_red.sad
+\Data\Effects/Lethal Weapon_red2.sad
+\Data\Effects/Shield Breaking.sad
+\Data\Heros/Devil01.plt
+\Data\Heros/Devil02.plt
+\Data\Heros/Devil03.plt
+\Data\Heros/MagicalGirl01.plt
+\Data\Heros/MagicalGirl02.plt
+\Data\Heros/MagicalGirl03.plt
+\Data\Heros/NecroMancer01.plt
+\Data\Heros/NecroMancer02.plt
+\Data\Heros/NecroMancer03.plt
+\Data\Heros/old_BeastTamer01.plt
+\Data\Heros/old_BeastTamer03.plt
+\Data\Heros/old_Devil01.plt
+\Data\Heros/old_Devil02.plt
+\Data\Heros/old_Devil03.plt
+\Data\Heros/old_MagicalGirl01.plt
+\Data\Heros/old_MagicalGirl02.plt
+\Data\Heros/old_MagicalGirl03.plt
+\Data\Heros/old_NecroMancer01.plt
+\Data\Heros/old_NecroMancer02.plt
+\Data\Heros/old_NecroMancer03.plt
+\Data\Heros/old_Princess01.plt
+\Data\Heros/old_Princess02.plt
+\Data\Heros/old_Princess03.plt
+\Data\Heros/old_Rogue01.plt
+\Data\Heros/old_Rogue02.plt
+\Data\Heros/old_Rogue03.plt
+\Data\Heros/Princess01.plt
+\Data\Heros/Princess02.plt
+\Data\Heros/Princess03.plt
+\Data\Heros/Rogue01.plt
+\Data\Heros/Rogue02.plt
+\Data\Heros/Rogue03.plt
+\Data\Interface\game/generalEvent_kor.sd
+\Data\Interface\game/interface2.sd
+\Data\Interface\game/magic_carpet26.sad
+\Data\Interface\game/magic_carpet27.sad
+\Data\Interface\game/name_bar_GoldFIsh.sd
+\Data\Interface\game/number.sd
+\Data\Interface\game/reinforcement_eff_circle.sad
+\Data\language\japan/textData2.dat.lng
+\Data\Mapset\Brunenstig\Objects/sn__object_0239.rso
+\Data\Mapset\Brunenstig\Objects/sn__object_0240.rso
+\Data\Mapset\Brunenstig\Objects/sn__object_0241.rso
+\Data\Mapset\Brunenstig\Objects/sn__object_0451.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0452.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0453.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0454.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0455.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0456.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0457.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0458.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0459.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0460.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0461.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0462.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0463.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0464.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0465.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0466.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0467.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0468.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0469.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0470.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0471.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0472.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0473.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0474.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0475.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0476.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0477.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0478.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0479.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0480.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0481.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0482.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0483.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0484.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0485.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0486.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0487.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0488.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0489.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0490.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0491.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0492.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0493.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0494.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0495.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0496.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0497.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0498.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0499.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0500.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0501.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0502.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0503.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0504.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0505.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0506.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0507.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0508.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0509.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0510.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0511.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0512.rfo
+\Data\Mapset\Brunenstig\Objects/sn__object_0513.rfo
+\Data\Misc/iconItem.smi
+\Data\Misc/iconSkill.smi
+\Data\monsters/Golden_Rebito2_800.sad
+\Data\monsters/MoHD.plt
+\Data\monsters/MoHD.sad
+\Data\monsters/MoHD_Cracked.plt
+\Data\monsters/MoHD_Cracked.sad
+\Data\NPC/MoHD.plt
+\Data\NPC/MoHD.sad
+\Data\NPC/MoHD_Cracked.plt
+\Data\NPC/MoHD_Cracked.sad
+\Data\Scenario/Red Stone.rpd
+\Data\Scenario\Red Stone/item.dat
+\Data\Scenario\Red Stone/job2.dat
+\Data\Scenario\Red Stone\Map/[000]T01.rmd
+\Data\Scenario\Red Stone\Map/[000]T01.rmd.terrain
+\Data\Scenario\Red Stone\Map/[056]M19_D01_F02.rmd
+\Data\Scenario\Red Stone\Map/[056]M19_D01_F02.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1007]YatikanuForest_1.rmd
+\Data\Scenario\Red Stone\Map/[1007]YatikanuForest_1.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1008]YatikanuForest_2.rmd
+\Data\Scenario\Red Stone\Map/[1008]YatikanuForest_2.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1009]YatikanuForest_3.rmd
+\Data\Scenario\Red Stone\Map/[1009]YatikanuForest_3.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1025]YatikanuForest_4.rmd
+\Data\Scenario\Red Stone\Map/[1025]YatikanuForest_4.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1026]YatikanuForest_5.rmd
+\Data\Scenario\Red Stone\Map/[1026]YatikanuForest_5.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1027]YatikanuForest_6.rmd
+\Data\Scenario\Red Stone\Map/[1027]YatikanuForest_6.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1065]YatikanuForest_1.rmd
+\Data\Scenario\Red Stone\Map/[1065]YatikanuForest_1.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1066]YatikanuForest_1.rmd
+\Data\Scenario\Red Stone\Map/[1066]YatikanuForest_1.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1067]YatikanuForest_1.rmd
+\Data\Scenario\Red Stone\Map/[1067]YatikanuForest_1.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1068]YatikanuForest_2.rmd
+\Data\Scenario\Red Stone\Map/[1068]YatikanuForest_2.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1069]YatikanuForest_2.rmd
+\Data\Scenario\Red Stone\Map/[1069]YatikanuForest_2.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1070]YatikanuForest_2.rmd
+\Data\Scenario\Red Stone\Map/[1070]YatikanuForest_2.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1071]YatikanuForest_3.rmd
+\Data\Scenario\Red Stone\Map/[1071]YatikanuForest_3.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1072]YatikanuForest_3.rmd
+\Data\Scenario\Red Stone\Map/[1072]YatikanuForest_3.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1073]YatikanuForest_3.rmd
+\Data\Scenario\Red Stone\Map/[1073]YatikanuForest_3.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1074]YatikanuForest_4.rmd
+\Data\Scenario\Red Stone\Map/[1074]YatikanuForest_4.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1075]YatikanuForest_4.rmd
+\Data\Scenario\Red Stone\Map/[1075]YatikanuForest_4.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1076]YatikanuForest_4.rmd
+\Data\Scenario\Red Stone\Map/[1076]YatikanuForest_4.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1077]YatikanuForest_5.rmd
+\Data\Scenario\Red Stone\Map/[1077]YatikanuForest_5.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1078]YatikanuForest_5.rmd
+\Data\Scenario\Red Stone\Map/[1078]YatikanuForest_5.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1079]YatikanuForest_5.rmd
+\Data\Scenario\Red Stone\Map/[1079]YatikanuForest_5.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1080]YatikanuForest_6.rmd
+\Data\Scenario\Red Stone\Map/[1080]YatikanuForest_6.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1081]YatikanuForest_6.rmd
+\Data\Scenario\Red Stone\Map/[1081]YatikanuForest_6.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1082]YatikanuForest_6.rmd
+\Data\Scenario\Red Stone\Map/[1082]YatikanuForest_6.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1087]WaitingRoom.rmd
+\Data\Scenario\Red Stone\Map/[1087]WaitingRoom.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1088]WaitingRoom.rmd
+\Data\Scenario\Red Stone\Map/[1088]WaitingRoom.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1089]WaitingRoom.rmd
+\Data\Scenario\Red Stone\Map/[1089]WaitingRoom.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1090]WaitingRoom.rmd
+\Data\Scenario\Red Stone\Map/[1090]WaitingRoom.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1091]WaitingRoom.rmd
+\Data\Scenario\Red Stone\Map/[1091]WaitingRoom.rmd.terrain
+\Data\Scenario\Red Stone\Map/[372]S09.rmd
+\Data\Scenario\Red Stone\Map/[372]S09.rmd.terrain
+\Data\Scenario\Red Stone\Map/[429]T02_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[429]T02_D01_B01.rmd.terrain
+\Data\Scenario\Red Stone\Map/[466]D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[466]D01_B01.rmd.terrain
+\Data\Scenario\Red Stone\Map/[467]D03_B01.rmd
+\Data\Scenario\Red Stone\Map/[467]D03_B01.rmd.terrain
+\Data\Scenario\Red Stone\Map/[468]S14_T01_B01.rmd
+\Data\Scenario\Red Stone\Map/[468]S14_T01_B01.rmd.terrain
+\Data\Scenario\Red Stone\Map/[471]D09_S01_F06.rmd
+\Data\Scenario\Red Stone\Map/[471]D09_S01_F06.rmd.terrain
+\Data\Scenario\Red Stone\Map/[480]T19.rmd
+\Data\Scenario\Red Stone\Map/[480]T19.rmd.terrain
+\Data\Scenario\Red Stone\Map/[739]BF_D02.rmd
+\Data\Scenario\Red Stone\Map/[739]BF_D02.rmd.terrain
+\Data\Scenario\Red Stone\Map/[743]R02.rmd
+\Data\Scenario\Red Stone\Map/[743]R02.rmd.terrain
+\Data\Scenario\Red Stone\Map/[744]R03.rmd
+\Data\Scenario\Red Stone\Map/[744]R03.rmd.terrain
+\Data\Scenario\Red Stone\Map/[745]R01.rmd
+\Data\Scenario\Red Stone\Map/[745]R01.rmd.terrain
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_05]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_05]000.rmd.terrain
+\Data\Scenario\Red Stone\Map\expansion/[Dimension_05]000.rmd.tga
+\Data\Scenario\Red Stone\Map\expansion/[EliteArenaBoss1]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[EliteArenaBoss1]000.rmd.terrain
+\Data\Scenario\Red Stone\Map\expansion/[Survival]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Survival]000.rmd.terrain
+\Data\Scenario\Red Stone\Map\expansion/[Survival]000.rmd.tga
+\Data\Sound/Shattering_Mirror.wav
+\Data\Sound/Shattering_Mirror2.wav
+\Data\Sound/Shattering_Mirror3.wav
+\Data\Sound\Voice\Npc/Disrubting_Mirror.mp3
+\Data\UI/DimensionHub.dat
+\Data\UI/eliteSubjugation.dat
+\Data\UI/General_ItemList_MidSize.dat
+\Data\UI/MagicJewelAutoRegister.dat
+\Data\UI/MagicJewelCrafting.dat
+\Data\UI/MiniGameEventUI.dat
+\Data\UI/subjugation.dat
+\Data\UI/Survival.dat
+\Data\UI/[Sv]Rank.dat
