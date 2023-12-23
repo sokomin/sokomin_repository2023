@@ -1,0 +1,162 @@
+\Data/capa.dat
+\Data/contentsJob.dat
+\Data/ContentsOpen.dat
+\Data/defaultJob.dat
+\Data/effect_data.dat
+\Data/emoticon.dat
+\Data/fieldInfo.dat
+\Data/guideQuest.dat
+\Data/guideSystemLevelQuest.dat
+\Data/item_option_open.dat
+\Data/mapList.dat
+\Data/PrefixEnchant.dat
+\Data/rb.dat
+\Data/simpleDataPack.dat
+\Data/skill.dat
+\Data/skill_rdf.dat
+\Data/subjugation.dat
+\Data/textData.dat
+\Data/textData2.dat
+\Data/title.dat
+\Data/toolText.dat
+\Data/unleashPotential.dat
+\Data/VariableCapa.dat
+\Data\cosbody/Musketeer_Cos03.sad
+\Data\cosbody/Musketeer_Cos05_180312.sad
+\Data\cosbody/Musketeer_Cos09_Holy&Dark.sad
+\Data\cosbody/Musketeer_Cos15_Techwear.sad
+\Data\cosbody/Musketeer_cos_01.sad
+\Data\cosbody/Musketeer_Cos_08.sad
+\Data\cosbody/Musketeer_cos_Collabo02.sad
+\Data\cosbody/Musketeer_cos_Collabo03.sad
+\Data\cosbody/Musketeer_cos_Collabo04.sad
+\Data\cosbody/Musketeer_cos_HW.sad
+\Data\cosbody/Musketeer_cos_santa.sad
+\Data\cosbody/Musketeer_Cos_StarRevelator.sad
+\Data\cosbody/Musketeer_cos_swim.sad
+\Data\cosbody\Elemental Ruler/23_Musketeer_Cos_11_01_CH.sad
+\Data\Effects/designation_Falcon_ui.sad
+\Data\Effects/Effect_Barrier.sad
+\Data\Effects/Fx_Falcon_act5.sad
+\Data\Effects/Fx_Musketeer_Charge_Crystal.sad
+\Data\Effects/Fx_Musketeer_CurtainTime.sad
+\Data\Effects/Fx_Musketeer_Doomsdaybullet.sad
+\Data\Effects/Fx_Musketeer_Explsion_Fanshape.sad
+\Data\Effects/Fx_Musketeer_Hit_Doomsday.sad
+\Data\Effects/Fx_Musketeer_Reload.sad
+\Data\Effects/Fx_Musketeer_Rope.sad
+\Data\Effects/FX_Selvia_sorrow_rain.sad
+\Data\Effects/Known_explosion_dooms_day.sad
+\Data\Effects/Known_skill_dragon_twister.sad
+\Data\Effects/Selvia_fort_of_abondoned.sad
+\Data\Effects/Selvia_sorrow_rain.sad
+\Data\event/bme_Hector_Revive.dat
+\Data\event/bme_Selvia.dat
+\Data\event/NPC_LennieBoss_event.sad
+\Data\Heros/Musketeer01.sad
+\Data\Heros/Musketeer02.sad
+\Data\Heros/Musketeer03.sad
+\Data\Interface\game/designation_icon.sd
+\Data\Interface\game/emoticon002.sad
+\Data\Interface\game/interface2.sd
+\Data\Interface\game/number.sd
+\Data\Interface\game/Potential_Skill_icon.sd
+\Data\language/japan.llt
+\Data\language\japan/textData2.dat.lng
+\Data\Misc/iconItem.smi
+\Data\Misc/iconSkill.smi
+\Data\monsters/NPC_Known.plt
+\Data\monsters/NPC_Known.sad
+\Data\monsters/NPC_LennieBoss.plt
+\Data\monsters/NPC_LennieBoss.sad
+\Data\monsters/NPC_SelviaBoss.plt
+\Data\monsters/NPC_SelviaBoss.sad
+\Data\Scenario/Red Stone.rpd
+\Data\Scenario\Red Stone/item.dat
+\Data\Scenario\Red Stone/job2.dat
+\Data\Scenario\Red Stone\Map/[000]T01.rmd
+\Data\Scenario\Red Stone\Map/[000]T01.rmd.terrain
+\Data\Scenario\Red Stone\Map/[010]G13.rmd
+\Data\Scenario\Red Stone\Map/[010]G13.rmd.terrain
+\Data\Scenario\Red Stone\Map/[013]G13_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[013]G13_D01_B01.rmd.terrain
+\Data\Scenario\Red Stone\Map/[028]Prison.rmd
+\Data\Scenario\Red Stone\Map/[028]Prison.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1015]CoolCave.rmd
+\Data\Scenario\Red Stone\Map/[1015]CoolCave.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1028]L03.rmd
+\Data\Scenario\Red Stone\Map/[1028]L03.rmd.terrain
+\Data\Scenario\Red Stone\Map/[1083]UposmiresN_1.rmd
+\Data\Scenario\Red Stone\Map/[1083]UposmiresN_1.rmd.terrain
+\Data\Scenario\Red Stone\Map/[255]T11_GUILD_CRT.rmd
+\Data\Scenario\Red Stone\Map/[255]T11_GUILD_CRT.rmd.terrain
+\Data\Scenario\Red Stone\Map/[372]S09.rmd
+\Data\Scenario\Red Stone\Map/[372]S09.rmd.terrain
+\Data\Scenario\Red Stone\Map/[375]T05.rmd
+\Data\Scenario\Red Stone\Map/[375]T05.rmd.terrain
+\Data\Scenario\Red Stone\Map/[429]T02_D01_B01.rmd
+\Data\Scenario\Red Stone\Map/[429]T02_D01_B01.rmd.terrain
+\Data\Scenario\Red Stone\Map/[444]S22.rmd
+\Data\Scenario\Red Stone\Map/[444]S22.rmd.terrain
+\Data\Scenario\Red Stone\Map/[474]G21_G04_F01.rmd
+\Data\Scenario\Red Stone\Map/[474]G21_G04_F01.rmd.terrain
+\Data\Scenario\Red Stone\Map/[480]T19.rmd
+\Data\Scenario\Red Stone\Map/[480]T19.rmd.terrain
+\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd
+\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd.terrain
+\Data\Scenario\Red Stone\Map/[743]R02.rmd
+\Data\Scenario\Red Stone\Map/[744]R03.rmd
+\Data\Scenario\Red Stone\Map/[745]R01.rmd
+\Data\Scenario\Red Stone\Map/[786]KE7.rmd
+\Data\Scenario\Red Stone\Map/[786]KE7.rmd.terrain
+\Data\Scenario\Red Stone\Map/[883]Harmington_workshop.rmd
+\Data\Scenario\Red Stone\Map/[883]Harmington_workshop.rmd.terrain
+\Data\Scenario\Red Stone\Map/[942]GH_LV01.rmd
+\Data\Scenario\Red Stone\Map/[942]GH_LV01.rmd.terrain
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss6]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss6]000.rmd.terrain
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss7]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss7]000.rmd.terrain
+\Data\Scenario\Red Stone\Map\expansion/[Brun_ruin]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Brun_ruin]000.rmd.terrain
+\Data\Scenario\Red Stone\Map\expansion/[Hactor_Temporary_Lab]000.rmd
+\Data\Scenario\Red Stone\Map\expansion/[Hactor_Temporary_Lab]000.rmd.terrain
+\Data\Scenario\Red Stone\Map\expansion/[tiamath]001.rmd
+\Data\Scenario\Red Stone\Map\expansion/[tiamath]001.rmd.terrain
+\Data\UI/AccessTimeEventUI.dat
+\Data\UI/ComposeCostume.dat
+\Data\UI/Costume_Color.dat
+\Data\UI/Craft.dat
+\Data\UI/DecorateUI.dat
+\Data\UI/DimensionHub.dat
+\Data\UI/DimensionHub_Progress.dat
+\Data\UI/eliteSubjugation.dat
+\Data\UI/FieldEvolution.dat
+\Data\UI/GeneralBoardEventUI.dat
+\Data\UI/ItemOptionOpen.dat
+\Data\UI/JumpingGuideUI_1.dat
+\Data\UI/JumpingGuideUI_2.dat
+\Data\UI/JumpingGuideUI_3.dat
+\Data\UI/MagicJewelAutoRegister.dat
+\Data\UI/MagicJewelCrafting.dat
+\Data\UI/MiniGameEventUI.dat
+\Data\UI/MissionEventUI.dat
+\Data\UI/neponCreatureAdventure.dat
+\Data\UI/Potential.dat
+\Data\UI/Potential_Disassembly.dat
+\Data\UI/Potential_Effect.dat
+\Data\UI/Puzzle.dat
+\Data\UI/ReinforceCostume.dat
+\Data\UI/ReinforceForm.dat
+\Data\UI/ReinforceRelicPrefix.dat
+\Data\UI/ReinforceRingPrefix.dat
+\Data\UI/RelicUpgrade.dat
+\Data\UI/RestructureRingPrefix.dat
+\Data\UI/SeasonPass.dat
+\Data\UI/seasonpass_1.dat
+\Data\UI/SeasonPass_2.dat
+\Data\UI/subjugation.dat
+\Data\UI/Survival.dat
+\Data\UI/UltBottomlessBox.dat
+\Data\UI/[Sv]Matching.dat
+\Data\UI/[Sv]Rank.dat
