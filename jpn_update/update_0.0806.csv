@@ -1,0 +1,984 @@
+\Data\InnerTest0222.gsd
+\Data\RAID_BATTLE_RANKING.dat
+\Data\RAID_BATTLE_SCHEDULE_SERVER.dat
+\Data\characterResInfo.dat
+\Data\closeMapListForChina.dat
+\Data\closeQuestListForChina.dat
+\Data\jobData2.dat
+\Data\jobDataForJapan.dat.bak
+\Data\jobDataForJapan_back.dat
+\Data\kazuma20100405_0492_Prc6.gsd
+\Data\server_data.gsd
+\Data\test0119.gsd
+\Data\type03jpn.gsd
+\Data\type03jpn_050118.gsd
+\Data\type12jp.gsd
+\Data\vssver.scc
+\Data\DecorateSkin.dat
+\Data\capa.dat
+\Data\checkObjectData.dat
+\Data\contentsJob.dat
+\Data\creatureInfo.dat
+\Data\effect_data.dat
+\Data\fieldInfo.dat
+\Data\guideSystemLevelQuest.dat
+\Data\mapList.dat
+\Data\mapLocationInfo.dat
+\Data\neponEx.dat
+\Data\objectCrashMap.dat
+\Data\questEX_Data.dat
+\Data\questPlayerEffect_Data.dat
+\Data\rb.dat
+\Data\simpleDataPack.dat
+\Data\skill.dat
+\Data\subjugation.dat
+\Data\subjugation_elite.dat
+\Data\summonPot.dat
+\Data\textData.dat
+\Data\textData2.dat
+\Data\toolText.dat
+\Data\type01.gsd
+\Data\type02.gsd
+\Data\type03.gsd
+\Data\type04.gsd
+\Data\type12.gsd
+\Data\wm_dungeon.dat
+\Data\wm_field.dat
+\Data\worldNameInfo.dat
+\Data\Bgm\vssver.scc
+\Data\Effects\FX_Suzar-angkil_.Wave_Down.sad
+\Data\Effects\FX_Suzar-angkil_.Wave_Up.sad
+\Data\Effects\FX_Suzar-angkil_.ground explosionsad.sad
+\Data\Effects\FX_Suzar-angkil_Attack_1.sad
+\Data\Effects\FX_Suzar-angkil_Attack_2.sad
+\Data\Effects\FX_Suzar-angkil_Attack_3.sad
+\Data\Effects\FX_Suzar-angkil_Attack_4.sad
+\Data\Effects\FX_Suzar-angkil_Attack_5.sad
+\Data\Effects\FX_Suzar-angkil_Exterminate_BOOM.sad
+\Data\Effects\FX_Suzar-angkil_Exterminate_black.sad
+\Data\Effects\FX_Suzar-angkil_Exterminate_red.sad
+\Data\Effects\FX_Suzar-angkil_Floor_Board.sad
+\Data\Effects\FX_Suzar-angkil_Shock_wave.sad
+\Data\Effects\FX_Suzar-angkil_water_drop.sad
+\Data\Effects\FX_dummy missile.sad
+\Data\Effects\FX_earth_dust.sad
+\Data\Effects\FX_ground collision_B.sad
+\Data\Effects\FX_ground collision_F.sad
+\Data\Effects\Fx_Portadeteka_AreaExplosion.sad
+\Data\Effects\Fx_Portadeteka_BasicExplosion.sad
+\Data\Effects\Fx_Portadeteka_Cast.sad
+\Data\Effects\Fx_Portadeteka_MachineGun.sad
+\Data\Effects\Fx_event_Valkyrie_1.sad
+\Data\Effects\Fx_event_Valkyrie_2.sad
+\Data\Effects\Fx_suzar-angkil_action.sad
+\Data\Effects\Redgem07.sad
+\Data\Effects\Redgem07_1.sad
+\Data\Effects\STGSfx.sad
+\Data\Effects\STSfx.sad
+\Data\Effects\designation_seasonpass_season10.sad
+\Data\Effects\designation_seasonpass_season11.sad
+\Data\Effects\acid_venom.sad
+\Data\Effects\action_beastTamer_defense_command.sad
+\Data\Effects\action_beastTamer_patrol_command.sad
+\Data\Effects\action_beastTamer_swing.sad
+\Data\Effects\action_fighter.sad
+\Data\Effects\action_kinght_swing.sad
+\Data\Effects\action_lancer_piercing.sad
+\Data\Effects\action_rogue.sad
+\Data\Effects\action_warrior_swing.sad
+\Data\Effects\arrow_light.sad
+\Data\Effects\aura.sad
+\Data\Effects\aura_destroying_undead.sad
+\Data\Effects\aura_destroying_unholy.sad
+\Data\Effects\barrier_fountain_barrier.sad
+\Data\Effects\cast_Eye_of_the_Beast.sad
+\Data\Effects\cast_burning_orb.sad
+\Data\Effects\cast_cancer_hall.sad
+\Data\Effects\cast_desert_blast.sad
+\Data\Effects\cast_feather_needle.sad
+\Data\Effects\cast_flash_tackle.sad
+\Data\Effects\cast_gloom_gasp.sad
+\Data\Effects\cast_god_hand.sad
+\Data\Effects\cast_light_velocity.sad
+\Data\Effects\cast_rounding_boom.sad
+\Data\Effects\cast_stone_gaze.sad
+\Data\Effects\cast_swing_around.sad
+\Data\Effects\cast_whilrlthrusting.sad
+\Data\Effects\caster_hit_recorder.sad
+\Data\Effects\charge_archer_01.sad
+\Data\Effects\charge_fear.sad
+\Data\Effects\charge_knight.sad
+\Data\Effects\charge_lancer_01.sad
+\Data\Effects\charge_lancer_02.sad
+\Data\Effects\charge_monster.sad
+\Data\Effects\charge_priest_01.sad
+\Data\Effects\charge_priest_02.sad
+\Data\Effects\charge_priest_03.sad
+\Data\Effects\charge_priest_04.sad
+\Data\Effects\charge_tamer.sad
+\Data\Effects\charge_wizard_01.sad
+\Data\Effects\death_counter.sad
+\Data\Effects\dust_fire_bolt.sad
+\Data\Effects\dust_jump.sad
+\Data\Effects\dust_rush.sad
+\Data\Effects\effect_absorb_damage.sad
+\Data\Effects\effect_damage_return.sad
+\Data\Effects\effect_inner_teleport.sad
+\Data\Effects\effect_out_soul.sad
+\Data\Effects\effect_pet_mark.sad
+\Data\Effects\effect_sb_power_up1.sad
+\Data\Effects\effect_sb_power_up2.sad
+\Data\Effects\effect_skill_level_up.sad
+\Data\Effects\effect_summon.sad
+\Data\Effects\effect_wait_command.sad
+\Data\Effects\effect_war_cry.sad
+\Data\Effects\enchanted_bless.sad
+\Data\Effects\enchanted_hedger_hedging.sad
+\Data\Effects\enchanted_hot_enchanting.sad
+\Data\Effects\enchanted_mistic_fog.sad
+\Data\Effects\enchanted_protecting_evil.sad
+\Data\Effects\enchanted_rabbit_rush.sad
+\Data\Effects\enchanted_rock_bounding.sad
+\Data\Effects\enchanted_sanctuary.sad
+\Data\Effects\explosion_Gravity_Amplifying_bottom.sad
+\Data\Effects\explosion_Judgement_Day.sad
+\Data\Effects\explosion_Twirling_Protector.sad
+\Data\Effects\explosion_acid_venom.sad
+\Data\Effects\explosion_aqua_bamboo.sad
+\Data\Effects\explosion_bait.sad
+\Data\Effects\explosion_bright_flash.sad
+\Data\Effects\explosion_bubblegum.sad
+\Data\Effects\explosion_crystal_flash.sad
+\Data\Effects\explosion_earth_quake.sad
+\Data\Effects\explosion_earth_quake_bottom.sad
+\Data\Effects\explosion_fire_and_ice.sad
+\Data\Effects\explosion_flame_ring.sad
+\Data\Effects\explosion_flame_storm.sad
+\Data\Effects\explosion_gliding_fire.sad
+\Data\Effects\explosion_grand_claw.sad
+\Data\Effects\explosion_ground_shaker.sad
+\Data\Effects\explosion_halberd_strike.sad
+\Data\Effects\explosion_holy_cross.sad
+\Data\Effects\explosion_howling_blast.sad
+\Data\Effects\explosion_incinerate.sad
+\Data\Effects\explosion_inferno_breath.sad
+\Data\Effects\explosion_land_marker.sad
+\Data\Effects\explosion_meteo_shower.sad
+\Data\Effects\explosion_passion_for_red_stone.sad
+\Data\Effects\explosion_sonic_blow.sad
+\Data\Effects\explosion_spider_web.sad
+\Data\Effects\explosion_swam_rush.sad
+\Data\Effects\explosion_swam_rush_bottom.sad
+\Data\Effects\explosion_torture.sad
+\Data\Effects\explosion_trap.sad
+\Data\Effects\explosion_typhoon_impulse.sad
+\Data\Effects\explosion_water_cannon.sad
+\Data\Effects\explosion_water_fall.sad
+\Data\Effects\explosion_winding_scythe.sad
+\Data\Effects\explosion_windy_clap.sad
+\Data\Effects\heal_cure.sad
+\Data\Effects\heal_earth_heal.sad
+\Data\Effects\heal_freedom.sad
+\Data\Effects\heal_heal_wound.sad
+\Data\Effects\heal_healing.sad
+\Data\Effects\heal_monster.sad
+\Data\Effects\heal_perfect_heal.sad
+\Data\Effects\heal_redemption.sad
+\Data\Effects\heal_resurrection.sad
+\Data\Effects\hit_Evacuation.sad
+\Data\Effects\hit_Fanaticism.sad
+\Data\Effects\hit_Gravity_Amplifying.sad
+\Data\Effects\hit_Instinct_Terminator.sad
+\Data\Effects\hit_armor_crusher.sad
+\Data\Effects\hit_armor_disassembler.sad
+\Data\Effects\hit_attack_command.sad
+\Data\Effects\hit_bait.sad
+\Data\Effects\hit_basic.sad
+\Data\Effects\hit_battle_march.sad
+\Data\Effects\hit_binding_morph.sad
+\Data\Effects\hit_bless.sad
+\Data\Effects\hit_blood_shaker.sad
+\Data\Effects\hit_bloody_wing.sad
+\Data\Effects\hit_blunt_weapon.sad
+\Data\Effects\hit_body_butting.sad
+\Data\Effects\hit_bone_crusher.sad
+\Data\Effects\hit_brainwashing.sad
+\Data\Effects\hit_branch_fist.sad
+\Data\Effects\hit_breeding_record.sad
+\Data\Effects\hit_bubble_barrier.sad
+\Data\Effects\hit_burning_orb.sad
+\Data\Effects\hit_calling.sad
+\Data\Effects\hit_care.sad
+\Data\Effects\hit_catch_and_throwing.sad
+\Data\Effects\hit_changeable_day.sad
+\Data\Effects\hit_chilling_touch.sad
+\Data\Effects\hit_cold_hammer.sad
+\Data\Effects\hit_comet_shooting.sad
+\Data\Effects\hit_comfort.sad
+\Data\Effects\hit_cross.sad
+\Data\Effects\hit_cure_poison.sad
+\Data\Effects\hit_dagger_attack.sad
+\Data\Effects\hit_dancing_blocker.sad
+\Data\Effects\hit_dark_bless.sad
+\Data\Effects\hit_dark_damage.sad
+\Data\Effects\hit_deadly_nightmare.sad
+\Data\Effects\hit_death_touch.sad
+\Data\Effects\hit_detecting.sad
+\Data\Effects\hit_detecting_evil.sad
+\Data\Effects\hit_devine_arch.sad
+\Data\Effects\hit_diamond_blade.sad
+\Data\Effects\hit_dimension_armor.sad
+\Data\Effects\hit_disapearence.sad
+\Data\Effects\hit_discharge_attack.sad
+\Data\Effects\hit_displacement.sad
+\Data\Effects\hit_dualing.sad
+\Data\Effects\hit_earth_blade.sad
+\Data\Effects\hit_embrace.sad
+\Data\Effects\hit_emotion_burst.sad
+\Data\Effects\hit_encouragement.sad
+\Data\Effects\hit_evil_zone.sad
+\Data\Effects\hit_exocism_encounter.sad
+\Data\Effects\hit_expansion.sad
+\Data\Effects\hit_eye_of_beholder.sad
+\Data\Effects\hit_feather_needle.sad
+\Data\Effects\hit_feeding_red_pepper.sad
+\Data\Effects\hit_fine_day.sad
+\Data\Effects\hit_fire_ball.sad
+\Data\Effects\hit_fire_bolt.sad
+\Data\Effects\hit_first_aid.sad
+\Data\Effects\hit_flame_claw.sad
+\Data\Effects\hit_foggy_morning.sad
+\Data\Effects\hit_frost_bite.sad
+\Data\Effects\hit_gloomy_day.sad
+\Data\Effects\hit_grim_scream.sad
+\Data\Effects\hit_halberd_attack.sad
+\Data\Effects\hit_haste.sad
+\Data\Effects\hit_hell_cannibal.sad
+\Data\Effects\hit_hot_enchanting.sad
+\Data\Effects\hit_hundred_sword.sad
+\Data\Effects\hit_ice_bolt.sad
+\Data\Effects\hit_inferno_bar.sad
+\Data\Effects\hit_ink_spray.sad
+\Data\Effects\hit_iron_blade.sad
+\Data\Effects\hit_iron_claw.sad
+\Data\Effects\hit_jang_poong.sad
+\Data\Effects\hit_jum.sad
+\Data\Effects\hit_kick_attack.sad
+\Data\Effects\hit_kihap.sad
+\Data\Effects\hit_lance_charging.sad
+\Data\Effects\hit_level_drain.sad
+\Data\Effects\hit_light_beam.sad
+\Data\Effects\hit_light_velocity.sad
+\Data\Effects\hit_magic_dispelling.sad
+\Data\Effects\hit_mauling_attack.sad
+\Data\Effects\hit_melting_weapon.sad
+\Data\Effects\hit_mirror_tower.sad
+\Data\Effects\hit_monster_club.sad
+\Data\Effects\hit_monster_fist.sad
+\Data\Effects\hit_monster_slash.sad
+\Data\Effects\hit_moon_walking.sad
+\Data\Effects\hit_mouse_trap.sad
+\Data\Effects\hit_name_of_justice.sad
+\Data\Effects\hit_notification_of_death.sad
+\Data\Effects\hit_oiler_armour.sad
+\Data\Effects\hit_passion_for_red_stone.sad
+\Data\Effects\hit_pet_training.sad
+\Data\Effects\hit_pickpocket.sad
+\Data\Effects\hit_pincer.sad
+\Data\Effects\hit_poison.sad
+\Data\Effects\hit_poison_dagger.sad
+\Data\Effects\hit_poison_tail.sad
+\Data\Effects\hit_poisonous_claw.sad
+\Data\Effects\hit_potion.sad
+\Data\Effects\hit_protect_elemental.sad
+\Data\Effects\hit_rabbit_rush.sad
+\Data\Effects\hit_range_heal.sad
+\Data\Effects\hit_reanimate_sorcery.sad
+\Data\Effects\hit_red_eye_fear.sad
+\Data\Effects\hit_reflection_skin.sad
+\Data\Effects\hit_regeneration.sad
+\Data\Effects\hit_rolling_crash.sad
+\Data\Effects\hit_scold.sad
+\Data\Effects\hit_scream_fear.sad
+\Data\Effects\hit_shadow_sneaking.sad
+\Data\Effects\hit_shield_piercing.sad
+\Data\Effects\hit_shooting_star.sad
+\Data\Effects\hit_sing_along.sad
+\Data\Effects\hit_slow_poison.sad
+\Data\Effects\hit_snake_eye.sad
+\Data\Effects\hit_snipe.sad
+\Data\Effects\hit_sonic_blade.sad
+\Data\Effects\hit_sonic_blow.sad
+\Data\Effects\hit_southern_cross.sad
+\Data\Effects\hit_spear_Attack.sad
+\Data\Effects\hit_spear_charging.sad
+\Data\Effects\hit_special_command.sad
+\Data\Effects\hit_spectal_fist.sad
+\Data\Effects\hit_spider_sting.sad
+\Data\Effects\hit_spin_thrusting.sad
+\Data\Effects\hit_spoiled_water.sad
+\Data\Effects\hit_star_light.sad
+\Data\Effects\hit_star_release.sad
+\Data\Effects\hit_stare.sad
+\Data\Effects\hit_stellar_peer.sad
+\Data\Effects\hit_stone_gaze.sad
+\Data\Effects\hit_stone_touch.sad
+\Data\Effects\hit_stormy_weather.sad
+\Data\Effects\hit_sunken_lightning.sad
+\Data\Effects\hit_swellfish_burble.sad
+\Data\Effects\hit_sword_crush.sad
+\Data\Effects\hit_tail.sad
+\Data\Effects\hit_tail_attack.sad
+\Data\Effects\hit_tail_bash.sad
+\Data\Effects\hit_tame.sad
+\Data\Effects\hit_thorn_smashing.sad
+\Data\Effects\hit_torture.sad
+\Data\Effects\hit_treatment.sad
+\Data\Effects\hit_unki.sad
+\Data\Effects\hit_untame.sad
+\Data\Effects\hit_viper_dagger.sad
+\Data\Effects\hit_weapon_breaker.sad
+\Data\Effects\hit_whip_attack.sad
+\Data\Effects\hit_wolf_claw.sad
+\Data\Effects\hit_wolf_fang.sad
+\Data\Effects\hot_skin.sad
+\Data\Effects\instanceKill.sad
+\Data\Effects\machine_eternal_projector.sad
+\Data\Effects\machine_void_bow.sad
+\Data\Effects\mai_blind_sinker.sad
+\Data\Effects\mark_seeker_arrow.sad
+\Data\Effects\shoot_arrow.sad
+\Data\Effects\shoot_big_sparrow.sad
+\Data\Effects\shoot_bit_glider.sad
+\Data\Effects\shoot_blood_shaker.sad
+\Data\Effects\shoot_bloody_wing.sad
+\Data\Effects\shoot_boomerang_shield.sad
+\Data\Effects\shoot_comet_shooting.sad
+\Data\Effects\shoot_dagger.sad
+\Data\Effects\shoot_fire_ball.sad
+\Data\Effects\shoot_fire_bolt.sad
+\Data\Effects\shoot_frozen_dagger.sad
+\Data\Effects\shoot_gale_punch.sad
+\Data\Effects\shoot_ice_bolt.sad
+\Data\Effects\shoot_illusion_spear.sad
+\Data\Effects\shoot_jang_poong.sad
+\Data\Effects\shoot_javelin_tempest.sad
+\Data\Effects\shoot_laser_beam.sad
+\Data\Effects\shoot_light_beam.sad
+\Data\Effects\shoot_magical_arrow.sad
+\Data\Effects\shoot_monster_arrow.sad
+\Data\Effects\shoot_sonic_blade.sad
+\Data\Effects\shoot_spear.sad
+\Data\Effects\shoot_sword.sad
+\Data\Effects\shoot_water_cannon.sad
+\Data\Effects\skill_bait.sad
+\Data\Effects\skill_blessed_hammer.sad
+\Data\Effects\skill_blocker00.sad
+\Data\Effects\skill_blocker01.sad
+\Data\Effects\skill_blocker02.sad
+\Data\Effects\skill_blocker03.sad
+\Data\Effects\skill_blocker04.sad
+\Data\Effects\skill_blocker05.sad
+\Data\Effects\skill_boomerang00.sad
+\Data\Effects\skill_boomerang01.sad
+\Data\Effects\skill_boomerang02.sad
+\Data\Effects\skill_boomerang03.sad
+\Data\Effects\skill_boomerang04.sad
+\Data\Effects\skill_boomerang05.sad
+\Data\Effects\skill_burning_orb.sad
+\Data\Effects\skill_claw_roller.sad
+\Data\Effects\skill_cyclone_peak.sad
+\Data\Effects\skill_explosion_trap.sad
+\Data\Effects\skill_final_charging.sad
+\Data\Effects\skill_guardian_post.sad
+\Data\Effects\skill_heavenly_pressing.sad
+\Data\Effects\skill_hell_prison.sad
+\Data\Effects\skill_holy_circle.sad
+\Data\Effects\skill_icy_stalagmite.sad
+\Data\Effects\skill_levitate.sad
+\Data\Effects\skill_mirror_tower.sad
+\Data\Effects\skill_poison_trap.sad
+\Data\Effects\skill_rolling_crash.sad
+\Data\Effects\skill_shield_flash.sad
+\Data\Effects\skill_spear_blocker.sad
+\Data\Effects\skill_tornado_shield.sad
+\Data\Effects\skill_vaccum_point.sad
+\Data\Effects\skill_worm_bite.sad
+\Data\Effects\status_blind.sad
+\Data\Effects\status_cancer_hall.sad
+\Data\Effects\status_charming.sad
+\Data\Effects\status_confuse.sad
+\Data\Effects\status_dark_weapon.sad
+\Data\Effects\status_decline.sad
+\Data\Effects\status_displacement.sad
+\Data\Effects\status_evangelism.sad
+\Data\Effects\status_hold_monster.sad
+\Data\Effects\status_hold_person.sad
+\Data\Effects\status_incline.sad
+\Data\Effects\status_invincible.sad
+\Data\Effects\status_level_down.sad
+\Data\Effects\status_sleep.sad
+\Data\Effects\status_stun.sad
+\Data\Effects\status_taunt.sad
+\Data\Effects\status_torture.sad
+\Data\Effects\town_portal.sad
+\Data\Effects\trap_aqua_bamboo.sad
+\Data\Effects\trap_mouse.sad
+\Data\Effects\trap_swellfish_burble.sad
+\Data\Equipment\vssver.scc
+\Data\Heros\vssver.scc
+\Data\Interface\vssver.scc
+\Data\Interface\Heros\beastTamer_left.sad
+\Data\Interface\Heros\beastTamer_right.sad
+\Data\Interface\Heros\summoner_down.sad
+\Data\Interface\Heros\summoner_up.sad
+\Data\Interface\Heros\vssver.scc
+\Data\Interface\Heros\wizard_down.sad
+\Data\Interface\Heros\wizard_up.sad
+\Data\Interface\game\name_bar_RedPot.sd
+\Data\Interface\game\name_bar_mofSerte.sd
+\Data\Interface\game\vssver.scc
+\Data\Interface\game\wm_config.csv
+\Data\Interface\game\wm_config.dat
+\Data\Interface\game\wm_dungeon.dat
+\Data\Interface\game\wm_field.dat
+\Data\Interface\game\wm_road.dat
+\Data\Interface\game\effect_game_manager.sad
+\Data\Interface\game\gateAnm.sad
+\Data\Interface\game\generalEvent_jp.sd
+\Data\Interface\game\generalEvent_kor.sd
+\Data\Interface\game\interface2.sd
+\Data\Interface\game\magic_carpet00.sad
+\Data\Mapset\Arian\vssver.scc
+\Data\Mapset\Arian\Buildings\vssver.scc
+\Data\Mapset\Arian\Objects\vssver.scc
+\Data\Mapset\Augusta\vssver.scc
+\Data\Mapset\Augusta\Buildings\vssver.scc
+\Data\Mapset\Augusta\Objects\vssver.scc
+\Data\Mapset\Bigaple\vssver.scc
+\Data\Mapset\Bridgehead\vssver.scc
+\Data\Mapset\Bridgehead\Buildings\vssver.scc
+\Data\Mapset\Bridgehead\Objects\vssver.scc
+\Data\Mapset\Brunenstig\vssver.scc
+\Data\Mapset\Brunenstig\Buildings\vssver.scc
+\Data\Mapset\Brunenstig\Objects\sn__object_0242.rso
+\Data\Mapset\Brunenstig\Objects\vssver.scc
+\Data\Mapset\Cave\vssver.scc
+\Data\Mapset\Cave\Objects\vssver.scc
+\Data\Mapset\Desert\vssver.scc
+\Data\Mapset\Desert\Objects\vssver.scc
+\Data\Mapset\Dungeon\vssver.scc
+\Data\Mapset\Dungeon\Objects\vssver.scc
+\Data\Mapset\FarmHouse\vssver.scc
+\Data\Mapset\FarmHouse\Buildings\vssver.scc
+\Data\Mapset\FarmHouse\Objects\vssver.scc
+\Data\Mapset\Grassland\vssver.scc
+\Data\Mapset\Grassland\Objects\vssver.scc
+\Data\Mapset\Uposmires\Objects\sn__object_0053.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0054.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0055.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0056.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0057.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0058.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0059.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0060.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0061.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0062.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0063.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0064.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0065.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0066.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0067.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0068.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0069.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0070.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0071.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0072.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0073.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0074.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0075.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0076.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0077.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0078.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0079.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0080.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0081.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0082.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0083.rso
+\Data\InnerTest0222.gsd
+\Data\RAID_BATTLE_RANKING.dat
+\Data\RAID_BATTLE_SCHEDULE_SERVER.dat
+\Data\characterResInfo.dat
+\Data\closeMapListForChina.dat
+\Data\closeQuestListForChina.dat
+\Data\jobData2.dat
+\Data\jobDataForJapan.dat.bak
+\Data\jobDataForJapan_back.dat
+\Data\kazuma20100405_0492_Prc6.gsd
+\Data\server_data.gsd
+\Data\test0119.gsd
+\Data\type03jpn.gsd
+\Data\type03jpn_050118.gsd
+\Data\type12jp.gsd
+\Data\vssver.scc
+\Data\Bgm\vssver.scc
+\Data\Effects\FX_Suzar-angkil_.Wave_Down.sad
+\Data\Effects\FX_Suzar-angkil_.Wave_Up.sad
+\Data\Effects\FX_Suzar-angkil_.ground explosionsad.sad
+\Data\Effects\FX_Suzar-angkil_Attack_1.sad
+\Data\Effects\FX_Suzar-angkil_Attack_2.sad
+\Data\Effects\FX_Suzar-angkil_Attack_3.sad
+\Data\Effects\FX_Suzar-angkil_Attack_4.sad
+\Data\Effects\FX_Suzar-angkil_Attack_5.sad
+\Data\Effects\FX_Suzar-angkil_Exterminate_BOOM.sad
+\Data\Effects\FX_Suzar-angkil_Exterminate_black.sad
+\Data\Effects\FX_Suzar-angkil_Exterminate_red.sad
+\Data\Effects\FX_Suzar-angkil_Floor_Board.sad
+\Data\Effects\FX_Suzar-angkil_Shock_wave.sad
+\Data\Effects\FX_Suzar-angkil_water_drop.sad
+\Data\Effects\FX_dummy missile.sad
+\Data\Effects\FX_earth_dust.sad
+\Data\Effects\FX_ground collision_B.sad
+\Data\Effects\FX_ground collision_F.sad
+\Data\Effects\Fx_Portadeteka_AreaExplosion.sad
+\Data\Effects\Fx_Portadeteka_BasicExplosion.sad
+\Data\Effects\Fx_Portadeteka_Cast.sad
+\Data\Effects\Fx_Portadeteka_MachineGun.sad
+\Data\Effects\Fx_event_Valkyrie_1.sad
+\Data\Effects\Fx_event_Valkyrie_2.sad
+\Data\Effects\Fx_suzar-angkil_action.sad
+\Data\Effects\Redgem07.sad
+\Data\Effects\Redgem07_1.sad
+\Data\Effects\STGSfx.sad
+\Data\Effects\STSfx.sad
+\Data\Effects\designation_seasonpass_season10.sad
+\Data\Effects\designation_seasonpass_season11.sad
+\Data\Equipment\vssver.scc
+\Data\Heros\vssver.scc
+\Data\Interface\vssver.scc
+\Data\Interface\Heros\beastTamer_left.sad
+\Data\Interface\Heros\beastTamer_right.sad
+\Data\Interface\Heros\summoner_down.sad
+\Data\Interface\Heros\summoner_up.sad
+\Data\Interface\Heros\vssver.scc
+\Data\Interface\Heros\wizard_down.sad
+\Data\Interface\Heros\wizard_up.sad
+\Data\Interface\game\name_bar_RedPot.sd
+\Data\Interface\game\name_bar_mofSerte.sd
+\Data\Interface\game\vssver.scc
+\Data\Interface\game\wm_config.csv
+\Data\Interface\game\wm_config.dat
+\Data\Interface\game\wm_dungeon.dat
+\Data\Interface\game\wm_field.dat
+\Data\Interface\game\wm_road.dat
+\Data\Mapset\Arian\vssver.scc
+\Data\Mapset\Arian\Buildings\vssver.scc
+\Data\Mapset\Arian\Objects\vssver.scc
+\Data\Mapset\Augusta\vssver.scc
+\Data\Mapset\Augusta\Buildings\vssver.scc
+\Data\Mapset\Augusta\Objects\vssver.scc
+\Data\Mapset\Bigaple\vssver.scc
+\Data\Mapset\Bridgehead\vssver.scc
+\Data\Mapset\Bridgehead\Buildings\vssver.scc
+\Data\Mapset\Bridgehead\Objects\vssver.scc
+\Data\Mapset\Brunenstig\vssver.scc
+\Data\Mapset\Brunenstig\Buildings\vssver.scc
+\Data\Mapset\Brunenstig\Objects\sn__object_0242.rso
+\Data\Mapset\Brunenstig\Objects\vssver.scc
+\Data\Mapset\Cave\vssver.scc
+\Data\Mapset\Cave\Objects\vssver.scc
+\Data\Mapset\Desert\vssver.scc
+\Data\Mapset\Desert\Objects\vssver.scc
+\Data\Mapset\Dungeon\vssver.scc
+\Data\Mapset\Dungeon\Objects\vssver.scc
+\Data\Mapset\FarmHouse\vssver.scc
+\Data\Mapset\FarmHouse\Buildings\vssver.scc
+\Data\Mapset\FarmHouse\Objects\vssver.scc
+\Data\Mapset\Grassland\vssver.scc
+\Data\Mapset\Grassland\Objects\vssver.scc
+\Data\Mapset\Uposmires\Objects\sn__object_0053.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0054.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0055.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0056.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0057.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0058.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0059.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0060.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0061.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0062.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0063.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0064.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0065.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0066.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0067.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0068.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0069.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0070.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0071.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0072.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0073.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0074.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0075.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0076.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0077.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0078.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0079.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0080.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0081.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0082.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0083.rso
+\Data\NPC\Grail_Agony.plt
+\Data\NPC\Grail_Agony.sad
+\Data\NPC\Grail_Saltation.plt
+\Data\NPC\Grail_Saltation.sad
+\Data\NPC\Grail_Standard.plt
+\Data\NPC\Grail_Standard.sad
+\Data\NPC\NPC_Bandarakha.plt
+\Data\NPC\NPC_Bandarakha.sad
+\Data\NPC\NPC_Dante.plt
+\Data\NPC\NPC_Dante.sad
+\Data\NPC\NPC_NativeMan.plt
+\Data\NPC\NPC_NativeMan.sad
+\Data\NPC\NPC_NativeWoman.plt
+\Data\NPC\NPC_NativeWoman.sad
+\Data\NPC\NPC_Zhail.plt
+\Data\NPC\NPC_Zhail.sad
+\Data\NPC\Portadeteka.plt
+\Data\NPC\Portadeteka.sad
+\Data\Scenario\Red Stone\Map\[029]G15.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1010]T21.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1084]UposmiresN_2.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1085]UposmiresS_1.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1086]UposmiresS_2.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1092]T22.rmd
+\Data\Scenario\Red Stone\Map\[1092]T22.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1092]T22.rmd.tga
+\Data\Scenario\Red Stone\Map\[1093]UmosquagmireN_1.rmd
+\Data\Scenario\Red Stone\Map\[1093]UmosquagmireN_1.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1093]UmosquagmireN_1.rmd.tga
+\Data\Scenario\Red Stone\Map\[1094]UmosquagmireN_2.rmd
+\Data\Scenario\Red Stone\Map\[1094]UmosquagmireN_2.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1094]UmosquagmireN_2.rmd.tga
+\Data\Scenario\Red Stone\Map\[1095]UmosquagmireS_1.rmd
+\Data\Scenario\Red Stone\Map\[1095]UmosquagmireS_1.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1095]UmosquagmireS_1.rmd.tga
+\Data\Scenario\Red Stone\Map\[1096]UmosquagmireS_2.rmd
+\Data\Scenario\Red Stone\Map\[1096]UmosquagmireS_2.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1096]UmosquagmireS_2.rmd.tga
+\Data\Scenario\Red Stone\Map\[352]T14_G01_F01.rmd.terrain
+\Data\Scenario\Red Stone\Map\[912]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[913]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[914]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[915]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[916]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[917]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[918]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[919]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[920]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[921]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[922]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[923]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[924]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[925]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[926]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[927]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[928]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[929]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[930]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[931]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[932]GB_LV03.rmd.terrain
+\Data\Scenario\Red Stone\Map\[933]GB_LV03.rmd.terrain
+\Data\Scenario\Red Stone\Map\[934]GB_LV03.rmd.terrain
+\Data\Scenario\Red Stone\Map\[935]GB_LV03.rmd.terrain
+\Data\Scenario\Red Stone\Map\[936]GB_LV03.rmd.terrain
+\Data\Scenario\Red Stone\Map\[937]GB_LV03.rmd.terrain
+\Data\Scenario\Red Stone\Map\[938]GB_LV03.rmd.terrain
+\Data\Scenario\Red Stone\Map\[939]GB_LV04.rmd.terrain
+\Data\Scenario\Red Stone\Map\[940]GB_LV04.rmd.terrain
+\Data\Scenario\Red Stone\Map\[941]GB_LV05.rmd.terrain
+\Data\Scenario\Red Stone\Map\[990]Guild_square_0.rmd.tga
+\Data\Scenario\Red Stone\Map\[991]Guild_Desert_0.rmd.tga
+\Data\Scenario\Red Stone\Map\[992]Guild_Mountains_0.rmd.tga
+\Data\Scenario\Red Stone\Map\[993]Guild_Cross counter_0.rmd.tga
+\Data\Scenario\Red Stone\Map\[994]Guild_Ruined Sbain Fortress_0.rmd.tga
+\Data\Scenario\Red Stone\Map\[996]Guild_Desert_1.rmd.tga
+\Data\Scenario\Red Stone\Map\[997]Guild_Mountains_1.rmd.tga
+\Data\Scenario\Red Stone\Map\[998]Guild_Cross counter_1.rmd.tga
+\Data\Scenario\Red Stone\Map\[999]Guild_Ruined Sbain Fortress_1.rmd.tga
+\Data\Scenario\Red Stone\Map\mangchi.cfg
+\Data\Scenario\Red Stone\Map\~~tempMap.map.terrain
+\Data\Scenario\Red Stone\Map\expansion\[EliteArenaBoss2]000.rmd
+\Data\Scenario\Red Stone\Map\expansion\[EliteArenaBoss2]000.rmd.terrain
+\Data\Scenario\Red Stone\Map\expansion\[RedPot_Event_Boss]000.rmd
+\Data\Scenario\Red Stone\Map\expansion\[RedPot_Event_Boss]000.rmd.terrain
+\Data\Scenario\Red Stone\Map\expansion\[Ring_of_the_Primitiveness]000.rmd
+\Data\Scenario\Red Stone\Map\expansion\[Ring_of_the_Primitiveness]000.rmd.terrain
+\Data\Scenario\Red Stone\Map\expansion\[Ring_of_the_Primitiveness]000.rmd.tga
+\Data\Scenario\Red Stone\Map\expansion\[Uposmires]000.rmd.terrain
+\Data\Scenario\Red Stone\Map\expansion\[tantillessB7]000.rmd.terrain
+\Data\UI\Growth.dat
+\Data\UI\Sv_Matching.dat
+\Data\UI\Sv_Rank.dat
+\Data\InnerTest0222.gsd
+\Data\RAID_BATTLE_RANKING.dat
+\Data\RAID_BATTLE_SCHEDULE_SERVER.dat
+\Data\characterResInfo.dat
+\Data\closeMapListForChina.dat
+\Data\closeQuestListForChina.dat
+\Data\jobData2.dat
+\Data\jobDataForJapan.dat.bak
+\Data\jobDataForJapan_back.dat
+\Data\kazuma20100405_0492_Prc6.gsd
+\Data\server_data.gsd
+\Data\test0119.gsd
+\Data\type03jpn.gsd
+\Data\type03jpn_050118.gsd
+\Data\type12jp.gsd
+\Data\vssver.scc
+\Data\Bgm\vssver.scc
+\Data\Effects\FX_Suzar-angkil_.Wave_Down.sad
+\Data\Effects\FX_Suzar-angkil_.Wave_Up.sad
+\Data\Effects\FX_Suzar-angkil_.ground explosionsad.sad
+\Data\Effects\FX_Suzar-angkil_Attack_1.sad
+\Data\Effects\FX_Suzar-angkil_Attack_2.sad
+\Data\Effects\FX_Suzar-angkil_Attack_3.sad
+\Data\Effects\FX_Suzar-angkil_Attack_4.sad
+\Data\Effects\FX_Suzar-angkil_Attack_5.sad
+\Data\Effects\FX_Suzar-angkil_Exterminate_BOOM.sad
+\Data\Effects\FX_Suzar-angkil_Exterminate_black.sad
+\Data\Effects\FX_Suzar-angkil_Exterminate_red.sad
+\Data\Effects\FX_Suzar-angkil_Floor_Board.sad
+\Data\Effects\FX_Suzar-angkil_Shock_wave.sad
+\Data\Effects\FX_Suzar-angkil_water_drop.sad
+\Data\Effects\FX_dummy missile.sad
+\Data\Effects\FX_earth_dust.sad
+\Data\Effects\FX_ground collision_B.sad
+\Data\Effects\FX_ground collision_F.sad
+\Data\Effects\Fx_Portadeteka_AreaExplosion.sad
+\Data\Effects\Fx_Portadeteka_BasicExplosion.sad
+\Data\Effects\Fx_Portadeteka_Cast.sad
+\Data\Effects\Fx_Portadeteka_MachineGun.sad
+\Data\Effects\Fx_event_Valkyrie_1.sad
+\Data\Effects\Fx_event_Valkyrie_2.sad
+\Data\Effects\Fx_suzar-angkil_action.sad
+\Data\Effects\Redgem07.sad
+\Data\Effects\Redgem07_1.sad
+\Data\Effects\STGSfx.sad
+\Data\Effects\STSfx.sad
+\Data\Effects\designation_seasonpass_season10.sad
+\Data\Effects\designation_seasonpass_season11.sad
+\Data\Equipment\vssver.scc
+\Data\Heros\vssver.scc
+\Data\Interface\vssver.scc
+\Data\Interface\Heros\beastTamer_left.sad
+\Data\Interface\Heros\beastTamer_right.sad
+\Data\Interface\Heros\summoner_down.sad
+\Data\Interface\Heros\summoner_up.sad
+\Data\Interface\Heros\vssver.scc
+\Data\Interface\Heros\wizard_down.sad
+\Data\Interface\Heros\wizard_up.sad
+\Data\Interface\game\name_bar_RedPot.sd
+\Data\Interface\game\name_bar_mofSerte.sd
+\Data\Interface\game\vssver.scc
+\Data\Interface\game\wm_config.csv
+\Data\Interface\game\wm_config.dat
+\Data\Interface\game\wm_dungeon.dat
+\Data\Interface\game\wm_field.dat
+\Data\Interface\game\wm_road.dat
+\Data\Mapset\Arian\vssver.scc
+\Data\Mapset\Arian\Buildings\vssver.scc
+\Data\Mapset\Arian\Objects\vssver.scc
+\Data\Mapset\Augusta\vssver.scc
+\Data\Mapset\Augusta\Buildings\vssver.scc
+\Data\Mapset\Augusta\Objects\vssver.scc
+\Data\Mapset\Bigaple\vssver.scc
+\Data\Mapset\Bridgehead\vssver.scc
+\Data\Mapset\Bridgehead\Buildings\vssver.scc
+\Data\Mapset\Bridgehead\Objects\vssver.scc
+\Data\Mapset\Brunenstig\vssver.scc
+\Data\Mapset\Brunenstig\Buildings\vssver.scc
+\Data\Mapset\Brunenstig\Objects\sn__object_0242.rso
+\Data\Mapset\Brunenstig\Objects\vssver.scc
+\Data\Mapset\Cave\vssver.scc
+\Data\Mapset\Cave\Objects\vssver.scc
+\Data\Mapset\Desert\vssver.scc
+\Data\Mapset\Desert\Objects\vssver.scc
+\Data\Mapset\Dungeon\vssver.scc
+\Data\Mapset\Dungeon\Objects\vssver.scc
+\Data\Mapset\FarmHouse\vssver.scc
+\Data\Mapset\FarmHouse\Buildings\vssver.scc
+\Data\Mapset\FarmHouse\Objects\vssver.scc
+\Data\Mapset\Grassland\vssver.scc
+\Data\Mapset\Grassland\Objects\vssver.scc
+\Data\Mapset\Uposmires\Objects\sn__object_0053.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0054.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0055.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0056.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0057.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0058.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0059.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0060.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0061.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0062.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0063.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0064.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0065.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0066.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0067.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0068.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0069.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0070.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0071.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0072.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0073.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0074.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0075.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0076.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0077.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0078.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0079.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0080.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0081.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0082.rso
+\Data\Mapset\Uposmires\Objects\sn__object_0083.rso
+\Data\NPC\Grail_Agony.plt
+\Data\NPC\Grail_Agony.sad
+\Data\NPC\Grail_Saltation.plt
+\Data\NPC\Grail_Saltation.sad
+\Data\NPC\Grail_Standard.plt
+\Data\NPC\Grail_Standard.sad
+\Data\NPC\NPC_Bandarakha.plt
+\Data\NPC\NPC_Bandarakha.sad
+\Data\NPC\NPC_Dante.plt
+\Data\NPC\NPC_Dante.sad
+\Data\NPC\NPC_NativeMan.plt
+\Data\NPC\NPC_NativeMan.sad
+\Data\NPC\NPC_NativeWoman.plt
+\Data\NPC\NPC_NativeWoman.sad
+\Data\NPC\NPC_Zhail.plt
+\Data\NPC\NPC_Zhail.sad
+\Data\NPC\Portadeteka.plt
+\Data\NPC\Portadeteka.sad
+\Data\Scenario\Red Stone\Map\[029]G15.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1010]T21.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1084]UposmiresN_2.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1085]UposmiresS_1.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1086]UposmiresS_2.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1092]T22.rmd
+\Data\Scenario\Red Stone\Map\[1092]T22.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1092]T22.rmd.tga
+\Data\Scenario\Red Stone\Map\[1093]UmosquagmireN_1.rmd
+\Data\Scenario\Red Stone\Map\[1093]UmosquagmireN_1.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1093]UmosquagmireN_1.rmd.tga
+\Data\Scenario\Red Stone\Map\[1094]UmosquagmireN_2.rmd
+\Data\Scenario\Red Stone\Map\[1094]UmosquagmireN_2.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1094]UmosquagmireN_2.rmd.tga
+\Data\Scenario\Red Stone\Map\[1095]UmosquagmireS_1.rmd
+\Data\Scenario\Red Stone\Map\[1095]UmosquagmireS_1.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1095]UmosquagmireS_1.rmd.tga
+\Data\Scenario\Red Stone\Map\[1096]UmosquagmireS_2.rmd
+\Data\Scenario\Red Stone\Map\[1096]UmosquagmireS_2.rmd.terrain
+\Data\Scenario\Red Stone\Map\[1096]UmosquagmireS_2.rmd.tga
+\Data\Scenario\Red Stone\Map\[352]T14_G01_F01.rmd.terrain
+\Data\Scenario\Red Stone\Map\[912]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[913]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[914]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[915]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[916]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[917]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[918]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[919]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[920]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[921]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[922]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[923]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[924]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[925]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[926]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[927]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[928]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[929]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[930]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[931]GB_LV02.rmd.terrain
+\Data\Scenario\Red Stone\Map\[932]GB_LV03.rmd.terrain
+\Data\Scenario\Red Stone\Map\[933]GB_LV03.rmd.terrain
+\Data\Scenario\Red Stone\Map\[934]GB_LV03.rmd.terrain
+\Data\Scenario\Red Stone\Map\[935]GB_LV03.rmd.terrain
+\Data\Scenario\Red Stone\Map\[936]GB_LV03.rmd.terrain
+\Data\Scenario\Red Stone\Map\[937]GB_LV03.rmd.terrain
+\Data\Scenario\Red Stone\Map\[938]GB_LV03.rmd.terrain
+\Data\Scenario\Red Stone\Map\[939]GB_LV04.rmd.terrain
+\Data\Scenario\Red Stone\Map\[940]GB_LV04.rmd.terrain
+\Data\Scenario\Red Stone\Map\[941]GB_LV05.rmd.terrain
+\Data\Scenario\Red Stone\Map\[990]Guild_square_0.rmd.tga
+\Data\Scenario\Red Stone\Map\[991]Guild_Desert_0.rmd.tga
+\Data\Scenario\Red Stone\Map\[992]Guild_Mountains_0.rmd.tga
+\Data\Scenario\Red Stone\Map\[993]Guild_Cross counter_0.rmd.tga
+\Data\Scenario\Red Stone\Map\[994]Guild_Ruined Sbain Fortress_0.rmd.tga
+\Data\Scenario\Red Stone\Map\[996]Guild_Desert_1.rmd.tga
+\Data\Scenario\Red Stone\Map\[997]Guild_Mountains_1.rmd.tga
+\Data\Scenario\Red Stone\Map\[998]Guild_Cross counter_1.rmd.tga
+\Data\Scenario\Red Stone\Map\[999]Guild_Ruined Sbain Fortress_1.rmd.tga
+\Data\Scenario\Red Stone\Map\mangchi.cfg
+\Data\Scenario\Red Stone\Map\~~tempMap.map.terrain
+\Data\Scenario\Red Stone\Map\expansion\[EliteArenaBoss2]000.rmd
+\Data\Scenario\Red Stone\Map\expansion\[EliteArenaBoss2]000.rmd.terrain
+\Data\Scenario\Red Stone\Map\expansion\[RedPot_Event_Boss]000.rmd
+\Data\Scenario\Red Stone\Map\expansion\[RedPot_Event_Boss]000.rmd.terrain
+\Data\Scenario\Red Stone\Map\expansion\[Ring_of_the_Primitiveness]000.rmd
+\Data\Scenario\Red Stone\Map\expansion\[Ring_of_the_Primitiveness]000.rmd.terrain
+\Data\Scenario\Red Stone\Map\expansion\[Ring_of_the_Primitiveness]000.rmd.tga
+\Data\Scenario\Red Stone\Map\expansion\[Uposmires]000.rmd.terrain
+\Data\Scenario\Red Stone\Map\expansion\[tantillessB7]000.rmd.terrain
+\Data\UI\Growth.dat
+\Data\UI\Sv_Matching.dat
+\Data\UI\Sv_Rank.dat
+\Data\event\bme_Suzar-angkil.sad
+\Data\event\bme_Suzar_angkil.dat
+\Data\event\bme_Suzar_angkil.sad
+\Data\monsters\Grail_Agony.plt
+\Data\monsters\Grail_Agony.sad
+\Data\monsters\Grail_Saltation.plt
+\Data\monsters\Grail_Saltation.sad
+\Data\monsters\Grail_Standard.plt
+\Data\monsters\Grail_Standard.sad
+\Data\monsters\NPC_Bandarakha.plt
+\Data\monsters\NPC_Bandarakha.sad
+\Data\monsters\NPC_Dante.plt
+\Data\monsters\NPC_Dante.sad
+\Data\monsters\NPC_NativeMan.plt
+\Data\monsters\NPC_NativeMan.sad
+\Data\monsters\NPC_NativeWoman.plt
+\Data\monsters\NPC_NativeWoman.sad
+\Data\monsters\NPC_Zhail.plt
+\Data\monsters\NPC_Zhail.sad
+\Data\monsters\Portadeteka.plt
+\Data\monsters\Portadeteka.sad
+\Data\monsters\Suzar-angkil_elite_Boss.plt
+\Data\monsters\Suzar-angkil_elite_Boss.sad
+\Data\monsters\SwampFinger_1.plt
+\Data\monsters\SwampFinger_1.sad
+\Data\monsters\SwampFinger_2.plt
+\Data\monsters\SwampFinger_2.sad
+\Data\monsters\SwampSpecter.plt
+\Data\monsters\SwampSpecter.sad
+\Data\monsters\SwampSpecter1.plt
+\Data\monsters\SwampSpecter1.sad
+\Data\monsters\SwampSpecter2.plt
+\Data\monsters\SwampSpecter2.sad
+\Data\monsters\SwampSpecter_01.plt
+\Data\monsters\SwampSpecter_01.sad
+\Data\monsters\Swamp_Crocodile_01.plt
+\Data\monsters\Swamp_Crocodile_01.sad
+\Data\monsters\Swamp_Fanatic_01.plt
+\Data\monsters\Swamp_Fanatic_01.sad
+\Data\monsters\Swamp_NightRider_01.plt
+\Data\monsters\Swamp_NightRider_01.sad
+\Data\monsters\Swamp_Ray_01.plt
+\Data\monsters\Swamp_Ray_01.sad
+\Data\monsters\Swamp_Slime_01.plt
+\Data\monsters\Swamp_Slime_01.sad
+\Data\monsters\Swamp_Snake_01.plt
+\Data\monsters\Swamp_Snake_01.sad
+\Data\monsters\subjugation_elite_Sliame.plt
+\Data\monsters\subjugation_elite_Sliame.sad
