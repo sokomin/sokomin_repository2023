@@ -1,0 +1,353 @@
+Red Stone\Data/bloodRecord.dat
+Red Stone\Data/bossBuffIcon.dat
+Red Stone\Data/capa.dat
+Red Stone\Data/characterResInfo.dat
+Red Stone\Data/contentsJob.dat
+Red Stone\Data/ContentsOpen.dat
+Red Stone\Data/costume.dat
+Red Stone\Data/effect_data.dat
+Red Stone\Data/fieldInfo.dat
+Red Stone\Data/guideSystemLevelQuest.dat
+Red Stone\Data/guildSkill.dat
+Red Stone\Data/itemEX_Data.dat
+Red Stone\Data/item_option_open.dat
+Red Stone\Data/magicCarpetInfo.dat
+Red Stone\Data/MagicJewelContents.dat
+Red Stone\Data/mapLocationInfo.dat
+Red Stone\Data/omniSkill.dat
+Red Stone\Data/omniSkillEffect.dat
+Red Stone\Data/otherWorldReinforce.dat
+Red Stone\Data/playerExpTable.dat
+Red Stone\Data/questEX_Data.dat
+Red Stone\Data/questPlayerEffect_Data.dat
+Red Stone\Data/rb.dat
+Red Stone\Data/simpleDataPack.dat
+Red Stone\Data/skill.dat
+Red Stone\Data/subjugation_elite.dat
+Red Stone\Data/textData.dat
+Red Stone\Data/textData2.dat
+Red Stone\Data/title.dat
+Red Stone\Data/toolText.dat
+Red Stone\Data/type01.gsd
+Red Stone\Data/type02.gsd
+Red Stone\Data/type03.gsd
+Red Stone\Data/type04.gsd
+Red Stone\Data/type12.gsd
+Red Stone\Data/type12jp.gsd
+Red Stone\Data/wm_dungeon.dat
+Red Stone\Data/wm_field.dat
+Red Stone\Data\Bgm/44 Sloth.ogg
+Red Stone\Data\Effects/Field_gimmick_skill3.sad
+Red Stone\Data\Effects/Field_gimmick_skill4.sad
+Red Stone\Data\Effects/Field_gimmick_skill_1.sad
+Red Stone\Data\Effects/Field_gimmick_skill_2.sad
+Red Stone\Data\Effects/Field_gimmick_skill_Floor.sad
+Red Stone\Data\Effects/Fx_avoid_01.sad
+Red Stone\Data\Effects/fx_lightning_bottomsad.sad
+Red Stone\Data\Effects/FX_Summoner_Incinerate.sad
+Red Stone\Data\Effects/lightning_m.sad
+Red Stone\Data\Effects/Proto_Vessel-impact.sad
+Red Stone\Data\Effects/Proto_Vessel-shoot.sad
+Red Stone\Data\Effects/Proto_Vessel-swing.sad
+Red Stone\Data\Effects/shoot_Field_gimmick.sad
+Red Stone\Data\Effects/testskill1.sad
+Red Stone\Data\Effects/Wandering_Subject-impact.sad
+Red Stone\Data\Effects/Wandering_subject-swing.sad
+Red Stone\Data\Effects/wildstampEffect.sad
+Red Stone\Data\Interface\game/BloodRecordMagicSquare_LV1.sad
+Red Stone\Data\Interface\game/BloodRecordMagicSquare_LV2.sad
+Red Stone\Data\Interface\game/BloodRecordMagicSquare_LV3.sad
+Red Stone\Data\Interface\game/BloodRecordMagicSquare_LV4.sad
+Red Stone\Data\Interface\game/BloodRecordMagicSquare_LV5.sad
+Red Stone\Data\Interface\game/BloodRecordMagicSquare_LV6.sad
+Red Stone\Data\Interface\game/BloodRecordMagicSquare_LV7.sad
+Red Stone\Data\Interface\game/BloodRecordMagicSquare_LV8.sad
+Red Stone\Data\Interface\game/bloodRecord_Fx.sad
+Red Stone\Data\Interface\game/interface.sd
+Red Stone\Data\Interface\game/interface2.sd
+Red Stone\Data\Interface\game/interface_japan.sd
+Red Stone\Data\Interface\game/OmniSkillOffLine.sad
+Red Stone\Data\Interface\game/OmniSkillOffPoint.sad
+Red Stone\Data\Interface\game/OmniSkillOnLine.sad
+Red Stone\Data\Interface\game/OmniSkillOnPoint.sad
+Red Stone\Data\Interface\game/OmniSkillSearchOff.sad
+Red Stone\Data\Interface\game/OmniSkillSearchOn.sad
+Red Stone\Data\Interface\game/OmniSkill_interface.sd
+Red Stone\Data\Interface\game/Over2000Fx.sad
+Red Stone\Data\Interface\game/tooltipMold.sd
+Red Stone\Data\language/japan.llt
+Red Stone\Data\Mapset\Desert2/tile.mpr
+Red Stone\Data\Mapset\Desert2/tile.mpw
+Red Stone\Data\Mapset\Desert2\Buildings/sn__building_0000.rbd
+Red Stone\Data\Mapset\Desert2\Buildings/sn__building_0001.rbd
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0000.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0000.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0001.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0001.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0002.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0003.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0004.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0005.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0006.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0007.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0008.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0009.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0010.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0011.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0012.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0012.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0013.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0013.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0014.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0014.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0015.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0016.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0017.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0018.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0019.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0020.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0021.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0021.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0022.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0023.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0023.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0024.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0024.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0025.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0026.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0026.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0028.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0030.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0031.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0032.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0034.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0036.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0038.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0040.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0042.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0042.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0043.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0044.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0045.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0045.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0046.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0047.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0048.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0048.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0049.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0049.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0050.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0050.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0051.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0051.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0052.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0052.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0053.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0053.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0054.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0054.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0055.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0055.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0056.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0056.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0057.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0057.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0058.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0058.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0059.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0059.rso
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0060.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0061.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0062.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0063.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0064.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0065.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0075.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0076.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0077.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0078.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0079.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0080.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0081.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0082.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0083.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0084.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0085.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0086.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0087.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0088.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0089.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0090.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0091.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0092.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0093.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0094.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0095.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0096.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0097.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0098.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0099.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0100.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0101.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0102.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0103.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0104.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0105.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0106.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0107.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0108.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0109.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0110.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0111.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0112.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0113.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0114.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0115.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0116.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0117.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0118.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0119.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0120.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0121.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0122.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0123.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0124.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0125.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0126.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0127.rfo
+Red Stone\Data\Mapset\Desert2\Objects/sn__object_0128.rfo
+Red Stone\Data\Misc/iconItem.smi
+Red Stone\Data\Misc/iconSkill.smi
+Red Stone\Data\Misc/loading.smi
+Red Stone\Data\Misc/Omniskillicon.sd
+Red Stone\Data\monsters/Giant_Infected_N.plt
+Red Stone\Data\monsters/Giant_Infected_N.sad
+Red Stone\Data\monsters/Giant_Infected_N_01.plt
+Red Stone\Data\monsters/Giant_Infected_N_01.sad
+Red Stone\Data\monsters/Lancer_Ghost.plt
+Red Stone\Data\monsters/Lancer_Ghost.sad
+Red Stone\Data\monsters/NPC_Parmiseh.plt
+Red Stone\Data\monsters/NPC_Parmiseh.sad
+Red Stone\Data\monsters/NPC_Punity.plt
+Red Stone\Data\monsters/NPC_Punity.sad
+Red Stone\Data\monsters/Proto_Vessel.plt
+Red Stone\Data\monsters/Proto_Vessel.sad
+Red Stone\Data\monsters/UR_Barrier.plt
+Red Stone\Data\monsters/UR_Barrier.sad
+Red Stone\Data\monsters/Wandering_Subject.plt
+Red Stone\Data\monsters/Wandering_Subject.sad
+Red Stone\Data\monsters/Wandering_Subject_01.plt
+Red Stone\Data\monsters/Wandering_Subject_01.sad
+Red Stone\Data\monsters/Warrior_Ghost.plt
+Red Stone\Data\monsters/Warrior_Ghost.sad
+Red Stone\Data\monsters/Wizard_Ghost.plt
+Red Stone\Data\monsters/Wizard_Ghost.sad
+Red Stone\Data\monsters/wood_Fairy02.plt
+Red Stone\Data\monsters/wood_Fairy02.sad
+Red Stone\Data\monsters/wood_Fairy02_01.plt
+Red Stone\Data\monsters/wood_Fairy02_01.sad
+Red Stone\Data\Scenario/Red Stone.rpd
+Red Stone\Data\Scenario\Red Stone/item.dat
+Red Stone\Data\Scenario\Red Stone/job.dat
+Red Stone\Data\Scenario\Red Stone\Map/GH2_00.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH2_00.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/GH2_01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH2_01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/GH2_02.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH2_02.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/GH3_00.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH3_00.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/GH3_01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH3_01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/GH4_00.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH4_00.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/GH4_01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH4_01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/GH5_00.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH5_00.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[000]T01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[000]T01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[005]G07_D01_B03.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[013]G13_D01_B01.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[028]Prison.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[074]T04.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[074]T04.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1010]T21.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1010]T21.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1092]T22.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1092]T22.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1119]UnchartedRegionS.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1119]UnchartedRegionS.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1119]UnchartedRegionS.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[1120]UnchartedRegionN.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1120]UnchartedRegionN.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1120]UnchartedRegionN.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[1121]UnchartedRegionE.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1121]UnchartedRegionE.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1121]UnchartedRegionE.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[1122]UnchartedRegionS.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1122]UnchartedRegionS.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1122]UnchartedRegionS.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[1123]UnchartedRegionS.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1123]UnchartedRegionS.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1123]UnchartedRegionS.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[1124]UnchartedRegionS.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1124]UnchartedRegionS.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1124]UnchartedRegionS.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[1125]UnchartedRegionN.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1125]UnchartedRegionN.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1125]UnchartedRegionN.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[1126]UnchartedRegionN.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1126]UnchartedRegionN.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1126]UnchartedRegionN.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[1127]UnchartedRegionN.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1127]UnchartedRegionN.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1127]UnchartedRegionN.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[1128]UnchartedRegionE.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1128]UnchartedRegionE.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1128]UnchartedRegionE.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[1129]UnchartedRegionE.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1129]UnchartedRegionE.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1129]UnchartedRegionE.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[1130]UnchartedRegionE.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1130]UnchartedRegionE.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1130]UnchartedRegionE.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[252]T11_V01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[252]T11_V01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[257]T11_I01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[257]T11_I01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[743]R02.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[743]R02.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[744]R03.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[744]R03.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[745]R01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[745]R01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[781]H01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[781]H01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[810]H01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[810]H01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[811]H01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[811]H01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[878]PlainOfDivineAnimals.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[878]PlainOfDivineAnimals.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[880]ForestOfLife_OutSkirts.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[880]ForestOfLife_OutSkirts.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[942]GH_LV01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[942]GH_LV01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[DemigodsRemains]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Ring_of_the_Primitiveness]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Ring_of_the_Primitiveness]000.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[UnchartedRegionSS]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[UnchartedRegionSS]000.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[UnchartedRegion_Lab]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[UnchartedRegion_Lab]000.rmd.terrain
+Red Stone\Data\Sound\effect/ui_fx_btslt01.ogg
+Red Stone\Data\Sound\effect/ui_fx_btslt02.ogg
+Red Stone\Data\Sound\effect/ui_fx_btslt03.ogg
+Red Stone\Data\Sound\effect/ui_fx_success01.ogg
+Red Stone\Data\Sound\effect/ui_fx_success02.ogg
+Red Stone\Data\Sound\effect/ui_fx_success03.ogg
+Red Stone\Data\UI/bloodRecord.dat
+Red Stone\Data\UI/MiniGameEventUI.dat
