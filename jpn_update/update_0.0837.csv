@@ -1,0 +1,1035 @@
+Red Stone\Data/ActionVoiceData.dat
+Red Stone\Data/capa.dat
+Red Stone\Data/characterResInfo.dat
+Red Stone\Data/ContentsOpen.dat
+Red Stone\Data/costume.dat
+Red Stone\Data/creatureInfo.dat
+Red Stone\Data/DecorateSkin.dat
+Red Stone\Data/defaultJob.dat
+Red Stone\Data/effect_data.dat
+Red Stone\Data/fieldInfo.dat
+Red Stone\Data/guideSystemLevelQuest.dat
+Red Stone\Data/guildSkill.dat
+Red Stone\Data/item_option_open.dat
+Red Stone\Data/jobData.dat
+Red Stone\Data/jobDataForJapan.dat
+Red Stone\Data/jobDataForUSA.dat
+Red Stone\Data/JournalKindData.dat
+Red Stone\Data/magicCarpetInfo.dat
+Red Stone\Data/MagicJewelContents.dat
+Red Stone\Data/miniPet.dat
+Red Stone\Data/playerResInfo.dat
+Red Stone\Data/PrefixEnchant.dat
+Red Stone\Data/questEX_Data.dat
+Red Stone\Data/questPlayerEffect_Data.dat
+Red Stone\Data/rb.dat
+Red Stone\Data/RTHelp.dat
+Red Stone\Data/skill.dat
+Red Stone\Data/subjugation.dat
+Red Stone\Data/subjugation_elite.dat
+Red Stone\Data/textData.dat
+Red Stone\Data/textData2.dat
+Red Stone\Data/title.dat
+Red Stone\Data/type03.gsd
+Red Stone\Data/type12.gsd
+Red Stone\Data\cosbody/25_Captain_Cos_05.sad
+Red Stone\Data\cosbody/25_Captain_Cos_05_mw_weapon.plt
+Red Stone\Data\cosbody/25_Captain_Cos_05_mw_weapon_Head.plt
+Red Stone\Data\cosbody/Block_Alchemist.plt
+Red Stone\Data\cosbody/Block_Alchemist.sad
+Red Stone\Data\cosbody/Block_Alchemist_mw.plt
+Red Stone\Data\cosbody/Block_Archer.plt
+Red Stone\Data\cosbody/Block_Archer.sad
+Red Stone\Data\cosbody/Block_Archer_mw.plt
+Red Stone\Data\cosbody/Block_BeastMan.plt
+Red Stone\Data\cosbody/Block_BeastMan.sad
+Red Stone\Data\cosbody/Block_BeastMan_mw.plt
+Red Stone\Data\cosbody/Block_Beast_Tamer.plt
+Red Stone\Data\cosbody/Block_Beast_Tamer.sad
+Red Stone\Data\cosbody/Block_Beast_Tamer_mw.plt
+Red Stone\Data\cosbody/Block_Canoneer.plt
+Red Stone\Data\cosbody/Block_Canoneer.sad
+Red Stone\Data\cosbody/Block_Canoneer_mw.plt
+Red Stone\Data\cosbody/Block_Canoneer_sw_L.plt
+Red Stone\Data\cosbody/Block_Canoneer_sw_R.plt
+Red Stone\Data\cosbody/Block_Champion.plt
+Red Stone\Data\cosbody/Block_Champion.sad
+Red Stone\Data\cosbody/Block_Champion_mw.plt
+Red Stone\Data\cosbody/Block_DemonSorceress.plt
+Red Stone\Data\cosbody/Block_DemonSorceress.sad
+Red Stone\Data\cosbody/Block_DemonSorceress_mw.plt
+Red Stone\Data\cosbody/Block_DEVIL.plt
+Red Stone\Data\cosbody/Block_DEVIL.sad
+Red Stone\Data\cosbody/Block_DEVIL_mw.plt
+Red Stone\Data\cosbody/Block_Fallen Angel.plt
+Red Stone\Data\cosbody/Block_Fallen Angel.sad
+Red Stone\Data\cosbody/Block_Fallen Angel_mw.plt
+Red Stone\Data\cosbody/Block_Knight.plt
+Red Stone\Data\cosbody/Block_Knight.sad
+Red Stone\Data\cosbody/Block_Knight_mw.plt
+Red Stone\Data\cosbody/Block_Knight_sw.plt
+Red Stone\Data\cosbody/Block_Lancer.plt
+Red Stone\Data\cosbody/Block_Lancer.sad
+Red Stone\Data\cosbody/Block_Lancer_mw.plt
+Red Stone\Data\cosbody/Block_MagicalGirl.plt
+Red Stone\Data\cosbody/Block_MagicalGirl.sad
+Red Stone\Data\cosbody/Block_MagicalGirl_mw.plt
+Red Stone\Data\cosbody/Block_Maid.plt
+Red Stone\Data\cosbody/Block_Maid.sad
+Red Stone\Data\cosbody/Block_Maid_mw.plt
+Red Stone\Data\cosbody/Block_Musketeer.plt
+Red Stone\Data\cosbody/Block_Musketeer.sad
+Red Stone\Data\cosbody/Block_Musketeer_mw.plt
+Red Stone\Data\cosbody/Block_Necromancer.plt
+Red Stone\Data\cosbody/Block_Necromancer.sad
+Red Stone\Data\cosbody/Block_Opticalist.plt
+Red Stone\Data\cosbody/Block_Opticalist.sad
+Red Stone\Data\cosbody/Block_Opticalist_mw.plt
+Red Stone\Data\cosbody/Block_Pirate.plt
+Red Stone\Data\cosbody/Block_Pirate.sad
+Red Stone\Data\cosbody/Block_Pirate_mw.plt
+Red Stone\Data\cosbody/Block_Pirate_mw_head.plt
+Red Stone\Data\cosbody/Block_Priest.plt
+Red Stone\Data\cosbody/Block_Priest.sad
+Red Stone\Data\cosbody/Block_Priest_mw.plt
+Red Stone\Data\cosbody/Block_Priest_sw.plt
+Red Stone\Data\cosbody/Block_Princess.plt
+Red Stone\Data\cosbody/Block_Princess.sad
+Red Stone\Data\cosbody/Block_Princess_mw.plt
+Red Stone\Data\cosbody/Block_Rogue.plt
+Red Stone\Data\cosbody/Block_Rogue.sad
+Red Stone\Data\cosbody/Block_Rogue_mw.plt
+Red Stone\Data\cosbody/Block_SoulBringer.plt
+Red Stone\Data\cosbody/Block_SoulBringer.sad
+Red Stone\Data\cosbody/Block_SoulBringer_mw.plt
+Red Stone\Data\cosbody/Block_Warrior.plt
+Red Stone\Data\cosbody/Block_Warrior.sad
+Red Stone\Data\cosbody/Block_Warrior_mw.plt
+Red Stone\Data\cosbody/Block_Wizard.plt
+Red Stone\Data\cosbody/Block_Wizard.sad
+Red Stone\Data\cosbody/Block_Wizard_mw.plt
+Red Stone\Data\cosbody/Block_wolf.plt
+Red Stone\Data\cosbody/Block_wolf.sad
+Red Stone\Data\cosbody/Cannoneer_cos_01_Premium.plt
+Red Stone\Data\cosbody/Cannoneer_cos_01_Premium.sad
+Red Stone\Data\cosbody/Cannoneer_cos_01_Premium_Weapon_B.plt
+Red Stone\Data\cosbody/Cannoneer_cos_01_Premium_Weapon_F.plt
+Red Stone\Data\cosbody/Cannoneer_cos_01_Premium_Wing_L.plt
+Red Stone\Data\cosbody/Cannoneer_cos_01_Premium_Wing_R.plt
+Red Stone\Data\cosbody/Cannoneer_cos_04_HW.plt
+Red Stone\Data\cosbody/Cannoneer_cos_04_HW.sad
+Red Stone\Data\cosbody/Cannoneer_cos_04_HW_Weapon_B.plt
+Red Stone\Data\cosbody/Cannoneer_cos_04_HW_Weapon_F.plt
+Red Stone\Data\cosbody/Cannoneer_cos_04_HW_wing_L.plt
+Red Stone\Data\cosbody/Cannoneer_cos_04_HW_wing_R.plt
+Red Stone\Data\cosbody/Cannoneer_cos_06_Santa.plt
+Red Stone\Data\cosbody/Cannoneer_cos_06_Santa.sad
+Red Stone\Data\cosbody/Cannoneer_cos_06_Santa_Weapon_B.plt
+Red Stone\Data\cosbody/Cannoneer_cos_06_Santa_Weapon_F.plt
+Red Stone\Data\cosbody/Cannoneer_cos_06_Santa_Wing_L.plt
+Red Stone\Data\cosbody/Cannoneer_cos_06_Santa_Wing_R.plt
+Red Stone\Data\cosbody/Captain_Cos01.sad
+Red Stone\Data\cosbody/Captain_Cos01_Head_weapon.plt
+Red Stone\Data\cosbody/Captain_Cos01_weapon.plt
+Red Stone\Data\cosbody/Captain_cos02_Head_weapon.plt
+Red Stone\Data\cosbody/Captain_cos02_swim.sad
+Red Stone\Data\cosbody/Captain_cos02_weapon.plt
+Red Stone\Data\cosbody/Captain_cos03_suit.sad
+Red Stone\Data\cosbody/Captain_Cos08_Contest.sad
+Red Stone\Data\cosbody/Captain_Cos08_Contest_Head_weapon.plt
+Red Stone\Data\cosbody/Captain_Cos08_Contest_weapon.plt
+Red Stone\Data\cosbody/Captain_cos09_Head_weapon.plt
+Red Stone\Data\cosbody/Captain_Cos15_Techwear.sad
+Red Stone\Data\cosbody/Captain_cos9_Holy&Dark.sad
+Red Stone\Data\cosbody/Captain_cos9_weapon.plt
+Red Stone\Data\cosbody/Captain_cos_HW.sad
+Red Stone\Data\cosbody/Captain_cos_HW_Head_weapon.plt
+Red Stone\Data\cosbody/Captain_cos_HW_weapon.plt
+Red Stone\Data\cosbody/Captain_cos_santa.sad
+Red Stone\Data\cosbody/Captain_cos_santa_Head_weapon.plt
+Red Stone\Data\cosbody/Captain_cos_santa_weapon.plt
+Red Stone\Data\cosbody/Captain_Cos_StarRevelator.sad
+Red Stone\Data\cosbody/Pixel_Alchemist_mw.plt
+Red Stone\Data\cosbody/pixel_Archer_mw.plt
+Red Stone\Data\cosbody/Pixel_BeastMan_mw.plt
+Red Stone\Data\cosbody/Pixel_Beast_Tamer_mw.plt
+Red Stone\Data\cosbody/Pixel_Champion_mw.plt
+Red Stone\Data\cosbody/pixel_DemonSorceress_mw.plt
+Red Stone\Data\cosbody/pixel_DEVIL_mw.plt
+Red Stone\Data\cosbody/Pixel_Fallen_Angel_mw.plt
+Red Stone\Data\cosbody/pixel_Knight_mw.plt
+Red Stone\Data\cosbody/pixel_Knight_sw.plt
+Red Stone\Data\cosbody/Pixel_Lancer_mw.plt
+Red Stone\Data\cosbody/Pixel_MagicalGirl_mw.plt
+Red Stone\Data\cosbody/pixel_Maid_mw.plt
+Red Stone\Data\cosbody/pixel_Musketeer_mw.plt
+Red Stone\Data\cosbody/Pixel_Opticalist_mw.plt
+Red Stone\Data\cosbody/Pixel_Pirate_mw.plt
+Red Stone\Data\cosbody/Pixel_Pirate_mw_head.plt
+Red Stone\Data\cosbody/Pixel_Priest_mw.plt
+Red Stone\Data\cosbody/Pixel_Priest_sw.plt
+Red Stone\Data\cosbody/Pixel_Princess_mw.plt
+Red Stone\Data\cosbody/Pixel_Rogue_mw.plt
+Red Stone\Data\cosbody/Pixel_SoulBringer_mw.plt
+Red Stone\Data\cosbody/pixel_Warrior_mw.plt
+Red Stone\Data\cosbody/pixel_Wizard_mw.plt
+Red Stone\Data\cosbody\Cryptid Hunter/01_Knight_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/01_Knight_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/01_Knight_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/01_Knight_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/02_Warrior_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/02_Warrior_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/02_Warrior_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/02_Warrior_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/02_Warrior_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/03_Archer_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/03_Archer_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/03_Archer_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/03_Archer_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/03_Archer_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/04_Lancer_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/04_Lancer_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/04_Lancer_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/04_Lancer_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/04_Lancer_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/05_BeastTamer_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/05_BeastTamer_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/05_BeastTamer_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/05_BeastTamer_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/05_BeastTamer_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/06_Summoner_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/06_Summoner_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/06_Summoner_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/06_Summoner_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/06_Summoner_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/07_Rogue_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/07_Rogue_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/07_Rogue_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/07_Rogue_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/07_Rogue_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/08_Monk_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/08_Monk_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/08_Monk_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/08_Monk_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/08_Monk_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/09_Priest_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/09_Priest_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/09_Priest_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/09_Priest_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/09_Priest_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/10_Fallen_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/10_Fallen_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/10_Fallen_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/10_Fallen_Cos_12_f1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/10_Fallen_Cos_12_f4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/11_Wizard_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/11_Wizard_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/11_Wizard_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/11_Wizard_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/11_Wizard_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/12_Wolf_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/12_Wolf_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/12_Wolf_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/12_Wolf_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/12_Wolf_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/13_Princess_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/13_Princess_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/13_Princess_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/13_Princess_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/13_Princess_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/14_Magicalgirl_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/14_Magicalgirl_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/14_Magicalgirl_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/14_Magicalgirl_Cos_12_f1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/14_Magicalgirl_Cos_12_f4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/15_NecroMancer_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/15_NecroMancer_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/15_NecroMancer_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/15_NecroMancer_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/15_NecroMancer_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/16_Devil_cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/16_Devil_cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/16_Devil_cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/16_Devil_cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/16_Devil_cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/17_SoulBringer_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/17_SoulBringer_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/17_SoulBringer_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/17_SoulBringer_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/17_SoulBringer_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/18_Champion_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/18_Champion_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/18_Champion_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/18_Champion_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/18_Champion_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/19_Opticalist_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/19_Opticalist_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/19_Opticalist_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/19_Opticalist_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/19_Opticalist_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/20_BeastMan_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/20_BeastMan_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/20_BeastMan_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/20_BeastMan_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/20_BeastMan_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/21_Maid_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/21_Maid_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/21_Maid_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/21_Maid_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/21_Maid_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/22_DemonSorceress_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/22_DemonSorceress_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/22_DemonSorceress_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/22_DemonSorceress_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/22_DemonSorceress_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/23_Musketeer_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/23_Musketeer_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/23_Musketeer_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/23_Musketeer_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/23_Musketeer_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/24_Alchemist_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/24_Alchemist_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/24_Alchemist_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/24_Alchemist_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/24_Alchemist_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/25_Captain_Cos_12_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/25_Captain_Cos_12_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/25_Captain_Cos_12_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/25_Captain_Cos_12_F1_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/25_Captain_Cos_12_F4_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_01_CH.plt
+Red Stone\Data\cosbody\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_01_CH.sad
+Red Stone\Data\cosbody\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_04_CHpt.plt
+Red Stone\Data\cosbody\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_04_CHpt.sad
+Red Stone\Data\cosbody\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_07_Wing_L.plt
+Red Stone\Data\cosbody\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_08_Wing_R.plt
+Red Stone\Data\cosbody\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_09_Weapon_B.plt
+Red Stone\Data\cosbody\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_10_Weapon_F.plt
+Red Stone\Data\cosbody\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_11_Wing_L_pt.plt
+Red Stone\Data\cosbody\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_12_Wing_R_pt.plt
+Red Stone\Data\cosbody\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_13_Weapon_B_pt.plt
+Red Stone\Data\cosbody\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_14_Weapon_F_pt.plt
+Red Stone\Data\cosbody\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_F01_CHfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_F04_CHptfx.sad
+Red Stone\Data\cosbody\Cryptid Hunter/BatAdv_Cos_12_back.sad
+Red Stone\Data\cosbody\Cryptid Hunter/BatBasic_Cos_12_back.sad
+Red Stone\Data\cosbody\Cryptid Hunter/CircleAdv_Cos_12_back.sad
+Red Stone\Data\cosbody\Cryptid Hunter/CircleBasic_Cos_12_back.sad
+Red Stone\Data\cosbody\Cryptid Hunter/FogAdv_Cos_12_front.sad
+Red Stone\Data\cosbody\Cryptid Hunter/FogBasic_Cos_12_front.sad
+Red Stone\Data\cosbody\Cryptid Hunter/GoldAdv_Cos_12_back.sad
+Red Stone\Data\cosbody\Cryptid Hunter/GoldBasic_Cos_12_back.sad
+Red Stone\Data\cosbody\Cryptid Hunter/SpotAdv_Cos_12_back.sad
+Red Stone\Data\cosbody\Cryptid Hunter/SpotBasic_Cos_12_back.sad
+Red Stone\Data\cosbody\Elemental Ruler/25_Captain_Cos_11_01_CH.sad
+Red Stone\Data\cosbody\Elemental Ruler/25_Captain_Cos_11_04_CHpt.sad
+Red Stone\Data\cosbody\Elemental Ruler/25_Captain_Cos_11_07_CHfx.sad
+Red Stone\Data\cosbody\Elemental Ruler/25_Captain_Cos_11_10_CHptfx.sad
+Red Stone\Data\cosequipment/25_Captain_Cos_05_mw_weapon.sad
+Red Stone\Data\cosequipment/25_Captain_Cos_05_mw_weapon_Head.sad
+Red Stone\Data\cosequipment/BeastTamer_Cos15_Techwear_wp_eff.sad
+Red Stone\Data\cosequipment/Block_Alchemist.plt
+Red Stone\Data\cosequipment/Block_Alchemist_mw.sad
+Red Stone\Data\cosequipment/Block_Archer.plt
+Red Stone\Data\cosequipment/Block_Archer_mw.sad
+Red Stone\Data\cosequipment/Block_BeastMan.plt
+Red Stone\Data\cosequipment/Block_BeastMan_mw.sad
+Red Stone\Data\cosequipment/Block_Beast_Tamer.plt
+Red Stone\Data\cosequipment/Block_Beast_Tamer_mw.sad
+Red Stone\Data\cosequipment/Block_Canoneer.plt
+Red Stone\Data\cosequipment/Block_Canoneer_mw.sad
+Red Stone\Data\cosequipment/Block_Canoneer_sw_L.sad
+Red Stone\Data\cosequipment/Block_Canoneer_sw_R.sad
+Red Stone\Data\cosequipment/Block_Champion.plt
+Red Stone\Data\cosequipment/Block_Champion_mw.sad
+Red Stone\Data\cosequipment/Block_DemonSorceress.plt
+Red Stone\Data\cosequipment/Block_DemonSorceress_mw.sad
+Red Stone\Data\cosequipment/Block_DEVIL.plt
+Red Stone\Data\cosequipment/Block_DEVIL_mw.sad
+Red Stone\Data\cosequipment/Block_Fallen Angel.plt
+Red Stone\Data\cosequipment/Block_Fallen Angel_mw.sad
+Red Stone\Data\cosequipment/Block_Knight.plt
+Red Stone\Data\cosequipment/Block_Knight_mw.sad
+Red Stone\Data\cosequipment/Block_Knight_sw.sad
+Red Stone\Data\cosequipment/Block_Lancer.plt
+Red Stone\Data\cosequipment/Block_Lancer_mw.sad
+Red Stone\Data\cosequipment/Block_MagicalGirl.plt
+Red Stone\Data\cosequipment/Block_MagicalGirl_mw.sad
+Red Stone\Data\cosequipment/Block_Maid.plt
+Red Stone\Data\cosequipment/Block_Maid_mw.sad
+Red Stone\Data\cosequipment/Block_Musketeer.plt
+Red Stone\Data\cosequipment/Block_Musketeer_mw.sad
+Red Stone\Data\cosequipment/Block_Opticalist.plt
+Red Stone\Data\cosequipment/Block_Opticalist_mw.sad
+Red Stone\Data\cosequipment/Block_Pirate.plt
+Red Stone\Data\cosequipment/Block_Pirate_mw.sad
+Red Stone\Data\cosequipment/Block_Pirate_mw_head.sad
+Red Stone\Data\cosequipment/Block_Priest.plt
+Red Stone\Data\cosequipment/Block_Priest_mw.sad
+Red Stone\Data\cosequipment/Block_Priest_sw.sad
+Red Stone\Data\cosequipment/Block_Princess.plt
+Red Stone\Data\cosequipment/Block_Princess_mw.sad
+Red Stone\Data\cosequipment/Block_Rogue.plt
+Red Stone\Data\cosequipment/Block_Rogue_mw.sad
+Red Stone\Data\cosequipment/Block_SoulBringer.plt
+Red Stone\Data\cosequipment/Block_SoulBringer_mw.sad
+Red Stone\Data\cosequipment/Block_Warrior.plt
+Red Stone\Data\cosequipment/Block_Warrior_mw.sad
+Red Stone\Data\cosequipment/Block_Wizard.plt
+Red Stone\Data\cosequipment/Block_Wizard_mw.sad
+Red Stone\Data\cosequipment/Cannoneer_cos_01_Premium_Weapon_B.sad
+Red Stone\Data\cosequipment/Cannoneer_cos_01_Premium_Weapon_F.sad
+Red Stone\Data\cosequipment/Cannoneer_cos_01_Premium_Wing_L.sad
+Red Stone\Data\cosequipment/Cannoneer_cos_01_Premium_Wing_R.sad
+Red Stone\Data\cosequipment/Cannoneer_cos_04_HW_Weapon_B.sad
+Red Stone\Data\cosequipment/Cannoneer_cos_04_HW_Weapon_F.sad
+Red Stone\Data\cosequipment/Cannoneer_cos_04_HW_wing_L.sad
+Red Stone\Data\cosequipment/Cannoneer_cos_04_HW_wing_R.sad
+Red Stone\Data\cosequipment/Cannoneer_cos_06_Santa_Weapon_B.sad
+Red Stone\Data\cosequipment/Cannoneer_cos_06_Santa_Weapon_F.sad
+Red Stone\Data\cosequipment/Cannoneer_cos_06_Santa_Wing_L.sad
+Red Stone\Data\cosequipment/Cannoneer_cos_06_Santa_Wing_R.sad
+Red Stone\Data\cosequipment/Captain_Cos01_Head_weapon.sad
+Red Stone\Data\cosequipment/Captain_Cos01_weapon.sad
+Red Stone\Data\cosequipment/Captain_cos02_Head_weapon.sad
+Red Stone\Data\cosequipment/Captain_cos02_weapon.sad
+Red Stone\Data\cosequipment/Captain_Cos03_Head_weapon.sad
+Red Stone\Data\cosequipment/Captain_Cos03_weapon.sad
+Red Stone\Data\cosequipment/Captain_Cos08_Contest_Head_weapon.sad
+Red Stone\Data\cosequipment/Captain_Cos08_Contest_weapon.sad
+Red Stone\Data\cosequipment/Captain_cos09_Head_weapon.sad
+Red Stone\Data\cosequipment/Captain_Cos15_Techwear_Head_weapon.sad
+Red Stone\Data\cosequipment/Captain_Cos15_Techwear_weapon.sad
+Red Stone\Data\cosequipment/Captain_cos9_weapon.sad
+Red Stone\Data\cosequipment/Captain_cos_HW_Head_weapon.sad
+Red Stone\Data\cosequipment/Captain_cos_HW_weapon.sad
+Red Stone\Data\cosequipment/Captain_cos_santa_Head_weapon.sad
+Red Stone\Data\cosequipment/Captain_cos_santa_weapon.sad
+Red Stone\Data\cosequipment/Captain_Cos_StarRevelator_mw_weapon.sad
+Red Stone\Data\cosequipment/Captain_Cos_StarRevelator_mw_weapon_Head.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/01_Knight_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/01_Knight_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/01_Knight_Cos_12_03_SW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/01_Knight_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/01_Knight_Cos_12_F3_SWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/01_Knight_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/01_Knight_Cos_12_F6_SWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/01_Knight_Cos_12_swingFX-adv.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/01_Knight_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/01_Knight_Cos_12_swingFx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/02_Warrior_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/02_Warrior_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/02_Warrior_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/02_Warrior_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/02_Warrior_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/02_Warrior_Cos_12_SwingFX-ADV.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/02_Warrior_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/02_Warrior_Cos_12_SwingFX.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/03_Archer_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/03_Archer_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/03_Archer_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/03_Archer_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/03_Archer_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/03_Archer_Cos_12_swingFX-adv.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/03_Archer_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/03_Archer_Cos_12_swingFX.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/04_Lancer_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/04_Lancer_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/04_Lancer_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/04_Lancer_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/04_Lancer_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/04_Lancer_Cos_12_Swingfx-adv.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/04_Lancer_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/04_Lancer_Cos_12_Swingfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/05_BeastTamer_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/05_BeastTamer_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/05_BeastTamer_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/05_BeastTamer_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/05_BeastTamer_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/05_BeastTamer_Cos_12_SwingFX-ADV.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/05_BeastTamer_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/05_BeastTamer_Cos_12_Swingfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/06_Summoner_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/06_Summoner_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/06_Summoner_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/06_Summoner_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/06_Summoner_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/06_Summoner_Cos_12_swingFX-ADV.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/06_Summoner_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/06_Summoner_Cos_12_swingFX.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/07_Rogue_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/07_Rogue_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/07_Rogue_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/07_Rogue_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/07_Rogue_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/07_Rogue_Cos_12_swingfx-adv.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/07_Rogue_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/07_Rogue_Cos_12_swingfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/08_Monk_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/08_Monk_Cos_12_SwingFX-ADV.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/08_Monk_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/08_Monk_Cos_12_SwingFx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/09_Priest_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/09_Priest_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/09_Priest_Cos_12_03_SW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/09_Priest_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/09_Priest_Cos_12_06_SWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/09_Priest_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/09_Priest_Cos_12_F3_SWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/09_Priest_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/09_Priest_Cos_12_F6_SWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/09_Priest_Cos_12_swingFx-adv.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/09_Priest_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/09_Priest_Cos_12_swingFx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/10_Fallen_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/10_Fallen_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/10_Fallen_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/10_Fallen_Cos_12_f2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/10_Fallen_Cos_12_F5_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/10_Fallen_Cos_12_SwingFx-ADV.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/10_Fallen_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/10_Fallen_Cos_12_SwingFx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/11_Wizard_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/11_Wizard_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/11_Wizard_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/11_Wizard_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/11_Wizard_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/11_Wizard_Cos_12_SwingFx-ADV.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/11_Wizard_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/11_Wizard_Cos_12_SwingFx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/12_Wolf_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/12_Wolf_Cos_12_swingfx-adv.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/12_Wolf_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/12_Wolf_Cos_12_swingfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/13_Princess_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/13_Princess_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/13_Princess_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/13_Princess_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/13_Princess_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/13_Princess_Cos_12_swingFX-ADV.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/13_Princess_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/13_Princess_Cos_12_swingFX.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/14_Magicalgirl_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/14_Magicalgirl_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/14_Magicalgirl_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/14_Magicalgirl_Cos_12_f2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/14_Magicalgirl_Cos_12_f5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/14_Magicalgirl_Cos_12_SwingFX-ADV.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/14_Magicalgirl_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/14_Magicalgirl_Cos_12_SwingFX.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/15_NecroMancer_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/15_NecroMancer_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/15_NecroMancer_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/15_NecroMancer_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/15_NecroMancer_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/15_NecroMancer_Cos_12_SwingFX-adv.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/15_NecroMancer_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/15_NecroMancer_Cos_12_SwingFX.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/16_Devil_cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/16_Devil_cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/16_Devil_cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/16_Devil_cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/16_Devil_cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/16_Devil_cos_12_SwingFX-adv.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/16_Devil_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/16_Devil_cos_12_SwingFX.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/17_SoulBringer_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/17_SoulBringer_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/17_SoulBringer_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/17_SoulBringer_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/17_SoulBringer_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/17_SoulBringer_Cos_12_swingFX-ADV.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/17_SoulBringer_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/17_SoulBringer_Cos_12_swingFX.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/18_Champion_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/18_Champion_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/18_Champion_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/18_Champion_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/18_Champion_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/18_Champion_Cos_12_SwingFx-ADV.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/18_Champion_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/18_Champion_Cos_12_SwingFx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/19_Opticalist_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/19_Opticalist_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/19_Opticalist_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/19_Opticalist_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/19_Opticalist_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/19_Opticalist_Cos_12_swingfx-adv.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/19_Opticalist_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/19_Opticalist_Cos_12_swingfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/20_BeastMan_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/20_BeastMan_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/20_BeastMan_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/20_BeastMan_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/20_BeastMan_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/20_BeastMan_Cos_12_swingFX-adv.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/20_Beastman_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/20_BeastMan_Cos_12_swingFX.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/21_Maid_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/21_Maid_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/21_Maid_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/21_Maid_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/21_Maid_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/21_Maid_Cos_12_swingfx-adv.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/21_Maid_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/21_Maid_Cos_12_swingfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/22_DemonSorceress_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/22_DemonSorceress_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/22_DemonSorceress_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/22_DemonSorceress_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/22_DemonSorceress_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/22_DemonSorceress_Cos_12_siwngfx-adv.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/22_DemonSorceress_Cos_12_siwngfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/22_DemonSorceress_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/23_Musketeer_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/23_Musketeer_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/23_Musketeer_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/23_Musketeer_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/23_Musketeer_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/23_Musketeer_Cos_12_swingFX-ADV.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/23_Musketeer_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/23_Musketeer_Cos_12_swingFX.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/24_Alchemist_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/24_Alchemist_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/24_Alchemist_Cos_12_03_SW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/24_Alchemist_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/24_Alchemist_Cos_12_06_SWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/24_Alchemist_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/24_Alchemist_Cos_12_F3_SWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/24_Alchemist_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/24_Alchemist_Cos_12_F6_SWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/24_Alchemist_Cos_12_SwingFX-ADV.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/24_Alchemist_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/24_Alchemist_Cos_12_SwingFX.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/25_Captain_Cos_12_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/25_Captain_Cos_12_02_MW.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/25_Captain_Cos_12_02_MW_head.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/25_Captain_Cos_12_05_MWpt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/25_Captain_Cos_12_05_MWpt_head.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/25_Captain_Cos_12_F2_MWfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/25_Captain_Cos_12_F2_MWfx_head.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/25_Captain_Cos_12_F5_MWptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/25_Captain_Cos_12_F5_MWptfx_head.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/25_Captain_Cos_12_SwingFx-adv.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/25_Captain_Cos_12_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/25_Captain_Cos_12_SwingFx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_01_CH.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_07_Wing_L.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_08_Wing_R.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_09_Weapon_B.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_10_Weapon_F.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_11_Wing_L_pt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_12_Wing_R_pt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_13_Weapon_B_pt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_14_Weapon_F_pt.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_F07_Wing_Lfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_F08_Wing_Rfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_F09_Weapon_Bfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_F10_Weapon_Ffx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_F11_Wing_L_ptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_F12_Wing_R_ptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_F13_Weapon_B_ptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_F14_Weapon_F_ptfx.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_swingfx-adv.sad
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_SwingFX.plt
+Red Stone\Data\cosequipment\Cryptid Hunter/26_Cannoneer_Cos_12_CryptidHunter_swingfx.sad
+Red Stone\Data\cosequipment\Elemental Ruler/25_Captain_Cos_11_02_MW.sad
+Red Stone\Data\cosequipment\Elemental Ruler/25_Captain_Cos_11_02_MW_Head.sad
+Red Stone\Data\cosequipment\Elemental Ruler/25_Captain_Cos_11_05_MWpt_Head.sad
+Red Stone\Data\cosequipment\Elemental Ruler/25_Captain_Cos_11_08_MWfx_Head.sad
+Red Stone\Data\cosequipment\Elemental Ruler/25_Captain_Cos_11_11_MWptfx_Head.sad
+Red Stone\Data\creaturebody/274_FancyMaidDarline.sad
+Red Stone\Data\Effects/Action_Cannoneer_Magic.sad
+Red Stone\Data\Effects/Action_Cannoneer_Phy.sad
+Red Stone\Data\Effects/Cannoneer_Turret.sad
+Red Stone\Data\Effects/Charge_Cannoneer_Canoneer_1.sad
+Red Stone\Data\Effects/Charge_Cannoneer_Canoneer_2.sad
+Red Stone\Data\Effects/Explosion_Cannoneer_Biltzone.sad
+Red Stone\Data\Effects/Explosion_Cannoneer_Cannonball_1.sad
+Red Stone\Data\Effects/Explosion_Cannoneer_Cannonball_2.sad
+Red Stone\Data\Effects/Explosion_Cannoneer_Carpet_Bombing.sad
+Red Stone\Data\Effects/Explosion_Cannoneer_Grenade.sad
+Red Stone\Data\Effects/Explosion_Cannoneer_Incendiary.sad
+Red Stone\Data\Effects/Explosion_Cannoneer_Lightning_Blast.sad
+Red Stone\Data\Effects/Explosion_Cannoneer_Lightning_Torrent.sad
+Red Stone\Data\Effects/Explosion_Cannoneer_Mortar.sad
+Red Stone\Data\Effects/Explosion_Cannoneer_WitchNapalm.sad
+Red Stone\Data\Effects/Hit_Fire_Light.sad
+Red Stone\Data\Effects/Hit_Phy_Lightning.sad
+Red Stone\Data\Effects/Shoot_Cannoneer_AdvCannon.sad
+Red Stone\Data\Effects/Shoot_Cannoneer_AdvCannon_Tail.sad
+Red Stone\Data\Effects/Shoot_Cannoneer_Cannon.sad
+Red Stone\Data\Effects/Shoot_Cannoneer_Schorching_Roar.sad
+Red Stone\Data\Effects/Shoot_Cannoneer_StarShell.sad
+Red Stone\Data\Effects/Shoot_Cannoneer_Turret.sad
+Red Stone\Data\Effects/Status_Cannoneer_AntiForceField.sad
+Red Stone\Data\Effects/Status_Cannoneer_DragonTalon.sad
+Red Stone\Data\Effects/Status_Cannoneer_Stigma.sad
+Red Stone\Data\Equipment/Cannoneer - Carronade Cannon_B.plt
+Red Stone\Data\Equipment/Cannoneer - Carronade Cannon_B.sad
+Red Stone\Data\Equipment/Cannoneer - Carronade Cannon_F.plt
+Red Stone\Data\Equipment/Cannoneer - Carronade Cannon_F.sad
+Red Stone\Data\Equipment/Cannoneer - Culverin Cannon_B.plt
+Red Stone\Data\Equipment/Cannoneer - Culverin Cannon_B.sad
+Red Stone\Data\Equipment/Cannoneer - Culverin Cannon_F.plt
+Red Stone\Data\Equipment/Cannoneer - Culverin Cannon_F.sad
+Red Stone\Data\Equipment/Cannoneer - Dragon Cannon_B.plt
+Red Stone\Data\Equipment/Cannoneer - Dragon Cannon_B.sad
+Red Stone\Data\Equipment/Cannoneer - Dragon Cannon_F.plt
+Red Stone\Data\Equipment/Cannoneer - Dragon Cannon_F.sad
+Red Stone\Data\Equipment/Cannoneer - Falconet Cannon_B.plt
+Red Stone\Data\Equipment/Cannoneer - Falconet Cannon_B.sad
+Red Stone\Data\Equipment/Cannoneer - Falconet Cannon_F.plt
+Red Stone\Data\Equipment/Cannoneer - Falconet Cannon_F.sad
+Red Stone\Data\Equipment/Cannoneer - Hand Cannon_B.plt
+Red Stone\Data\Equipment/Cannoneer - Hand Cannon_B.sad
+Red Stone\Data\Equipment/Cannoneer - Hand Cannon_F.plt
+Red Stone\Data\Equipment/Cannoneer - Hand Cannon_F.sad
+Red Stone\Data\Equipment/Cannoneer - Saker Cannon_B.plt
+Red Stone\Data\Equipment/Cannoneer - Saker Cannon_B.sad
+Red Stone\Data\Equipment/Cannoneer - Saker Cannon_F.plt
+Red Stone\Data\Equipment/Cannoneer - Saker Cannon_F.sad
+Red Stone\Data\Equipment/Cannoneer - Training Cannon_B.plt
+Red Stone\Data\Equipment/Cannoneer - Training Cannon_B.sad
+Red Stone\Data\Equipment/Cannoneer - Training Cannon_F.plt
+Red Stone\Data\Equipment/Cannoneer - Training Cannon_F.sad
+Red Stone\Data\Equipment/Cannoneer - Twin Head Cannon_B.plt
+Red Stone\Data\Equipment/Cannoneer - Twin Head Cannon_B.sad
+Red Stone\Data\Equipment/Cannoneer - Twin Head Cannon_F.plt
+Red Stone\Data\Equipment/Cannoneer - Twin Head Cannon_F.sad
+Red Stone\Data\Equipment/Cannoneer01_Wing_L.plt
+Red Stone\Data\Equipment/Cannoneer01_Wing_L.sad
+Red Stone\Data\Equipment/Cannoneer01_Wing_R.plt
+Red Stone\Data\Equipment/Cannoneer01_Wing_R.sad
+Red Stone\Data\Equipment/Cannoneer02_Wing_L.plt
+Red Stone\Data\Equipment/Cannoneer02_Wing_L.sad
+Red Stone\Data\Equipment/Cannoneer02_Wing_R.plt
+Red Stone\Data\Equipment/Cannoneer02_Wing_R.sad
+Red Stone\Data\Equipment/Cannoneer03_Wing_L.plt
+Red Stone\Data\Equipment/Cannoneer03_Wing_L.sad
+Red Stone\Data\Equipment/Cannoneer03_Wing_R.plt
+Red Stone\Data\Equipment/Cannoneer03_Wing_R.sad
+Red Stone\Data\Equipment/Captain_mw01.sad
+Red Stone\Data\Equipment/Captain_mw01_Head.sad
+Red Stone\Data\Equipment/Captain_mw02.sad
+Red Stone\Data\Equipment/Captain_mw02_Head.sad
+Red Stone\Data\Equipment/Captain_mw03.sad
+Red Stone\Data\Equipment/Captain_mw03_Head.sad
+Red Stone\Data\Equipment/Captain_mw04.sad
+Red Stone\Data\Equipment/Captain_mw04_Head.sad
+Red Stone\Data\Equipment/Captain_mw05.sad
+Red Stone\Data\Equipment/Captain_mw05_Head.sad
+Red Stone\Data\Equipment/Captain_mw06.sad
+Red Stone\Data\Equipment/Captain_mw06_Head.sad
+Red Stone\Data\Equipment/Captain_mw07.sad
+Red Stone\Data\Equipment/Captain_mw07_Head.sad
+Red Stone\Data\Equipment/Captain_mw08.sad
+Red Stone\Data\Equipment/Captain_mw08_Head.sad
+Red Stone\Data\Heros/Cannoneer.pod
+Red Stone\Data\Heros/Cannoneer01.plt
+Red Stone\Data\Heros/Cannoneer01.sad
+Red Stone\Data\Heros/Cannoneer02.plt
+Red Stone\Data\Heros/Cannoneer02.sad
+Red Stone\Data\Heros/Cannoneer03.plt
+Red Stone\Data\Heros/Cannoneer03.sad
+Red Stone\Data\Heros/Captain01.sad
+Red Stone\Data\Heros/Captain02.sad
+Red Stone\Data\Heros/Captain03.sad
+Red Stone\Data\Interface\game/creature_c.sd
+Red Stone\Data\Interface\game/creature_p.sd
+Red Stone\Data\Interface\game/designation_icon.sd
+Red Stone\Data\Interface\game/interface2.sd
+Red Stone\Data\Interface\game/job_icon_cannoneer.sad
+Red Stone\Data\Interface\game/worldMap.sd
+Red Stone\Data\Interface\Heros/Cannoneer.sad
+Red Stone\Data\Interface\Heros/Cannoneer_japan.sad
+Red Stone\Data\language/japan.llt
+Red Stone\Data\Misc/creature.smi
+Red Stone\Data\Misc/iconGuildSkill.smi
+Red Stone\Data\Misc/iconSkill.smi
+Red Stone\Data\Misc/ItemFieldShape.sd
+Red Stone\Data\monsters/Cannoneer_Turret.plt
+Red Stone\Data\monsters/Cannoneer_Turret.sad
+Red Stone\Data\monsters/Cannoneer_Turret_01.sad
+Red Stone\Data\monsters/CH_Beastman.plt
+Red Stone\Data\monsters/CH_Beastman.sad
+Red Stone\Data\monsters/CH_Beastman_01.sad
+Red Stone\Data\monsters/CH_Devil.plt
+Red Stone\Data\monsters/CH_Devil.sad
+Red Stone\Data\monsters/CH_Devil_01.sad
+Red Stone\Data\monsters/CH_Fallenangel.plt
+Red Stone\Data\monsters/CH_Fallenangel.sad
+Red Stone\Data\monsters/CH_Fallenangel_01.sad
+Red Stone\Data\monsters/CH_Lancer.plt
+Red Stone\Data\monsters/CH_Lancer.sad
+Red Stone\Data\monsters/CH_Lancer_01.sad
+Red Stone\Data\monsters/CH_Monk.plt
+Red Stone\Data\monsters/CH_Monk.sad
+Red Stone\Data\monsters/CH_Monk_01.sad
+Red Stone\Data\monsters/CH_Musketeer.plt
+Red Stone\Data\monsters/CH_Musketeer.sad
+Red Stone\Data\monsters/CH_Musketeer_01.sad
+Red Stone\Data\monsters/CH_Warrior.plt
+Red Stone\Data\monsters/CH_Warrior.sad
+Red Stone\Data\monsters/CH_Warrior_01.sad
+Red Stone\Data\monsters/CH_Wizard.plt
+Red Stone\Data\monsters/CH_Wizard.sad
+Red Stone\Data\monsters/CH_Wizard_01.sad
+Red Stone\Data\monsters/Jaguar_02.sad
+Red Stone\Data\monsters/Jaguar_03.sad
+Red Stone\Data\NPC/ANGEL.plt
+Red Stone\Data\NPC/ANGEL.sad
+Red Stone\Data\NPC/BAGGER.plt
+Red Stone\Data\NPC/BAGGER.sad
+Red Stone\Data\NPC/BISHOP.plt
+Red Stone\Data\NPC/BISHOP.sad
+Red Stone\Data\NPC/BOY1.plt
+Red Stone\Data\NPC/BOY1.sad
+Red Stone\Data\NPC/BOY2.plt
+Red Stone\Data\NPC/BOY2.sad
+Red Stone\Data\NPC/CADET1.plt
+Red Stone\Data\NPC/CADET1.sad
+Red Stone\Data\NPC/CADET2.plt
+Red Stone\Data\NPC/CADET2.sad
+Red Stone\Data\NPC/DANCING_GIRL.plt
+Red Stone\Data\NPC/DANCING_GIRL.sad
+Red Stone\Data\NPC/FARMER1.plt
+Red Stone\Data\NPC/FARMER1.sad
+Red Stone\Data\NPC/FARMER2.plt
+Red Stone\Data\NPC/FARMER2.sad
+Red Stone\Data\NPC/fat_girl.plt
+Red Stone\Data\NPC/fat_girl.sad
+Red Stone\Data\NPC/GIRL1.plt
+Red Stone\Data\NPC/GIRL1.sad
+Red Stone\Data\NPC/GIRL2.plt
+Red Stone\Data\NPC/GIRL2.sad
+Red Stone\Data\NPC/GRAND_FATHER.plt
+Red Stone\Data\NPC/GRAND_FATHER.sad
+Red Stone\Data\NPC/GRAND_MOTHER.plt
+Red Stone\Data\NPC/GRAND_MOTHER.sad
+Red Stone\Data\NPC/GROCER_F.plt
+Red Stone\Data\NPC/GROCER_F.sad
+Red Stone\Data\NPC/GROCER_M.plt
+Red Stone\Data\NPC/GROCER_M.sad
+Red Stone\Data\NPC/GYPSY_BOY1.plt
+Red Stone\Data\NPC/GYPSY_BOY1.sad
+Red Stone\Data\NPC/GYPSY_BOY2.plt
+Red Stone\Data\NPC/GYPSY_BOY2.sad
+Red Stone\Data\NPC/GYPSY_GIRL1.plt
+Red Stone\Data\NPC/GYPSY_GIRL1.sad
+Red Stone\Data\NPC/GYPSY_GIRL2.plt
+Red Stone\Data\NPC/GYPSY_GIRL2.sad
+Red Stone\Data\NPC/GYPSY_MAN1.plt
+Red Stone\Data\NPC/GYPSY_MAN1.sad
+Red Stone\Data\NPC/GYPSY_MAN2.plt
+Red Stone\Data\NPC/GYPSY_MAN2.sad
+Red Stone\Data\NPC/GYPSY_WOMAN1.plt
+Red Stone\Data\NPC/GYPSY_WOMAN1.sad
+Red Stone\Data\NPC/GYPSY_WOMAN2.plt
+Red Stone\Data\NPC/GYPSY_WOMAN2.sad
+Red Stone\Data\NPC/HALBERD_MAN.plt
+Red Stone\Data\NPC/HALBERD_MAN.sad
+Red Stone\Data\NPC/INSTRUCTOR_F.plt
+Red Stone\Data\NPC/INSTRUCTOR_F.sad
+Red Stone\Data\NPC/INSTRUCTOR_M.plt
+Red Stone\Data\NPC/INSTRUCTOR_M.sad
+Red Stone\Data\NPC/LADY1.plt
+Red Stone\Data\NPC/LADY1.sad
+Red Stone\Data\NPC/LADY2.plt
+Red Stone\Data\NPC/LADY2.sad
+Red Stone\Data\NPC/MAGICIAN_F.plt
+Red Stone\Data\NPC/MAGICIAN_F.sad
+Red Stone\Data\NPC/MAGICIAN_M.plt
+Red Stone\Data\NPC/MAGICIAN_M.sad
+Red Stone\Data\NPC/MAN1.plt
+Red Stone\Data\NPC/MAN1.sad
+Red Stone\Data\NPC/MAN2.plt
+Red Stone\Data\NPC/MAN2.sad
+Red Stone\Data\NPC/MERCENARY_SOLDIER_F.plt
+Red Stone\Data\NPC/MERCENARY_SOLDIER_F.sad
+Red Stone\Data\NPC/MERCENARY_SOLDIER_M.plt
+Red Stone\Data\NPC/MERCENARY_SOLDIER_M.sad
+Red Stone\Data\NPC/MINER.plt
+Red Stone\Data\NPC/MINER.sad
+Red Stone\Data\NPC/NOBLE_BOY.plt
+Red Stone\Data\NPC/NOBLE_BOY.sad
+Red Stone\Data\NPC/NOBLE_GIRL.plt
+Red Stone\Data\NPC/NOBLE_GIRL.sad
+Red Stone\Data\NPC/NOBLE_MAN1.plt
+Red Stone\Data\NPC/NOBLE_MAN1.sad
+Red Stone\Data\NPC/NOBLE_MAN2.plt
+Red Stone\Data\NPC/NOBLE_MAN2.sad
+Red Stone\Data\NPC/NOBLE_WOMAN1.plt
+Red Stone\Data\NPC/NOBLE_WOMAN1.sad
+Red Stone\Data\NPC/NOBLE_WOMAN2.plt
+Red Stone\Data\NPC/NOBLE_WOMAN2.sad
+Red Stone\Data\NPC/NUN.plt
+Red Stone\Data\NPC/NUN.sad
+Red Stone\Data\NPC/PITCHMAN_F.plt
+Red Stone\Data\NPC/PITCHMAN_F.sad
+Red Stone\Data\NPC/PITCHMAN_GRAND_FATHER.plt
+Red Stone\Data\NPC/PITCHMAN_GRAND_FATHER.sad
+Red Stone\Data\NPC/PITCHMAN_GRAND_MOTHER.plt
+Red Stone\Data\NPC/PITCHMAN_GRAND_MOTHER.sad
+Red Stone\Data\NPC/PITCHMAN_M.plt
+Red Stone\Data\NPC/PITCHMAN_M.sad
+Red Stone\Data\NPC/PRIEST.plt
+Red Stone\Data\NPC/PRIEST.sad
+Red Stone\Data\NPC/SAILER.plt
+Red Stone\Data\NPC/SAILER.sad
+Red Stone\Data\NPC/SHOPKEEPER_WEAPON.plt
+Red Stone\Data\NPC/SHOPKEEPER_WEAPON.sad
+Red Stone\Data\NPC/TEMPLE_KNIGHT_F.plt
+Red Stone\Data\NPC/TEMPLE_KNIGHT_F.sad
+Red Stone\Data\NPC/TEMPLE_KNIGHT_M.plt
+Red Stone\Data\NPC/TEMPLE_KNIGHT_M.sad
+Red Stone\Data\NPC/WIZARD.plt
+Red Stone\Data\NPC/WIZARD.sad
+Red Stone\Data\NPC/WOMAN1.plt
+Red Stone\Data\NPC/WOMAN1.sad
+Red Stone\Data\NPC/WOMAN2.plt
+Red Stone\Data\NPC/WOMAN2.sad
+Red Stone\Data\NPC/WOODCUTTER1.plt
+Red Stone\Data\NPC/WOODCUTTER1.sad
+Red Stone\Data\NPC/WOODCUTTER2.plt
+Red Stone\Data\NPC/WOODCUTTER2.sad
+Red Stone\Data\NPC/YOUNG_MAN1.plt
+Red Stone\Data\NPC/YOUNG_MAN1.sad
+Red Stone\Data\NPC/YOUNG_MAN2.plt
+Red Stone\Data\NPC/YOUNG_MAN2.sad
+Red Stone\Data\Scenario/Red Stone.rpd
+Red Stone\Data\Scenario\Red Stone/item.dat
+Red Stone\Data\Scenario\Red Stone/job.dat
+Red Stone\Data\Scenario\Red Stone/packageitem.dat
+Red Stone\Data\Scenario\Red Stone\Map/GH2_00.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH2_01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH2_02.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH3_00.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH3_01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH4_00.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH4_01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH5_00.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[000]T01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[000]T01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[028]Prison.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[049]M19_C01_B03.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[049]M19_C01_B03.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1083]UposmiresN_1.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1083]UposmiresN_1.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1127]UnchartedRegionN.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1127]UnchartedRegionN.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[149]G31_C02_B07.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[149]G31_C02_B07.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[226]M10_S01_B06.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[226]M10_S01_B06.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[246]M10_S01_F15.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[246]M10_S01_F15.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[264]M11_C02_B02.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[264]M11_C02_B02.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[310]T12.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[310]T12.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[316]T12_V01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[316]T12_V01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[320]S24_C01_B03.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[320]S24_C01_B03.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[321]D16_C08_B01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[321]D16_C08_B01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[374]T09.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[374]T09.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[375]T05.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[375]T05.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[376]T07.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[433]chobozone.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[474]G21_G04_F01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[480]T19.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[506]BF_U01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[506]BF_U01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[507]BF_C01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[507]BF_C01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[542]G21_G04_F01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[542]G21_G04_F01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[543]G21_G04_F01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[543]G21_G04_F01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[733]G21_G04_F01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[733]G21_G04_F01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[734]G21_G04_F01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[734]G21_G04_F01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[742]BF_U07.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[786]KE7.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[786]KE7.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[791]T02.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[791]T02.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[792]G01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[792]G01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[878]PlainOfDivineAnimals.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[880]ForestOfLife_OutSkirts.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[942]GH_LV01.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Arad]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Arad]000.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Arad]001.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Arad]001.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Arad]002.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Arad]002.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Arad]003.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Arad]003.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Brun_ruin]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Brun_ruin]000.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[tantillessB9]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[tantillessB9]000.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Trial_S]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Trial_S]000.rmd.terrain
+Red Stone\Data\Sound/Cannon_firelight_cast.wav
+Red Stone\Data\Sound/Cannon_firelight_hit.wav
+Red Stone\Data\Sound/Cannon_flare.wav
+Red Stone\Data\Sound/Cannon_rebound_charge.wav
+Red Stone\Data\Sound/Cannon_rebound_hit.wav
+Red Stone\Data\Sound/Cannon_Shooting.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Attack_1.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Attack_2.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Attack_3.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Charging_1.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Charging_2.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Die_1.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Hit_1.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Hit_2.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Hit_3.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Hit_4.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Hit_5.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Rest_1.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Skill_1.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Skill_10.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Skill_2.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Skill_3.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Skill_4.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Skill_5.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Skill_6.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Skill_7.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Skill_8.wav
+Red Stone\Data\Sound\Voice\Action/Canoneer_Skill_9.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Attack_1.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Attack_2.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Attack_3.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Charging_1.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Charging_2.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Die_1.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Hit_1.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Hit_2.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Hit_3.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Hit_4.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Hit_5.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Rest_1.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Skill_10.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Skill_1_01.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Skill_1_02.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Skill_2.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Skill_3.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Skill_4.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Skill_5.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Skill_6.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Skill_7.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Skill_8.wav
+Red Stone\Data\Sound\Voice\Action/Captain_Skill_9.wav
+Red Stone\Data\UI/bloodRecord.dat
+Red Stone\Data\UI/Puzzle.dat
