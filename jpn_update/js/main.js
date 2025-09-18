@@ -19,7 +19,7 @@ function fetchCSVAndOutput() {
 }
 
 // バージョンアップしたらここ書き換える
-CURRENT_VER=862
+CURRENT_VER=864
 
 for (var i = CURRENT_VER; i >= 746; i--) {
     var value = (i - CURRENT_VER) / 10000 + CURRENT_VER / 10000;
