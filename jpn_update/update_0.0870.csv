@@ -1,0 +1,450 @@
+Red Stone\Data/ActionVoiceData.dat
+Red Stone\Data/AssaultChallenge.dat
+Red Stone\Data/capa.dat
+Red Stone\Data/characterResInfo.dat
+Red Stone\Data/contentsJob.dat
+Red Stone\Data/ContentsOpen.dat
+Red Stone\Data/costume.dat
+Red Stone\Data/creatureInfo.dat
+Red Stone\Data/DecorateSkin.dat
+Red Stone\Data/defaultJob.dat
+Red Stone\Data/effect_data.dat
+Red Stone\Data/fieldInfo.dat
+Red Stone\Data/magicCarpetInfo.dat
+Red Stone\Data/neponEx.dat
+Red Stone\Data/NewYearDungeonContent.dat
+Red Stone\Data/phase_stone.dat
+Red Stone\Data/rb.dat
+Red Stone\Data/skill.dat
+Red Stone\Data/subjugation_phaseConqueror.dat
+Red Stone\Data/textData2.dat
+Red Stone\Data/textPool.dat
+Red Stone\Data/worldNameInfo.dat
+Red Stone\Data\cosbody/Cannoneer_Cos15_Techwear.plt
+Red Stone\Data\cosbody/Cannoneer_Cos15_Techwear.sad
+Red Stone\Data\cosbody/Cannoneer_Cos15_Techwear_skin_eff.sad
+Red Stone\Data\cosbody\Elemental Ruler/04_Lancer_Cos_11_01_CH.plt
+Red Stone\Data\cosbody\Elemental Ruler/21_Maid_Cos_11_01_CH.plt
+Red Stone\Data\cosequipment/Cannoneer_Cos15_Cannon_B.sad
+Red Stone\Data\cosequipment/Cannoneer_Cos15_Cannon_B_eff.sad
+Red Stone\Data\cosequipment/Cannoneer_Cos15_Cannon_F.sad
+Red Stone\Data\cosequipment/Cannoneer_Cos15_Cannon_F_eff.sad
+Red Stone\Data\cosequipment/Cannoneer_Cos15_Techwear_Wing_L.sad
+Red Stone\Data\cosequipment/Cannoneer_Cos15_Techwear_Wing_L_eff.sad
+Red Stone\Data\cosequipment/Cannoneer_Cos15_Techwear_Wing_R.sad
+Red Stone\Data\cosequipment/Cannoneer_Cos15_Techwear_Wing_R_eff.sad
+Red Stone\Data\creaturebody/Pet_Nightmare.plt
+Red Stone\Data\creaturebody/Pet_Nightmare.sad
+Red Stone\Data\creaturebody/Pet_Rankausa.plt
+Red Stone\Data\creaturebody/Pet_Rankausa.sad
+Red Stone\Data\creaturebody/Pet_Renngekasumi.plt
+Red Stone\Data\creaturebody/Pet_Renngekasumi.sad
+Red Stone\Data\creaturebody/Pet_Sau.plt
+Red Stone\Data\creaturebody/Pet_Sau.sad
+Red Stone\Data\Effects/charge_yelling.sad
+Red Stone\Data\Effects/designation_2026RedRush.sad
+Red Stone\Data\Effects/Ershuka_act6_bot2.sad
+Red Stone\Data\Effects/Garion_Attack_Hit.sad
+Red Stone\Data\Effects/Garion_BackKick.sad
+Red Stone\Data\Effects/Garion_BackSpinKick.sad
+Red Stone\Data\Effects/Garion_Charging.sad
+Red Stone\Data\Effects/Garion_Charging_BackKick.sad
+Red Stone\Data\Effects/Garion_Charging_BackSpinKick.sad
+Red Stone\Data\Effects/Garion_FlyingKick.sad
+Red Stone\Data\Effects/Garion_Swing.sad
+Red Stone\Data\Effects/hit_inferno_bite.sad
+Red Stone\Data\Effects/Off_the_Ground_Spray.sad
+Red Stone\Data\Effects/Redgem12.sad
+Red Stone\Data\Effects/Redgem12_1.sad
+Red Stone\Data\Interface\game/creature_c.sd
+Red Stone\Data\Interface\game/creature_p.sd
+Red Stone\Data\Interface\game/interface2.sd
+Red Stone\Data\Interface\game/LotteryGradeEffect_3.sad
+Red Stone\Data\Interface\game/LotteryGradeEffect_4.sad
+Red Stone\Data\Interface\game/LotteryGradeEffect_5.sad
+Red Stone\Data\Interface\game/Magic_carpet34.sad
+Red Stone\Data\Interface\game/name_bar_2026RedHorse.sd
+Red Stone\Data\Interface\game/NewYearDungeon.sd
+Red Stone\Data\Interface\game/NewYearDungeonMain.sad
+Red Stone\Data\language/japan.llt
+Red Stone\Data\Mapset\Brunenstig\Objects/sn__object_0367.rso
+Red Stone\Data\Mapset\Cave\Objects/sn__object_0101.rfo
+Red Stone\Data\Mapset\Cave\Objects/sn__object_0102.rfo
+Red Stone\Data\Mapset\Cave\Objects/sn__object_0104.rfo
+Red Stone\Data\Mapset\Cave\Objects/sn__object_0105.rfo
+Red Stone\Data\Mapset\Cave\Objects/sn__object_0106.rfo
+Red Stone\Data\Mapset\Desert/crash_info.txt
+Red Stone\Data\Mapset\Grassland\Objects/sn__object_0009.rfo
+Red Stone\Data\Mapset\Grassland\Objects/sn__object_0010.rfo
+Red Stone\Data\Mapset\Grassland\Objects/sn__object_0141.rso
+Red Stone\Data\Mapset\Grassland\Objects/sn__object_0142.rso
+Red Stone\Data\Mapset\Grassland\Objects/sn__object_0143.rso
+Red Stone\Data\Mapset\Grassland\Objects/sn__object_0144.rso
+Red Stone\Data\Mapset\Grassland\Objects/sn__object_0145.rso
+Red Stone\Data\Mapset\Grassland\Objects/sn__object_0146.rso
+Red Stone\Data\Mapset\Grassland\Objects/sn__object_0148.rso
+Red Stone\Data\Mapset\Grassland\Objects/sn__object_0149.rso
+Red Stone\Data\Mapset\Grassland2/tile.mpr
+Red Stone\Data\Mapset\Grassland2/tile.mpw
+Red Stone\Data\Mapset\guildhall\objects/sn__object_0241.rso
+Red Stone\Data\Mapset2\Augusta\Buildings/sn__building_0014.rbd
+Red Stone\Data\Mapset2\Augusta\Buildings/sn__building_0015.rbd
+Red Stone\Data\Mapset2\Augusta\Buildings/sn__building_0016.rbd
+Red Stone\Data\Mapset2\Augusta\Buildings/sn__building_0017.rbd
+Red Stone\Data\Mapset2\Augusta\Buildings/sn__building_0018.rbd
+Red Stone\Data\Mapset2\Augusta\Buildings/sn__building_0019.rbd
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0000.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0041.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0042.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0042.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0043.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0044.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0045.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0046.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0047.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0048.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0049.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0050.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0051.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0052.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0053.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0054.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0055.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0056.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0057.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0058.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0059.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0060.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0061.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0062.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0063.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0064.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0065.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0066.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0067.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0068.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0069.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0070.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0071.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0072.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0073.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0074.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0075.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0076.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0077.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0078.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0079.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0080.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0081.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0082.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0083.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0084.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0085.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0086.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0087.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0088.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0089.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0090.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0091.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0092.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0093.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0094.rfo
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0098.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0099.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0100.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0101.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0102.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0103.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0104.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0105.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0106.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0107.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0108.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0109.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0110.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0111.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0112.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0113.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0114.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0115.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0116.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0117.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0118.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0119.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0120.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0121.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0122.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0123.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0124.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0125.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0126.rso
+Red Stone\Data\Mapset2\Augusta\Objects/sn__object_0127.rso
+Red Stone\Data\Mapset2\Bridgehead\Objects/sn__object_0005.rfo
+Red Stone\Data\Mapset2\Bridgehead\Objects/sn__object_0006.rfo
+Red Stone\Data\Mapset2\Bridgehead\Objects/sn__object_0007.rfo
+Red Stone\Data\Mapset2\Bridgehead\Objects/sn__object_0008.rfo
+Red Stone\Data\Mapset2\Bridgehead\Objects/sn__object_0009.rfo
+Red Stone\Data\Mapset2\Bridgehead\Objects/sn__object_0010.rfo
+Red Stone\Data\Mapset2\Bridgehead\Objects/sn__object_0011.rfo
+Red Stone\Data\Mapset2\Bridgehead\Objects/sn__object_0012.rfo
+Red Stone\Data\Mapset2\Bridgehead\Objects/sn__object_0013.rfo
+Red Stone\Data\Mapset2\Bridgehead\Objects/sn__object_0014.rfo
+Red Stone\Data\Mapset2\Bridgehead\Objects/sn__object_0015.rfo
+Red Stone\Data\Mapset2\Bridgehead\Objects/sn__object_0016.rfo
+Red Stone\Data\Mapset2\Bridgehead\Objects/sn__object_0017.rfo
+Red Stone\Data\Mapset2\Bridgehead\Objects/sn__object_0018.rfo
+Red Stone\Data\Mapset2\Bridgehead\Objects/sn__object_0019.rfo
+Red Stone\Data\Mapset2\Bridgehead\Objects/sn__object_0020.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0002.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0003.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0007.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0008.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0009.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0010.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0011.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0012.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0023.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0024.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0025.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0026.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0027.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0033.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0034.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0035.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0039.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0040.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0041.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0046.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0047.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0048.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0053.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0054.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0055.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0056.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0057.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0058.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0060.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0061.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0062.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0063.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0064.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0065.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0086.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0087.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0088.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0089.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0090.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0091.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0092.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0093.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0094.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0095.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0096.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0097.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0098.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0099.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0100.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0101.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0116.rso
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0254.rso
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0255.rso
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0256.rso
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0257.rso
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0258.rso
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0259.rso
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0266.rso
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0284.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0285.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0286.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0287.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0288.rfo
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0301.rso
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0302.rso
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0303.rso
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0304.rso
+Red Stone\Data\Mapset2\Grassland\Objects/sn__object_0305.rso
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0298.rso
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0668.rso
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0671.rso
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0686.rso
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0760.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0761.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0762.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0763.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0764.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0765.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0766.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0767.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0768.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0769.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0770.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0771.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0772.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0773.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0774.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0775.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0776.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0777.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0778.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0779.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0780.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0781.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0782.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0783.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0784.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0785.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0786.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0787.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0788.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0789.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0790.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0791.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0792.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0793.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0794.rfo
+Red Stone\Data\Mapset2\Room\Objects/sn__object_0795.rfo
+Red Stone\Data\Misc/creature.smi
+Red Stone\Data\Misc/iconItem.smi
+Red Stone\Data\Misc/loadingCustom.smi
+Red Stone\Data\monsters/Garion.plt
+Red Stone\Data\monsters/Garion.sad
+Red Stone\Data\monsters/Garion_01.sad
+Red Stone\Data\monsters/Giant_Infected_N.sad
+Red Stone\Data\monsters/Giant_Infected_N_01.sad
+Red Stone\Data\monsters/Yatikanu_dragon.plt
+Red Stone\Data\monsters/Yatikanu_dragon.sad
+Red Stone\Data\monsters/Yatikanu_dragon_PH2.plt
+Red Stone\Data\monsters/Yatikanu_dragon_PH2.sad
+Red Stone\Data\Scenario/Red Stone.rpd
+Red Stone\Data\Scenario\Red Stone/item.dat
+Red Stone\Data\Scenario\Red Stone/job.dat
+Red Stone\Data\Scenario\Red Stone/quest.dat
+Red Stone\Data\Scenario\Red Stone\Map/GH2_00.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH2_01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH2_02.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH3_00.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH3_01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH4_00.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH4_01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/GH5_00.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[000]T01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[000]T01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[056]M19_D01_F02.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[056]M19_D01_F02.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1095]UmosquagmireS_1.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1095]UmosquagmireS_1.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[195]T08_GUILD_CRT.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[195]T08_GUILD_CRT.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[195]T08_GUILD_CRT.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[252]T11_V01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[310]T12.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[310]T12.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[367]G23.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[367]G23.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[374]T09.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[375]T05.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[375]T05.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[375]T05.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[417]T04_H04_F02.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[417]T04_H04_F02.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[417]T04_H04_F02.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[425]T03_C01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[425]T03_C01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[425]T03_C01.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[430]T05_D01_B01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[430]T05_D01_B01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[445]T02_P02.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[445]T02_P02.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[445]T02_P02.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[448]cabin.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[448]cabin.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[461]T01_D04_B01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[461]T01_D04_B01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[461]T01_D04_B01.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[462]T01_D05_B01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[462]T01_D05_B01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[462]T01_D05_B01.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[479]Nest.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[479]Nest.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[480]T19.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[496]M01_H01_F01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[501]D03.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[506]BF_U01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[506]BF_U01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[526]G04_D01_B05.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[527]G04_D01_B05.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[528]G04_D01_B06.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[529]G04_D01_B06.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[529]G04_D01_B06.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[603]G16.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[603]G16.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[604]G16.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[604]G16.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[605]G15.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[605]G15.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[606]G15.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[606]G15.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[609]M12.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[609]M12.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[610]M12.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[610]M12.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[613]G32.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[613]G32.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[614]G32.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[614]G32.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[615]G09.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[615]G09.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[616]G09.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[616]G09.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[721]M05_C03_B01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[722]M05_C03_B01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[723]M05_D01_B03.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[723]M05_D01_B03.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[724]M05_D01_B03.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[724]M05_D01_B03.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[725]D11_S01_B04.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[725]D11_S01_B04.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[726]D11_S01_B04.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[726]D11_S01_B04.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[733]G21_G04_F01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[733]G21_G04_F01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[734]G21_G04_F01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[734]G21_G04_F01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[785]Ro8.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[785]Ro8.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[786]KE7.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[790]TR0M.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[790]TR0M.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[877]D11.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[877]D11.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[900]Duel_standby_0.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[900]Duel_standby_0.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[900]Duel_standby_0.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map/[942]GH_LV01.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Bury_corpse]000.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[chaos_13]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[chaos_13]000.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[chaos_19]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[chaos_19]000.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Garion's_Wilderness2]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Garion's_Wilderness2]000.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Garion's_Wilderness]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Garion's_Wilderness]000.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[SpiritsPrison]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[SpiritsPrison]000.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Starcasket_of_Quiet]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Starcasket_of_Quiet]000.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Uposmires]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Uposmires]000.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[well_of_hide]000.rmd.tga
+Red Stone\Data\Scenario\Red Stone\Map\Memo/GH2_00.tm
+Red Stone\Data\Scenario\Red Stone\Map\Memo/GH4_00.tm
+Red Stone\Data\Scenario\Red Stone\Map\Memo/GH5_00.tm
+Red Stone\Data\Sound/Garion_Horse.wav
+Red Stone\Data\UI/AssaultChallenge.dat
+Red Stone\Data\UI/AssaultChallengeRank.dat
+Red Stone\Data\UI/MiniGameEventUI.dat
+Red Stone\Data\UI/newyeardungeon.dat
+Red Stone\Data\UI/PhaseStone.dat
+Red Stone\Data\UI/Puzzle.dat
+Red Stone\Data\UI/ReinforceCostume.dat
