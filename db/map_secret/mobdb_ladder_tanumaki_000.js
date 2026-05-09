@@ -1,9 +1,9 @@
 MobData = {
-	10045: [ {"id":"0","inid":0,"type":1,"name":"타누마키","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":87.09,"real_posy":55.81,"posx":87.09,"posy":55.81},
-	{"id":"1","inid":1,"type":2,"name":"타누마키","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":69.69,"real_posy":77.38,"posx":69.69,"posy":77.38},
+	10045: [ {"id":"0","inid":0,"type":1,"name":"タヌマキ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":87.09,"real_posy":55.81,"posx":87.09,"posy":55.81},
+	{"id":"1","inid":1,"type":2,"name":"タヌマキ","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":69.69,"real_posy":77.38,"posx":69.69,"posy":77.38},
 ]};
 MobList = {
-	10045: ["モンスター", "타누마키","타누마키",],
+	10045: ["モンスター", "タヌマキ","タヌマキ",],
 };
 AreaData = {
 	10045: [ {"id":"0","type":0,"name":"졛茄\u001a 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

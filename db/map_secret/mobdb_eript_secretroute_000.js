@@ -10,7 +10,7 @@ MobData = {
 	{"id":"8","inid":2,"type":2,"name":"汚染ラティアン","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":68.38,"real_posy":42.88,"posx":68.38,"posy":42.88},
 	{"id":"9","inid":2,"type":2,"name":"汚染ラティアン","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":67.2,"real_posy":48.12,"posx":67.2,"posy":48.12},
 	{"id":"10","inid":0,"type":2,"name":"汚染スコルピオ","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":72.38,"real_posy":44.44,"posx":72.38,"posy":44.44},
-	{"id":"11","inid":1,"type":2,"name":"汚託ミイラ","repop":65656,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":71.14,"real_posy":50.62,"posx":71.14,"posy":50.62},
+	{"id":"11","inid":1,"type":2,"name":"汚染ミイラ","repop":65656,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":71.14,"real_posy":50.62,"posx":71.14,"posy":50.62},
 	{"id":"12","inid":0,"type":2,"name":"汚染スコルピオ","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":80.69,"real_posy":52.5,"posx":80.69,"posy":52.5},
 	{"id":"13","inid":2,"type":2,"name":"汚染ラティアン","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":84.89,"real_posy":48.66,"posx":84.89,"posy":48.66},
 	{"id":"14","inid":2,"type":2,"name":"汚染ラティアン","repop":120,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":95.06,"real_posy":45.09,"posx":95.06,"posy":45.09},
@@ -23,15 +23,15 @@ MobData = {
 	{"id":"21","inid":2,"type":2,"name":"汚染ラティアン","repop":120,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":106.31,"real_posy":16.16,"posx":106.31,"posy":16.16},
 	{"id":"22","inid":2,"type":2,"name":"汚染ラティアン","repop":120,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":111.31,"real_posy":22.28,"posx":111.31,"posy":22.28},
 	{"id":"23","inid":0,"type":2,"name":"汚染スコルピオ","repop":120,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":109.78,"real_posy":40.47,"posx":109.78,"posy":40.47},
-	{"id":"24","inid":10,"type":2,"name":"汚染スコルＴオ","repop":120,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":115.42,"real_posy":46.94,"posx":115.42,"posy":46.94},
-	{"id":"25","inid":11,"type":2,"name":"b'\\x89\\x98\\x90\\xf5\\x82~\\x83C\\x83\\x89'","repop":120,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":114.47,"real_posy":41.34,"posx":114.47,"posy":41.34},
+	{"id":"24","inid":0,"type":2,"name":"汚染スコルピオ","repop":120,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":115.42,"real_posy":46.94,"posx":115.42,"posy":46.94},
+	{"id":"25","inid":1,"type":2,"name":"汚染ミイラ","repop":120,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":114.47,"real_posy":41.34,"posx":114.47,"posy":41.34},
 	{"id":"26","inid":2,"type":2,"name":"汚染ラティアン","repop":120,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":111.75,"real_posy":47.62,"posx":111.75,"posy":47.62},
 	{"id":"27","inid":0,"type":2,"name":"汚染スコルピオ","repop":120,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":132.77,"real_posy":39.22,"posx":132.77,"posy":39.22},
 	{"id":"28","inid":0,"type":3,"name":"汚染スコルピオ","repop":120,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":135.11,"real_posy":29.91,"posx":135.11,"posy":29.91},
 	{"id":"28","inid":2,"type":2,"name":"汚染ラティアン","repop":120,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":136.42,"real_posy":38.69,"posx":136.42,"posy":38.69},
 	{"id":"30","inid":2,"type":2,"name":"汚染ラティアン","repop":120,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":132.69,"real_posy":32.25,"posx":132.69,"posy":32.25},
 	{"id":"31","inid":3,"type":2,"name":"汚染呪術者","repop":120,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":131.77,"real_posy":27.66,"posx":131.77,"posy":27.66},
-	{"id":"32","inid":12,"type":2,"name":"汚染ミイラ","repop":120,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":129.34,"real_posy":32.97,"posx":129.34,"posy":32.97},
+	{"id":"32","inid":1,"type":2,"name":"汚染ミイラ","repop":120,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":129.34,"real_posy":32.97,"posx":129.34,"posy":32.97},
 	{"id":"33","inid":4,"type":2,"name":"汚染ガード","repop":300,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.53,"real_posy":12.19,"posx":15.53,"posy":12.19},
 	{"id":"34","inid":8,"type":2,"name":"汚染ラティアン","repop":120,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.83,"real_posy":10.22,"posx":18.83,"posy":10.22},
 	{"id":"35","inid":8,"type":2,"name":"汚染ラティアン","repop":120,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.86,"real_posy":14.03,"posx":19.86,"posy":14.03},
@@ -50,7 +50,7 @@ MobData = {
 	{"id":"48","inid":6,"type":1,"name":"エリプト兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":120.12,"real_posy":32.22,"posx":120.12,"posy":32.22},
 ]};
 MobList = {
-	10031: ["モンスター", "汚染スコルピオ","汚託ミイラ","汚染ラティアン","汚染呪術者","汚染ガード","エステル","エリプト兵","汚染呪術者","汚染ラティアン","汚染ミイラ","汚染スコルＴオ","b'\\x89\\x98\\x90\\xf5\\x82~\\x83C\\x83\\x89'","汚染ミイラ",],
+	10031: ["モンスター", "汚染スコルピオ","汚染ミイラ","汚染ラティアン","汚染呪術者","汚染ガード","エステル","エリプト兵","汚染呪術者","汚染ラティアン","汚染ミイラ",],
 };
 AreaData = {
 	10031: [ {"id":"0","type":0,"name":"_필드 전체\u0001","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

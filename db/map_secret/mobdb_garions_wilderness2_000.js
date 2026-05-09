@@ -1,9 +1,9 @@
 MobData = {
-	10037: [ {"id":"0","inid":0,"type":2,"name":"가리온, 붉은 질주","repop":120,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":122.12,"real_posy":110.88,"posx":122.12,"posy":110.88},
-	{"id":"1","inid":1,"type":2,"name":"장외 사망 처리","repop":120,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":7.25,"real_posy":8.75,"posx":7.25,"posy":8.75},
+	10037: [ {"id":"0","inid":0,"type":2,"name":"ガリオン、赤い疾走","repop":120,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":122.12,"real_posy":110.88,"posx":122.12,"posy":110.88},
+	{"id":"1","inid":1,"type":2,"name":"場外死亡処理","repop":120,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":7.25,"real_posy":8.75,"posx":7.25,"posy":8.75},
 ]};
 MobList = {
-	10037: ["モンスター", "가리온, 붉은 질주","장외 사망 처리",],
+	10037: ["モンスター", "ガリオン、赤い疾走","場外死亡処理",],
 };
 AreaData = {
 	10037: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

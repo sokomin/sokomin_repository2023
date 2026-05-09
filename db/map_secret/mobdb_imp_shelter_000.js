@@ -27,7 +27,7 @@ MobData = {
 	{"id":"25","inid":13,"type":2,"name":"風刃の弟子","repop":7320,"id_area":27,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":119.78,"real_posy":200.19,"posx":119.78,"posy":200.19},
 	{"id":"26","inid":2,"type":2,"name":"森のインプ喧嘩屋","repop":0,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":44.67,"real_posy":33.84,"posx":44.67,"posy":33.84},
 	{"id":"27","inid":19,"type":2,"name":"大地の支配者","repop":120,"id_area":29,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":112.95,"real_posy":273,"posx":112.95,"posy":273},
-	{"id":"28","inid":26,"type":2,"name":"水占い師の泡 ","repop":7200,"id_area":30,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":72.94,"real_posy":287.56,"posx":72.94,"posy":287.56},
+	{"id":"28","inid":26,"type":2,"name":"水占い師の泡","repop":7200,"id_area":30,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":72.94,"real_posy":287.56,"posx":72.94,"posy":287.56},
 	{"id":"29","inid":2,"type":2,"name":"森のインプ喧嘩屋","repop":0,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":44.28,"real_posy":21.06,"posx":44.28,"posy":21.06},
 	{"id":"30","inid":25,"type":2,"name":"風刃の一番弟子","repop":120,"id_area":27,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":138.05,"real_posy":199.81,"posx":138.05,"posy":199.81},
 	{"id":"31","inid":25,"type":2,"name":"風刃の一番弟子","repop":120,"id_area":27,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":138.56,"real_posy":204.03,"posx":138.56,"posy":204.03},
@@ -240,7 +240,7 @@ MobData = {
 	{"id":"277","inid":24,"type":2,"name":"永遠の炎","repop":7200,"id_area":30,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":73,"real_posy":287.34,"posx":73,"posy":287.34},
 ]};
 MobList = {
-	10102: ["モンスター", "表裏者カシーク","森のインプ警備兵","森のインプ喧嘩屋","森のインプ喧嘩屋","森のインプ警備兵","森のインプ警備兵","森のインプ警備兵","森のインプ警備兵","森のインプ喧嘩屋","森のインプ喧嘩屋","炎の追従者","森のインプ喧嘩屋","純粋なる炎","風刃の弟子","風刃","閃光のペガサス","闇の王","万年亀","万年子亀","大地の支配者","大地の浄水","大王バグラム","大王の近衛隊","大王の頭脳","永遠の炎","風刃の一番弟子","水占い師の泡 ","None.","風刃","風刃","食い意地ゾンビ","腐乱死体","万年子亀",],
+	10102: ["モンスター", "表裏者カシーク","森のインプ警備兵","森のインプ喧嘩屋","森のインプ喧嘩屋","森のインプ警備兵","森のインプ警備兵","森のインプ警備兵","森のインプ警備兵","森のインプ喧嘩屋","森のインプ喧嘩屋","炎の追従者","森のインプ喧嘩屋","純粋なる炎","風刃の弟子","風刃","閃光のペガサス","闇の王","万年亀","万年子亀","大地の支配者","大地の浄水","大王バグラム","大王の近衛隊","大王の頭脳","永遠の炎","風刃の一番弟子","水占い師の泡","None.","風刃","風刃","食い意地ゾンビ","腐乱死体","万年子亀",],
 };
 AreaData = {
 	10102: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

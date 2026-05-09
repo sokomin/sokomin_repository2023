@@ -1,14 +1,14 @@
 MobData = {
-	10087: [ {"id":"0","inid":0,"type":2,"name":"러시펄","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":108.12,"real_posy":105,"posx":108.12,"posy":105},
-	{"id":"1","inid":1,"type":2,"name":"스톤 옵저버","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":91.19,"real_posy":122.62,"posx":91.19,"posy":122.62},
-	{"id":"2","inid":1,"type":2,"name":"스톤 옵저버","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":91.69,"real_posy":94.5,"posx":91.69,"posy":94.5},
-	{"id":"3","inid":1,"type":2,"name":"스톤 옵저버","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":109.19,"real_posy":79,"posx":109.19,"posy":79},
-	{"id":"4","inid":1,"type":2,"name":"스톤 옵저버","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":127.75,"real_posy":96.38,"posx":127.75,"posy":96.38},
-	{"id":"5","inid":5,"type":1,"name":"게일","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":191.69,"real_posy":7.12,"posx":191.69,"posy":7.12},
-	{"id":"6","inid":1,"type":2,"name":"스톤 옵저버","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":120.69,"real_posy":123.5,"posx":120.69,"posy":123.5},
+	10087: [ {"id":"0","inid":0,"type":2,"name":"シーフ訓練学校","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":108.12,"real_posy":105,"posx":108.12,"posy":105},
+	{"id":"1","inid":1,"type":2,"name":"ギルディル川　沼地洞窟の隠された孵化場","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":91.19,"real_posy":122.62,"posx":91.19,"posy":122.62},
+	{"id":"2","inid":6,"type":2,"name":"路上強盗団アジトの隠された隠れ家","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":91.69,"real_posy":94.5,"posx":91.69,"posy":94.5},
+	{"id":"3","inid":7,"type":2,"name":"廃坑の隠された金鉱","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":109.19,"real_posy":79,"posx":109.19,"posy":79},
+	{"id":"4","inid":8,"type":2,"name":"泉穴の隠された祭壇","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":127.75,"real_posy":96.38,"posx":127.75,"posy":96.38},
+	{"id":"5","inid":5,"type":1,"name":"シュトラセラトの隠された補給路","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":191.69,"real_posy":7.12,"posx":191.69,"posy":7.12},
+	{"id":"6","inid":9,"type":2,"name":"ビガプールの隠された補給路","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":120.69,"real_posy":123.5,"posx":120.69,"posy":123.5},
 ]};
 MobList = {
-	10087: ["モンスター", "러시펄","스톤 옵저버","None.","None.","None.","게일",],
+	10087: ["モンスター", "シーフ訓練学校","ギルディル川　沼地洞窟の隠された孵化場","None.","None.","None.","シュトラセラトの隠された補給路","路上強盗団アジトの隠された隠れ家","廃坑の隠された金鉱","泉穴の隠された祭壇","ビガプールの隠された補給路",],
 };
 AreaData = {
 	10087: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

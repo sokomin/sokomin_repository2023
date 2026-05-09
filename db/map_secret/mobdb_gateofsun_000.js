@@ -1,9 +1,9 @@
 MobData = {
-	10039: [ {"id":"0","inid":0,"type":2,"name":"장엄한 태양 히페리온","repop":5940,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":25.08,"real_posy":42.62,"posx":25.08,"posy":42.62},
-	{"id":"1","inid":1,"type":1,"name":"히페리온의 태양","repop":5940,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":25.02,"real_posy":43.19,"posx":25.02,"posy":43.19},
+	10039: [ {"id":"0","inid":0,"type":2,"name":"神々しい太陽ヒペリオン","repop":5940,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":25.08,"real_posy":42.62,"posx":25.08,"posy":42.62},
+	{"id":"1","inid":1,"type":1,"name":"ヒペリオンの太陽","repop":5940,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":25.02,"real_posy":43.19,"posx":25.02,"posy":43.19},
 ]};
 MobList = {
-	10039: ["モンスター", "장엄한 태양 히페리온","히페리온의 태양",],
+	10039: ["モンスター", "神々しい太陽ヒペリオン","ヒペリオンの太陽",],
 };
 AreaData = {
 	10039: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

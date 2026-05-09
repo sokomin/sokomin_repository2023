@@ -1,17 +1,17 @@
 MobData = {
-	10004: [ {"id":"0","inid":3,"type":1,"name":"엘레인","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":94.38,"real_posy":130.94,"posx":94.38,"posy":130.94},
-	{"id":"1","inid":1,"type":1,"name":"카쉘","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":104,"real_posy":30.88,"posx":104,"posy":30.88},
-	{"id":"2","inid":2,"type":2,"name":"카쉘","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":104.75,"real_posy":30.88,"posx":104.75,"posy":30.88},
-	{"id":"3","inid":8,"type":1,"name":"엘레인","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":95.81,"real_posy":38.75,"posx":95.81,"posy":38.75},
-	{"id":"4","inid":5,"type":1,"name":"랜스","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":99.38,"real_posy":139.25,"posx":99.38,"posy":139.25},
-	{"id":"5","inid":6,"type":1,"name":"에델","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":112.12,"real_posy":131.31,"posx":112.12,"posy":131.31},
-	{"id":"6","inid":7,"type":1,"name":"아이젤","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":116.81,"real_posy":137.44,"posx":116.81,"posy":137.44},
-	{"id":"7","inid":9,"type":1,"name":"랜스","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":112.62,"real_posy":39.56,"posx":112.62,"posy":39.56},
-	{"id":"8","inid":10,"type":1,"name":"에델","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":99.5,"real_posy":46.56,"posx":99.5,"posy":46.56},
-	{"id":"9","inid":11,"type":1,"name":"아이젤","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":110.62,"real_posy":46.31,"posx":110.62,"posy":46.31},
+	10004: [ {"id":"0","inid":3,"type":1,"name":"エレイン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":94.38,"real_posy":130.94,"posx":94.38,"posy":130.94},
+	{"id":"1","inid":1,"type":1,"name":"カシェル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":104,"real_posy":30.88,"posx":104,"posy":30.88},
+	{"id":"2","inid":2,"type":2,"name":"カシェル","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":104.75,"real_posy":30.88,"posx":104.75,"posy":30.88},
+	{"id":"3","inid":8,"type":1,"name":"エレイン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":95.81,"real_posy":38.75,"posx":95.81,"posy":38.75},
+	{"id":"4","inid":5,"type":1,"name":"ランス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":99.38,"real_posy":139.25,"posx":99.38,"posy":139.25},
+	{"id":"5","inid":6,"type":1,"name":"エーデル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":112.12,"real_posy":131.31,"posx":112.12,"posy":131.31},
+	{"id":"6","inid":7,"type":1,"name":"アイゼル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":116.81,"real_posy":137.44,"posx":116.81,"posy":137.44},
+	{"id":"7","inid":9,"type":1,"name":"ランス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":112.62,"real_posy":39.56,"posx":112.62,"posy":39.56},
+	{"id":"8","inid":10,"type":1,"name":"エーデル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":99.5,"real_posy":46.56,"posx":99.5,"posy":46.56},
+	{"id":"9","inid":11,"type":1,"name":"アイゼル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":110.62,"real_posy":46.31,"posx":110.62,"posy":46.31},
 ]};
 MobList = {
-	10004: ["モンスター", "None.","카쉘","카쉘","엘레인","None.","랜스","에델","아이젤","엘레인","랜스","에델","아이젤",],
+	10004: ["モンスター", "None.","カシェル","カシェル","エレイン","None.","ランス","エーデル","アイゼル","エレイン","ランス","エーデル","アイゼル",],
 };
 AreaData = {
 	10004: [ {"id":"0","type":0,"name":"b'_\\xc7\\xca\\xb5\\x1a \\xc0\\xfc\\xc3\\xbc'","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

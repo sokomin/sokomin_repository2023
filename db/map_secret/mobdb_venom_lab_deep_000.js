@@ -1,9 +1,9 @@
 MobData = {
-	10063: [ {"id":"0","inid":0,"type":2,"name":"스킬캐스터","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":125.97,"real_posy":40.69,"posx":125.97,"posy":40.69},
-	{"id":"1","inid":1,"type":2,"name":"베놈 베슬","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":34.81,"real_posy":71.19,"posx":34.81,"posy":71.19},
+	10063: [ {"id":"0","inid":0,"type":2,"name":"スキルキャスター","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":125.97,"real_posy":40.69,"posx":125.97,"posy":40.69},
+	{"id":"1","inid":1,"type":2,"name":"ヴェノムベッセル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":34.81,"real_posy":71.19,"posx":34.81,"posy":71.19},
 ]};
 MobList = {
-	10063: ["モンスター", "스킬캐스터","베놈 베슬",],
+	10063: ["モンスター", "スキルキャスター","ヴェノムベッセル",],
 };
 AreaData = {
 	10063: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
