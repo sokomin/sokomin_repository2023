@@ -24,7 +24,7 @@ MobData = {
 	{"id":"23","inid":2,"type":2,"name":"レイス","repop":120,"id_area":31,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":66.81,"real_posy":73.44,"posx":66.81,"posy":73.44},
 	{"id":"24","inid":4,"type":2,"name":"上級ヴァンパイア","repop":120,"id_area":31,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":72.66,"real_posy":77.41,"posx":72.66,"posy":77.41},
 	{"id":"26","inid":5,"type":2,"name":"古代ヴァンパイア","repop":120,"id_area":33,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":84.02,"real_posy":91.12,"posx":84.02,"posy":91.12},
-	{"id":"27","inid":8,"type":2,"name":"b'\\x8e\\xf4\\x82\\xed}\\xea\\x82\\xbd\\x83\\x8a\\x83b\\x83`'","repop":120,"id_area":38,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":54.91,"real_posy":32.5,"posx":54.91,"posy":32.5},
+	{"id":"27","inid":8,"type":2,"name":"呪われたリッチ","repop":120,"id_area":38,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":54.91,"real_posy":32.5,"posx":54.91,"posy":32.5},
 	{"id":"28","inid":5,"type":2,"name":"古代ヴァンパイア","repop":120,"id_area":38,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":50.34,"real_posy":41.12,"posx":50.34,"posy":41.12},
 	{"id":"29","inid":3,"type":2,"name":"ワイト","repop":120,"id_area":38,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":53.55,"real_posy":40.84,"posx":53.55,"posy":40.84},
 	{"id":"30","inid":5,"type":2,"name":"古代ヴァンパイア","repop":120,"id_area":21,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":85.2,"real_posy":34.06,"posx":85.2,"posy":34.06},
@@ -68,7 +68,7 @@ MobData = {
 	{"id":"68","inid":4,"type":2,"name":"上級ヴァンパイア","repop":120,"id_area":34,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":21.42,"real_posy":87.38,"posx":21.42,"posy":87.38},
 	{"id":"69","inid":4,"type":2,"name":"上級ヴァンパイア","repop":120,"id_area":26,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":22.14,"real_posy":100.59,"posx":22.14,"posy":100.59},
 	{"id":"70","inid":4,"type":2,"name":"上級ヴァンパイア","repop":120,"id_area":27,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":82.22,"real_posy":102.12,"posx":82.22,"posy":102.12},
-	{"id":"71","inid":9,"type":2,"name":"上級ヴ|@ンパイア","repop":120,"id_area":33,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":82.97,"real_posy":87.81,"posx":82.97,"posy":87.81},
+	{"id":"71","inid":4,"type":2,"name":"上級ヴァンパイア","repop":120,"id_area":33,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":82.97,"real_posy":87.81,"posx":82.97,"posy":87.81},
 	{"id":"72","inid":1,"type":2,"name":"ヴァンパイア","repop":120,"id_area":31,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":72.27,"real_posy":72.19,"posx":72.27,"posy":72.19},
 	{"id":"73","inid":4,"type":2,"name":"上級ヴァンパイア","repop":120,"id_area":37,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":82.31,"real_posy":56.75,"posx":82.31,"posy":56.75},
 	{"id":"74","inid":4,"type":2,"name":"上級ヴァンパイア","repop":120,"id_area":35,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":21.88,"real_posy":56.81,"posx":21.88,"posy":56.81},
@@ -79,7 +79,7 @@ MobData = {
 	{"id":"79","inid":3,"type":2,"name":"ワイト","repop":120,"id_area":22,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":69.22,"real_posy":30.53,"posx":69.22,"posy":30.53},
 ]};
 MobList = {
-	10086: ["モンスター", "死霊魔術師","ヴァンパイア","レイス","ワイト","上級ヴァンパイア","古代ヴァンパイア","ギーリ","塔の守護士","b'\\x8e\\xf4\\x82\\xed}\\xea\\x82\\xbd\\x83\\x8a\\x83b\\x83`'","上級ヴ|@ンパイア",],
+	10086: ["モンスター", "死霊魔術師","ヴァンパイア","レイス","ワイト","上級ヴァンパイア","古代ヴァンパイア","ギーリ","塔の守護士","呪われたリッチ",],
 };
 AreaData = {
 	10086: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

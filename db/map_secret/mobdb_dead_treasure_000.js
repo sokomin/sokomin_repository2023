@@ -12,7 +12,7 @@ MobData = {
 	{"id":"10","inid":13,"type":2,"name":"混乱の悪霊","repop":120,"id_area":78,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":84.91,"real_posy":103.22,"posx":84.91,"posy":103.22},
 	{"id":"11","inid":14,"type":2,"name":"狂える悪霊","repop":120,"id_area":79,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":103,"real_posy":2.22,"posx":103,"posy":2.22},
 	{"id":"12","inid":15,"type":2,"name":"必死の悪霊","repop":120,"id_area":80,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":108.97,"real_posy":2.31,"posx":108.97,"posy":2.31},
-	{"id":"13","inid":16,"type":2,"name":"鬱憤の悪霊 ","repop":120,"id_area":81,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":115.06,"real_posy":2.44,"posx":115.06,"posy":2.44},
+	{"id":"13","inid":16,"type":2,"name":"鬱憤の悪霊","repop":120,"id_area":81,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":115.06,"real_posy":2.44,"posx":115.06,"posy":2.44},
 	{"id":"14","inid":17,"type":2,"name":"狂気の悪霊","repop":120,"id_area":82,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":120.97,"real_posy":2.03,"posx":120.97,"posy":2.03},
 	{"id":"15","inid":18,"type":2,"name":"狂乱の悪霊","repop":120,"id_area":83,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":127.09,"real_posy":2.19,"posx":127.09,"posy":2.19},
 	{"id":"16","inid":8,"type":2,"name":"櫃ミイラ","repop":120,"id_area":86,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":7.06,"real_posy":3.56,"posx":7.06,"posy":3.56},
@@ -71,7 +71,7 @@ MobData = {
 	{"id":"69","inid":4,"type":2,"name":"ファントム","repop":120,"id_area":23,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":39.56,"real_posy":56.03,"posx":39.56,"posy":56.03},
 ]};
 MobList = {
-	10088: ["モンスター", "宝物庫守護士","デスピンサー","プレーガー","ロックゴーレム","ファントム","ピオレス","骸骨狂戦士","怒りの悪霊","櫃ミイラ","放浪ミイラ","激怒の悪霊","憤怒の悪霊","激憤の悪霊","混乱の悪霊","狂える悪霊","必死の悪霊","鬱憤の悪霊 ","狂気の悪霊","狂乱の悪霊",],
+	10088: ["モンスター", "宝物庫守護士","デスピンサー","プレーガー","ロックゴーレム","ファントム","ピオレス","骸骨狂戦士","怒りの悪霊","櫃ミイラ","放浪ミイラ","激怒の悪霊","憤怒の悪霊","激憤の悪霊","混乱の悪霊","狂える悪霊","必死の悪霊","鬱憤の悪霊","狂気の悪霊","狂乱の悪霊",],
 };
 AreaData = {
 	10088: []};
