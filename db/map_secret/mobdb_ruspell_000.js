@@ -1,5 +1,5 @@
 MobData = {
-	10063: [ {"id":"0","inid":1,"type":2,"name":"汚染クローラー","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":77.95,"real_posy":117.53,"posx":77.95,"posy":117.53},
+	10051: [ {"id":"0","inid":1,"type":2,"name":"汚染クローラー","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":77.95,"real_posy":117.53,"posx":77.95,"posy":117.53},
 	{"id":"1","inid":1,"type":2,"name":"汚染クローラー","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":82.38,"real_posy":120.06,"posx":82.38,"posy":120.06},
 	{"id":"2","inid":3,"type":2,"name":"汚染イビルアイ","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":79.39,"real_posy":112.59,"posx":79.39,"posy":112.59},
 	{"id":"3","inid":3,"type":2,"name":"汚染イビルアイ","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":83.38,"real_posy":114.97,"posx":83.38,"posy":114.97},
@@ -97,10 +97,10 @@ MobData = {
 	{"id":"95","inid":4,"type":1,"name":"ロシペル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":44.14,"real_posy":130.41,"posx":44.14,"posy":130.41},
 ]};
 MobList = {
-	10063: ["モンスター", "汚染火鬼","汚染クローラー","汚染悪霊","汚染イビルアイ","ロシペル","変異した悪魔","汚染火鬼","汚染クローラー","汚染悪霊","汚染イビルアイ",],
+	10051: ["モンスター", "汚染火鬼","汚染クローラー","汚染悪霊","汚染イビルアイ","ロシペル","変異した悪魔","汚染火鬼","汚染クローラー","汚染悪霊","汚染イビルアイ",],
 };
 AreaData = {
-	10063: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10051: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":77.8,"real_posx2":80.78,"real_posy":141.34,"real_posy2":146.06,"posx":77.8,"posx2":80.78,"posy":141.34,"posy2":146.06},
 	{"id":"3","type":4,"name":"몬스터 활동 영역01","area_name":"","access_map":"","is_secret":0,"real_posx":75.89,"real_posx2":85.67,"real_posy":107.59,"real_posy2":122.47,"posx":75.89,"posx2":85.67,"posy":107.59,"posy2":122.47},

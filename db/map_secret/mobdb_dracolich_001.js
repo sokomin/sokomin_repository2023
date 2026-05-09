@@ -1,11 +1,11 @@
 MobData = {
-	10029: [ {"id":"0","inid":0,"type":2,"name":"ドラコリッチ","repop":86520,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":45.83,"real_posy":34.03,"posx":45.83,"posy":34.03},
+	10091: [ {"id":"0","inid":0,"type":2,"name":"ドラコリッチ","repop":86520,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":45.83,"real_posy":34.03,"posx":45.83,"posy":34.03},
 ]};
 MobList = {
-	10029: ["モンスター", "ドラコリッチ",],
+	10091: ["モンスター", "ドラコリッチ",],
 };
 AreaData = {
-	10029: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10091: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":4,"name":"드라코리치","area_name":"","access_map":"","is_secret":0,"real_posx":41.42,"real_posx2":51.11,"real_posy":27.16,"real_posy2":40.56,"posx":41.42,"posx2":51.11,"posy":27.16,"posy2":40.56},
 	{"id":"3","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":16.05,"real_posx2":20.59,"real_posy":61.84,"real_posy2":67.81,"posx":16.05,"posx2":20.59,"posy":61.84,"posy2":67.81},

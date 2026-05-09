@@ -1,5 +1,5 @@
 MobData = {
-	10095: [ {"id":"0","inid":2,"type":1,"name":"ヘルシーグ卿","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":96.53,"real_posy":155.5,"posx":96.53,"posy":155.5},
+	10159: [ {"id":"0","inid":2,"type":1,"name":"ヘルシーグ卿","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":96.53,"real_posy":155.5,"posx":96.53,"posy":155.5},
 	{"id":"1","inid":1,"type":1,"name":"クイーシー","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":95.3,"real_posy":158.12,"posx":95.3,"posy":158.12},
 	{"id":"2","inid":0,"type":1,"name":"アーニー","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":97.98,"real_posy":158.12,"posx":97.98,"posy":158.12},
 	{"id":"3","inid":5,"type":2,"name":"ヴァンパイア","repop":120,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":104.67,"real_posy":117.19,"posx":104.67,"posy":117.19},
@@ -122,10 +122,10 @@ MobData = {
 	{"id":"240","inid":10,"type":2,"name":"ロッテンマン","repop":120,"id_area":41,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":97.78,"real_posy":52.44,"posx":97.78,"posy":52.44},
 ]};
 MobList = {
-	10095: ["モンスター", "アーニー","クイーシー","ヘルシーグ卿","None.","ウェンディ","ヴァンパイア","エルレーン","ヴァンパエピゴン","ゾンビ兵","ヴァンパイア男爵","ロッテンマン","ヴァンパイア卿","ブラッディオルダ","ヴァンパイア貴族","ブラッディメッシ","ブラッディガイヤ","ペインメッセ","ブラッディーラー","チェリー","アップル","None.","レベッカ","バルト","ブランカ","スーザン","ローウェン","セシリア","シャンティー","ノースバントゥス","ブラッディマン","人間追跡者","None.","イシュトリー",],
+	10159: ["モンスター", "アーニー","クイーシー","ヘルシーグ卿","None.","ウェンディ","ヴァンパイア","エルレーン","ヴァンパエピゴン","ゾンビ兵","ヴァンパイア男爵","ロッテンマン","ヴァンパイア卿","ブラッディオルダ","ヴァンパイア貴族","ブラッディメッシ","ブラッディガイヤ","ペインメッセ","ブラッディーラー","チェリー","アップル","None.","レベッカ","バルト","ブランカ","スーザン","ローウェン","セシリア","シャンティー","ノースバントゥス","ブラッディマン","人間追跡者","None.","イシュトリー",],
 };
 AreaData = {
-	10095: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10159: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":3,"name":"브란성 마을에서 여관안으로","area_name":"","access_map":"expansion\\[vampirekingdom]000.rmd","is_secret":0,"real_posx":100.09,"real_posx2":102.31,"real_posy":158.72,"real_posy2":162.81,"posx":100.09,"posx2":102.31,"posy":158.72,"posy2":162.81},
 	{"id":"3","type":3,"name":"브란성 마을에서 주점안으로","area_name":"","access_map":"expansion\\[vampirekingdom]000.rmd","is_secret":0,"real_posx":21.47,"real_posx2":24.11,"real_posy":84.06,"real_posy2":87.06,"posx":21.47,"posx2":24.11,"posy":84.06,"posy2":87.06},

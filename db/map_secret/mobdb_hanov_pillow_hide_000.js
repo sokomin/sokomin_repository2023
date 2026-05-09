@@ -1,5 +1,5 @@
 MobData = {
-	10041: [ {"id":"0","inid":4,"type":2,"name":"盗掘召喚師","repop":120,"id_area":57,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":120.56,"real_posy":32,"posx":120.56,"posy":32},
+	10100: [ {"id":"0","inid":4,"type":2,"name":"盗掘召喚師","repop":120,"id_area":57,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":120.56,"real_posy":32,"posx":120.56,"posy":32},
 	{"id":"1","inid":4,"type":2,"name":"盗掘召喚師","repop":120,"id_area":57,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":122.66,"real_posy":34.31,"posx":122.66,"posy":34.31},
 	{"id":"2","inid":0,"type":2,"name":"盗掘者","repop":120,"id_area":57,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":119.38,"real_posy":33.81,"posx":119.38,"posy":33.81},
 	{"id":"3","inid":4,"type":2,"name":"盗掘召喚師","repop":120,"id_area":35,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":107.19,"real_posy":20.72,"posx":107.19,"posy":20.72},
@@ -99,10 +99,10 @@ MobData = {
 	{"id":"97","inid":11,"type":2,"name":"望楼の支配者","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":65.55,"real_posy":148.44,"posx":65.55,"posy":148.44},
 ]};
 MobList = {
-	10041: ["モンスター", "盗掘者","狂った冒険家","斧槍兵","殺肉者","盗掘召喚師","悪魔召喚師","狂った冒険家","望楼の守護士","鷲闘士","鷲狂戦士","食人巨人","望楼の支配者","オーガスト",],
+	10100: ["モンスター", "盗掘者","狂った冒険家","斧槍兵","殺肉者","盗掘召喚師","悪魔召喚師","狂った冒険家","望楼の守護士","鷲闘士","鷲狂戦士","食人巨人","望楼の支配者","オーガスト",],
 };
 AreaData = {
-	10041: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10100: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":2,"name":"잠긴문01","area_name":"","access_map":"","is_secret":0,"real_posx":24.14,"real_posx2":27.83,"real_posy":73.59,"real_posy2":80.78,"posx":24.14,"posx2":27.83,"posy":73.59,"posy2":80.78},
 	{"id":"3","type":2,"name":"잠긴문02","area_name":"","access_map":"","is_secret":0,"real_posx":31.7,"real_posx2":35.03,"real_posy":104.03,"real_posy2":110.12,"posx":31.7,"posx2":35.03,"posy":104.03,"posy2":110.12},

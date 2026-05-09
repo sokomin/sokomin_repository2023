@@ -1,12 +1,12 @@
 MobData = {
-	10005: [ {"id":"0","inid":0,"type":1,"name":"討伐騎士団員","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":136.97,"real_posy":132.22,"posx":136.97,"posy":132.22},
+	10013: [ {"id":"0","inid":0,"type":1,"name":"討伐騎士団員","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":136.97,"real_posy":132.22,"posx":136.97,"posy":132.22},
 	{"id":"1","inid":1,"type":2,"name":"シュラグ","repop":120,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":19.59,"real_posy":24.28,"posx":19.59,"posy":24.28},
 ]};
 MobList = {
-	10005: ["モンスター", "討伐騎士団員","シュラグ",],
+	10013: ["モンスター", "討伐騎士団員","シュラグ",],
 };
 AreaData = {
-	10005: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10013: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":135.77,"real_posx2":138.06,"real_posy":136.25,"real_posy2":139.94,"posx":135.77,"posx2":138.06,"posy":136.25,"posy2":139.94},
 	{"id":"3","type":0,"name":"DAY","area_name":"","access_map":"","is_secret":0,"real_posx":18.3,"real_posx2":20.77,"real_posy":36.97,"real_posy2":40.22,"posx":18.3,"posx2":20.77,"posy":36.97,"posy2":40.22},

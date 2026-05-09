@@ -1,5 +1,5 @@
 MobData = {
-	10034: [ {"id":"0","inid":1,"type":2,"name":"呪われた戦士","repop":120,"id_area":34,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":64.66,"real_posy":131.47,"posx":64.66,"posy":131.47},
+	10095: [ {"id":"0","inid":1,"type":2,"name":"呪われた戦士","repop":120,"id_area":34,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":64.66,"real_posy":131.47,"posx":64.66,"posy":131.47},
 	{"id":"1","inid":2,"type":2,"name":"ハウロカーンの目","repop":120,"id_area":19,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":89.02,"real_posy":134.88,"posx":89.02,"posy":134.88},
 	{"id":"2","inid":1,"type":2,"name":"呪われた戦士","repop":120,"id_area":33,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":79.23,"real_posy":133.56,"posx":79.23,"posy":133.56},
 	{"id":"3","inid":2,"type":2,"name":"ハウロカーンの目","repop":120,"id_area":32,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":74.14,"real_posy":139.91,"posx":74.14,"posy":139.91},
@@ -139,10 +139,10 @@ MobData = {
 	{"id":"159","inid":10,"type":17,"name":"冒険家","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":22,"real_posy":180.81,"posx":22,"posy":180.81},
 ]};
 MobList = {
-	10034: ["モンスター", "グリーク教修道士","呪われた戦士","ハウロカーンの目","憎しみのダハープ","恐怖のジュレーン","破壊のバンドール","絶望のベルディン","悪魔の使者","ラフディスラクト","骸骨傭兵","冒険家",],
+	10095: ["モンスター", "グリーク教修道士","呪われた戦士","ハウロカーンの目","憎しみのダハープ","恐怖のジュレーン","破壊のバンドール","絶望のベルディン","悪魔の使者","ラフディスラクト","骸骨傭兵","冒険家",],
 };
 AreaData = {
-	10034: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10095: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":6,"name":"恐怖の礼拝堂","area_name":"","access_map":"","is_secret":0,"real_posx":66.5,"real_posx2":66.81,"real_posy":230.12,"real_posy2":230.75,"posx":66.5,"posx2":66.81,"posy":230.12,"posy2":230.75},
 	{"id":"3","type":6,"name":"中央広場","area_name":"","access_map":"","is_secret":0,"real_posx":92.59,"real_posx2":92.91,"real_posy":133.75,"real_posy2":134.38,"posx":92.59,"posx2":92.91,"posy":133.75,"posy2":134.38},

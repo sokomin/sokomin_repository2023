@@ -1,5 +1,5 @@
 MobData = {
-	10017: [ {"id":"0","inid":1,"type":2,"name":"斧骸骨戦士","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.28,"real_posy":19.06,"posx":19.28,"posy":19.06},
+	10079: [ {"id":"0","inid":1,"type":2,"name":"斧骸骨戦士","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.28,"real_posy":19.06,"posx":19.28,"posy":19.06},
 	{"id":"1","inid":21,"type":2,"name":"斧骸骨戦塾","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.45,"real_posy":25.34,"posx":19.45,"posy":25.34},
 	{"id":"2","inid":1,"type":2,"name":"斧骸骨戦士","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.81,"real_posy":24.06,"posx":16.81,"posy":24.06},
 	{"id":"3","inid":1,"type":2,"name":"斧骸骨戦士","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":21.97,"real_posy":23.94,"posx":21.97,"posy":23.94},
@@ -73,10 +73,10 @@ MobData = {
 	{"id":"71","inid":20,"type":2,"name":"ウェアーゴート","repop":120,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":133.55,"real_posy":165,"posx":133.55,"posy":165},
 ]};
 MobList = {
-	10017: ["モンスター", "None.","斧骸骨戦士","ビホルダー","ビホルダー","ビホルダー\u0001","エボニーガゴイル","オニキスガーゴイ","イフリィト","サラマンダー","ブレイズリザード","エボニーガゴイル","サラマンダー","エボＫーガゴイル","オニキスガーゴイ","デーモン","ピエンド","デーモン","ウェアーゴート","リッチ","デーモン","ウェアーゴート","斧骸骨戦塾","両刀骸骨戦士","エボニーガゴイル\u0001","サｉマンダー","エボニーガ４イル",],
+	10079: ["モンスター", "None.","斧骸骨戦士","ビホルダー","ビホルダー","ビホルダー\u0001","エボニーガゴイル","オニキスガーゴイ","イフリィト","サラマンダー","ブレイズリザード","エボニーガゴイル","サラマンダー","エボＫーガゴイル","オニキスガーゴイ","デーモン","ピエンド","デーモン","ウェアーゴート","リッチ","デーモン","ウェアーゴート","斧骸骨戦塾","両刀骸骨戦士","エボニーガゴイル\u0001","サｉマンダー","エボニーガ４イル",],
 };
 AreaData = {
-	10017: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10079: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":4,"name":"Wave 1","area_name":"","access_map":"","is_secret":0,"real_posx":8.25,"real_posx2":30.39,"real_posy":8.34,"real_posy2":37.25,"posx":8.25,"posx2":30.39,"posy":8.34,"posy2":37.25},
 	{"id":"3","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":15.7,"real_posx2":23.02,"real_posy":17.69,"real_posy2":25.56,"posx":15.7,"posx2":23.02,"posy":17.69,"posy2":25.56},

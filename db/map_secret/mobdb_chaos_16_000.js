@@ -1,5 +1,5 @@
 MobData = {
-	10014: [ {"id":"0","inid":1,"type":2,"name":"混沌の９コーピオ","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":24.92,"real_posy":15.94,"posx":24.92,"posy":15.94},
+	10074: [ {"id":"0","inid":1,"type":2,"name":"混沌の９コーピオ","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":24.92,"real_posy":15.94,"posx":24.92,"posy":15.94},
 	{"id":"1","inid":8,"type":2,"name":"混沌のスコーピオ","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":13.39,"real_posy":16.22,"posx":13.39,"posy":16.22},
 	{"id":"2","inid":8,"type":2,"name":"混沌のスコーピオ","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":13.48,"real_posy":28.38,"posx":13.48,"posy":28.38},
 	{"id":"3","inid":8,"type":2,"name":"混沌のスコーピオ","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.72,"real_posy":28,"posx":25.72,"posy":28},
@@ -116,10 +116,10 @@ MobData = {
 	{"id":"116","inid":14,"type":2,"name":"黒い兵隊蟻","repop":120,"id_area":13,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":132.61,"real_posy":146.38,"posx":132.61,"posy":146.38},
 ]};
 MobList = {
-	10014: ["モンスター", "黒い働き蟻","混沌の９コーピオ","秩序のスコーピオ","混沌のマゴット","死体虫","黒い兵隊蛎","黒い女王蟻","黒い親衛説蟻","混沌のスコーピオ","秩序のスコーＴオ","b'\\x92\\x81\\x8f\\x98\\x82\\xcc\\x83X\\x83R\\x81[\\x83s\\x82I'","死体飛虫","軒沌のマゴット","死体飛梼","黒い兵隊蟻","剣い兵隊蟻","黒Δ兵隊蟻","黒い親衛隊蟻","黒い働き蟻\u0001","黒Δ働き蟻",],
+	10074: ["モンスター", "黒い働き蟻","混沌の９コーピオ","秩序のスコーピオ","混沌のマゴット","死体虫","黒い兵隊蛎","黒い女王蟻","黒い親衛説蟻","混沌のスコーピオ","秩序のスコーＴオ","b'\\x92\\x81\\x8f\\x98\\x82\\xcc\\x83X\\x83R\\x81[\\x83s\\x82I'","死体飛虫","軒沌のマゴット","死体飛梼","黒い兵隊蟻","剣い兵隊蟻","黒Δ兵隊蟻","黒い親衛隊蟻","黒い働き蟻\u0001","黒Δ働き蟻",],
 };
 AreaData = {
-	10014: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10074: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":4,"name":"Wave 1","area_name":"","access_map":"","is_secret":0,"real_posx":8.25,"real_posx2":30.39,"real_posy":8.34,"real_posy2":37.25,"posx":8.25,"posx2":30.39,"posy":8.34,"posy2":37.25},
 	{"id":"3","type":4,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":15.7,"real_posx2":23.02,"real_posy":17.69,"real_posy2":25.56,"posx":15.7,"posx2":23.02,"posy":17.69,"posy2":25.56},

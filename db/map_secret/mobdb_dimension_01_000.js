@@ -1,5 +1,5 @@
 MobData = {
-	10025: [ {"id":"0","inid":1,"type":2,"name":"アデッドロック","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":33.98,"real_posy":83.56,"posx":33.98,"posy":83.56},
+	10024: [ {"id":"0","inid":1,"type":2,"name":"アデッドロック","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":33.98,"real_posy":83.56,"posx":33.98,"posy":83.56},
 	{"id":"1","inid":0,"type":2,"name":"装甲ボーンキメラ","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":30.97,"real_posy":85.44,"posx":30.97,"posy":85.44},
 	{"id":"2","inid":0,"type":2,"name":"装甲ボーンキメラ","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":32.42,"real_posy":98.5,"posx":32.42,"posy":98.5},
 	{"id":"3","inid":0,"type":2,"name":"装甲ボーンキメラ","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":38.75,"real_posy":89.97,"posx":38.75,"posy":89.97},
@@ -84,10 +84,10 @@ MobData = {
 	{"id":"87","inid":8,"type":2,"name":"次元虐殺者","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":59.75,"real_posy":158.97,"posx":59.75,"posy":158.97},
 ]};
 MobList = {
-	10025: ["モンスター", "装甲ボーンキメラ","アデッドロック","幽霊鎧","None.","None.","次元略奪者","アンデッドリッチ","エルウッド","次元虐殺者",],
+	10024: ["モンスター", "装甲ボーンキメラ","アデッドロック","幽霊鎧","None.","None.","次元略奪者","アンデッドリッチ","エルウッド","次元虐殺者",],
 };
 AreaData = {
-	10025: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10024: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":77.2,"real_posx2":80.33,"real_posy":104.47,"real_posy2":107.69,"posx":77.2,"posx2":80.33,"posy":104.47,"posy2":107.69},
 	{"id":"3","type":2,"name":"入場エリア 扉_1","area_name":"","access_map":"","is_secret":0,"real_posx":71.19,"real_posx2":73.72,"real_posy":95.34,"real_posy2":102.34,"posx":71.19,"posx2":73.72,"posy":95.34,"posy2":102.34},

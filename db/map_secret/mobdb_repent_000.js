@@ -1,13 +1,13 @@
 MobData = {
-	10060: [ {"id":"0","inid":0,"type":2,"name":"本の虫クボル","repop":120,"id_area":19,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":41.69,"real_posy":120.56,"posx":41.69,"posy":120.56},
+	10121: [ {"id":"0","inid":0,"type":2,"name":"本の虫クボル","repop":120,"id_area":19,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":41.69,"real_posy":120.56,"posx":41.69,"posy":120.56},
 	{"id":"1","inid":1,"type":2,"name":"欲張りブラム","repop":120,"id_area":21,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":121.98,"real_posy":152.44,"posx":121.98,"posy":152.44},
 	{"id":"2","inid":2,"type":2,"name":"酔っ払いガント","repop":120,"id_area":22,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":48.97,"real_posy":15.78,"posx":48.97,"posy":15.78},
 ]};
 MobList = {
-	10060: ["モンスター", "本の虫クボル","欲張りブラム","酔っ払いガント",],
+	10121: ["モンスター", "本の虫クボル","欲張りブラム","酔っ払いガント",],
 };
 AreaData = {
-	10060: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10121: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":0,"name":"미로 중간보스 1","area_name":"","access_map":"","is_secret":0,"real_posx":46.22,"real_posx2":50.23,"real_posy":123.16,"real_posy2":129.53,"posx":46.22,"posx2":50.23,"posy":123.16,"posy2":129.53},
 	{"id":"3","type":0,"name":"미로 중간보스 2","area_name":"","access_map":"","is_secret":0,"real_posx":126.73,"real_posx2":130.64,"real_posy":156.28,"real_posy2":161.97,"posx":126.73,"posx2":130.64,"posy":156.28,"posy2":161.97},

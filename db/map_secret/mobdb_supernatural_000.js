@@ -1,5 +1,5 @@
 MobData = {
-	10071: [ {"id":"0","inid":20,"type":1,"name":"会長 ベアリーク","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":72.75,"real_posy":75.78,"posx":72.75,"posy":75.78},
+	10132: [ {"id":"0","inid":20,"type":1,"name":"会長 ベアリーク","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":72.75,"real_posy":75.78,"posx":72.75,"posy":75.78},
 	{"id":"1","inid":23,"type":2,"name":"太っちょオブラム","repop":120,"id_area":59,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":70.86,"real_posy":16.69,"posx":70.86,"posy":16.69},
 	{"id":"2","inid":19,"type":2,"name":"ベアリーク参謀隊","repop":120,"id_area":123,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":85.09,"real_posy":118.88,"posx":85.09,"posy":118.88},
 	{"id":"3","inid":19,"type":2,"name":"ベアリーク参謀隊","repop":120,"id_area":126,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":87.58,"real_posy":118.91,"posx":87.58,"posy":118.91},
@@ -144,10 +144,10 @@ MobData = {
 	{"id":"151","inid":8,"type":2,"name":"ガルバタル","repop":120,"id_area":50,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.19,"real_posy":44.47,"posx":16.19,"posy":44.47},
 ]};
 MobList = {
-	10071: ["モンスター", "ベアリーク召使い","レッドアイ警備兵","ベアリーク騎士隊","警備隊 警備犬","レッドアイ研究員","失敗した実験体","レッドアイ戦士","研究員助手","ガルバタル","ガルバタル護衛隊","セイグレン","セイグレン隊","狂暴なバーツ","凶悪なジャーケン","凄腕カブ","残虐なケガル","レッドアイ警備兵","会長 ベアリーク","ベアリーク護衛隊","ベアリーク参謀隊","会長 ベアリーク","ベアリーク護衛隊","ベアリーク参謀隊","太っちょオブラム","レッドアイ要員","ベアリーク召使い","ベアリーク召使い","ベアリーク召使い",],
+	10132: ["モンスター", "ベアリーク召使い","レッドアイ警備兵","ベアリーク騎士隊","警備隊 警備犬","レッドアイ研究員","失敗した実験体","レッドアイ戦士","研究員助手","ガルバタル","ガルバタル護衛隊","セイグレン","セイグレン隊","狂暴なバーツ","凶悪なジャーケン","凄腕カブ","残虐なケガル","レッドアイ警備兵","会長 ベアリーク","ベアリーク護衛隊","ベアリーク参謀隊","会長 ベアリーク","ベアリーク護衛隊","ベアリーク参謀隊","太っちょオブラム","レッドアイ要員","ベアリーク召使い","ベアリーク召使い","ベアリーク召使い",],
 };
 AreaData = {
-	10071: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10132: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":6,"name":"第1区域","area_name":"","access_map":"","is_secret":0,"real_posx":113.83,"real_posx2":122.69,"real_posy":146.91,"real_posy2":150.75,"posx":113.83,"posx2":122.69,"posy":146.91,"posy2":150.75},
 	{"id":"3","type":6,"name":"第2区域","area_name":"","access_map":"","is_secret":0,"real_posx":31.06,"real_posx2":39.56,"real_posy":141.88,"real_posy2":145.12,"posx":31.06,"posx2":39.56,"posy":141.88,"posy2":145.12},

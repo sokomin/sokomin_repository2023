@@ -1,5 +1,5 @@
 MobData = {
-	10054: [ {"id":"0","inid":0,"type":1,"name":"ボイル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":21.53,"real_posy":132.66,"posx":21.53,"posy":132.66},
+	10112: [ {"id":"0","inid":0,"type":1,"name":"ボイル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":21.53,"real_posy":132.66,"posx":21.53,"posy":132.66},
 	{"id":"1","inid":2,"type":2,"name":"イフリィト","repop":3720,"id_area":31,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":29.12,"real_posy":114.5,"posx":29.12,"posy":114.5},
 	{"id":"2","inid":2,"type":2,"name":"イフリィト","repop":3720,"id_area":31,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":31.61,"real_posy":117.97,"posx":31.61,"posy":117.97},
 	{"id":"3","inid":2,"type":2,"name":"イフリィト","repop":3720,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.7,"real_posy":108.22,"posx":14.7,"posy":108.22},
@@ -67,10 +67,10 @@ MobData = {
 	{"id":"65","inid":1,"type":2,"name":"親イフリィト","repop":3720,"id_area":47,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":111.91,"real_posy":127.75,"posx":111.91,"posy":127.75},
 ]};
 MobList = {
-	10054: ["モンスター", "ボイル","親イフリィト","イフリィト","サラマンダー",],
+	10112: ["モンスター", "ボイル","親イフリィト","イフリィト","サラマンダー",],
 };
 AreaData = {
-	10054: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10112: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":14.66,"real_posx2":18.03,"real_posy":139.41,"real_posy2":143.91,"posx":14.66,"posx2":18.03,"posy":139.41,"posy2":143.91},
 	{"id":"3","type":4,"name":"Area 2","area_name":"","access_map":"","is_secret":0,"real_posx":13.23,"real_posx2":19.41,"real_posy":104.78,"real_posy2":113.81,"posx":13.23,"posx2":19.41,"posy":104.78,"posy2":113.81},

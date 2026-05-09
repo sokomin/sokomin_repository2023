@@ -1,5 +1,5 @@
 MobData = {
-	10089: [ {"id":"0","inid":0,"type":1,"name":"若い探検家","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":8.89,"real_posy":14.25,"posx":8.89,"posy":14.25},
+	10056: [ {"id":"0","inid":0,"type":1,"name":"若い探検家","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":8.89,"real_posy":14.25,"posx":8.89,"posy":14.25},
 	{"id":"1","inid":5,"type":2,"name":"古代リザードマン","repop":18120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.73,"real_posy":26.22,"posx":14.73,"posy":26.22},
 	{"id":"2","inid":5,"type":2,"name":"古代リザードマン","repop":18120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.45,"real_posy":36.69,"posx":14.45,"posy":36.69},
 	{"id":"3","inid":5,"type":2,"name":"古代リザードマン","repop":18120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.94,"real_posy":30.78,"posx":16.94,"posy":30.78},
@@ -126,10 +126,10 @@ MobData = {
 	{"id":"134","inid":17,"type":2,"name":"子蜘蛛","repop":0,"id_area":47,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":163.62,"real_posy":82.5,"posx":163.62,"posy":82.5},
 ]};
 MobList = {
-	10089: ["モンスター", "若い探検家","古代原始人","巨大モグラ","None.","鷲獣人","古代リザードマン","古代スカルキメラ","古代亀","馬獣人","古代コウモリ","古代スコルピオ","古代大王毒蜘蛛","古代マゴット","小さなマゴット","子スコルピオ","古代軍人","負傷した探検家","子蜘蛛","None.","タルタス",],
+	10056: ["モンスター", "若い探検家","古代原始人","巨大モグラ","None.","鷲獣人","古代リザードマン","古代スカルキメラ","古代亀","馬獣人","古代コウモリ","古代スコルピオ","古代大王毒蜘蛛","古代マゴット","小さなマゴット","子スコルピオ","古代軍人","負傷した探検家","子蜘蛛","None.","タルタス",],
 };
 AreaData = {
-	10089: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10056: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":2.8,"real_posx2":6.41,"real_posy":9.62,"real_posy2":16.56,"posx":2.8,"posx2":6.41,"posy":9.62,"posy2":16.56},
 	{"id":"3","type":12,"name":"Area 2","area_name":"","access_map":"","is_secret":0,"real_posx":10.75,"real_posx2":13.77,"real_posy":15.62,"real_posy2":21.25,"posx":10.75,"posx2":13.77,"posy":15.62,"posy2":21.25},

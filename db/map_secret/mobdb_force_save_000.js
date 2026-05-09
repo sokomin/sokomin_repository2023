@@ -1,5 +1,5 @@
 MobData = {
-	10032: [ {"id":"0","inid":0,"type":2,"name":"汚染ボーンナイト","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.69,"real_posy":112.41,"posx":25.69,"posy":112.41},
+	10093: [ {"id":"0","inid":0,"type":2,"name":"汚染ボーンナイト","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.69,"real_posy":112.41,"posx":25.69,"posy":112.41},
 	{"id":"1","inid":0,"type":2,"name":"汚染ボーンナイト","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":30.8,"real_posy":114.06,"posx":30.8,"posy":114.06},
 	{"id":"2","inid":0,"type":2,"name":"汚染ボーンナイト","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.14,"real_posy":122.84,"posx":28.14,"posy":122.84},
 	{"id":"3","inid":0,"type":2,"name":"汚染ボーンナイト","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":33.23,"real_posy":120.47,"posx":33.23,"posy":120.47},
@@ -94,10 +94,10 @@ MobData = {
 	{"id":"92","inid":14,"type":2,"name":"汚染メタルゴーレ","repop":120,"id_area":20,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":114.95,"real_posy":31.19,"posx":114.95,"posy":31.19},
 ]};
 MobList = {
-	10032: ["モンスター", "汚染ボーンナイト","汚染斧槍兵","汚染黒魔法師","メタルゴーレム","汚染イビルアイ"," 汚染ガーディアン","討伐軍悪魔","討伐軍悪魔","討伐軍悪魔","討伐軍悪魔","青髭","汚染ボーンナイト","汚染斧槍兵","汚染黒魔法師","汚染メタルゴーレ","汚染イビルアイ","汚染メタルゴーレ",],
+	10093: ["モンスター", "汚染ボーンナイト","汚染斧槍兵","汚染黒魔法師","メタルゴーレム","汚染イビルアイ"," 汚染ガーディアン","討伐軍悪魔","討伐軍悪魔","討伐軍悪魔","討伐軍悪魔","青髭","汚染ボーンナイト","汚染斧槍兵","汚染黒魔法師","汚染メタルゴーレ","汚染イビルアイ","汚染メタルゴーレ",],
 };
 AreaData = {
-	10032: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10093: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":6.75,"real_posx2":10.31,"real_posy":143.44,"real_posy2":148.44,"posx":6.75,"posx2":10.31,"posy":143.44,"posy2":148.44},
 	{"id":"3","type":4,"name":"몬스터 1","area_name":"","access_map":"","is_secret":0,"real_posx":22.97,"real_posx2":35.78,"real_posy":108.84,"real_posy2":128.62,"posx":22.97,"posx2":35.78,"posy":108.84,"posy2":128.62},

@@ -1,5 +1,5 @@
 MobData = {
-	10047: [ {"id":"0","inid":8,"type":2,"name":"死霊魔術師","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":103.41,"real_posy":31.91,"posx":103.41,"posy":31.91},
+	10046: [ {"id":"0","inid":8,"type":2,"name":"死霊魔術師","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":103.41,"real_posy":31.91,"posx":103.41,"posy":31.91},
 	{"id":"1","inid":1,"type":2,"name":"ゴースト","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":108.33,"real_posy":32.72,"posx":108.33,"posy":32.72},
 	{"id":"2","inid":8,"type":2,"name":"死霊魔術師","repop":120,"id_area":16,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":102.66,"real_posy":40.69,"posx":102.66,"posy":40.69},
 	{"id":"3","inid":4,"type":2,"name":"幽囚ソウル","repop":120,"id_area":16,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":108.38,"real_posy":40.97,"posx":108.38,"posy":40.97},
@@ -58,10 +58,10 @@ MobData = {
 	{"id":"58","inid":0,"type":1,"name":"デスビジョン","repop":120,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":90.2,"real_posy":35.5,"posx":90.2,"posy":35.5},
 ]};
 MobList = {
-	10047: ["モンスター", "デスビジョン","ゴースト","None.","None.","幽囚ソウル","イリュージョン","ファントム","None.","死霊魔術師","レイス","None.","None.","None.","None.","None.","バンシー","None.","怨霊","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","ワイト",],
+	10046: ["モンスター", "デスビジョン","ゴースト","None.","None.","幽囚ソウル","イリュージョン","ファントム","None.","死霊魔術師","レイス","None.","None.","None.","None.","None.","バンシー","None.","怨霊","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","ワイト",],
 };
 AreaData = {
-	10047: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10046: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":109.48,"real_posx2":114.11,"real_posy":7.5,"real_posy2":14.91,"posx":109.48,"posx2":114.11,"posy":7.5,"posy2":14.91},
 	{"id":"3","type":4,"name":"Area 2","area_name":"","access_map":"","is_secret":0,"real_posx":101.44,"real_posx2":113.16,"real_posy":27.66,"real_posy2":33.62,"posx":101.44,"posx2":113.16,"posy":27.66,"posy2":33.62},

@@ -1,5 +1,5 @@
 MobData = {
-	10049: [ {"id":"0","inid":3,"type":1,"name":"ポエル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":24.64,"real_posy":70.91,"posx":24.64,"posy":70.91},
+	10106: [ {"id":"0","inid":3,"type":1,"name":"ポエル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":24.64,"real_posy":70.91,"posx":24.64,"posy":70.91},
 	{"id":"1","inid":4,"type":1,"name":"鉱員1","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":65.61,"real_posy":68.16,"posx":65.61,"posy":68.16},
 	{"id":"2","inid":5,"type":1,"name":"鉱員2","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":77.23,"real_posy":79.84,"posx":77.23,"posy":79.84},
 	{"id":"3","inid":6,"type":1,"name":"鉱員3","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":84.08,"real_posy":65.12,"posx":84.08,"posy":65.12},
@@ -43,10 +43,10 @@ MobData = {
 	{"id":"41","inid":12,"type":2,"name":"ハウマ","repop":3720,"id_area":25,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":26.16,"real_posy":40.41,"posx":26.16,"posy":40.41},
 ]};
 MobList = {
-	10049: ["モンスター", "ハウマ","ファミリア","ラティアン","ポエル","鉱員1","鉱員2","鉱員3","鉱員4","パカス","ファミリア","ラティアン","ハウマ","ハウマ",],
+	10106: ["モンスター", "ハウマ","ファミリア","ラティアン","ポエル","鉱員1","鉱員2","鉱員3","鉱員4","パカス","ファミリア","ラティアン","ハウマ","ハウマ",],
 };
 AreaData = {
-	10049: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10106: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":15.2,"real_posx2":17.48,"real_posy":93.72,"real_posy2":97.34,"posx":15.2,"posx2":17.48,"posy":93.72,"posy2":97.34},
 	{"id":"3","type":2,"name":"Area 2","area_name":"","access_map":"","is_secret":0,"real_posx":20.62,"real_posx2":22.66,"real_posy":76.81,"real_posy2":81.25,"posx":20.62,"posx2":22.66,"posy":76.81,"posy2":81.25},

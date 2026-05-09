@@ -1,5 +1,5 @@
 MobData = {
-	10010: [ {"id":"0","inid":0,"type":1,"name":"レイロー","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":109.05,"real_posy":82.78,"posx":109.05,"posy":82.78},
+	10021: [ {"id":"0","inid":0,"type":1,"name":"レイロー","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":109.05,"real_posy":82.78,"posx":109.05,"posy":82.78},
 	{"id":"1","inid":6,"type":2,"name":"レッドアイ魔法師","repop":120,"id_area":26,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.06,"real_posy":86.75,"posx":25.06,"posy":86.75},
 	{"id":"2","inid":6,"type":2,"name":"レッドアイ魔法師","repop":120,"id_area":29,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":13.56,"real_posy":68.12,"posx":13.56,"posy":68.12},
 	{"id":"3","inid":6,"type":2,"name":"レッドアイ魔法師","repop":120,"id_area":30,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25,"real_posy":55.88,"posx":25,"posy":55.88},
@@ -56,10 +56,10 @@ MobData = {
 	{"id":"54","inid":7,"type":2,"name":"グレムリン","repop":120,"id_area":34,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.81,"real_posy":22.25,"posx":19.81,"posy":22.25},
 ]};
 MobList = {
-	10010: ["モンスター", "レイロー","野良犬","ウルフ","コボルト","スリップワーカー","シーフ","レッドアイ魔法師","グレムリン","ルナティック","ローグ",],
+	10021: ["モンスター", "レイロー","野良犬","ウルフ","コボルト","スリップワーカー","シーフ","レッドアイ魔法師","グレムリン","ルナティック","ローグ",],
 };
 AreaData = {
-	10010: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10021: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":109.95,"real_posx2":112.86,"real_posy":84.56,"real_posy2":88.31,"posx":109.95,"posx2":112.86,"posy":84.56,"posy2":88.31},
 	{"id":"3","type":2,"name":"그냥 열리는 문0","area_name":"","access_map":"","is_secret":0,"real_posx":40.23,"real_posx2":43.94,"real_posy":80,"real_posy2":88,"posx":40.23,"posx2":43.94,"posy":80,"posy2":88},

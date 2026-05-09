@@ -1,5 +1,5 @@
 MobData = {
-	10030: [ {"id":"0","inid":0,"type":1,"name":"エブリ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":6.28,"real_posy":10.84,"posx":6.28,"posy":10.84},
+	10092: [ {"id":"0","inid":0,"type":1,"name":"エブリ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":6.28,"real_posy":10.84,"posx":6.28,"posy":10.84},
 	{"id":"1","inid":1,"type":2,"name":"ジャンキー","repop":120,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":20.08,"real_posy":35.31,"posx":20.08,"posy":35.31},
 	{"id":"2","inid":7,"type":2,"name":"ブラックメイジ","repop":120,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":20.2,"real_posy":42,"posx":20.2,"posy":42},
 	{"id":"3","inid":20,"type":2,"name":"組職管理員","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":44.98,"real_posy":63.69,"posx":44.98,"posy":63.69},
@@ -91,10 +91,10 @@ MobData = {
 	{"id":"90","inid":3,"type":2,"name":"プレーガー","repop":120,"id_area":12,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":29.66,"real_posy":96.62,"posx":29.66,"posy":96.62},
 ]};
 MobList = {
-	10030: ["モンスター", "エブリ","ジャンキー","幽霊鎧","プレーガー","ローグ","スナッチャー","堕落魔法師","ブラックメイジ","エクソシスト","グレムリン","研究室管理者","組職管理者","麻薬業者","麻薬責任者","失敗実験体1号","看守","失敗実験体2号","実験体5号","実験体3号","実験体4号","組職管理員","堕落エルフ管理者","特殊管理員","業者護衛兵","護衛傭兵",],
+	10092: ["モンスター", "エブリ","ジャンキー","幽霊鎧","プレーガー","ローグ","スナッチャー","堕落魔法師","ブラックメイジ","エクソシスト","グレムリン","研究室管理者","組職管理者","麻薬業者","麻薬責任者","失敗実験体1号","看守","失敗実験体2号","実験体5号","実験体3号","実験体4号","組職管理員","堕落エルフ管理者","特殊管理員","業者護衛兵","護衛傭兵",],
 };
 AreaData = {
-	10030: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10092: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":2.34,"real_posx2":5.16,"real_posy":7.47,"real_posy2":12.66,"posx":2.34,"posx2":5.16,"posy":7.47,"posy2":12.66},
 	{"id":"3","type":4,"name":"Area 2","area_name":"","access_map":"","is_secret":0,"real_posx":0.97,"real_posx2":9.91,"real_posy":28.12,"real_posy2":45.16,"posx":0.97,"posx2":9.91,"posy":28.12,"posy2":45.16},

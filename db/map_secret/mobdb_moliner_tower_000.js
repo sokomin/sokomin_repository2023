@@ -1,5 +1,5 @@
 MobData = {
-	10051: [ {"id":"0","inid":0,"type":1,"name":"グルベン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":79.25,"real_posy":14.72,"posx":79.25,"posy":14.72},
+	10108: [ {"id":"0","inid":0,"type":1,"name":"グルベン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":79.25,"real_posy":14.72,"posx":79.25,"posy":14.72},
 	{"id":"1","inid":1,"type":2,"name":"包帯人間","repop":120,"id_area":63,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":89.8,"real_posy":28.12,"posx":89.8,"posy":28.12},
 	{"id":"2","inid":2,"type":2,"name":"エンバームド","repop":120,"id_area":62,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":101.17,"real_posy":39.81,"posx":101.17,"posy":39.81},
 	{"id":"3","inid":3,"type":2,"name":"イリュージョン","repop":120,"id_area":61,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":112.19,"real_posy":52.06,"posx":112.19,"posy":52.06},
@@ -143,10 +143,10 @@ MobData = {
 	{"id":"141","inid":33,"type":2,"name":"小さな黒魔法師","repop":120,"id_area":90,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":92.36,"real_posy":68.31,"posx":92.36,"posy":68.31},
 ]};
 MobList = {
-	10051: ["モンスター", "グルベン","包帯人間","エンバームド","イリュージョン","デスピンサー","食人スコーピオン","ソードスパイダー","ウィーブウィドウ","殺人蚊の群れ","ファントム","ファイアドレイク","ディムジェスター","鎧霊","サティロス","ブラックメイジ","ウェアゴート","ヴァンパイア","デビルスカラー","ブレイザー","故障中ゴーレム","小さな包帯人間","ミニエンバームド","イリュージョナー","リトルデスピンサ","小食人スコーピオ","幼ソードスパイダ","小ウィブウィドウ","小殺人蚊の群れ","ファントムの分身","リトルドレイク","リトルジェスター","小さな鎧霊","小さなサティロス","小さな黒魔法師","ミニウェアゴート","幼ヴァンパイア","デビルスカラ助手","小さなブレイザー",],
+	10108: ["モンスター", "グルベン","包帯人間","エンバームド","イリュージョン","デスピンサー","食人スコーピオン","ソードスパイダー","ウィーブウィドウ","殺人蚊の群れ","ファントム","ファイアドレイク","ディムジェスター","鎧霊","サティロス","ブラックメイジ","ウェアゴート","ヴァンパイア","デビルスカラー","ブレイザー","故障中ゴーレム","小さな包帯人間","ミニエンバームド","イリュージョナー","リトルデスピンサ","小食人スコーピオ","幼ソードスパイダ","小ウィブウィドウ","小殺人蚊の群れ","ファントムの分身","リトルドレイク","リトルジェスター","小さな鎧霊","小さなサティロス","小さな黒魔法師","ミニウェアゴート","幼ヴァンパイア","デビルスカラ助手","小さなブレイザー",],
 };
 AreaData = {
-	10051: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10108: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":74.56,"real_posx2":77.38,"real_posy":10.88,"real_posy2":16.06,"posx":74.56,"posx2":77.38,"posy":10.88,"posy2":16.06},
 	{"id":"3","type":2,"name":"첫번째 비밀문","area_name":"","access_map":"","is_secret":0,"real_posx":49.69,"real_posx2":54.61,"real_posy":63.94,"real_posy2":74.53,"posx":49.69,"posx2":54.61,"posy":63.94,"posy2":74.53},

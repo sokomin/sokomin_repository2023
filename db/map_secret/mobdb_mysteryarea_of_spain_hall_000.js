@@ -1,5 +1,5 @@
 MobData = {
-	10052: [ {"id":"0","inid":0,"type":2,"name":"アクアスライム","repop":120,"id_area":13,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":11.47,"real_posy":36.47,"posx":11.47,"posy":36.47},
+	10109: [ {"id":"0","inid":0,"type":2,"name":"アクアスライム","repop":120,"id_area":13,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":11.47,"real_posy":36.47,"posx":11.47,"posy":36.47},
 	{"id":"1","inid":0,"type":2,"name":"アクアスライム","repop":120,"id_area":13,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.11,"real_posy":34.69,"posx":15.11,"posy":34.69},
 	{"id":"2","inid":0,"type":2,"name":"アクアスライム","repop":120,"id_area":12,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":22.7,"real_posy":39,"posx":22.7,"posy":39},
 	{"id":"3","inid":1,"type":2,"name":"水晶烏賊","repop":120,"id_area":12,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":24.88,"real_posy":37.16,"posx":24.88,"posy":37.16},
@@ -53,10 +53,10 @@ MobData = {
 	{"id":"51","inid":4,"type":2,"name":"アクアスライム","repop":120,"id_area":33,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":116.98,"real_posy":113.25,"posx":116.98,"posy":113.25},
 ]};
 MobList = {
-	10052: ["モンスター", "アクアスライム","水晶烏賊","アクアスライム","水晶烏賊","アクアスライム","ポルネビル",],
+	10109: ["モンスター", "アクアスライム","水晶烏賊","アクアスライム","水晶烏賊","アクアスライム","ポルネビル",],
 };
 AreaData = {
-	10052: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10109: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":2,"name":"時作文","area_name":"","access_map":"","is_secret":0,"real_posx":10.72,"real_posx2":14.28,"real_posy":26.41,"real_posy2":33.81,"posx":10.72,"posx2":14.28,"posy":26.41,"posy2":33.81},
 	{"id":"3","type":12,"name":"ムンフラワー一輪","area_name":"","access_map":"","is_secret":0,"real_posx":57.17,"real_posx2":59.73,"real_posy":12.38,"real_posy2":17.59,"posx":57.17,"posx2":59.73,"posy":12.38,"posy2":17.59},

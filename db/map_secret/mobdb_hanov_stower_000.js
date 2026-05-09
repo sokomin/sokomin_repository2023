@@ -1,5 +1,5 @@
 MobData = {
-	10042: [ {"id":"0","inid":0,"type":2,"name":"リザードチャージ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.52,"real_posy":43.47,"posx":18.52,"posy":43.47},
+	10101: [ {"id":"0","inid":0,"type":2,"name":"リザードチャージ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.52,"real_posy":43.47,"posx":18.52,"posy":43.47},
 	{"id":"1","inid":0,"type":2,"name":"リザードチャージ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.59,"real_posy":46.03,"posx":19.59,"posy":46.03},
 	{"id":"2","inid":4,"type":2,"name":"シューター","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.78,"real_posy":51.81,"posx":19.78,"posy":51.81},
 	{"id":"3","inid":0,"type":2,"name":"リザードチャージ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":8.88,"real_posy":69.47,"posx":8.88,"posy":69.47},
@@ -68,10 +68,10 @@ MobData = {
 	{"id":"68","inid":5,"type":1,"name":"トパコ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":5.62,"real_posy":7.84,"posx":5.62,"posy":7.84},
 ]};
 MobList = {
-	10042: ["モンスター", "リザードチャージ","リザードトルーパ","ファイアドレイク","サラマンダー","シューター","トパコ","騎士の亡霊",],
+	10101: ["モンスター", "リザードチャージ","リザードトルーパ","ファイアドレイク","サラマンダー","シューター","トパコ","騎士の亡霊",],
 };
 AreaData = {
-	10042: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10101: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":5.75,"real_posx2":9.62,"real_posy":8.62,"real_posy2":14.25,"posx":5.75,"posx2":9.62,"posy":8.62,"posy2":14.25},
 	{"id":"3","type":0,"name":"a","area_name":"","access_map":"","is_secret":0,"real_posx":47.61,"real_posx2":53.98,"real_posy":73.16,"real_posy2":80.69,"posx":47.61,"posx2":53.98,"posy":73.16,"posy2":80.69},

@@ -1,11 +1,11 @@
 MobData = {
-	10081: [ {"id":"0","inid":1,"type":2,"name":"トリーズメン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":58.91,"real_posy":32.25,"posx":58.91,"posy":32.25},
+	10151: [ {"id":"0","inid":1,"type":2,"name":"トリーズメン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":58.91,"real_posy":32.25,"posx":58.91,"posy":32.25},
 ]};
 MobList = {
-	10081: ["モンスター", "None.","トリーズメン",],
+	10151: ["モンスター", "None.","トリーズメン",],
 };
 AreaData = {
-	10081: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10151: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":4,"name":"배신자자리","area_name":"","access_map":"","is_secret":0,"real_posx":56.98,"real_posx2":60.12,"real_posy":31.03,"real_posy2":33.03,"posx":56.98,"posx2":60.12,"posy":31.03,"posy2":33.03},
 	{"id":"3","type":12,"name":"白水晶","area_name":"","access_map":"","is_secret":0,"real_posx":42.33,"real_posx2":44.61,"real_posy":48.72,"real_posy2":52.88,"posx":42.33,"posx2":44.61,"posy":48.72,"posy2":52.88},

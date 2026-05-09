@@ -1,5 +1,5 @@
 MobData = {
-	10023: [ {"id":"0","inid":14,"type":2,"name":"狂った狼","repop":120,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":126.83,"real_posy":20.53,"posx":126.83,"posy":20.53},
+	10089: [ {"id":"0","inid":14,"type":2,"name":"狂った狼","repop":120,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":126.83,"real_posy":20.53,"posx":126.83,"posy":20.53},
 	{"id":"1","inid":14,"type":2,"name":"狂った狼","repop":120,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":120.69,"real_posy":25,"posx":120.69,"posy":25},
 	{"id":"2","inid":14,"type":2,"name":"狂った狼","repop":120,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":109.72,"real_posy":20.5,"posx":109.72,"posy":20.5},
 	{"id":"3","inid":14,"type":2,"name":"狂った狼","repop":120,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":108.33,"real_posy":26.47,"posx":108.33,"posy":26.47},
@@ -182,10 +182,10 @@ MobData = {
 	{"id":"180","inid":17,"type":2,"name":"狂信者アルン","repop":120,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":71.11,"real_posy":146.62,"posx":71.11,"posy":146.62},
 ]};
 MobList = {
-	10023: ["モンスター", "ボーンキメラ","リッチ","支配された魔術師","古代魔法の信奉者","支配された魔術師","支配された魔術師","支配された魔術師","支配された魔術師","支配された魔術師","None.","None.","None.","None.","None.","狂った狼","協会魔術師","エターナルリッチ","狂信者アルン",],
+	10089: ["モンスター", "ボーンキメラ","リッチ","支配された魔術師","古代魔法の信奉者","支配された魔術師","支配された魔術師","支配された魔術師","支配された魔術師","支配された魔術師","None.","None.","None.","None.","None.","狂った狼","協会魔術師","エターナルリッチ","狂信者アルン",],
 };
 AreaData = {
-	10023: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10089: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":143.28,"real_posx2":145.23,"real_posy":6.88,"real_posy2":9.88,"posx":143.28,"posx2":145.23,"posy":6.88,"posy2":9.88},
 	{"id":"3","type":0,"name":"대미지 지속2","area_name":"","access_map":"","is_secret":0,"real_posx":68.14,"real_posx2":87.28,"real_posy":0.94,"real_posy2":25.72,"posx":68.14,"posx2":87.28,"posy":0.94,"posy2":25.72},

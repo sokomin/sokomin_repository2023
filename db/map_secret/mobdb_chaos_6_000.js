@@ -1,5 +1,5 @@
 MobData = {
-	10020: [ {"id":"0","inid":1,"type":2,"name":"スクリーマー","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.25,"real_posy":20.06,"posx":15.25,"posy":20.06},
+	10082: [ {"id":"0","inid":1,"type":2,"name":"スクリーマー","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.25,"real_posy":20.06,"posx":15.25,"posy":20.06},
 	{"id":"1","inid":0,"type":2,"name":"ダークＳショップ","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":17.75,"real_posy":17,"posx":17.75,"posy":17},
 	{"id":"2","inid":1,"type":2,"name":"スクリーマー","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.22,"real_posy":25.12,"posx":15.22,"posy":25.12},
 	{"id":"3","inid":1,"type":2,"name":"スクリーマー","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":17.83,"real_posy":27.84,"posx":17.83,"posy":27.84},
@@ -77,10 +77,10 @@ MobData = {
 	{"id":"77","inid":20,"type":2,"name":"デスブリンガー","repop":120,"id_area":15,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":127.89,"real_posy":154.94,"posx":127.89,"posy":154.94},
 ]};
 MobList = {
-	10020: ["モンスター", "ダークＳショップ","スクリーマー","使徒","堕天使","デスブリンガー","狂魔","デスマスク","ホワイトシャドー","ダークリッチ","ボイドジョーカー","None.","ダークビショップ","使徒","使徒","堕天使","従属された魂","デスマスク","狂魔","ホワイトシャドー","斬殺者","デスブリンガー","下級ラク","ダークビショップ","堕歎使","ホワイトシｃドー","Ｇスマスク","b'\\x83{\\x82C\\x83h\\x83W\\x83\\x87\\x81[\\x83J\\x81['","ダークビ７ョップ","スクリーマ[","堕天夙","ホワイトシャＩー",],
+	10082: ["モンスター", "ダークＳショップ","スクリーマー","使徒","堕天使","デスブリンガー","狂魔","デスマスク","ホワイトシャドー","ダークリッチ","ボイドジョーカー","None.","ダークビショップ","使徒","使徒","堕天使","従属された魂","デスマスク","狂魔","ホワイトシャドー","斬殺者","デスブリンガー","下級ラク","ダークビショップ","堕歎使","ホワイトシｃドー","Ｇスマスク","b'\\x83{\\x82C\\x83h\\x83W\\x83\\x87\\x81[\\x83J\\x81['","ダークビ７ョップ","スクリーマ[","堕天夙","ホワイトシャＩー",],
 };
 AreaData = {
-	10020: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10082: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":4,"name":"Wave 1","area_name":"","access_map":"","is_secret":0,"real_posx":8.31,"real_posx2":30.45,"real_posy":8.34,"real_posy2":37.25,"posx":8.31,"posx2":30.45,"posy":8.34,"posy2":37.25},
 	{"id":"3","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":15.86,"real_posx2":23.17,"real_posy":18.5,"real_posy2":26.38,"posx":15.86,"posx2":23.17,"posy":18.5,"posy2":26.38},

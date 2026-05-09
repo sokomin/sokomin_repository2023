@@ -1,5 +1,5 @@
 MobData = {
-	10019: [ {"id":"0","inid":0,"type":2,"name":"ならず者","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":17.64,"real_posy":18.88,"posx":17.64,"posy":18.88},
+	10081: [ {"id":"0","inid":0,"type":2,"name":"ならず者","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":17.64,"real_posy":18.88,"posx":17.64,"posy":18.88},
 	{"id":"1","inid":23,"type":2,"name":"궶귞꺒롌","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.36,"real_posy":21.12,"posx":16.36,"posy":21.12},
 	{"id":"2","inid":0,"type":2,"name":"ならず者","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.88,"real_posy":24.31,"posx":16.88,"posy":24.31},
 	{"id":"3","inid":0,"type":2,"name":"ならず者","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.06,"real_posy":25.72,"posx":18.06,"posy":25.72},
@@ -81,10 +81,10 @@ MobData = {
 	{"id":"79","inid":13,"type":2,"name":"狂魔","repop":120,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":77.81,"real_posy":81.09,"posx":77.81,"posy":81.09},
 ]};
 MobList = {
-	10019: ["モンスター", "ならず者","ならず菖","ならず者","ならず者","決闘士","ならず者","踊り子","ならず者","スナイパー","キラーディー","一級決闘士","リリス","κらず者","狂魔","狂魔","スナイパー","邪臣","邪臣","狂魔","ダークアーチャー","キラーディー","None.","憾魔","궶귞꺒롌",],
+	10081: ["モンスター", "ならず者","ならず菖","ならず者","ならず者","決闘士","ならず者","踊り子","ならず者","スナイパー","キラーディー","一級決闘士","リリス","κらず者","狂魔","狂魔","スナイパー","邪臣","邪臣","狂魔","ダークアーチャー","キラーディー","None.","憾魔","궶귞꺒롌",],
 };
 AreaData = {
-	10019: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10081: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":4,"name":"Wave 1","area_name":"","access_map":"","is_secret":0,"real_posx":8.25,"real_posx2":30.39,"real_posy":8.34,"real_posy2":37.25,"posx":8.25,"posx2":30.39,"posy":8.34,"posy2":37.25},
 	{"id":"3","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":15.7,"real_posx2":23.02,"real_posy":17.69,"real_posy2":25.56,"posx":15.7,"posx2":23.02,"posy":17.69,"posy2":25.56},

@@ -1,5 +1,5 @@
 MobData = {
-	10090: [ {"id":"0","inid":0,"type":2,"name":"クーリックの部下","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":46.34,"real_posy":146.09,"posx":46.34,"posy":146.09},
+	10057: [ {"id":"0","inid":0,"type":2,"name":"クーリックの部下","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":46.34,"real_posy":146.09,"posx":46.34,"posy":146.09},
 	{"id":"1","inid":1,"type":1,"name":"マーカス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":7.25,"real_posy":16.44,"posx":7.25,"posy":16.44},
 	{"id":"2","inid":3,"type":2,"name":"巨人骸骨","repop":120,"id_area":19,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":6.8,"real_posy":187.12,"posx":6.8,"posy":187.12},
 	{"id":"3","inid":4,"type":2,"name":"幽霊鎧","repop":120,"id_area":24,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":41.88,"real_posy":123.75,"posx":41.88,"posy":123.75},
@@ -74,10 +74,10 @@ MobData = {
 	{"id":"74","inid":8,"type":2,"name":"アイウィング","repop":120,"id_area":28,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":45.78,"real_posy":179.47,"posx":45.78,"posy":179.47},
 ]};
 MobList = {
-	10090: ["モンスター", "クーリックの部下","マーカス","クーリック","巨人骸骨","幽霊鎧","ザカーン","ザカーンの手下","幽霊鎧の分身","アイウィング","ゴートマン","ワーム","スパイダー","ポイズンテール","堕落魔法師","ゴースト","ファイアブロアー",],
+	10057: ["モンスター", "クーリックの部下","マーカス","クーリック","巨人骸骨","幽霊鎧","ザカーン","ザカーンの手下","幽霊鎧の分身","アイウィング","ゴートマン","ワーム","スパイダー","ポイズンテール","堕落魔法師","ゴースト","ファイアブロアー",],
 };
 AreaData = {
-	10090: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10057: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":3.02,"real_posx2":6.59,"real_posy":6.88,"real_posy2":12,"posx":3.02,"posx2":6.59,"posy":6.88,"posy2":12},
 	{"id":"3","type":2,"name":"ザカーン捕らえに行く扉","area_name":"","access_map":"","is_secret":0,"real_posx":22.41,"real_posx2":25.09,"real_posy":109.34,"real_posy2":115.66,"posx":22.41,"posx2":25.09,"posy":109.34,"posy2":115.66},

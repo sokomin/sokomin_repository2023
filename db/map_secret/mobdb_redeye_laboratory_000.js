@@ -1,5 +1,5 @@
 MobData = {
-	10059: [ {"id":"0","inid":0,"type":2,"name":"監査官ファイガン","repop":120,"id_area":56,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":45.23,"real_posy":78.31,"posx":45.23,"posy":78.31},
+	10120: [ {"id":"0","inid":0,"type":2,"name":"監査官ファイガン","repop":120,"id_area":56,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":45.23,"real_posy":78.31,"posx":45.23,"posy":78.31},
 	{"id":"1","inid":1,"type":2,"name":"レッドアイ護衛兵","repop":120,"id_area":57,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":36.78,"real_posy":75.38,"posx":36.78,"posy":75.38},
 	{"id":"2","inid":3,"type":2,"name":"レッドアイ所員","repop":120,"id_area":57,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":38.52,"real_posy":76.88,"posx":38.52,"posy":76.88},
 	{"id":"3","inid":3,"type":2,"name":"レッドアイ所員","repop":120,"id_area":58,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":45.27,"real_posy":71.22,"posx":45.27,"posy":71.22},
@@ -79,10 +79,10 @@ MobData = {
 	{"id":"77","inid":7,"type":2,"name":"イフリィト","repop":120,"id_area":108,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":44.39,"real_posy":12.22,"posx":44.39,"posy":12.22},
 ]};
 MobList = {
-	10059: ["モンスター", "監査官ファイガン","レッドアイ護衛兵","レッドアイ警備犬","レッドアイ所員","レッドアイ信奉者","エリオン","ファイアドレイク","イフリィト",],
+	10120: ["モンスター", "監査官ファイガン","レッドアイ護衛兵","レッドアイ警備犬","レッドアイ所員","レッドアイ信奉者","エリオン","ファイアドレイク","イフリィト",],
 };
 AreaData = {
-	10059: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10120: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":49.28,"real_posx2":52.7,"real_posy":49.25,"real_posy2":53.53,"posx":49.28,"posx2":52.7,"posy":49.25,"posy2":53.53},
 	{"id":"3","type":12,"name":"出入国管理事務所","area_name":"","access_map":"","is_secret":0,"real_posx":52,"real_posx2":54.86,"real_posy":45.25,"real_posy2":50.06,"posx":52,"posx2":54.86,"posy":45.25,"posy2":50.06},

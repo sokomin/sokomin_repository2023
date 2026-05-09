@@ -1,5 +1,5 @@
 MobData = {
-	10056: [ {"id":"0","inid":0,"type":2,"name":"変異ダリン","repop":7200,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":22.64,"real_posy":21.72,"posx":22.64,"posy":21.72},
+	10116: [ {"id":"0","inid":0,"type":2,"name":"変異ダリン","repop":7200,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":22.64,"real_posy":21.72,"posx":22.64,"posy":21.72},
 	{"id":"1","inid":1,"type":2,"name":"コネクター","repop":7200,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.09,"real_posy":25.19,"posx":19.09,"posy":25.19},
 	{"id":"2","inid":1,"type":2,"name":"コネクター","repop":7200,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":23.31,"real_posy":26.25,"posx":23.31,"posy":26.25},
 	{"id":"3","inid":1,"type":2,"name":"コネクター","repop":7200,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":27.53,"real_posy":24.06,"posx":27.53,"posy":24.06},
@@ -7,10 +7,10 @@ MobData = {
 	{"id":"5","inid":1,"type":2,"name":"コネクター","repop":7200,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":24.78,"real_posy":16.69,"posx":24.78,"posy":16.69},
 ]};
 MobList = {
-	10056: ["モンスター", "変異ダリン","コネクター",],
+	10116: ["モンスター", "変異ダリン","コネクター",],
 };
 AreaData = {
-	10056: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10116: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":43.5,"real_posx2":47.97,"real_posy":41.31,"real_posy2":48.19,"posx":43.5,"posx2":47.97,"posy":41.31,"posy2":48.19},
 	{"id":"3","type":4,"name":"Area 2","area_name":"","access_map":"","is_secret":0,"real_posx":15.78,"real_posx2":29.78,"real_posy":12.5,"real_posy2":31.12,"posx":15.78,"posx2":29.78,"posy":12.5,"posy2":31.12},

@@ -1,5 +1,5 @@
 MobData = {
-	10070: [ {"id":"0","inid":0,"type":2,"name":"망자","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.19,"real_posy":50.38,"posx":28.19,"posy":50.38},
+	10131: [ {"id":"0","inid":0,"type":2,"name":"망자","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.19,"real_posy":50.38,"posx":28.19,"posy":50.38},
 	{"id":"1","inid":0,"type":2,"name":"망자","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":30.83,"real_posy":60.94,"posx":30.83,"posy":60.94},
 	{"id":"2","inid":0,"type":2,"name":"망자","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.88,"real_posy":72.31,"posx":28.88,"posy":72.31},
 	{"id":"3","inid":0,"type":2,"name":"망자","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.06,"real_posy":78.75,"posx":25.06,"posy":78.75},
@@ -30,10 +30,10 @@ MobData = {
 	{"id":"28","inid":3,"type":2,"name":"떠도는 해골","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":31.34,"real_posy":49.25,"posx":31.34,"posy":49.25},
 ]};
 MobList = {
-	10070: ["モンスター", "망자","망령","떠도는 존재","떠도는 해골",],
+	10131: ["モンスター", "망자","망령","떠도는 존재","떠도는 해골",],
 };
 AreaData = {
-	10070: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10131: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":4,"name":"Area 1","area_name":"","access_map":"","is_secret":0,"real_posx":11.47,"real_posx2":35.12,"real_posy":57.38,"real_posy2":91.25,"posx":11.47,"posx2":35.12,"posy":57.38,"posy2":91.25},
 	{"id":"3","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":19.97,"real_posx2":24.94,"real_posy":42.62,"real_posy2":56.5,"posx":19.97,"posx2":24.94,"posy":42.62,"posy2":56.5},

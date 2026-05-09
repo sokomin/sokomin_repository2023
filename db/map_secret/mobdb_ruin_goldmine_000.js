@@ -1,5 +1,5 @@
 MobData = {
-	10061: [ {"id":"0","inid":1,"type":2,"name":"鉱員巨人","repop":120,"id_area":68,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":118.73,"real_posy":51.19,"posx":118.73,"posy":51.19},
+	10123: [ {"id":"0","inid":1,"type":2,"name":"鉱員巨人","repop":120,"id_area":68,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":118.73,"real_posy":51.19,"posx":118.73,"posy":51.19},
 	{"id":"1","inid":1,"type":2,"name":"鉱員巨人","repop":120,"id_area":68,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":121.11,"real_posy":50.81,"posx":121.11,"posy":50.81},
 	{"id":"2","inid":1,"type":2,"name":"鉱員巨人","repop":120,"id_area":48,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":88.88,"real_posy":88.44,"posx":88.88,"posy":88.44},
 	{"id":"3","inid":1,"type":2,"name":"鉱員巨人","repop":120,"id_area":51,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":96.12,"real_posy":75.19,"posx":96.12,"posy":75.19},
@@ -182,10 +182,10 @@ MobData = {
 	{"id":"250","inid":0,"type":1,"name":"採鉱師ゴルダ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":11.34,"real_posy":80.44,"posx":11.34,"posy":80.44},
 ]};
 MobList = {
-	10061: ["モンスター", "採鉱師ゴルダ","鉱員巨人","大トンネルラット","マーブルガゴイル","採鉱ゴーレム司令","採鉱ゴーレム","鉱山の悪霊","ホーンド","ホーンド","ホーンド","ホーンド","ホーンド","ホーンド","ホーンド","ホーンド","ホーンド","ホーンド","ディムジェスター","ホーンド","悪霊の追従者","採鉱中央システム",],
+	10123: ["モンスター", "採鉱師ゴルダ","鉱員巨人","大トンネルラット","マーブルガゴイル","採鉱ゴーレム司令","採鉱ゴーレム","鉱山の悪霊","ホーンド","ホーンド","ホーンド","ホーンド","ホーンド","ホーンド","ホーンド","ホーンド","ホーンド","ホーンド","ディムジェスター","ホーンド","悪霊の追従者","採鉱中央システム",],
 };
 AreaData = {
-	10061: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10123: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":4,"name":"되다 만 미이라","area_name":"","access_map":"","is_secret":0,"real_posx":116.16,"real_posx2":130.89,"real_posy":5.16,"real_posy2":23.38,"posx":116.16,"posx2":130.89,"posy":5.16,"posy2":23.38},
 	{"id":"3","type":4,"name":"소환13","area_name":"","access_map":"","is_secret":0,"real_posx":118.12,"real_posx2":125,"real_posy":85.16,"real_posy2":93.81,"posx":118.12,"posx2":125,"posy":85.16,"posy2":93.81},

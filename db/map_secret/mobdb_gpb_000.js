@@ -1,5 +1,5 @@
 MobData = {
-	10036: [ {"id":"0","inid":3,"type":2,"name":"指揮官ガーザンパ","repop":120,"id_area":11,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":58.08,"real_posy":98.09,"posx":58.08,"posy":98.09},
+	10033: [ {"id":"0","inid":3,"type":2,"name":"指揮官ガーザンパ","repop":120,"id_area":11,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":58.08,"real_posy":98.09,"posx":58.08,"posy":98.09},
 	{"id":"1","inid":0,"type":2,"name":"トーチリザード","repop":120,"id_area":13,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":23.33,"real_posy":33.03,"posx":23.33,"posy":33.03},
 	{"id":"2","inid":1,"type":2,"name":"リザード歩兵","repop":120,"id_area":13,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":27.62,"real_posy":28.03,"posx":27.62,"posy":28.03},
 	{"id":"3","inid":1,"type":2,"name":"リザード歩兵","repop":120,"id_area":22,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":31.44,"real_posy":15.47,"posx":31.44,"posy":15.47},
@@ -128,10 +128,10 @@ MobData = {
 	{"id":"126","inid":12,"type":2,"name":"骸骨騎士","repop":120,"id_area":48,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":113.11,"real_posy":35.84,"posx":113.11,"posy":35.84},
 ]};
 MobList = {
-	10036: ["モンスター", "トーチリザード","リザード歩兵","リザード指揮官","指揮官ガーザンパ","魔犬","鷲二等歩兵","鷲一等歩兵","鷲狂戦士チック","アウトローベア","オーガ軍団兵","オーガ軍団長","司令官ツバク","骸骨騎士",],
+	10033: ["モンスター", "トーチリザード","リザード歩兵","リザード指揮官","指揮官ガーザンパ","魔犬","鷲二等歩兵","鷲一等歩兵","鷲狂戦士チック","アウトローベア","オーガ軍団兵","オーガ軍団長","司令官ツバク","骸骨騎士",],
 };
 AreaData = {
-	10036: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10033: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"一番目の門を開きなさい！！！","area_name":"","access_map":"","is_secret":0,"real_posx":13.03,"real_posx2":16.23,"real_posy":17.41,"real_posy2":23.47,"posx":13.03,"posx2":16.23,"posy":17.41,"posy2":23.47},
 	{"id":"3","type":3,"name":"스모키 군도 삼림 지대로","area_name":"","access_map":"expansion\\[GPB]001.rmd","is_secret":0,"real_posx":133.62,"real_posx2":136.53,"real_posy":10.47,"real_posy2":15.38,"posx":133.62,"posx2":136.53,"posy":10.47,"posy2":15.38},

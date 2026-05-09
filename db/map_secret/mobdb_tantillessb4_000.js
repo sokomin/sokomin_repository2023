@@ -1,5 +1,5 @@
 MobData = {
-	10085: [ {"id":"0","inid":0,"type":1,"name":"イディア","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":13.45,"real_posy":43.03,"posx":13.45,"posy":43.03},
+	10137: [ {"id":"0","inid":0,"type":1,"name":"イディア","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":13.45,"real_posy":43.03,"posx":13.45,"posy":43.03},
 	{"id":"1","inid":2,"type":1,"name":"降神術師ムシル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":73.62,"real_posy":96.88,"posx":73.62,"posy":96.88},
 	{"id":"2","inid":1,"type":1,"name":"降神術師ムシル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":146.44,"real_posy":3.72,"posx":146.44,"posy":3.72},
 	{"id":"3","inid":3,"type":2,"name":"巡察型兵","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.09,"real_posy":29.38,"posx":25.09,"posy":29.38},
@@ -235,10 +235,10 @@ MobData = {
 	{"id":"233","inid":24,"type":2,"name":"警備型兵","repop":120,"id_area":72,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":131.59,"real_posy":57.66,"posx":131.59,"posy":57.66},
 ]};
 MobList = {
-	10085: ["モンスター", "イディア","降神術師ムシル","降神術師ムシル","巡察型兵","巡察型強化兵","誘導型兵","誘導型強化兵","指導型兵","指導型強化兵","攻撃型兵","攻撃型強化兵","特攻型兵","特攻型強化兵","補助型兵","補助型強化兵","守護型兵","守護型兵","呪われし亡霊","呪われし亡霊","ソルクリエーター","修理兵","マウスキラー","None.","None.","警備型兵",],
+	10137: ["モンスター", "イディア","降神術師ムシル","降神術師ムシル","巡察型兵","巡察型強化兵","誘導型兵","誘導型強化兵","指導型兵","指導型強化兵","攻撃型兵","攻撃型強化兵","特攻型兵","特攻型強化兵","補助型兵","補助型強化兵","守護型兵","守護型兵","呪われし亡霊","呪われし亡霊","ソルクリエーター","修理兵","マウスキラー","None.","None.","警備型兵",],
 };
 AreaData = {
-	10085: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10137: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":8.41,"real_posx2":11.94,"real_posy":44.25,"real_posy2":48.75,"posx":8.41,"posx2":11.94,"posy":44.25,"posy2":48.75},
 	{"id":"3","type":4,"name":"쉬움1","area_name":"","access_map":"","is_secret":0,"real_posx":23.3,"real_posx2":32.58,"real_posy":26.12,"real_posy2":33.69,"posx":23.3,"posx2":32.58,"posy":26.12,"posy2":33.69},

@@ -1,5 +1,5 @@
 MobData = {
-	10068: [ {"id":"0","inid":0,"type":2,"name":"レッドアイ信奉者","repop":120,"id_area":22,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":69.3,"real_posy":68.84,"posx":69.3,"posy":68.84},
+	10129: [ {"id":"0","inid":0,"type":2,"name":"レッドアイ信奉者","repop":120,"id_area":22,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":69.3,"real_posy":68.84,"posx":69.3,"posy":68.84},
 	{"id":"1","inid":0,"type":2,"name":"レッドアイ信奉者","repop":120,"id_area":22,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":70.08,"real_posy":72.31,"posx":70.08,"posy":72.31},
 	{"id":"2","inid":6,"type":2,"name":"骸骨狂戦士","repop":120,"id_area":22,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":73.67,"real_posy":73.34,"posx":73.67,"posy":73.34},
 	{"id":"3","inid":1,"type":2,"name":"レッドアイ護衛兵","repop":120,"id_area":21,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":80.48,"real_posy":57.91,"posx":80.48,"posy":57.91},
@@ -115,10 +115,10 @@ MobData = {
 	{"id":"119","inid":13,"type":1,"name":"クルーガ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":61.47,"real_posy":54.62,"posx":61.47,"posy":54.62},
 ]};
 MobList = {
-	10068: ["モンスター", "レッドアイ信奉者","レッドアイ護衛兵","レッドアイ所員","レッドアイ警備犬","レッドアイ骨戦士","レッドアイ骨戦士","骸骨狂戦士","レッドアイラット","レッドアイラティ","鷲戦士","鷲闘士","レッドアイミイラ","レッドアイ包帯男","クルーガ",],
+	10129: ["モンスター", "レッドアイ信奉者","レッドアイ護衛兵","レッドアイ所員","レッドアイ警備犬","レッドアイ骨戦士","レッドアイ骨戦士","骸骨狂戦士","レッドアイラット","レッドアイラティ","鷲戦士","鷲闘士","レッドアイミイラ","レッドアイ包帯男","クルーガ",],
 };
 AreaData = {
-	10068: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10129: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":58.48,"real_posx2":64.78,"real_posy":55.16,"real_posy2":63.75,"posx":58.48,"posx2":64.78,"posy":55.16,"posy2":63.75},
 	{"id":"3","type":0,"name":"Area 2","area_name":"","access_map":"","is_secret":0,"real_posx":8.16,"real_posx2":14.92,"real_posy":64.94,"real_posy2":73.16,"posx":8.16,"posx2":14.92,"posy":64.94,"posy2":73.16},

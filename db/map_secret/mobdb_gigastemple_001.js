@@ -1,5 +1,5 @@
 MobData = {
-	10035: [ {"id":"0","inid":1,"type":2,"name":"ソドムブラー","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":27.16,"real_posy":113.22,"posx":27.16,"posy":113.22},
+	10096: [ {"id":"0","inid":1,"type":2,"name":"ソドムブラー","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":27.16,"real_posy":113.22,"posx":27.16,"posy":113.22},
 	{"id":"1","inid":6,"type":2,"name":"ガイナスソード","repop":120,"id_area":16,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":93.12,"real_posy":34.69,"posx":93.12,"posy":34.69},
 	{"id":"2","inid":6,"type":2,"name":"ガイナスソード","repop":120,"id_area":13,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":96.84,"real_posy":33.81,"posx":96.84,"posy":33.81},
 	{"id":"3","inid":6,"type":2,"name":"ガイナスソード","repop":120,"id_area":15,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":96.91,"real_posy":41.94,"posx":96.91,"posy":41.94},
@@ -40,10 +40,10 @@ MobData = {
 	{"id":"39","inid":5,"type":2,"name":"ソドムウィップ","repop":120,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":25.98,"real_posy":103.5,"posx":25.98,"posy":103.5},
 ]};
 MobList = {
-	10035: ["モンスター", "カダーム・ギガス","ソドムブラー","ガイナス","ハウロカーン","グリーク教修道士","ソドムウィップ","ガイナスソード","ウォームギガス","ハウロカーン","グリーク教修道士","ギガスの追従者",],
+	10096: ["モンスター", "カダーム・ギガス","ソドムブラー","ガイナス","ハウロカーン","グリーク教修道士","ソドムウィップ","ガイナスソード","ウォームギガス","ハウロカーン","グリーク教修道士","ギガスの追従者",],
 };
 AreaData = {
-	10035: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10096: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":6,"name":"カダーム・ギガスの礼拝堂","area_name":"","access_map":"","is_secret":0,"real_posx":11.59,"real_posx2":11.91,"real_posy":33.28,"real_posy2":33.91,"posx":11.59,"posx2":11.91,"posy":33.28,"posy2":33.91},
 	{"id":"3","type":6,"name":"ソドムブラーの礼拝堂","area_name":"","access_map":"","is_secret":0,"real_posx":26.25,"real_posx2":26.56,"real_posy":112.06,"real_posy2":112.84,"posx":26.25,"posx2":26.56,"posy":112.06,"posy2":112.84},

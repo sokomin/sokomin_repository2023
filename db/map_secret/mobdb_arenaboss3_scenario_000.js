@@ -1,5 +1,5 @@
 MobData = {
-	10003: [ {"id":"0","inid":0,"type":1,"name":"クリド","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":130.31,"real_posy":234.81,"posx":130.31,"posy":234.81},
+	10011: [ {"id":"0","inid":0,"type":1,"name":"クリド","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":130.31,"real_posy":234.81,"posx":130.31,"posy":234.81},
 	{"id":"1","inid":2,"type":2,"name":"ゲリオ","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":27.05,"real_posy":204.81,"posx":27.05,"posy":204.81},
 	{"id":"2","inid":4,"type":2,"name":"ゲリオの分身","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":22.89,"real_posy":203.38,"posx":22.89,"posy":203.38},
 	{"id":"3","inid":4,"type":2,"name":"ゲリオの分身","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":31.47,"real_posy":203.94,"posx":31.47,"posy":203.94},
@@ -29,10 +29,10 @@ MobData = {
 	{"id":"27","inid":9,"type":2,"name":"ミニゴーレム","repop":120,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":78.92,"real_posy":231.38,"posx":78.92,"posy":231.38},
 ]};
 MobList = {
-	10003: ["モンスター", "クリド","ゲリオ","ゲリオ","ゲリオの分身","ゲリオの分身","ゲリオの幻影","ゲリオの分身","汚染ゴーレム","汚染された人間","ミニゴーレム",],
+	10011: ["モンスター", "クリド","ゲリオ","ゲリオ","ゲリオの分身","ゲリオの分身","ゲリオの幻影","ゲリオの分身","汚染ゴーレム","汚染された人間","ミニゴーレム",],
 };
 AreaData = {
-	10003: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10011: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":127.64,"real_posx2":132.78,"real_posy":246.12,"real_posy2":254.06,"posx":127.64,"posx2":132.78,"posy":246.12,"posy2":254.06},
 	{"id":"3","type":0,"name":"이동영역 1","area_name":"","access_map":"","is_secret":0,"real_posx":27.28,"real_posx2":29.47,"real_posy":92.94,"real_posy2":100.81,"posx":27.28,"posx2":29.47,"posy":92.94,"posy2":100.81},

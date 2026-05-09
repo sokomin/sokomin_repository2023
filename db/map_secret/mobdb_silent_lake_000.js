@@ -1,5 +1,5 @@
 MobData = {
-	10067: [ {"id":"0","inid":0,"type":2,"name":"変異したカエル","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14,"real_posy":93.81,"posx":14,"posy":93.81},
+	10052: [ {"id":"0","inid":0,"type":2,"name":"変異したカエル","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14,"real_posy":93.81,"posx":14,"posy":93.81},
 	{"id":"1","inid":4,"type":1,"name":"フニン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":112.5,"real_posy":135.88,"posx":112.5,"posy":135.88},
 	{"id":"2","inid":0,"type":2,"name":"変異したカエル","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.64,"real_posy":103.72,"posx":14.64,"posy":103.72},
 	{"id":"3","inid":0,"type":2,"name":"変異したカエル","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":20.44,"real_posy":104.28,"posx":20.44,"posy":104.28},
@@ -94,10 +94,10 @@ MobData = {
 	{"id":"93","inid":9,"type":2,"name":"アスタロト","repop":120,"id_area":27,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":96.97,"real_posy":29.38,"posx":96.97,"posy":29.38},
 ]};
 MobList = {
-	10067: ["モンスター", "変異したカエル","変異したスライム","汚染オクトパス","変異したピエンド","フニン","アミール","ミント","フォレーダ","None.","アスタロト",],
+	10052: ["モンスター", "変異したカエル","変異したスライム","汚染オクトパス","変異したピエンド","フニン","アミール","ミント","フォレーダ","None.","アスタロト",],
 };
 AreaData = {
-	10067: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10052: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":0,"name":"시작","area_name":"","access_map":"","is_secret":0,"real_posx":15,"real_posx2":19.83,"real_posy":102.59,"real_posy2":109.62,"posx":15,"posx2":19.83,"posy":102.59,"posy2":109.62},
 	{"id":"3","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":10.97,"real_posx2":13.62,"real_posy":126.66,"real_posy2":130.94,"posx":10.97,"posx2":13.62,"posy":126.66,"posy2":130.94},

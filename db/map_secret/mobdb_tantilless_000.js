@@ -1,5 +1,5 @@
 MobData = {
-	10072: [ {"id":"0","inid":0,"type":1,"name":"シャン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":187.2,"real_posy":23.25,"posx":187.2,"posy":23.25},
+	10142: [ {"id":"0","inid":0,"type":1,"name":"シャン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":187.2,"real_posy":23.25,"posx":187.2,"posy":23.25},
 	{"id":"1","inid":1,"type":1,"name":"イディア","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":340,"real_posy":25.38,"posx":340,"posy":25.38},
 	{"id":"2","inid":24,"type":1,"name":"発掘隊長バレン","repop":120,"id_area":45,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":2.41,"real_posy":35.97,"posx":2.41,"posy":35.97},
 	{"id":"5","inid":25,"type":2,"name":"デザートマウス","repop":120,"id_area":44,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":325.41,"real_posy":34.16,"posx":325.41,"posy":34.16},
@@ -248,10 +248,10 @@ MobData = {
 	{"id":"248","inid":25,"type":2,"name":"デザートマウス","repop":120,"id_area":44,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":332.92,"real_posy":34,"posx":332.92,"posy":34},
 ]};
 MobList = {
-	10072: ["モンスター", "シャン","イディア","None.","None.","None.","None.","サンドアーチャー","サンドソルジャー","冒険家の亡霊","サンドリーダー","サンドアーチャー","サンドソルジャー","冒険家の亡霊","サンドリーダー","砂漠スコーピオン","砂漠スコーピオン","発掘隊員の亡霊","発掘隊員の亡霊","ランディス団","サンドプロテクト","サンドプロテクト","ランディス","ハーソン","ジェーソン","発掘隊長バレン","デザートマウス","業火の剣士",],
+	10142: ["モンスター", "シャン","イディア","None.","None.","None.","None.","サンドアーチャー","サンドソルジャー","冒険家の亡霊","サンドリーダー","サンドアーチャー","サンドソルジャー","冒険家の亡霊","サンドリーダー","砂漠スコーピオン","砂漠スコーピオン","発掘隊員の亡霊","発掘隊員の亡霊","ランディス団","サンドプロテクト","サンドプロテクト","ランディス","ハーソン","ジェーソン","発掘隊長バレン","デザートマウス","業火の剣士",],
 };
 AreaData = {
-	10072: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10142: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":344.11,"real_posx2":347.33,"real_posy":22.12,"real_posy2":26.25,"posx":344.11,"posx2":347.33,"posy":22.12,"posy2":26.25},
 	{"id":"3","type":4,"name":"쉬움1","area_name":"","access_map":"","is_secret":0,"real_posx":321.8,"real_posx2":328.34,"real_posy":14.84,"real_posy2":21.06,"posx":321.8,"posx2":328.34,"posy":14.84,"posy2":21.06},

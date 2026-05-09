@@ -1,5 +1,5 @@
 MobData = {
-	10001: [ {"id":"0","inid":0,"type":2,"name":"骸骨騎士","repop":120,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":22.69,"real_posy":82.09,"posx":22.69,"posy":82.09},
+	10066: [ {"id":"0","inid":0,"type":2,"name":"骸骨騎士","repop":120,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":22.69,"real_posy":82.09,"posx":22.69,"posy":82.09},
 	{"id":"1","inid":1,"type":2,"name":"エンバームド","repop":120,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":26.73,"real_posy":76.41,"posx":26.73,"posy":76.41},
 	{"id":"2","inid":2,"type":2,"name":"ナイトシャドー","repop":120,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":21.31,"real_posy":69.84,"posx":21.31,"posy":69.84},
 	{"id":"3","inid":0,"type":2,"name":"骸骨騎士","repop":120,"id_area":11,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.95,"real_posy":75.62,"posx":16.95,"posy":75.62},
@@ -60,10 +60,10 @@ MobData = {
 	{"id":"58","inid":11,"type":2,"name":"真紅の従者","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":49.78,"real_posy":2.75,"posx":49.78,"posy":2.75},
 ]};
 MobList = {
-	10001: ["モンスター", "骸骨騎士","エンバームド","ナイトシャドー","シャドウス","ロキテレスワルツ","プディレスワルツ","ネコプレスワルツ","デブリレスワルツ","バントリー","ピーターソン","ダークシャドー","真紅の従者",],
+	10066: ["モンスター", "骸骨騎士","エンバームド","ナイトシャドー","シャドウス","ロキテレスワルツ","プディレスワルツ","ネコプレスワルツ","デブリレスワルツ","バントリー","ピーターソン","ダークシャドー","真紅の従者",],
 };
 AreaData = {
-	10001: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10066: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":6.27,"real_posx2":10.45,"real_posy":85.47,"real_posy2":92,"posx":6.27,"posx2":10.45,"posy":85.47,"posy2":92},
 	{"id":"3","type":4,"name":"퓌데로","area_name":"","access_map":"","is_secret":0,"real_posx":15.84,"real_posx2":20.88,"real_posy":29.91,"real_posy2":36,"posx":15.84,"posx2":20.88,"posy":29.91,"posy2":36},

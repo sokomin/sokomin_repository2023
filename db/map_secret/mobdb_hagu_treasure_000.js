@@ -1,5 +1,5 @@
 MobData = {
-	10040: [ {"id":"0","inid":0,"type":2,"name":"プレーガー","repop":120,"id_area":20,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.31,"real_posy":41.88,"posx":18.31,"posy":41.88},
+	10099: [ {"id":"0","inid":0,"type":2,"name":"プレーガー","repop":120,"id_area":20,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.31,"real_posy":41.88,"posx":18.31,"posy":41.88},
 	{"id":"1","inid":1,"type":2,"name":"ファントム","repop":120,"id_area":20,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.75,"real_posy":48.16,"posx":19.75,"posy":48.16},
 	{"id":"2","inid":2,"type":2,"name":"腐乱プレーガー","repop":120,"id_area":20,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.5,"real_posy":51.31,"posx":18.5,"posy":51.31},
 	{"id":"3","inid":3,"type":2,"name":"名無しファントム","repop":120,"id_area":21,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.3,"real_posy":73.41,"posx":16.3,"posy":73.41},
@@ -122,10 +122,10 @@ MobData = {
 	{"id":"122","inid":19,"type":1,"name":"正気のバーバー","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":81.39,"real_posy":143.84,"posx":81.39,"posy":143.84},
 ]};
 MobList = {
-	10040: ["モンスター", "プレーガー","ファントム","腐乱プレーガー","名無しファントム","ラギッドプレーガ","ワンダファントム","凶暴プレーガー","ヒートファントム","マッドプレーガー","狂暴ファントム","None.","None.","None.","宝物管理者","None.","盗賊団員","None.","強欲バーバー","ザーナ","正気のバーバー","アクアスライム",],
+	10099: ["モンスター", "プレーガー","ファントム","腐乱プレーガー","名無しファントム","ラギッドプレーガ","ワンダファントム","凶暴プレーガー","ヒートファントム","マッドプレーガー","狂暴ファントム","None.","None.","None.","宝物管理者","None.","盗賊団員","None.","強欲バーバー","ザーナ","正気のバーバー","アクアスライム",],
 };
 AreaData = {
-	10040: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10099: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":10,"real_posx2":13.98,"real_posy":15.94,"real_posy2":23.31,"posx":10,"posx2":13.98,"posy":15.94,"posy2":23.31},
 	{"id":"3","type":12,"name":"碑石","area_name":"","access_map":"","is_secret":0,"real_posx":6.97,"real_posx2":10,"real_posy":17.94,"real_posy2":25.62,"posx":6.97,"posx2":10,"posy":17.94,"posy2":25.62},

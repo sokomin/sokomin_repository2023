@@ -1,5 +1,5 @@
 MobData = {
-	10050: [ {"id":"0","inid":0,"type":2,"name":"小さなスパイダー","repop":7200,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":23.06,"real_posy":14.78,"posx":23.06,"posy":14.78},
+	10107: [ {"id":"0","inid":0,"type":2,"name":"小さなスパイダー","repop":7200,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":23.06,"real_posy":14.78,"posx":23.06,"posy":14.78},
 	{"id":"1","inid":0,"type":2,"name":"小さなスパイダー","repop":7200,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":28.56,"real_posy":21.22,"posx":28.56,"posy":21.22},
 	{"id":"2","inid":1,"type":2,"name":"小ソードスパイダ","repop":7200,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":25.59,"real_posy":17.94,"posx":25.59,"posy":17.94},
 	{"id":"3","inid":1,"type":2,"name":"小ソードスパイダ","repop":7200,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":44.55,"real_posy":16.44,"posx":44.55,"posy":16.44},
@@ -127,10 +127,10 @@ MobData = {
 	{"id":"125","inid":12,"type":2,"name":"狂暴スパイダー","repop":7200,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":70.86,"real_posy":51.25,"posx":70.86,"posy":51.25},
 ]};
 MobList = {
-	10050: ["モンスター", "小さなスパイダー","小ソードスパイダ","小ウィブウィドウ","中型スパイダー","ソードスパイダー","スパイダー","凶暴スパイダー","None.","None.","フェイズスパイダ","大ソードスパイダ","フェイズスパイダ","狂暴スパイダー","雌ウィブウィドウ",],
+	10107: ["モンスター", "小さなスパイダー","小ソードスパイダ","小ウィブウィドウ","中型スパイダー","ソードスパイダー","スパイダー","凶暴スパイダー","None.","None.","フェイズスパイダ","大ソードスパイダ","フェイズスパイダ","狂暴スパイダー","雌ウィブウィドウ",],
 };
 AreaData = {
-	10050: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10107: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":2.03,"real_posx2":6.08,"real_posy":9,"real_posy2":16.12,"posx":2.03,"posx2":6.08,"posy":9,"posy2":16.12},
 	{"id":"3","type":12,"name":"秘密の出口","area_name":"","access_map":"","is_secret":0,"real_posx":76.66,"real_posx2":80.47,"real_posy":50.34,"real_posy2":59.62,"posx":76.66,"posx2":80.47,"posy":50.34,"posy2":59.62},

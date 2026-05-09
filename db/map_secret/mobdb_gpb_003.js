@@ -1,5 +1,5 @@
 MobData = {
-	10037: [ {"id":"0","inid":0,"type":2,"name":"ニューサンス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":17.98,"real_posy":87.53,"posx":17.98,"posy":87.53},
+	10035: [ {"id":"0","inid":0,"type":2,"name":"ニューサンス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":17.98,"real_posy":87.53,"posx":17.98,"posy":87.53},
 	{"id":"1","inid":1,"type":2,"name":"ニューサンス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":21.83,"real_posy":82.78,"posx":21.83,"posy":82.78},
 	{"id":"2","inid":0,"type":2,"name":"ニューサンス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":17.77,"real_posy":68.31,"posx":17.77,"posy":68.31},
 	{"id":"3","inid":1,"type":2,"name":"ニューサンス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":17.14,"real_posy":75.41,"posx":17.14,"posy":75.41},
@@ -47,10 +47,10 @@ MobData = {
 	{"id":"45","inid":0,"type":2,"name":"ニューサンス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":95.64,"real_posy":50.44,"posx":95.64,"posy":50.44},
 ]};
 MobList = {
-	10037: ["モンスター", "ニューサンス","ニューサンス",],
+	10035: ["モンスター", "ニューサンス","ニューサンス",],
 };
 AreaData = {
-	10037: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10035: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":3,"name":"1 - 出発しようか？","area_name":"","access_map":"expansion\\[GPB]002.rmd","is_secret":0,"real_posx":2.48,"real_posx2":4.27,"real_posy":93.25,"real_posy2":95.84,"posx":2.48,"posx2":4.27,"posy":93.25,"posy2":95.84},
 	{"id":"3","type":3,"name":"2 - 第一の門を攻略しよう！","area_name":"","access_map":"expansion\\[GPB]004.rmd","is_secret":0,"real_posx":68.66,"real_posx2":70.7,"real_posy":11.41,"real_posy2":14.75,"posx":68.66,"posx2":70.7,"posy":11.41,"posy2":14.75},

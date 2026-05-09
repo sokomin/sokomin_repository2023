@@ -1,5 +1,5 @@
 MobData = {
-	10064: [ {"id":"0","inid":0,"type":2,"name":"ゼフィーロ","repop":10920,"id_area":18,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":29.42,"real_posy":70.94,"posx":29.42,"posy":70.94},
+	10125: [ {"id":"0","inid":0,"type":2,"name":"ゼフィーロ","repop":10920,"id_area":18,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":29.42,"real_posy":70.94,"posx":29.42,"posy":70.94},
 	{"id":"1","inid":7,"type":2,"name":"バルラク","repop":120,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":69.44,"real_posy":16.62,"posx":69.44,"posy":16.62},
 	{"id":"2","inid":5,"type":2,"name":"被買収パンプキン","repop":10920,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":94.91,"real_posy":46.88,"posx":94.91,"posy":46.88},
 	{"id":"3","inid":5,"type":2,"name":"被買収パンプキン","repop":10920,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":99.75,"real_posy":47.19,"posx":99.75,"posy":47.19},
@@ -50,10 +50,10 @@ MobData = {
 	{"id":"50","inid":3,"type":2,"name":"祭壇の守護者","repop":10920,"id_area":13,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":62.09,"real_posy":60.88,"posx":62.09,"posy":60.88},
 ]};
 MobList = {
-	10064: ["モンスター", "ゼフィーロ","None.","買収された悪魔","祭壇の守護者","貪欲の悪魔","被買収パンプキン","ゼフィーロ","バルラク",],
+	10125: ["モンスター", "ゼフィーロ","None.","買収された悪魔","祭壇の守護者","貪欲の悪魔","被買収パンプキン","ゼフィーロ","バルラク",],
 };
 AreaData = {
-	10064: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10125: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":144.69,"real_posx2":149.69,"real_posy":78.94,"real_posy2":88.12,"posx":144.69,"posx2":149.69,"posy":78.94,"posy2":88.12},
 	{"id":"3","type":4,"name":"몬스터1","area_name":"","access_map":"","is_secret":0,"real_posx":130.45,"real_posx2":137.53,"real_posy":71.25,"real_posy2":82.5,"posx":130.45,"posx2":137.53,"posy":71.25,"posy2":82.5},

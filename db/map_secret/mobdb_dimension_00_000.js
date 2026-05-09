@@ -1,5 +1,5 @@
 MobData = {
-	10024: [ {"id":"0","inid":0,"type":2,"name":"峡谷怨霊","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":44.64,"real_posy":96.41,"posx":44.64,"posy":96.41},
+	10023: [ {"id":"0","inid":0,"type":2,"name":"峡谷怨霊","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":44.64,"real_posy":96.41,"posx":44.64,"posy":96.41},
 	{"id":"1","inid":0,"type":2,"name":"峡谷怨霊","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":44.22,"real_posy":83.34,"posx":44.22,"posy":83.34},
 	{"id":"2","inid":0,"type":2,"name":"峡谷怨霊","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":48.95,"real_posy":90.66,"posx":48.95,"posy":90.66},
 	{"id":"3","inid":1,"type":2,"name":"峡谷監督官","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":36.88,"real_posy":96.09,"posx":36.88,"posy":96.09},
@@ -100,10 +100,10 @@ MobData = {
 	{"id":"98","inid":5,"type":2,"name":"次元虐殺者","repop":30,"id_area":15,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":112.72,"real_posy":163.16,"posx":112.72,"posy":163.16},
 ]};
 MobList = {
-	10024: ["モンスター", "峡谷怨霊","峡谷監督官","峡谷サキュバス","峡谷の死","次元略奪者","次元虐殺者","エルウッド",],
+	10023: ["モンスター", "峡谷怨霊","峡谷監督官","峡谷サキュバス","峡谷の死","次元略奪者","次元虐殺者","エルウッド",],
 };
 AreaData = {
-	10024: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10023: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":4,"name":"1구역","area_name":"","access_map":"","is_secret":0,"real_posx":32.33,"real_posx2":53.77,"real_posy":77.59,"real_posy2":110.09,"posx":32.33,"posx2":53.77,"posy":77.59,"posy2":110.09},
 	{"id":"3","type":4,"name":"2구역","area_name":"","access_map":"","is_secret":0,"real_posx":61.86,"real_posx2":83.84,"real_posy":55.56,"real_posy2":89.31,"posx":61.86,"posx2":83.84,"posy":55.56,"posy2":89.31},

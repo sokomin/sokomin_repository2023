@@ -1,5 +1,5 @@
 MobData = {
-	10074: [ {"id":"0","inid":1,"type":1,"name":"遺跡発掘員","repop":120,"id_area":19,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":141.84,"real_posy":91.81,"posx":141.84,"posy":91.81},
+	10144: [ {"id":"0","inid":1,"type":1,"name":"遺跡発掘員","repop":120,"id_area":19,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":141.84,"real_posy":91.81,"posx":141.84,"posy":91.81},
 	{"id":"1","inid":27,"type":1,"name":"遺跡発員トレッグ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":152.11,"real_posy":110.22,"posx":152.11,"posy":110.22},
 	{"id":"2","inid":8,"type":2,"name":"森の管理者","repop":120,"id_area":22,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":165.64,"real_posy":41.97,"posx":165.64,"posy":41.97},
 	{"id":"3","inid":4,"type":2,"name":"人工生命体 3","repop":120,"id_area":13,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":29.73,"real_posy":122.66,"posx":29.73,"posy":122.66},
@@ -191,10 +191,10 @@ MobData = {
 	{"id":"189","inid":5,"type":2,"name":"人工生命体 4","repop":120,"id_area":15,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":39.52,"real_posy":172.78,"posx":39.52,"posy":172.78},
 ]};
 MobList = {
-	10074: ["モンスター", "イディア","遺跡発掘員","人工生命体 1","人工生命体 2","人工生命体 3","人工生命体 4","人工生命体 5","アーティライフ","森の管理者","ユニコーン","戦闘型生命体 1","戦闘型生命体 1","戦闘型生命体 2","戦闘型生命体 2","戦闘型生命体 3","戦闘型生命体 3","戦闘型生命体 4","戦闘型生命体 4","戦闘型生命体 5","戦闘型生命体 5","人工生命体 5","変異型生物体","発掘隊長バレン","降神術師ムシル","降神術師ムシル","嘆きの亡霊","嘆きの亡霊","遺跡発員トレッグ",],
+	10144: ["モンスター", "イディア","遺跡発掘員","人工生命体 1","人工生命体 2","人工生命体 3","人工生命体 4","人工生命体 5","アーティライフ","森の管理者","ユニコーン","戦闘型生命体 1","戦闘型生命体 1","戦闘型生命体 2","戦闘型生命体 2","戦闘型生命体 3","戦闘型生命体 3","戦闘型生命体 4","戦闘型生命体 4","戦闘型生命体 5","戦闘型生命体 5","人工生命体 5","変異型生物体","発掘隊長バレン","降神術師ムシル","降神術師ムシル","嘆きの亡霊","嘆きの亡霊","遺跡発員トレッグ",],
 };
 AreaData = {
-	10074: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10144: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":132,"real_posx2":135.52,"real_posy":91.03,"real_posy2":96.81,"posx":132,"posx2":135.52,"posy":91.03,"posy2":96.81},
 	{"id":"3","type":4,"name":"항상 젠 몬스터1","area_name":"","access_map":"","is_secret":0,"real_posx":115.62,"real_posx2":132.02,"real_posy":163.03,"real_posy2":168.34,"posx":115.62,"posx2":132.02,"posy":163.03,"posy2":168.34},

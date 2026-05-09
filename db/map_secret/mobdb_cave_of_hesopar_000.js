@@ -1,5 +1,5 @@
 MobData = {
-	10013: [ {"id":"0","inid":0,"type":1,"name":"ジウーリン","repop":3720,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":35.89,"real_posy":99.31,"posx":35.89,"posy":99.31},
+	10071: [ {"id":"0","inid":0,"type":1,"name":"ジウーリン","repop":3720,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":35.89,"real_posy":99.31,"posx":35.89,"posy":99.31},
 	{"id":"1","inid":3,"type":2,"name":"リザードキリング","repop":3720,"id_area":25,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":9.44,"real_posy":34.28,"posx":9.44,"posy":34.28},
 	{"id":"2","inid":3,"type":2,"name":"リザードキリング","repop":3720,"id_area":25,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":12.19,"real_posy":30.28,"posx":12.19,"posy":30.28},
 	{"id":"3","inid":4,"type":2,"name":"ヘソパルダニ","repop":120,"id_area":18,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":4.84,"real_posy":4.41,"posx":4.84,"posy":4.41},
@@ -49,10 +49,10 @@ MobData = {
 	{"id":"50","inid":4,"type":2,"name":"ヘソパルダニ","repop":120,"id_area":13,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":3.28,"real_posy":6.22,"posx":3.28,"posy":6.22},
 ]};
 MobList = {
-	10013: ["モンスター", "ジウーリン","None.","リザードウォリア","リザードキリング","ヘソパルダニ","火蜘蛛",],
+	10071: ["モンスター", "ジウーリン","None.","リザードウォリア","リザードキリング","ヘソパルダニ","火蜘蛛",],
 };
 AreaData = {
-	10013: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10071: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":4,"name":"Area 1","area_name":"","access_map":"","is_secret":0,"real_posx":31.25,"real_posx2":35.97,"real_posy":60.66,"real_posy2":66.81,"posx":31.25,"posx2":35.97,"posy":60.66,"posy2":66.81},
 	{"id":"3","type":4,"name":"해소파르의 영역","area_name":"","access_map":"","is_secret":0,"real_posx":36.56,"real_posx2":40.48,"real_posy":55.62,"real_posy2":61.44,"posx":36.56,"posx2":40.48,"posy":55.62,"posy2":61.44},

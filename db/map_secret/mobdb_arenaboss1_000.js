@@ -1,5 +1,5 @@
 MobData = {
-	10002: [ {"id":"0","inid":0,"type":1,"name":"討伐騎士団","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":136.97,"real_posy":132.22,"posx":136.97,"posy":132.22},
+	10008: [ {"id":"0","inid":0,"type":1,"name":"討伐騎士団","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":136.97,"real_posy":132.22,"posx":136.97,"posy":132.22},
 	{"id":"1","inid":1,"type":2,"name":"シュラグ","repop":120,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":19.34,"real_posy":24.84,"posx":19.34,"posy":24.84},
 	{"id":"2","inid":2,"type":2,"name":"シュラグ","repop":120,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":78.77,"real_posy":22.34,"posx":78.77,"posy":22.34},
 	{"id":"3","inid":3,"type":2,"name":"シュラグ","repop":120,"id_area":11,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":20.25,"real_posy":93.47,"posx":20.25,"posy":93.47},
@@ -129,10 +129,10 @@ MobData = {
 	{"id":"127","inid":29,"type":2,"name":"デスマスク","repop":120,"id_area":16,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":133.06,"real_posy":21.44,"posx":133.06,"posy":21.44},
 ]};
 MobList = {
-	10002: ["モンスター", "討伐騎士団","シュラグ","シュラグ","シュラグ","シュラグ","マーモン精鋭兵","アデッドロック","デスマスク","None.","None.","None.","マーモン精鋭兵","アデッドロック","デスマスク","None.","マーモン精鋭兵","アデッドロック","デスマスク","マーモン精鋭兵","アデッドロック","デスマスク","シュラグの分身","シュラグの分身","None.","アークリッチ","アークリッチ","シュラグ","異次元のシュラグ","アークリッチ","デスマスク","マーモンの精鋭兵","アンデッドロック",],
+	10008: ["モンスター", "討伐騎士団","シュラグ","シュラグ","シュラグ","シュラグ","マーモン精鋭兵","アデッドロック","デスマスク","None.","None.","None.","マーモン精鋭兵","アデッドロック","デスマスク","None.","マーモン精鋭兵","アデッドロック","デスマスク","マーモン精鋭兵","アデッドロック","デスマスク","シュラグの分身","シュラグの分身","None.","アークリッチ","アークリッチ","シュラグ","異次元のシュラグ","アークリッチ","デスマスク","マーモンの精鋭兵","アンデッドロック",],
 };
 AreaData = {
-	10002: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10008: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":135.77,"real_posx2":138.06,"real_posy":136.25,"real_posy2":139.94,"posx":135.77,"posx2":138.06,"posy":136.25,"posy2":139.94},
 	{"id":"3","type":0,"name":"01_쉬움 난이도 이동","area_name":"","access_map":"","is_secret":0,"real_posx":18.12,"real_posx2":20.59,"real_posy":34.97,"real_posy2":38.22,"posx":18.12,"posx2":20.59,"posy":34.97,"posy2":38.22},

@@ -1,5 +1,5 @@
 MobData = {
-	10048: [ {"id":"0","inid":0,"type":2,"name":"洞窟スパイダー","repop":3600,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":73.75,"real_posy":113.12,"posx":73.75,"posy":113.12},
+	10047: [ {"id":"0","inid":0,"type":2,"name":"洞窟スパイダー","repop":3600,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":73.75,"real_posy":113.12,"posx":73.75,"posy":113.12},
 	{"id":"1","inid":0,"type":2,"name":"洞窟スパイダー","repop":3600,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":71.61,"real_posy":121,"posx":71.61,"posy":121},
 	{"id":"2","inid":0,"type":2,"name":"洞窟スパイダー","repop":3600,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":76.78,"real_posy":126.25,"posx":76.78,"posy":126.25},
 	{"id":"3","inid":0,"type":2,"name":"洞窟スパイダー","repop":3600,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":82.94,"real_posy":113.53,"posx":82.94,"posy":113.53},
@@ -88,10 +88,10 @@ MobData = {
 	{"id":"93","inid":8,"type":1,"name":"ジェシー","repop":3600,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":70.41,"real_posy":40.38,"posx":70.41,"posy":40.38},
 ]};
 MobList = {
-	10048: ["モンスター", "洞窟スパイダー","洞窟スコーピオン","洞窟狼","洞窟モグラ","洞窟熊","洞窟の虫の群れ","洞窟枯れ木","洞窟精霊","ジェシー",],
+	10047: ["モンスター", "洞窟スパイダー","洞窟スコーピオン","洞窟狼","洞窟モグラ","洞窟熊","洞窟の虫の群れ","洞窟枯れ木","洞窟精霊","ジェシー",],
 };
 AreaData = {
-	10048: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10047: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":55.28,"real_posx2":65.06,"real_posy":134.69,"real_posy2":145.5,"posx":55.28,"posx2":65.06,"posy":134.69,"posy2":145.5},
 	{"id":"3","type":4,"name":"몬스터 1","area_name":"","access_map":"","is_secret":0,"real_posx":68.75,"real_posx2":88.31,"real_posy":107.44,"real_posy2":131.03,"posx":68.75,"posx2":88.31,"posy":107.44,"posy2":131.03},

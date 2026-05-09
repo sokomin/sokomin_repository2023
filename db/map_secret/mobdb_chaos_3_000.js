@@ -1,5 +1,5 @@
 MobData = {
-	10018: [ {"id":"0","inid":1,"type":2,"name":"スプク","repop":121,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":17.03,"real_posy":19.5,"posx":17.03,"posy":19.5},
+	10080: [ {"id":"0","inid":1,"type":2,"name":"スプク","repop":121,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":17.03,"real_posy":19.5,"posx":17.03,"posy":19.5},
 	{"id":"1","inid":1,"type":2,"name":"スプク","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.23,"real_posy":18.12,"posx":19.23,"posy":18.12},
 	{"id":"2","inid":1,"type":2,"name":"スプク","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":21.12,"real_posy":19.56,"posx":21.12,"posy":19.56},
 	{"id":"3","inid":1,"type":2,"name":"スプク","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.23,"real_posy":22.12,"posx":16.23,"posy":22.12},
@@ -96,10 +96,10 @@ MobData = {
 	{"id":"94","inid":20,"type":2,"name":"下級ラク","repop":120,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.75,"real_posy":176.91,"posx":18.75,"posy":176.91},
 ]};
 MobList = {
-	10018: ["モンスター", "None.","スプク","膨らんだゾンビ","食い意地ゾンビ","膨らんだゾンビ","食Δ意地ゾンビ","腐乱ネクロマンサ","デスピンサー","下級ラク","デスピンサー","エンバームド","腐乱死体","食い意地ゾンビ","ダークファイア","腐乱ネクロマンサ","デスピンサー","スプク","膨らんだゾンビ","食い意地ゾンビ","デスピンサー","下級ラク","食い意地ゾンビ","スプク","デスピンサー","腐乱ネクロマンサ","デスピンサー","下級ラク","腐乱チタン","デスピンサ[","食い箇地ゾンビ","食い意地ゾンＳ",],
+	10080: ["モンスター", "None.","スプク","膨らんだゾンビ","食い意地ゾンビ","膨らんだゾンビ","食Δ意地ゾンビ","腐乱ネクロマンサ","デスピンサー","下級ラク","デスピンサー","エンバームド","腐乱死体","食い意地ゾンビ","ダークファイア","腐乱ネクロマンサ","デスピンサー","スプク","膨らんだゾンビ","食い意地ゾンビ","デスピンサー","下級ラク","食い意地ゾンビ","スプク","デスピンサー","腐乱ネクロマンサ","デスピンサー","下級ラク","腐乱チタン","デスピンサ[","食い箇地ゾンビ","食い意地ゾンＳ",],
 };
 AreaData = {
-	10018: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10080: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":4,"name":"Wave 1","area_name":"","access_map":"","is_secret":0,"real_posx":8.25,"real_posx2":30.39,"real_posy":8.34,"real_posy2":37.25,"posx":8.25,"posx2":30.39,"posy":8.34,"posy2":37.25},
 	{"id":"3","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":15.7,"real_posx2":23.02,"real_posy":17.69,"real_posy2":25.56,"posx":15.7,"posx2":23.02,"posy":17.69,"posy2":25.56},

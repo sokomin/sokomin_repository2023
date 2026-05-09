@@ -1,5 +1,5 @@
 MobData = {
-	10098: [ {"id":"0","inid":0,"type":2,"name":"新米鷲戦士","repop":3720,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":56.33,"real_posy":98.75,"posx":56.33,"posy":98.75},
+	10164: [ {"id":"0","inid":0,"type":2,"name":"新米鷲戦士","repop":3720,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":56.33,"real_posy":98.75,"posx":56.33,"posy":98.75},
 	{"id":"1","inid":0,"type":2,"name":"新米鷲戦士","repop":3720,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":61.25,"real_posy":100,"posx":61.25,"posy":100},
 	{"id":"2","inid":0,"type":2,"name":"新米鷲戦士","repop":3720,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":56.17,"real_posy":102.97,"posx":56.17,"posy":102.97},
 	{"id":"3","inid":0,"type":2,"name":"新米鷲戦士","repop":3720,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":42.73,"real_posy":112.34,"posx":42.73,"posy":112.34},
@@ -60,10 +60,10 @@ MobData = {
 	{"id":"58","inid":7,"type":1,"name":"クレイン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":72.95,"real_posy":81.69,"posx":72.95,"posy":81.69},
 ]};
 MobList = {
-	10098: ["モンスター", "新米鷲戦士","鷲戦士","スパイダー","メイジ","ルーンスパイダー","下級黒魔術師","マウリン","クレイン",],
+	10164: ["モンスター", "新米鷲戦士","鷲戦士","スパイダー","メイジ","ルーンスパイダー","下級黒魔術師","マウリン","クレイン",],
 };
 AreaData = {
-	10098: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10164: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":77.52,"real_posx2":80,"real_posy":80.97,"real_posy2":83.97,"posx":77.52,"posx2":80,"posy":80.97,"posy2":83.97},
 	{"id":"3","type":2,"name":"비밀 문","area_name":"","access_map":"","is_secret":0,"real_posx":113.94,"real_posx2":117.84,"real_posy":49.97,"real_posy2":57.88,"posx":113.94,"posx2":117.84,"posy":49.97,"posy2":57.88},

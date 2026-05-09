@@ -1,5 +1,5 @@
 MobData = {
-	10093: [ {"id":"0","inid":0,"type":2,"name":"斧骸骨戦士","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.77,"real_posy":89.38,"posx":16.77,"posy":89.38},
+	10157: [ {"id":"0","inid":0,"type":2,"name":"斧骸骨戦士","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.77,"real_posy":89.38,"posx":16.77,"posy":89.38},
 	{"id":"1","inid":0,"type":2,"name":"斧骸骨戦士","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":17.59,"real_posy":91.94,"posx":17.59,"posy":91.94},
 	{"id":"2","inid":2,"type":2,"name":"攻撃骸骨戦士","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.47,"real_posy":91.94,"posx":15.47,"posy":91.94},
 	{"id":"3","inid":0,"type":2,"name":"斧骸骨戦士","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":24.95,"real_posy":79.5,"posx":24.95,"posy":79.5},
@@ -84,10 +84,10 @@ MobData = {
 	{"id":"83","inid":5,"type":2,"name":"骸骨狂戦士","repop":120,"id_area":134,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":69.56,"real_posy":43.94,"posx":69.56,"posy":43.94},
 ]};
 MobList = {
-	10093: ["モンスター", "斧骸骨戦士","斧骸骨戦士","攻撃骸骨戦士","攻撃骸骨戦士","骸骨狂戦士","骸骨狂戦士","骸骨騎士","シャドーソウル","ソードスパイダー","エンバームド","ネカン","骸骨騎士カイオン",],
+	10157: ["モンスター", "斧骸骨戦士","斧骸骨戦士","攻撃骸骨戦士","攻撃骸骨戦士","骸骨狂戦士","骸骨狂戦士","骸骨騎士","シャドーソウル","ソードスパイダー","エンバームド","ネカン","骸骨騎士カイオン",],
 };
 AreaData = {
-	10093: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10157: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":2,"name":"입구","area_name":"","access_map":"","is_secret":0,"real_posx":12,"real_posx2":14.45,"real_posy":85.69,"real_posy2":91.03,"posx":12,"posx2":14.45,"posy":85.69,"posy2":91.03},
 	{"id":"3","type":2,"name":"부숴지는 문00","area_name":"","access_map":"","is_secret":0,"real_posx":17.89,"real_posx2":20.45,"real_posy":82.94,"real_posy2":90.78,"posx":17.89,"posx2":20.45,"posy":82.94,"posy2":90.78},

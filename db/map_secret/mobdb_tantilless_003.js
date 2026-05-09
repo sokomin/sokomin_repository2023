@@ -1,5 +1,5 @@
 MobData = {
-	10075: [ {"id":"0","inid":0,"type":1,"name":"イディア","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":126.34,"real_posy":109.62,"posx":126.34,"posy":109.62},
+	10145: [ {"id":"0","inid":0,"type":1,"name":"イディア","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":126.34,"real_posy":109.62,"posx":126.34,"posy":109.62},
 	{"id":"1","inid":18,"type":2,"name":"死の引導者","repop":120,"id_area":41,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":68.53,"real_posy":92.56,"posx":68.53,"posy":92.56},
 	{"id":"2","inid":2,"type":2,"name":"漂う胞子","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":96.84,"real_posy":78.53,"posx":96.84,"posy":78.53},
 	{"id":"3","inid":2,"type":2,"name":"漂う胞子","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":10.27,"real_posy":42.84,"posx":10.27,"posy":42.84},
@@ -213,10 +213,10 @@ MobData = {
 	{"id":"211","inid":9,"type":2,"name":"水の清掃員","repop":120,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":111.55,"real_posy":44.62,"posx":111.55,"posy":44.62},
 ]};
 MobList = {
-	10075: ["モンスター", "イディア","ランディス","漂う胞子","アイアンツリー","水質管理責任者","水質監視員","水質監視員","アクアツリー","アクアツリー","水の清掃員","水の清掃員","アクアソース","アクアソース","None.","アクアハンター","アクアハンター","水の支配者","水の支配者","死の引導者","発掘隊長バレン","降神術師ムシル","降神術師ムシル","悪霊","悪霊","水の旅人",],
+	10145: ["モンスター", "イディア","ランディス","漂う胞子","アイアンツリー","水質管理責任者","水質監視員","水質監視員","アクアツリー","アクアツリー","水の清掃員","水の清掃員","アクアソース","アクアソース","None.","アクアハンター","アクアハンター","水の支配者","水の支配者","死の引導者","発掘隊長バレン","降神術師ムシル","降神術師ムシル","悪霊","悪霊","水の旅人",],
 };
 AreaData = {
-	10075: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10145: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":133.33,"real_posx2":140.62,"real_posy":107.94,"real_posy2":116.22,"posx":133.33,"posx2":140.62,"posy":107.94,"posy2":116.22},
 	{"id":"3","type":12,"name":"古い手帳","area_name":"","access_map":"","is_secret":0,"real_posx":81.5,"real_posx2":83.7,"real_posy":110.59,"real_posy2":114.56,"posx":81.5,"posx2":83.7,"posy":110.59,"posy2":114.56},

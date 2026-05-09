@@ -1,5 +1,5 @@
 MobData = {
-	10033: [ {"id":"0","inid":7,"type":2,"name":"追撃者ロッキー","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":191.52,"real_posy":30.03,"posx":191.52,"posy":30.03},
+	10094: [ {"id":"0","inid":7,"type":2,"name":"追撃者ロッキー","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":191.52,"real_posy":30.03,"posx":191.52,"posy":30.03},
 	{"id":"1","inid":1,"type":2,"name":"山賊","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":262.66,"real_posy":17.31,"posx":262.66,"posy":17.31},
 	{"id":"2","inid":1,"type":2,"name":"山賊","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":254.17,"real_posy":24.38,"posx":254.17,"posy":24.38},
 	{"id":"3","inid":1,"type":2,"name":"山賊","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":268.2,"real_posy":22.19,"posx":268.2,"posy":22.19},
@@ -110,10 +110,10 @@ MobData = {
 	{"id":"108","inid":6,"type":1,"name":"冒険家協会幹部","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":336.55,"real_posy":25.91,"posx":336.55,"posy":25.91},
 ]};
 MobList = {
-	10033: ["モンスター", "ならず者","山賊","追撃者","脱獄した逃走犯","変異したイボ","山賊","冒険家協会幹部","追撃者ロッキー","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","追撃者ループ",],
+	10094: ["モンスター", "ならず者","山賊","追撃者","脱獄した逃走犯","変異したイボ","山賊","冒険家協会幹部","追撃者ロッキー","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","None.","追撃者ループ",],
 };
 AreaData = {
-	10033: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10094: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":4,"name":"도주범 지역 1","area_name":"","access_map":"","is_secret":0,"real_posx":185.03,"real_posx2":206.98,"real_posy":9.38,"real_posy2":53.34,"posx":185.03,"posx2":206.98,"posy":9.38,"posy2":53.34},
 	{"id":"3","type":4,"name":"도주범 구역2","area_name":"","access_map":"","is_secret":0,"real_posx":229.03,"real_posx2":245.25,"real_posy":16,"real_posy2":45.06,"posx":229.03,"posx2":245.25,"posy":16,"posy2":45.06},

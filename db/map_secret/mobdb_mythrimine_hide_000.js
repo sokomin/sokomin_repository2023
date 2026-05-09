@@ -1,5 +1,5 @@
 MobData = {
-	10053: [ {"id":"0","inid":0,"type":2,"name":"マーブルガゴイル","repop":120,"id_area":42,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":41.05,"real_posy":36.5,"posx":41.05,"posy":36.5},
+	10111: [ {"id":"0","inid":0,"type":2,"name":"マーブルガゴイル","repop":120,"id_area":42,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":41.05,"real_posy":36.5,"posx":41.05,"posy":36.5},
 	{"id":"1","inid":13,"type":1,"name":"トラウス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":54.3,"real_posy":48.03,"posx":54.3,"posy":48.03},
 	{"id":"3","inid":7,"type":2,"name":"鷲狂戦士","repop":120,"id_area":53,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":57.52,"real_posy":27.91,"posx":57.52,"posy":27.91},
 	{"id":"4","inid":7,"type":2,"name":"鷲狂戦士","repop":120,"id_area":53,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":54.64,"real_posy":31.41,"posx":54.64,"posy":31.41},
@@ -67,10 +67,10 @@ MobData = {
 	{"id":"84","inid":5,"type":2,"name":"鷲戦士","repop":120,"id_area":48,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":104.17,"real_posy":100.69,"posx":104.17,"posy":100.69},
 ]};
 MobList = {
-	10053: ["モンスター", "マーブルガゴイル","マゴット","ゴーレム","クレイゴーレム","ロックゴーレム","鷲戦士","鷲闘士","鷲狂戦士","オーガ","オーガソルジャー","斧槍兵","コートナイト","レッドアイ護衛兵","トラウス",],
+	10111: ["モンスター", "マーブルガゴイル","マゴット","ゴーレム","クレイゴーレム","ロックゴーレム","鷲戦士","鷲闘士","鷲狂戦士","オーガ","オーガソルジャー","斧槍兵","コートナイト","レッドアイ護衛兵","トラウス",],
 };
 AreaData = {
-	10053: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10111: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":48.23,"real_posx2":53.89,"real_posy":43.44,"real_posy2":51.12,"posx":48.23,"posx2":53.89,"posy":43.44,"posy2":51.12},
 	{"id":"3","type":2,"name":"光01","area_name":"","access_map":"","is_secret":0,"real_posx":26.98,"real_posx2":30.84,"real_posy":2.88,"real_posy2":10.81,"posx":26.98,"posx2":30.84,"posy":2.88,"posy2":10.81},

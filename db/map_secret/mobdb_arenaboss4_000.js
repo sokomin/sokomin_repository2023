@@ -1,5 +1,5 @@
 MobData = {
-	10004: [ {"id":"0","inid":0,"type":1,"name":"討伐騎士団員","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":77.17,"real_posy":79,"posx":77.17,"posy":79},
+	10012: [ {"id":"0","inid":0,"type":1,"name":"討伐騎士団員","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":77.17,"real_posy":79,"posx":77.17,"posy":79},
 	{"id":"1","inid":1,"type":2,"name":"アスタロト","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":18.86,"real_posy":19.03,"posx":18.86,"posy":19.03},
 	{"id":"2","inid":2,"type":2,"name":"パターンガイド_雷","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":2.05,"real_posy":95.81,"posx":2.05,"posy":95.81},
 	{"id":"3","inid":3,"type":2,"name":"アスタロト","repop":120,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":71.02,"real_posy":22.47,"posx":71.02,"posy":22.47},
@@ -14,10 +14,10 @@ MobData = {
 	{"id":"12","inid":5,"type":2,"name":"電気クラゲ","repop":120,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":73.5,"real_posy":36.81,"posx":73.5,"posy":36.81},
 ]};
 MobList = {
-	10004: ["モンスター", "討伐騎士団員","アスタロト","パターンガイド_雷","アスタロト","パターンガイド_召","電気クラゲ",],
+	10012: ["モンスター", "討伐騎士団員","アスタロト","パターンガイド_雷","アスタロト","パターンガイド_召","電気クラゲ",],
 };
 AreaData = {
-	10004: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10012: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":75.53,"real_posx2":78.5,"real_posy":84.78,"real_posy2":89.09,"posx":75.53,"posx2":78.5,"posy":84.78,"posy2":89.09},
 	{"id":"3","type":4,"name":"일일 토벌 지역","area_name":"","access_map":"","is_secret":0,"real_posx":1.91,"real_posx2":37.3,"real_posy":3.03,"real_posy2":54.06,"posx":1.91,"posx2":37.3,"posy":3.03,"posy2":54.06},

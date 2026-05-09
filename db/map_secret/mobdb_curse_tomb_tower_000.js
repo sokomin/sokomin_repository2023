@@ -1,5 +1,5 @@
 MobData = {
-	10022: [ {"id":"0","inid":6,"type":1,"name":"ギーリ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":51.81,"real_posy":131.47,"posx":51.81,"posy":131.47},
+	10086: [ {"id":"0","inid":6,"type":1,"name":"ギーリ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":51.81,"real_posy":131.47,"posx":51.81,"posy":131.47},
 	{"id":"1","inid":0,"type":2,"name":"死霊魔術師","repop":120,"id_area":12,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":63.56,"real_posy":115.12,"posx":63.56,"posy":115.12},
 	{"id":"2","inid":1,"type":2,"name":"ヴァンパイア","repop":120,"id_area":12,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":69.36,"real_posy":117.56,"posx":69.36,"posy":117.56},
 	{"id":"3","inid":1,"type":2,"name":"ヴァンパイア","repop":120,"id_area":29,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":34.88,"real_posy":113.59,"posx":34.88,"posy":113.59},
@@ -79,10 +79,10 @@ MobData = {
 	{"id":"79","inid":3,"type":2,"name":"ワイト","repop":120,"id_area":22,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":69.22,"real_posy":30.53,"posx":69.22,"posy":30.53},
 ]};
 MobList = {
-	10022: ["モンスター", "死霊魔術師","ヴァンパイア","レイス","ワイト","上級ヴァンパイア","古代ヴァンパイア","ギーリ","塔の守護士","b'\\x8e\\xf4\\x82\\xed}\\xea\\x82\\xbd\\x83\\x8a\\x83b\\x83`'","上級ヴ|@ンパイア",],
+	10086: ["モンスター", "死霊魔術師","ヴァンパイア","レイス","ワイト","上級ヴァンパイア","古代ヴァンパイア","ギーリ","塔の守護士","b'\\x8e\\xf4\\x82\\xed}\\xea\\x82\\xbd\\x83\\x8a\\x83b\\x83`'","上級ヴ|@ンパイア",],
 };
 AreaData = {
-	10022: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10086: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":12,"name":"呪われた塔 07","area_name":"","access_map":"","is_secret":0,"real_posx":18.86,"real_posx2":23.16,"real_posy":23,"real_posy2":31.31,"posx":18.86,"posx2":23.16,"posy":23,"posy2":31.31},
 	{"id":"3","type":12,"name":"呪われた塔 05","area_name":"","access_map":"","is_secret":0,"real_posx":49.61,"real_posx2":54.23,"real_posy":69.38,"real_posy2":77.72,"posx":49.61,"posx2":54.23,"posy":69.38,"posy2":77.72},

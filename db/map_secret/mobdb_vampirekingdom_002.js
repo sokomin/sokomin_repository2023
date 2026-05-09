@@ -1,5 +1,5 @@
 MobData = {
-	10096: [ {"id":"0","inid":5,"type":2,"name":"クランブルドラゴ","repop":120,"id_area":28,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":69.23,"real_posy":94.34,"posx":69.23,"posy":94.34},
+	10160: [ {"id":"0","inid":5,"type":2,"name":"クランブルドラゴ","repop":120,"id_area":28,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":69.23,"real_posy":94.34,"posx":69.23,"posy":94.34},
 	{"id":"1","inid":6,"type":2,"name":"ラーミ","repop":120,"id_area":29,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":75.77,"real_posy":87.12,"posx":75.77,"posy":87.12},
 	{"id":"2","inid":11,"type":2,"name":"スピリット","repop":120,"id_area":36,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":61.69,"real_posy":94.12,"posx":61.69,"posy":94.12},
 	{"id":"3","inid":12,"type":2,"name":"ソウルシーカ","repop":120,"id_area":35,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":65.53,"real_posy":104.03,"posx":65.53,"posy":104.03},
@@ -30,10 +30,10 @@ MobData = {
 	{"id":"37","inid":8,"type":1,"name":"クイーシー","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":130.33,"real_posy":5.41,"posx":130.33,"posy":5.41},
 ]};
 MobList = {
-	10096: ["モンスター", "ドラグル伯爵","ブラッディジロン","虚言の引導者","地獄の引導者","死の引導者","クランブルドラゴ","ラーミ","ロキアン","クイーシー","アーニー","ヘルシーグ卿","スピリット","ソウルシーカ","デュラバーン","喰鬼","ヘルハウンド","ブラッディジロン","シャドウス",],
+	10160: ["モンスター", "ドラグル伯爵","ブラッディジロン","虚言の引導者","地獄の引導者","死の引導者","クランブルドラゴ","ラーミ","ロキアン","クイーシー","アーニー","ヘルシーグ卿","スピリット","ソウルシーカ","デュラバーン","喰鬼","ヘルハウンド","ブラッディジロン","シャドウス",],
 };
 AreaData = {
-	10096: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10160: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":6,"name":"緋色の聖堂","area_name":"","access_map":"","is_secret":0,"real_posx":27.81,"real_posx2":30.61,"real_posy":131.31,"real_posy2":133.09,"posx":27.81,"posx2":30.61,"posy":131.31,"posy2":133.09},
 	{"id":"3","type":12,"name":"納骨堂　入口","area_name":"","access_map":"","is_secret":0,"real_posx":49.39,"real_posx2":53.67,"real_posy":94.31,"real_posy2":102.16,"posx":49.39,"posx2":53.67,"posy":94.31,"posy2":102.16},

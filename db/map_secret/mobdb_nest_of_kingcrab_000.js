@@ -1,5 +1,5 @@
 MobData = {
-	10055: [ {"id":"0","inid":0,"type":2,"name":"サイドウォーカー","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.05,"real_posy":15,"posx":15.05,"posy":15},
+	10113: [ {"id":"0","inid":0,"type":2,"name":"サイドウォーカー","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.05,"real_posy":15,"posx":15.05,"posy":15},
 	{"id":"1","inid":0,"type":2,"name":"サイドウォーカー","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.55,"real_posy":27.06,"posx":18.55,"posy":27.06},
 	{"id":"2","inid":0,"type":2,"name":"サイドウォーカー","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":13.88,"real_posy":20.56,"posx":13.88,"posy":20.56},
 	{"id":"3","inid":0,"type":2,"name":"サイドウォーカー","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":10.52,"real_posy":25.03,"posx":10.52,"posy":25.03},
@@ -56,10 +56,10 @@ MobData = {
 	{"id":"54","inid":0,"type":2,"name":"サイドウォーカー","repop":120,"id_area":11,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":109,"real_posy":67.88,"posx":109,"posy":67.88},
 ]};
 MobList = {
-	10055: ["モンスター", "サイドウォーカー","キングクラブ","パプア",],
+	10113: ["モンスター", "サイドウォーカー","キングクラブ","パプア",],
 };
 AreaData = {
-	10055: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10113: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":2,"name":"手始め左側","area_name":"","access_map":"","is_secret":0,"real_posx":55.72,"real_posx2":60.02,"real_posy":75.5,"real_posy2":81.94,"posx":55.72,"posx2":60.02,"posy":75.5,"posy2":81.94},
 	{"id":"3","type":4,"name":"킹크렙의 보금자리 (1)","area_name":"","access_map":"","is_secret":0,"real_posx":4.89,"real_posx2":19.47,"real_posy":13.53,"real_posy2":37.28,"posx":4.89,"posx2":19.47,"posy":13.53,"posy2":37.28},

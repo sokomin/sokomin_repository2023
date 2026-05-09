@@ -1,5 +1,5 @@
 MobData = {
-	10062: [ {"id":"0","inid":4,"type":1,"name":"ルーク","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.66,"real_posy":112.25,"posx":19.66,"posy":112.25},
+	10124: [ {"id":"0","inid":4,"type":1,"name":"ルーク","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.66,"real_posy":112.25,"posx":19.66,"posy":112.25},
 	{"id":"1","inid":2,"type":2,"name":"シールデビル","repop":3600,"id_area":19,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":55.08,"real_posy":115,"posx":55.08,"posy":115},
 	{"id":"2","inid":5,"type":2,"name":"墓の悪魔術師","repop":120,"id_area":16,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":24.27,"real_posy":146.56,"posx":24.27,"posy":146.56},
 	{"id":"3","inid":5,"type":2,"name":"墓の悪魔術師","repop":120,"id_area":16,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":26.61,"real_posy":149.78,"posx":26.61,"posy":149.78},
@@ -151,10 +151,10 @@ MobData = {
 	{"id":"169","inid":13,"type":2,"name":"セメタリーラット","repop":120,"id_area":59,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":8,"real_posy":28.94,"posx":8,"posy":28.94},
 ]};
 MobList = {
-	10062: ["モンスター", "None.","大型骸骨","シールデビル","墓の守護兵","ルーク","墓の悪魔術師","None.","アドタレス","狂気の騎士","墓場クモ","王墓の悪霊","None.","墓の守護兵","セメタリーラット","レミー","狂気の騎士","拷問技術者","墓の守護兵","狂戦士デリック","メガスパイダー","拷問家シルヴァン","ブリーデン男爵","剣闘士ギリアン","王の家来","オーウェン","アドタレス","ガーイン","墓の亡霊","火炎術師",],
+	10124: ["モンスター", "None.","大型骸骨","シールデビル","墓の守護兵","ルーク","墓の悪魔術師","None.","アドタレス","狂気の騎士","墓場クモ","王墓の悪霊","None.","墓の守護兵","セメタリーラット","レミー","狂気の騎士","拷問技術者","墓の守護兵","狂戦士デリック","メガスパイダー","拷問家シルヴァン","ブリーデン男爵","剣闘士ギリアン","王の家来","オーウェン","アドタレス","ガーイン","墓の亡霊","火炎術師",],
 };
 AreaData = {
-	10062: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10124: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":0.55,"real_posx2":1.83,"real_posy":96.69,"real_posy2":99.28,"posx":0.55,"posx2":1.83,"posy":96.69,"posy2":99.28},
 	{"id":"3","type":12,"name":"光の矢","area_name":"","access_map":"","is_secret":0,"real_posx":71.97,"real_posx2":74.25,"real_posy":57.69,"real_posy2":61.22,"posx":71.97,"posx2":74.25,"posy":57.69,"posy2":61.22},

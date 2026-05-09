@@ -1,5 +1,5 @@
 MobData = {
-	10007: [ {"id":"0","inid":3,"type":2,"name":"原始人族長","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.5,"real_posy":59.47,"posx":16.5,"posy":59.47},
+	10018: [ {"id":"0","inid":3,"type":2,"name":"原始人族長","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.5,"real_posy":59.47,"posx":16.5,"posy":59.47},
 	{"id":"1","inid":1,"type":2,"name":"原始人","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.11,"real_posy":62.62,"posx":15.11,"posy":62.62},
 	{"id":"2","inid":1,"type":2,"name":"原始人","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.17,"real_posy":58.84,"posx":19.17,"posy":58.84},
 	{"id":"3","inid":2,"type":2,"name":"原始人の狩犬","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.78,"real_posy":60.41,"posx":19.78,"posy":60.41},
@@ -53,10 +53,10 @@ MobData = {
 	{"id":"51","inid":6,"type":2,"name":"リザードマン衛兵","repop":120,"id_area":21,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":72.12,"real_posy":100.38,"posx":72.12,"posy":100.38},
 ]};
 MobList = {
-	10007: ["モンスター", "ジープ","原始人","原始人の狩犬","原始人族長","リザードマン","リザードマン族長","リザードマン衛兵",],
+	10018: ["モンスター", "ジープ","原始人","原始人の狩犬","原始人族長","リザードマン","リザードマン族長","リザードマン衛兵",],
 };
 AreaData = {
-	10007: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10018: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":10.73,"real_posx2":13.2,"real_posy":143.5,"real_posy2":146.47,"posx":10.73,"posx2":13.2,"posy":143.5,"posy2":146.47},
 	{"id":"3","type":12,"name":"リザード洞窟へ行く道","area_name":"","access_map":"","is_secret":0,"real_posx":7.48,"real_posx2":11.81,"real_posy":36.34,"real_posy2":45.41,"posx":7.48,"posx2":11.81,"posy":36.34,"posy2":45.41},

@@ -1,5 +1,5 @@
 MobData = {
-	10027: [ {"id":"0","inid":9,"type":1,"name":"엘우드","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":42.31,"real_posy":30.53,"posx":42.31,"posy":30.53},
+	10026: [ {"id":"0","inid":9,"type":1,"name":"엘우드","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":42.31,"real_posy":30.53,"posx":42.31,"posy":30.53},
 	{"id":"1","inid":1,"type":2,"name":"스밀로돈","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":101.09,"real_posy":148.5,"posx":101.09,"posy":148.5},
 	{"id":"2","inid":1,"type":2,"name":"스밀로돈","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":107.91,"real_posy":155.62,"posx":107.91,"posy":155.62},
 	{"id":"3","inid":1,"type":2,"name":"스밀로돈","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":97.58,"real_posy":155.97,"posx":97.58,"posy":155.97},
@@ -64,10 +64,10 @@ MobData = {
 	{"id":"62","inid":2,"type":2,"name":"순백의 스밀로돈","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":122.22,"real_posy":57.72,"posx":122.22,"posy":57.72},
 ]};
 MobList = {
-	10027: ["モンスター", "떠도는 요정","스밀로돈","순백의 스밀로돈","엘더 재규어","섀도우 팽","재규어","숲의 생령","차원 학살자","차원 약탈자","엘우드",],
+	10026: ["モンスター", "떠도는 요정","스밀로돈","순백의 스밀로돈","엘더 재규어","섀도우 팽","재규어","숲의 생령","차원 학살자","차원 약탈자","엘우드",],
 };
 AreaData = {
-	10027: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10026: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":38.78,"real_posx2":42.27,"real_posy":30.94,"real_posy2":36.25,"posx":38.78,"posx2":42.27,"posy":30.94,"posy2":36.25},
 	{"id":"3","type":12,"name":"디멘션 허브 진입문","area_name":"","access_map":"","is_secret":0,"real_posx":35.5,"real_posx2":39.22,"real_posy":23.88,"real_posy2":31.22,"posx":35.5,"posx2":39.22,"posy":23.88,"posy2":31.22},

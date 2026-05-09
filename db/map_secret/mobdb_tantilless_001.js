@@ -1,5 +1,5 @@
 MobData = {
-	10073: [ {"id":"0","inid":0,"type":1,"name":"ランディス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.17,"real_posy":23.31,"posx":14.17,"posy":23.31},
+	10143: [ {"id":"0","inid":0,"type":1,"name":"ランディス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.17,"real_posy":23.31,"posx":14.17,"posy":23.31},
 	{"id":"1","inid":3,"type":1,"name":"イディア","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":136.42,"real_posy":132.66,"posx":136.42,"posy":132.66},
 	{"id":"2","inid":16,"type":2,"name":"タンタン","repop":120,"id_area":38,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":53.28,"real_posy":37.34,"posx":53.28,"posy":37.34},
 	{"id":"3","inid":1,"type":2,"name":"ポルートバット","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":116.77,"real_posy":111.34,"posx":116.77,"posy":111.34},
@@ -201,10 +201,10 @@ MobData = {
 	{"id":"199","inid":25,"type":1,"name":"発掘隊長バレン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":54.75,"real_posy":93.25,"posx":54.75,"posy":93.25},
 ]};
 MobList = {
-	10073: ["モンスター", "ランディス","ポルートバット","ポルートバット","イディア","ジェーソン","ポルートサソリ","ポルートサソリ","ポルートゾンビ","ポルートゾンビ","崩壊の番人","崩壊の番人","汚染ヴァンパイア","汚染ヴァンパイア","バーンソウル","片羽のガーゴイル","片羽のガーゴイル","タンタン","ファイアリザード","地獄かまいたち","番人長","番人長","デスグリーフ","降神術師ムシル","死霊","死霊","発掘隊長バレン","降神術師ムシル","死の追跡者",],
+	10143: ["モンスター", "ランディス","ポルートバット","ポルートバット","イディア","ジェーソン","ポルートサソリ","ポルートサソリ","ポルートゾンビ","ポルートゾンビ","崩壊の番人","崩壊の番人","汚染ヴァンパイア","汚染ヴァンパイア","バーンソウル","片羽のガーゴイル","片羽のガーゴイル","タンタン","ファイアリザード","地獄かまいたち","番人長","番人長","デスグリーフ","降神術師ムシル","死霊","死霊","発掘隊長バレン","降神術師ムシル","死の追跡者",],
 };
 AreaData = {
-	10073: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10143: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":139.73,"real_posx2":145.36,"real_posy":134.38,"real_posy2":141.56,"posx":139.73,"posx2":145.36,"posy":134.38,"posy2":141.56},
 	{"id":"3","type":0,"name":"길 잃은 그랑디스 ","area_name":"","access_map":"","is_secret":0,"real_posx":11.58,"real_posx2":16.86,"real_posy":18.81,"real_posy2":26.72,"posx":11.58,"posx2":16.86,"posy":18.81,"posy2":26.72},

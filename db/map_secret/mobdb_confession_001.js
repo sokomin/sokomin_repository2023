@@ -1,5 +1,5 @@
 MobData = {
-	10021: [ {"id":"0","inid":0,"type":2,"name":"本の虫クボル","repop":90,"id_area":19,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":41.34,"real_posy":120,"posx":41.34,"posy":120},
+	10084: [ {"id":"0","inid":0,"type":2,"name":"本の虫クボル","repop":90,"id_area":19,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":41.34,"real_posy":120,"posx":41.34,"posy":120},
 	{"id":"1","inid":2,"type":2,"name":"酔っ払いガント","repop":90,"id_area":22,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":48.73,"real_posy":15.44,"posx":48.73,"posy":15.44},
 	{"id":"2","inid":4,"type":2,"name":"ガルジュス男爵","repop":90,"id_area":64,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":141.98,"real_posy":39.72,"posx":141.98,"posy":39.72},
 	{"id":"3","inid":1,"type":2,"name":"欲張りブラム","repop":90,"id_area":21,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":123.73,"real_posy":154.38,"posx":123.73,"posy":154.38},
@@ -128,10 +128,10 @@ MobData = {
 	{"id":"126","inid":5,"type":2,"name":"さすらいゾンビ","repop":120,"id_area":47,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":93.66,"real_posy":147.28,"posx":93.66,"posy":147.28},
 ]};
 MobList = {
-	10021: ["モンスター", "本の虫クボル","欲張りブラム","酔っ払いガント","迷える魂","ガルジュス男爵","さすらいゾンビ","ガルジュス工作員","迷宮魔法師","懺悔室強盗団","ガルジュスの家来","ラットカーズ","勇者鷲武者","精鋭鷲戦士",],
+	10084: ["モンスター", "本の虫クボル","欲張りブラム","酔っ払いガント","迷える魂","ガルジュス男爵","さすらいゾンビ","ガルジュス工作員","迷宮魔法師","懺悔室強盗団","ガルジュスの家来","ラットカーズ","勇者鷲武者","精鋭鷲戦士",],
 };
 AreaData = {
-	10021: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10084: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":0,"name":"책벌레 방","area_name":"","access_map":"","is_secret":0,"real_posx":43.38,"real_posx2":45.34,"real_posy":120.59,"real_posy2":123.88,"posx":43.38,"posx2":45.34,"posy":120.59,"posy2":123.88},
 	{"id":"3","type":0,"name":"욕심쟁이 방","area_name":"","access_map":"","is_secret":0,"real_posx":124.95,"real_posx2":126.91,"real_posy":155.31,"real_posy2":158.59,"posx":124.95,"posx2":126.91,"posy":155.31,"posy2":158.59},

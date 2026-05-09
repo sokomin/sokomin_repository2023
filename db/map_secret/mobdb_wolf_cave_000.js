@@ -1,5 +1,5 @@
 MobData = {
-	10099: [ {"id":"0","inid":0,"type":2,"name":"ヴァンパイア","repop":120,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":93.06,"real_posy":40.06,"posx":93.06,"posy":40.06},
+	10165: [ {"id":"0","inid":0,"type":2,"name":"ヴァンパイア","repop":120,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":93.06,"real_posy":40.06,"posx":93.06,"posy":40.06},
 	{"id":"1","inid":2,"type":2,"name":"シジョンマ","repop":120,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":95.19,"real_posy":35.56,"posx":95.19,"posy":35.56},
 	{"id":"2","inid":0,"type":2,"name":"ヴァンパイア","repop":120,"id_area":12,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":89.75,"real_posy":50.62,"posx":89.75,"posy":50.62},
 	{"id":"3","inid":2,"type":2,"name":"シジョンマ","repop":120,"id_area":12,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":88.47,"real_posy":53.5,"posx":88.47,"posy":53.5},
@@ -67,10 +67,10 @@ MobData = {
 	{"id":"65","inid":6,"type":1,"name":"ケリマックドベル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":36.67,"real_posy":80.31,"posx":36.67,"posy":80.31},
 ]};
 MobList = {
-	10099: ["モンスター", "ヴァンパイア","マリヌス","シジョンマ","シジョンマ","アガレス","ケモス","ケリマックドベル",],
+	10165: ["モンスター", "ヴァンパイア","マリヌス","シジョンマ","シジョンマ","アガレス","ケモス","ケリマックドベル",],
 };
 AreaData = {
-	10099: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10165: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":11,"name":"함정01","area_name":"","access_map":"","is_secret":0,"real_posx":91.02,"real_posx2":95.12,"real_posy":19.62,"real_posy2":24.16,"posx":91.02,"posx2":95.12,"posy":19.62,"posy2":24.16},
 	{"id":"3","type":11,"name":"함정02","area_name":"","access_map":"","is_secret":0,"real_posx":78.28,"real_posx2":82.83,"real_posy":20,"real_posy2":27.31,"posx":78.28,"posx2":82.83,"posy":20,"posy2":27.31},

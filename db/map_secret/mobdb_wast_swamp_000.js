@@ -1,5 +1,5 @@
 MobData = {
-	10097: [ {"id":"0","inid":6,"type":2,"name":"セパース","repop":0,"id_area":11,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":55.05,"real_posy":93.53,"posx":55.05,"posy":93.53},
+	10161: [ {"id":"0","inid":6,"type":2,"name":"セパース","repop":0,"id_area":11,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":55.05,"real_posy":93.53,"posx":55.05,"posy":93.53},
 	{"id":"1","inid":7,"type":2,"name":"ケロマン","repop":0,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":42.84,"real_posy":19.16,"posx":42.84,"posy":19.16},
 	{"id":"2","inid":8,"type":2,"name":"セルケロン","repop":0,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":127.64,"real_posy":95.28,"posx":127.64,"posy":95.28},
 	{"id":"3","inid":3,"type":2,"name":"ガーゴイル","repop":0,"id_area":16,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":16.28,"real_posy":121.66,"posx":16.28,"posy":121.66},
@@ -65,10 +65,10 @@ MobData = {
 	{"id":"63","inid":3,"type":2,"name":"ガーゴイル","repop":0,"id_area":46,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":112.11,"real_posy":113.47,"posx":112.11,"posy":113.47},
 ]};
 MobList = {
-	10097: ["モンスター", "ボーンキメラ","地下界狂信者","呪われた骸骨","ガーゴイル","アイウィング","ディムジェスター","セパース","ケロマン","セルケロン",],
+	10161: ["モンスター", "ボーンキメラ","地下界狂信者","呪われた骸骨","ガーゴイル","アイウィング","ディムジェスター","セパース","ケロマン","セルケロン",],
 };
 AreaData = {
-	10097: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10161: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":5.95,"real_posx2":9.09,"real_posy":136.72,"real_posy2":141.41,"posx":5.95,"posx2":9.09,"posy":136.72,"posy2":141.41},
 	{"id":"3","type":6,"name":"セイジの部屋入口","area_name":"","access_map":"","is_secret":0,"real_posx":106.31,"real_posx2":107.12,"real_posy":34.38,"real_posy2":36,"posx":106.31,"posx2":107.12,"posy":34.38,"posy2":36},

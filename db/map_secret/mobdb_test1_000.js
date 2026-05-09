@@ -1,5 +1,5 @@
 MobData = {
-	10091: [ {"id":"0","inid":0,"type":1,"name":"発掘隊長バレン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.36,"real_posy":171.75,"posx":14.36,"posy":171.75},
+	10152: [ {"id":"0","inid":0,"type":1,"name":"発掘隊長バレン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.36,"real_posy":171.75,"posx":14.36,"posy":171.75},
 	{"id":"1","inid":28,"type":2,"name":"ディムジェスター","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.3,"real_posy":169.75,"posx":28.3,"posy":169.75},
 	{"id":"2","inid":28,"type":2,"name":"ディムジェスター","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":39.28,"real_posy":172.88,"posx":39.28,"posy":172.88},
 	{"id":"3","inid":1,"type":2,"name":"溶岩魔人","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":29.73,"real_posy":158.84,"posx":29.73,"posy":158.84},
@@ -313,10 +313,10 @@ MobData = {
 	{"id":"311","inid":29,"type":2,"name":"罪人の亡霊","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":94.94,"real_posy":74.19,"posx":94.94,"posy":74.19},
 ]};
 MobList = {
-	10091: ["モンスター", "発掘隊長バレン","溶岩魔人","溶岩魔人","溶岩戦士","溶岩戦士","溶岩術師","溶岩術師","溶岩闘士","溶岩闘士","ラバピューピル","ラバピューピル","ラバドラゴン","ラバドラゴン","溶岩鬼","溶岩鬼","煉獄脱走犯","煉獄監視人","None.","None.","悪魔ソベック","悪魔キラーカン","悪魔セブロ","悪魔ソベック","悪魔キラーカン","悪魔セブロ","ラバフロッグ","ラバフロッグ","野獣ゴールコンダ","ディムジェスター","罪人の亡霊",],
+	10152: ["モンスター", "発掘隊長バレン","溶岩魔人","溶岩魔人","溶岩戦士","溶岩戦士","溶岩術師","溶岩術師","溶岩闘士","溶岩闘士","ラバピューピル","ラバピューピル","ラバドラゴン","ラバドラゴン","溶岩鬼","溶岩鬼","煉獄脱走犯","煉獄監視人","None.","None.","悪魔ソベック","悪魔キラーカン","悪魔セブロ","悪魔ソベック","悪魔キラーカン","悪魔セブロ","ラバフロッグ","ラバフロッグ","野獣ゴールコンダ","ディムジェスター","罪人の亡霊",],
 };
 AreaData = {
-	10091: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10152: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":2.75,"real_posx2":7.39,"real_posy":177.03,"real_posy2":188.72,"posx":2.75,"posx2":7.39,"posy":177.03,"posy2":188.72},
 	{"id":"3","type":4,"name":"쉬움1","area_name":"","access_map":"","is_secret":0,"real_posx":28.11,"real_posx2":39.39,"real_posy":155.78,"real_posy2":161.5,"posx":28.11,"posx2":39.39,"posy":155.78,"posy2":161.5},

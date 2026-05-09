@@ -1,5 +1,5 @@
 MobData = {
-	10086: [ {"id":"0","inid":0,"type":1,"name":"イディア","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":87.53,"real_posy":105.62,"posx":87.53,"posy":105.62},
+	10138: [ {"id":"0","inid":0,"type":1,"name":"イディア","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":87.53,"real_posy":105.62,"posx":87.53,"posy":105.62},
 	{"id":"1","inid":2,"type":1,"name":"降神術師ムシル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":21.53,"real_posy":23.41,"posx":21.53,"posy":23.41},
 	{"id":"2","inid":1,"type":1,"name":"降神術師ムシル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":110.5,"real_posy":8.25,"posx":110.5,"posy":8.25},
 	{"id":"3","inid":19,"type":2,"name":"デスオーラ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":22.67,"real_posy":52.16,"posx":22.67,"posy":52.16},
@@ -230,10 +230,10 @@ MobData = {
 	{"id":"228","inid":22,"type":2,"name":"魂の追跡者","repop":120,"id_area":61,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":105.03,"real_posy":45.53,"posx":105.03,"posy":45.53},
 ]};
 MobList = {
-	10086: ["モンスター", "イディア","降神術師ムシル","降神術師ムシル","ソウルカーズ","ソウルカーズ","インサニーソウル","インサニーソウル","ロッテンソウル","ロッテンソウル","魂の追跡者","魂の追跡者","魂の破壊者","魂の破壊者","グラッジソウル","グラッジソウル","ソウルコレクター","ソウルコレクター","フレイムソウル","ストレイソウル","デスオーラ","死霊","プランクソウル","魂の追跡者",],
+	10138: ["モンスター", "イディア","降神術師ムシル","降神術師ムシル","ソウルカーズ","ソウルカーズ","インサニーソウル","インサニーソウル","ロッテンソウル","ロッテンソウル","魂の追跡者","魂の追跡者","魂の破壊者","魂の破壊者","グラッジソウル","グラッジソウル","ソウルコレクター","ソウルコレクター","フレイムソウル","ストレイソウル","デスオーラ","死霊","プランクソウル","魂の追跡者",],
 };
 AreaData = {
-	10086: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10138: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":81.25,"real_posx2":86.33,"real_posy":104,"real_posy2":110.91,"posx":81.25,"posx2":86.33,"posy":104,"posy2":110.91},
 	{"id":"3","type":4,"name":"미소리 리젠구역","area_name":"","access_map":"","is_secret":0,"real_posx":43.03,"real_posx2":45.61,"real_posy":11.62,"real_posy2":15.78,"posx":43.03,"posx2":45.61,"posy":11.62,"posy2":15.78},

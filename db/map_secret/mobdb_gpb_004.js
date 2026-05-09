@@ -1,14 +1,14 @@
 MobData = {
-	10038: [ {"id":"0","inid":2,"type":2,"name":"地獄の門番","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.78,"real_posy":23.59,"posx":28.78,"posy":23.59},
+	10036: [ {"id":"0","inid":2,"type":2,"name":"地獄の門番","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.78,"real_posy":23.59,"posx":28.78,"posy":23.59},
 	{"id":"1","inid":0,"type":2,"name":"悪魔 テラザック","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.72,"real_posy":33.66,"posx":28.72,"posy":33.66},
 	{"id":"2","inid":2,"type":2,"name":"地獄の門番","repop":120,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":20.73,"real_posy":34.72,"posx":20.73,"posy":34.72},
 	{"id":"3","inid":2,"type":2,"name":"地獄の門番","repop":120,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":36.98,"real_posy":34.94,"posx":36.98,"posy":34.94},
 ]};
 MobList = {
-	10038: ["モンスター", "悪魔 テラザック","None.","地獄の門番",],
+	10036: ["モンスター", "悪魔 テラザック","None.","地獄の門番",],
 };
 AreaData = {
-	10038: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10036: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":3,"name":"악마의 은신처 입구","area_name":"","access_map":"expansion\\[GPB]003.rmd","is_secret":0,"real_posx":28.22,"real_posx2":31.5,"real_posy":92.47,"real_posy2":98.03,"posx":28.22,"posx2":31.5,"posy":92.47,"posy2":98.03},
 	{"id":"3","type":4,"name":"악마 테라자크(Battle)","area_name":"","access_map":"","is_secret":0,"real_posx":24.02,"real_posx2":33.94,"real_posy":26.09,"real_posy2":38.88,"posx":24.02,"posx2":33.94,"posy":26.09,"posy2":38.88},

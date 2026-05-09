@@ -1,5 +1,5 @@
 MobData = {
-	10028: [ {"id":"0","inid":0,"type":2,"name":"ねじれた騎士","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":126.17,"real_posy":106.28,"posx":126.17,"posy":106.28},
+	10027: [ {"id":"0","inid":0,"type":2,"name":"ねじれた騎士","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":126.17,"real_posy":106.28,"posx":126.17,"posy":106.28},
 	{"id":"1","inid":0,"type":2,"name":"ねじれた騎士","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":130.08,"real_posy":111.69,"posx":130.08,"posy":111.69},
 	{"id":"2","inid":0,"type":2,"name":"ねじれた騎士","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":125.2,"real_posy":110.69,"posx":125.2,"posy":110.69},
 	{"id":"3","inid":0,"type":2,"name":"ねじれた騎士","repop":120,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":115.23,"real_posy":119.72,"posx":115.23,"posy":119.72},
@@ -54,10 +54,10 @@ MobData = {
 	{"id":"52","inid":5,"type":2,"name":"魂の収穫者","repop":120,"id_area":16,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":41.3,"real_posy":27.16,"posx":41.3,"posy":27.16},
 ]};
 MobList = {
-	10028: ["モンスター", "ねじれた騎士","彷徨う亡霊","目覚めた亡者","目覚めた悪霊","ねじれたロック","魂の収穫者","アブネール",],
+	10027: ["モンスター", "ねじれた騎士","彷徨う亡霊","目覚めた亡者","目覚めた悪霊","ねじれたロック","魂の収穫者","アブネール",],
 };
 AreaData = {
-	10028: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10027: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":128.62,"real_posx2":130.58,"real_posy":123.38,"real_posy2":126.84,"posx":128.62,"posx2":130.58,"posy":123.38,"posy2":126.84},
 	{"id":"3","type":12,"name":"入口","area_name":"","access_map":"","is_secret":0,"real_posx":124.47,"real_posx2":129.12,"real_posy":117.34,"real_posy2":126,"posx":124.47,"posx2":129.12,"posy":117.34,"posy2":126},

@@ -1,5 +1,5 @@
 MobData = {
-	10044: [ {"id":"0","inid":0,"type":2,"name":"フェイズスパイダ","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.55,"real_posy":9.25,"posx":19.55,"posy":9.25},
+	10103: [ {"id":"0","inid":0,"type":2,"name":"フェイズスパイダ","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.55,"real_posy":9.25,"posx":19.55,"posy":9.25},
 	{"id":"1","inid":0,"type":2,"name":"フェイズスパイダ","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":21.78,"real_posy":13.56,"posx":21.78,"posy":13.56},
 	{"id":"2","inid":1,"type":2,"name":"ソードスパイダー","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":22.33,"real_posy":9.47,"posx":22.33,"posy":9.47},
 	{"id":"3","inid":0,"type":2,"name":"フェイズスパイダ","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":37.8,"real_posy":12.5,"posx":37.8,"posy":12.5},
@@ -55,10 +55,10 @@ MobData = {
 	{"id":"64","inid":1,"type":2,"name":"ソードスパイダー","repop":120,"id_area":21,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":65.59,"real_posy":13.31,"posx":65.59,"posy":13.31},
 ]};
 MobList = {
-	10044: ["モンスター", "フェイズスパイダ","ソードスパイダー","スパイダー","鉱員","スリップワーカー","ルナティック","プレーガー","大型骸骨","巨人骸骨","骸骨騎士","オーガ","オーガソルジャー","ゴーレム","クレイゴーレム","ロックゴーレム",],
+	10103: ["モンスター", "フェイズスパイダ","ソードスパイダー","スパイダー","鉱員","スリップワーカー","ルナティック","プレーガー","大型骸骨","巨人骸骨","骸骨騎士","オーガ","オーガソルジャー","ゴーレム","クレイゴーレム","ロックゴーレム",],
 };
 AreaData = {
-	10044: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10103: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":1.8,"real_posx2":4.33,"real_posy":11.78,"real_posy2":18.97,"posx":1.8,"posx2":4.33,"posy":11.78,"posy2":18.97},
 	{"id":"3","type":4,"name":"Area 2","area_name":"","access_map":"","is_secret":0,"real_posx":17.27,"real_posx2":23.95,"real_posy":5.84,"real_posy2":17.59,"posx":17.27,"posx2":23.95,"posy":5.84,"posy2":17.59},

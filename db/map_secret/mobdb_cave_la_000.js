@@ -1,5 +1,5 @@
 MobData = {
-	10011: [ {"id":"0","inid":10,"type":2,"name":"幻想鎧","repop":120,"id_area":18,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":24.56,"real_posy":167.06,"posx":24.56,"posy":167.06},
+	10022: [ {"id":"0","inid":10,"type":2,"name":"幻想鎧","repop":120,"id_area":18,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":24.56,"real_posy":167.06,"posx":24.56,"posy":167.06},
 	{"id":"1","inid":0,"type":1,"name":"イルレイン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":6.83,"real_posy":190.06,"posx":6.83,"posy":190.06},
 	{"id":"2","inid":1,"type":1,"name":"傭兵リアン","repop":120,"id_area":45,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":26.05,"real_posy":179,"posx":26.05,"posy":179},
 	{"id":"3","inid":18,"type":1,"name":"傭兵ブレックハイ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":27.52,"real_posy":132.59,"posx":27.52,"posy":132.59},
@@ -78,10 +78,10 @@ MobData = {
 	{"id":"76","inid":3,"type":2,"name":"メロウブロウルロ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":53.22,"real_posy":85.72,"posx":53.22,"posy":85.72},
 ]};
 MobList = {
-	10011: ["モンスター", "イルレイン","傭兵リアン","傭兵スカルヨーダ","メロウブロウルロ","シア・ルフト","真紅の下手人","真紅の魔法師","真紅の使い魔","メロウマウロ","両刀骸骨戦士","幻想鎧","ヘルハウンド","キャストアイ","キャストアイ","キャストアイ","キャストアイ","キャストアイ","真紅の魔法師","傭兵ブレックハイ","傭兵モーラン","傭兵シンガー",],
+	10022: ["モンスター", "イルレイン","傭兵リアン","傭兵スカルヨーダ","メロウブロウルロ","シア・ルフト","真紅の下手人","真紅の魔法師","真紅の使い魔","メロウマウロ","両刀骸骨戦士","幻想鎧","ヘルハウンド","キャストアイ","キャストアイ","キャストアイ","キャストアイ","キャストアイ","真紅の魔法師","傭兵ブレックハイ","傭兵モーラン","傭兵シンガー",],
 };
 AreaData = {
-	10011: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10022: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":0.97,"real_posx2":12.06,"real_posy":185.06,"real_posy2":199.16,"posx":0.97,"posx2":12.06,"posy":185.06,"posy2":199.16},
 	{"id":"3","type":0,"name":"리더이동지역","area_name":"","access_map":"","is_secret":0,"real_posx":5.75,"real_posx2":8.31,"real_posy":175.12,"real_posy2":179.25,"posx":5.75,"posx2":8.31,"posy":175.12,"posy2":179.25},

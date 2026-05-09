@@ -1,5 +1,5 @@
 MobData = {
-	10101: [ {"id":"0","inid":0,"type":2,"name":"유혹하는 요정","repop":0,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":11.16,"real_posy":9.47,"posx":11.16,"posy":9.47},
+	10065: [ {"id":"0","inid":0,"type":2,"name":"유혹하는 요정","repop":0,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":11.16,"real_posy":9.47,"posx":11.16,"posy":9.47},
 	{"id":"1","inid":0,"type":2,"name":"유혹하는 요정","repop":0,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":7.7,"real_posy":6.69,"posx":7.7,"posy":6.69},
 	{"id":"2","inid":0,"type":2,"name":"유혹하는 요정","repop":0,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":5.36,"real_posy":15.25,"posx":5.36,"posy":15.25},
 	{"id":"3","inid":0,"type":2,"name":"유혹하는 요정","repop":0,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":10.28,"real_posy":18.06,"posx":10.28,"posy":18.06},
@@ -111,10 +111,10 @@ MobData = {
 	{"id":"109","inid":19,"type":2,"name":"불길한 꽃","repop":120,"id_area":71,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":232.3,"real_posy":177.75,"posx":232.3,"posy":177.75},
 ]};
 MobList = {
-	10101: ["モンスター", "유혹하는 요정","날쌘 요정","킥킥거리는 요정","호기심 많은 요정","고대 창술사","고대 주술사","고대 전사장","하이드넬","리얀","헤이즈","카일린","퀴즈왕 푸후루","은빛 야수","재규어","스밀로돈","우두머리 재규어","화이트 스밀로돈","재규어","불길한 거대꽃","불길한 꽃","검은 야수","별빛 재규어",],
+	10065: ["モンスター", "유혹하는 요정","날쌘 요정","킥킥거리는 요정","호기심 많은 요정","고대 창술사","고대 주술사","고대 전사장","하이드넬","리얀","헤이즈","카일린","퀴즈왕 푸후루","은빛 야수","재규어","스밀로돈","우두머리 재규어","화이트 스밀로돈","재규어","불길한 거대꽃","불길한 꽃","검은 야수","별빛 재규어",],
 };
 AreaData = {
-	10101: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10065: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":280.25,"real_posx2":284.27,"real_posy":277,"real_posy2":282.06,"posx":280.25,"posx2":284.27,"posy":277,"posy2":282.06},
 	{"id":"3","type":0,"name":"3보상","area_name":"","access_map":"","is_secret":0,"real_posx":225.17,"real_posx2":229.77,"real_posy":262.34,"real_posy2":270.62,"posx":225.17,"posx2":229.77,"posy":262.34,"posy2":270.62},

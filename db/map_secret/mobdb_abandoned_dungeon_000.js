@@ -1,5 +1,5 @@
 MobData = {
-	10000: [ {"id":"0","inid":0,"type":2,"name":"堕落した看守","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":37.66,"real_posy":85.84,"posx":37.66,"posy":85.84},
+	10002: [ {"id":"0","inid":0,"type":2,"name":"堕落した看守","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":37.66,"real_posy":85.84,"posx":37.66,"posy":85.84},
 	{"id":"1","inid":0,"type":2,"name":"堕落した看守","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":32.12,"real_posy":95.34,"posx":32.12,"posy":95.34},
 	{"id":"2","inid":0,"type":2,"name":"堕落した看守","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":42.62,"real_posy":98.69,"posx":42.62,"posy":98.69},
 	{"id":"3","inid":0,"type":2,"name":"堕落した看守","repop":120,"id_area":6,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":23.17,"real_posy":91.97,"posx":23.17,"posy":91.97},
@@ -102,10 +102,10 @@ MobData = {
 	{"id":"100","inid":14,"type":1,"name":"ホーク","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":6.11,"real_posy":121.44,"posx":6.11,"posy":121.44},
 ]};
 MobList = {
-	10000: ["モンスター", "堕落した看守","置き去りの死刑囚","邪悪なサキュバス","古代戦闘悪魔","冷酷な処刑人","拷問技師","奇怪な殺人鬼","束縛された堕天使","束縛のサティロス","束縛のガーゴイル","束縛ヴァンパイア","堕落した暗殺者","マスターリッチ","邪悪な追従者","ホーク",],
+	10002: ["モンスター", "堕落した看守","置き去りの死刑囚","邪悪なサキュバス","古代戦闘悪魔","冷酷な処刑人","拷問技師","奇怪な殺人鬼","束縛された堕天使","束縛のサティロス","束縛のガーゴイル","束縛ヴァンパイア","堕落した暗殺者","マスターリッチ","邪悪な追従者","ホーク",],
 };
 AreaData = {
-	10000: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10002: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":1.45,"real_posx2":4.84,"real_posy":118.16,"real_posy2":124.19,"posx":1.45,"posx2":4.84,"posy":118.16,"posy2":124.19},
 	{"id":"3","type":0,"name":"대미지 지속","area_name":"","access_map":"","is_secret":0,"real_posx":27.34,"real_posx2":77.56,"real_posy":1.88,"real_posy2":54.44,"posx":27.34,"posx2":77.56,"posy":1.88,"posy2":54.44},

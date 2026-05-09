@@ -1,0 +1,37 @@
+MobData = {
+	10016: [ {"id":"0","inid":0,"type":1,"name":"협회 봉인사","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":39.88,"real_posy":138.88,"posx":39.88,"posy":138.88},
+	{"id":"1","inid":0,"type":1,"name":"협회 봉인사","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":32.62,"real_posy":16.75,"posx":32.62,"posy":16.75},
+	{"id":"16777213","inid":0,"type":1,"name":"협회 봉인사","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":279.5,"real_posy":138.25,"posx":279.5,"posy":138.25},
+	{"id":"3","inid":1,"type":1,"name":"b'\\xc7\\xf9\\xc8\\xb8 \\xba\\xc0\\xc0\\xce\\xbb\\x18'","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":279.38,"real_posy":15.62,"posx":279.38,"posy":15.62},
+	{"id":"4","inid":2,"type":2,"name":"탈로스","repop":301,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":156.12,"real_posy":73.5,"posx":156.12,"posy":73.5},
+	{"id":"5","inid":3,"type":2,"name":"탈로스의 파편 1","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":172.88,"real_posy":64.62,"posx":172.88,"posy":64.62},
+	{"id":"16711686","inid":8,"type":2,"name":"b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7 \\xc6\\xc4\\xc6\\x12\\xdf\\xce\\xff'","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":133.12,"real_posy":64.38,"posx":133.12,"posy":64.38},
+	{"id":"7","inid":9,"type":2,"name":"b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7 \\xc6\\xc4\\xc6\\xed \\xce'","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":134.12,"real_posy":94.88,"posx":134.12,"posy":94.88},
+	{"id":"8","inid":5,"type":2,"name":"b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7 \\xc6\\xc4\\xc6\\xed \\xcc'","repop":1,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":137.75,"real_posy":65.38,"posx":137.75,"posy":65.38},
+	{"id":"10","inid":10,"type":2,"name":"탈로스의 파편 3","repop":1,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":177.12,"real_posy":64,"posx":177.12,"posy":64},
+	{"id":"244","inid":11,"type":2,"name":"b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7 \\xc6\\xc4\\xc6\\xed \\xcc\\xff\\xff'","repop":1,"id_area":251,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":140.25,"real_posy":94.38,"posx":140.25,"posy":94.38},
+	{"id":"12","inid":12,"type":2,"name":"b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7\\xdf\\xc6;9\\x12\\xdf\\xcc\\xff\\xff\\xff'","repop":1,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":177.12,"real_posy":64.38,"posx":177.12,"posy":64.38},
+	{"id":"13","inid":3,"type":2,"name":"탈로스의 파편 1","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":172.75,"real_posy":94.62,"posx":172.75,"posy":94.62},
+	{"id":"17","inid":6,"type":2,"name":"탈로스의 파편 4","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":176.25,"real_posy":80.88,"posx":176.25,"posy":80.88},
+	{"id":"237","inid":13,"type":2,"name":"b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7 \\xc6;9\\x12\\xdf4'","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":158.38,"real_posy":97,"posx":158.38,"posy":97},
+	{"id":"19","inid":14,"type":2,"name":"b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7 \\xc6\\xc4\\xc6\\x12 4'","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":157.62,"real_posy":60.88,"posx":157.62,"posy":60.88},
+	{"id":"20","inid":14,"type":2,"name":"b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7 \\xc6\\xc4\\xc6\\x12 4'","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":137.12,"real_posy":80.38,"posx":137.12,"posy":80.38},
+	{"id":"21","inid":7,"type":2,"name":"탈로스의 파편 5","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":135.38,"real_posy":65.88,"posx":135.38,"posy":65.88},
+	{"id":"22","inid":15,"type":2,"name":"b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7 \\xc6\\xc4\\xc6\\x12\\xdf\\xca'","repop":16711800,"id_area":251,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":175.38,"real_posy":64.75,"posx":175.38,"posy":64.75},
+	{"id":"23","inid":16,"type":2,"name":"b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba?\\xc7\\xdf9;9\\x12\\xdf\\xca\\xff'","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":151.25,"real_posy":95.5,"posx":151.25,"posy":95.5},
+	{"id":"24","inid":7,"type":2,"name":"탈로스의 파편 5","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":175.25,"real_posy":95.25,"posx":175.25,"posy":95.25},
+	{"id":"25","inid":4,"type":2,"name":"탈로스의 파편 2","repop":1,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":154.38,"real_posy":61.88,"posx":154.38,"posy":61.88},
+	{"id":"26","inid":17,"type":2,"name":"b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7\\xdf9;9\\xed \\xcd\\xff\\xff'","repop":1,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":172.62,"real_posy":80.38,"posx":172.62,"posy":80.38},
+	{"id":"27","inid":18,"type":2,"name":"b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7 \\xc6;\\xc6\\xed 2'","repop":1,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":135.25,"real_posy":79.5,"posx":135.25,"posy":79.5},
+	{"id":"28","inid":18,"type":2,"name":"b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7 \\xc6;\\xc6\\xed 2'","repop":1,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":155.5,"real_posy":97.25,"posx":155.5,"posy":97.25},
+]};
+MobList = {
+	10016: ["モンスター", "협회 봉인사","b'\\xc7\\xf9\\xc8\\xb8 \\xba\\xc0\\xc0\\xce\\xbb\\x18'","탈로스","탈로스의 파편 1","탈로스의 파편 2","b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7 \\xc6\\xc4\\xc6\\xed \\xcc'","탈로스의 파편 4","탈로스의 파편 5","b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7 \\xc6\\xc4\\xc6\\x12\\xdf\\xce\\xff'","b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7 \\xc6\\xc4\\xc6\\xed \\xce'","탈로스의 파편 3","b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7 \\xc6\\xc4\\xc6\\xed \\xcc\\xff\\xff'","b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7\\xdf\\xc6;9\\x12\\xdf\\xcc\\xff\\xff\\xff'","b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7 \\xc6;9\\x12\\xdf4'","b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7 \\xc6\\xc4\\xc6\\x12 4'","b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7 \\xc6\\xc4\\xc6\\x12\\xdf\\xca'","b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba?\\xc7\\xdf9;9\\x12\\xdf\\xca\\xff'","b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7\\xdf9;9\\xed \\xcd\\xff\\xff'","b'\\xc5\\xbb\\xb7\\xce\\xbd\\xba\\xc0\\xc7 \\xc6;\\xc6\\xed 2'",],
+};
+AreaData = {
+	10016: [ {"id":"0","type":0,"name":"졛茄\u001a 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	{"id":"1","type":-1,"name":"b'\\xa0\\xc8\\xad\\xb8\\xe9'","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	{"id":"2","type":-6,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":154.5,"real_posx2":158.5,"real_posy":128,"real_posy2":132,"posx":154.5,"posx2":158.5,"posy":128,"posy2":132},
+	{"id":"3","type":-5,"name":"탈로스","area_name":"","access_map":"","is_secret":0,"real_posx":144.25,"real_posx2":0,"real_posy":67.25,"real_posy2":8113,"posx":144.25,"posx2":0,"posy":67.25,"posy2":8113},
+	{"id":"4","type":251,"name":"무적 트리거 영역","area_name":"","access_map":"","is_secret":0,"real_posx":120.62,"real_posx2":0,"real_posy":40.38,"real_posy2":121.12,"posx":120.62,"posx2":0,"posy":40.38,"posy2":121.12},
+]};

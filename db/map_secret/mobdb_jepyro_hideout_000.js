@@ -1,5 +1,5 @@
 MobData = {
-	10045: [ {"id":"0","inid":7,"type":1,"name":"悪魔狩人","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":8.94,"real_posy":91.5,"posx":8.94,"posy":91.5},
+	10044: [ {"id":"0","inid":7,"type":1,"name":"悪魔狩人","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":8.94,"real_posy":91.5,"posx":8.94,"posy":91.5},
 	{"id":"1","inid":5,"type":2,"name":"召喚ファントム","repop":10800,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.91,"real_posy":82.19,"posx":16.91,"posy":82.19},
 	{"id":"2","inid":5,"type":2,"name":"召喚ファントム","repop":10800,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.28,"real_posy":87.12,"posx":19.28,"posy":87.12},
 	{"id":"3","inid":5,"type":2,"name":"召喚ファントム","repop":10800,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":23.17,"real_posy":57.34,"posx":23.17,"posy":57.34},
@@ -69,10 +69,10 @@ MobData = {
 	{"id":"67","inid":4,"type":2,"name":"洗脳キメラ","repop":10800,"id_area":8,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":51.97,"real_posy":10.28,"posx":51.97,"posy":10.28},
 ]};
 MobList = {
-	10045: ["モンスター", "ゼフィーロの部下","買収された悪魔","洗脳パンプキン","洗脳ラク","洗脳キメラ","召喚ファントム","None.","悪魔狩人","死の引導者","ゼフィーロ",],
+	10044: ["モンスター", "ゼフィーロの部下","買収された悪魔","洗脳パンプキン","洗脳ラク","洗脳キメラ","召喚ファントム","None.","悪魔狩人","死の引導者","ゼフィーロ",],
 };
 AreaData = {
-	10045: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10044: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":3.91,"real_posx2":10.78,"real_posy":90.62,"real_posy2":98.75,"posx":3.91,"posx2":10.78,"posy":90.62,"posy2":98.75},
 	{"id":"3","type":4,"name":"몬스터1","area_name":"","access_map":"","is_secret":0,"real_posx":14.84,"real_posx2":27.81,"real_posy":78.59,"real_posy2":90.25,"posx":14.84,"posx2":27.81,"posy":78.59,"posy2":90.25},

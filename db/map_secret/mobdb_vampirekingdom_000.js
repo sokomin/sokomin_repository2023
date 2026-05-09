@@ -1,5 +1,5 @@
 MobData = {
-	10094: [ {"id":"0","inid":2,"type":1,"name":"ヘルシーグ卿","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":33.16,"real_posy":19.31,"posx":33.16,"posy":19.31},
+	10158: [ {"id":"0","inid":2,"type":1,"name":"ヘルシーグ卿","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":33.16,"real_posy":19.31,"posx":33.16,"posy":19.31},
 	{"id":"1","inid":1,"type":1,"name":"アーニー","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":30.89,"real_posy":19.53,"posx":30.89,"posy":19.53},
 	{"id":"2","inid":0,"type":1,"name":"クイーシー","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":33.28,"real_posy":22.75,"posx":33.28,"posy":22.75},
 	{"id":"3","inid":3,"type":1,"name":"旅館 従業員","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":8.36,"real_posy":13.41,"posx":8.36,"posy":13.41},
@@ -31,10 +31,10 @@ MobData = {
 	{"id":"31","inid":18,"type":1,"name":"ロキアン","repop":120,"id_area":19,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":35.7,"real_posy":136.84,"posx":35.7,"posy":136.84},
 ]};
 MobList = {
-	10094: ["モンスター", "クイーシー","アーニー","ヘルシーグ卿","旅館 従業員","シェリー","エルウィン","お嬢さん","ウェイトレス","青年","青年","酔っ払いの青年","事業家","お嬢さん","ウィザード","踊り子","ドラグル魔法師団","None.","ヴァンパロロ","ロキアン",],
+	10158: ["モンスター", "クイーシー","アーニー","ヘルシーグ卿","旅館 従業員","シェリー","エルウィン","お嬢さん","ウェイトレス","青年","青年","酔っ払いの青年","事業家","お嬢さん","ウィザード","踊り子","ドラグル魔法師団","None.","ヴァンパロロ","ロキアン",],
 };
 AreaData = {
-	10094: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10158: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":2,"name":"秘密の本棚のドア","area_name":"","access_map":"","is_secret":0,"real_posx":25.95,"real_posx2":30.36,"real_posy":10.53,"real_posy2":18.19,"posx":25.95,"posx2":30.36,"posy":10.53,"posy2":18.19},
 	{"id":"3","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":21.03,"real_posx2":25.59,"real_posy":26.38,"real_posy2":34.72,"posx":21.03,"posx2":25.59,"posy":26.38,"posy2":34.72},

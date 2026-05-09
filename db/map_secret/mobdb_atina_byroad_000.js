@@ -1,5 +1,5 @@
 MobData = {
-	10006: [ {"id":"0","inid":0,"type":2,"name":"小道の精霊","repop":10800,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.31,"real_posy":47.22,"posx":14.31,"posy":47.22},
+	10017: [ {"id":"0","inid":0,"type":2,"name":"小道の精霊","repop":10800,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.31,"real_posy":47.22,"posx":14.31,"posy":47.22},
 	{"id":"1","inid":0,"type":2,"name":"小道の精霊","repop":10800,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.5,"real_posy":55.88,"posx":18.5,"posy":55.88},
 	{"id":"2","inid":0,"type":2,"name":"小道の精霊","repop":10800,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":23.67,"real_posy":52.03,"posx":23.67,"posy":52.03},
 	{"id":"3","inid":0,"type":2,"name":"小道の精霊","repop":10800,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":23.59,"real_posy":41.62,"posx":23.59,"posy":41.62},
@@ -81,10 +81,10 @@ MobData = {
 	{"id":"79","inid":8,"type":1,"name":"カイリン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":138.95,"real_posy":92.16,"posx":138.95,"posy":92.16},
 ]};
 MobList = {
-	10006: ["モンスター", "小道の精霊","小道の呪術者","小道の死霊","森のウルフ","虫の群れ","小道のサソリ","リヤン","ハイドネル","カイリン","ヘイズ",],
+	10017: ["モンスター", "小道の精霊","小道の呪術者","小道の死霊","森のウルフ","虫の群れ","小道のサソリ","リヤン","ハイドネル","カイリン","ヘイズ",],
 };
 AreaData = {
-	10006: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10017: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":2.06,"real_posx2":10.25,"real_posy":91.25,"real_posy2":99.62,"posx":2.06,"posx2":10.25,"posy":91.25,"posy2":99.62},
 	{"id":"3","type":4,"name":"몬스터1","area_name":"","access_map":"","is_secret":0,"real_posx":13.31,"real_posx2":26.38,"real_posy":38,"real_posy2":58.25,"posx":13.31,"posx2":26.38,"posy":38,"posy2":58.25},

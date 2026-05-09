@@ -1,5 +1,5 @@
 MobData = {
-	10065: [ {"id":"0","inid":0,"type":2,"name":"レイス","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":33.88,"real_posy":95.88,"posx":33.88,"posy":95.88},
+	10127: [ {"id":"0","inid":0,"type":2,"name":"レイス","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":33.88,"real_posy":95.88,"posx":33.88,"posy":95.88},
 	{"id":"1","inid":0,"type":2,"name":"レイス","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":29.12,"real_posy":88.38,"posx":29.12,"posy":88.38},
 	{"id":"2","inid":0,"type":2,"name":"レイス","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":24.94,"real_posy":102.62,"posx":24.94,"posy":102.62},
 	{"id":"3","inid":0,"type":2,"name":"レイス","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.81,"real_posy":95.88,"posx":19.81,"posy":95.88},
@@ -35,10 +35,10 @@ MobData = {
 	{"id":"36","inid":0,"type":2,"name":"レイス","repop":120,"id_area":15,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":68.52,"real_posy":46.72,"posx":68.52,"posy":46.72},
 ]};
 MobList = {
-	10065: ["モンスター", "レイス","リッチ",],
+	10127: ["モンスター", "レイス","リッチ",],
 };
 AreaData = {
-	10065: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10127: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":2,"name":"始まりの門 1","area_name":"","access_map":"","is_secret":0,"real_posx":43.02,"real_posx2":46.84,"real_posy":64.44,"real_posy2":72.16,"posx":43.02,"posx2":46.84,"posy":64.44,"posy2":72.16},
 	{"id":"3","type":12,"name":"水晶玉イベント領域","area_name":"","access_map":"","is_secret":0,"real_posx":51.5,"real_posx2":55.45,"real_posy":65.09,"real_posy2":71.84,"posx":51.5,"posx2":55.45,"posy":65.09,"posy2":71.84},

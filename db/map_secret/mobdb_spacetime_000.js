@@ -1,5 +1,5 @@
 MobData = {
-	10069: [ {"id":"0","inid":33,"type":2,"name":"汚染された助手","repop":120,"id_area":22,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":110.5,"real_posy":91.06,"posx":110.5,"posy":91.06},
+	10130: [ {"id":"0","inid":33,"type":2,"name":"汚染された助手","repop":120,"id_area":22,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":110.5,"real_posy":91.06,"posx":110.5,"posy":91.06},
 	{"id":"1","inid":2,"type":2,"name":"汚染された技術者","repop":120,"id_area":22,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":111.59,"real_posy":88.34,"posx":111.59,"posy":88.34},
 	{"id":"2","inid":33,"type":2,"name":"汚染された助手","repop":120,"id_area":22,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":113.5,"real_posy":89.72,"posx":113.5,"posy":89.72},
 	{"id":"3","inid":2,"type":2,"name":"汚染された技術者","repop":120,"id_area":22,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":114.83,"real_posy":91.72,"posx":114.83,"posy":91.72},
@@ -290,10 +290,10 @@ MobData = {
 	{"id":"311","inid":32,"type":2,"name":"時空リーチ","repop":120,"id_area":100,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":84.62,"real_posy":20.56,"posx":84.62,"posy":20.56},
 ]};
 MobList = {
-	10069: ["モンスター", "狂気の技術者","狂気の研究員","汚染された技術者","汚染された研究員","None.","汚染された巡察犬","実験体ウシ","実験体ネコ","実験体クマ","実験体イヌ","時空の主","時空の追跡者","時空の巡察者","時空のかけら","研修員","研修員","狂気の研究員","エルウィン","暴走警備ゴーレム","汚染警備ゴーレム","デジーズ","Ａランク研究員","研究助手","汚染された事務員","記憶喪失シェリー","None.","時空スライム","時空ハンター","時空の旅人","時空の侵略者","時空の破壊者","シェリー","時空リーチ","汚染された助手","狂気の助手","研究員の亡霊","研究員の亡霊","101区域研究員",],
+	10130: ["モンスター", "狂気の技術者","狂気の研究員","汚染された技術者","汚染された研究員","None.","汚染された巡察犬","実験体ウシ","実験体ネコ","実験体クマ","実験体イヌ","時空の主","時空の追跡者","時空の巡察者","時空のかけら","研修員","研修員","狂気の研究員","エルウィン","暴走警備ゴーレム","汚染警備ゴーレム","デジーズ","Ａランク研究員","研究助手","汚染された事務員","記憶喪失シェリー","None.","時空スライム","時空ハンター","時空の旅人","時空の侵略者","時空の破壊者","シェリー","時空リーチ","汚染された助手","狂気の助手","研究員の亡霊","研究員の亡霊","101区域研究員",],
 };
 AreaData = {
-	10069: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10130: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":4,"name":"강의실 NPC  소환구역","area_name":"","access_map":"","is_secret":0,"real_posx":7.66,"real_posx2":24.11,"real_posy":172,"real_posy2":187.78,"posx":7.66,"posx2":24.11,"posy":172,"posy2":187.78},
 	{"id":"3","type":4,"name":"강의실 1번 대기","area_name":"","access_map":"","is_secret":0,"real_posx":24.59,"real_posx2":28.09,"real_posy":171.97,"real_posy2":179.31,"posx":24.59,"posx2":28.09,"posy":171.97,"posy2":179.31},

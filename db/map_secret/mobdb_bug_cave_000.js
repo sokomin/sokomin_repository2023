@@ -1,5 +1,5 @@
 MobData = {
-	10008: [ {"id":"0","inid":3,"type":2,"name":"蟲の群れ","repop":120,"id_area":27,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":10.91,"real_posy":82.59,"posx":10.91,"posy":82.59},
+	10069: [ {"id":"0","inid":3,"type":2,"name":"蟲の群れ","repop":120,"id_area":27,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":10.91,"real_posy":82.59,"posx":10.91,"posy":82.59},
 	{"id":"1","inid":4,"type":2,"name":"ラルヴァ","repop":120,"id_area":27,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":13.27,"real_posy":83.25,"posx":13.27,"posy":83.25},
 	{"id":"2","inid":4,"type":2,"name":"ラルヴァ","repop":120,"id_area":28,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":4.48,"real_posy":68.47,"posx":4.48,"posy":68.47},
 	{"id":"3","inid":3,"type":2,"name":"蟲の群れ","repop":120,"id_area":28,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":6.62,"real_posy":68.06,"posx":6.62,"posy":68.06},
@@ -87,10 +87,10 @@ MobData = {
 	{"id":"85","inid":4,"type":2,"name":"ラルヴァ","repop":120,"id_area":31,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":71.42,"real_posy":16.88,"posx":71.42,"posy":16.88},
 ]};
 MobList = {
-	10008: ["モンスター", "テルス","殺人蚊の群れ","クローラー","蟲の群れ","ラルヴァ","クリーパー",],
+	10069: ["モンスター", "テルス","殺人蚊の群れ","クローラー","蟲の群れ","ラルヴァ","クリーパー",],
 };
 AreaData = {
-	10008: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10069: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":11,"name":"함정00","area_name":"","access_map":"","is_secret":0,"real_posx":6,"real_posx2":10.02,"real_posy":74.94,"real_posy2":77.12,"posx":6,"posx2":10.02,"posy":74.94,"posy2":77.12},
 	{"id":"3","type":11,"name":"함정01","area_name":"","access_map":"","is_secret":0,"real_posx":53.86,"real_posx2":58,"real_posy":12,"real_posy2":17.91,"posx":53.86,"posx2":58,"posy":12,"posy2":17.91},

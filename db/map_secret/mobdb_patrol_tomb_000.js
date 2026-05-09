@@ -1,5 +1,5 @@
 MobData = {
-	10057: [ {"id":"0","inid":2,"type":2,"name":"骸骨警備兵","repop":120,"id_area":39,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":72.59,"real_posy":94.31,"posx":72.59,"posy":94.31},
+	10117: [ {"id":"0","inid":2,"type":2,"name":"骸骨警備兵","repop":120,"id_area":39,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":72.59,"real_posy":94.31,"posx":72.59,"posy":94.31},
 	{"id":"1","inid":0,"type":2,"name":"大型骸骨","repop":120,"id_area":28,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":11.45,"real_posy":44.19,"posx":11.45,"posy":44.19},
 	{"id":"2","inid":1,"type":2,"name":"骸骨狂戦士","repop":120,"id_area":29,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.45,"real_posy":50.66,"posx":14.45,"posy":50.66},
 	{"id":"3","inid":3,"type":2,"name":"ゴースト","repop":120,"id_area":10,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":22.06,"real_posy":54.34,"posx":22.06,"posy":54.34},
@@ -37,10 +37,10 @@ MobData = {
 	{"id":"35","inid":10,"type":2,"name":"小両刀骸骨","repop":120,"id_area":16,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":62.67,"real_posy":43.53,"posx":62.67,"posy":43.53},
 ]};
 MobList = {
-	10057: ["モンスター", "大型骸骨","骸骨狂戦士","骸骨警備兵","ゴースト","骸骨騎士","悪霊キリエ","魔法骸骨警備兵","幽霊の寃魂","キリエ","小両刀骸骨","小両刀骸骨",],
+	10117: ["モンスター", "大型骸骨","骸骨狂戦士","骸骨警備兵","ゴースト","骸骨騎士","悪霊キリエ","魔法骸骨警備兵","幽霊の寃魂","キリエ","小両刀骸骨","小両刀骸骨",],
 };
 AreaData = {
-	10057: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10117: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":12,"name":"石移ろう！","area_name":"","access_map":"","is_secret":0,"real_posx":49.56,"real_posx2":51.33,"real_posy":48.22,"real_posy2":51.84,"posx":49.56,"posx2":51.33,"posy":48.22,"posy2":51.84},
 	{"id":"3","type":2,"name":"骸骨扉","area_name":"","access_map":"","is_secret":0,"real_posx":34.12,"real_posx2":37.23,"real_posy":60.78,"real_posy2":67.75,"posx":34.12,"posx2":37.23,"posy":60.78,"posy2":67.75},

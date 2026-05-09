@@ -1,5 +1,5 @@
 MobData = {
-	10058: [ {"id":"0","inid":0,"type":1,"name":"ビゼンペルト","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":3.88,"real_posy":62.31,"posx":3.88,"posy":62.31},
+	10118: [ {"id":"0","inid":0,"type":1,"name":"ビゼンペルト","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":3.88,"real_posy":62.31,"posx":3.88,"posy":62.31},
 	{"id":"1","inid":1,"type":1,"name":"ミスティー","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":5.97,"real_posy":59.88,"posx":5.97,"posy":59.88},
 	{"id":"2","inid":11,"type":1,"name":"アイナ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":6.94,"real_posy":63.91,"posx":6.94,"posy":63.91},
 	{"id":"3","inid":5,"type":2,"name":"飛海月の女王ゼニ","repop":120,"id_area":39,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":31.22,"real_posy":53.19,"posx":31.22,"posy":53.19},
@@ -130,10 +130,10 @@ MobData = {
 	{"id":"156","inid":3,"type":2,"name":"毒持ち飛海月","repop":120,"id_area":42,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":64.16,"real_posy":89.34,"posx":64.16,"posy":89.34},
 ]};
 MobList = {
-	10058: ["モンスター", "ビゼンペルト","ミスティー","下っぱ飛海月","毒持ち飛海月","キング飛海月","飛海月の女王ゼニ","飛海月の幼虫","None.","スコーピオン幼虫","スコーピオン成虫","中毒のサソリ幼虫","アイナ",],
+	10118: ["モンスター", "ビゼンペルト","ミスティー","下っぱ飛海月","毒持ち飛海月","キング飛海月","飛海月の女王ゼニ","飛海月の幼虫","None.","スコーピオン幼虫","スコーピオン成虫","中毒のサソリ幼虫","アイナ",],
 };
 AreaData = {
-	10058: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10118: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":4,"name":"해파리주민00","area_name":"","access_map":"","is_secret":0,"real_posx":8.5,"real_posx2":17.16,"real_posy":40.44,"real_posy2":50.62,"posx":8.5,"posx2":17.16,"posy":40.44,"posy2":50.62},
 	{"id":"3","type":12,"name":"卵が眠る巣01","area_name":"","access_map":"","is_secret":0,"real_posx":30.94,"real_posx2":35.45,"real_posy":25.06,"real_posy2":31.69,"posx":30.94,"posx2":35.45,"posy":25.06,"posy2":31.69},

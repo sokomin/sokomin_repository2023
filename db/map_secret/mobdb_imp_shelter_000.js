@@ -1,5 +1,5 @@
 MobData = {
-	10043: [ {"id":"0","inid":0,"type":1,"name":"表裏者カシーク","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":10.06,"real_posy":6.69,"posx":10.06,"posy":6.69},
+	10102: [ {"id":"0","inid":0,"type":1,"name":"表裏者カシーク","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":10.06,"real_posy":6.69,"posx":10.06,"posy":6.69},
 	{"id":"1","inid":1,"type":2,"name":"森のインプ警備兵","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":32.42,"real_posy":7.34,"posx":32.42,"posy":7.34},
 	{"id":"2","inid":15,"type":2,"name":"閃光のペガサス","repop":120,"id_area":30,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":73.09,"real_posy":288.16,"posx":73.09,"posy":288.16},
 	{"id":"3","inid":1,"type":2,"name":"森のインプ警備兵","repop":7200,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":27.56,"real_posy":29.62,"posx":27.56,"posy":29.62},
@@ -240,10 +240,10 @@ MobData = {
 	{"id":"277","inid":24,"type":2,"name":"永遠の炎","repop":7200,"id_area":30,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":73,"real_posy":287.34,"posx":73,"posy":287.34},
 ]};
 MobList = {
-	10043: ["モンスター", "表裏者カシーク","森のインプ警備兵","森のインプ喧嘩屋","森のインプ喧嘩屋","森のインプ警備兵","森のインプ警備兵","森のインプ警備兵","森のインプ警備兵","森のインプ喧嘩屋","森のインプ喧嘩屋","炎の追従者","森のインプ喧嘩屋","純粋なる炎","風刃の弟子","風刃","閃光のペガサス","闇の王","万年亀","万年子亀","大地の支配者","大地の浄水","大王バグラム","大王の近衛隊","大王の頭脳","永遠の炎","風刃の一番弟子","水占い師の泡 ","None.","風刃","風刃","食い意地ゾンビ","腐乱死体","万年子亀",],
+	10102: ["モンスター", "表裏者カシーク","森のインプ警備兵","森のインプ喧嘩屋","森のインプ喧嘩屋","森のインプ警備兵","森のインプ警備兵","森のインプ警備兵","森のインプ警備兵","森のインプ喧嘩屋","森のインプ喧嘩屋","炎の追従者","森のインプ喧嘩屋","純粋なる炎","風刃の弟子","風刃","閃光のペガサス","闇の王","万年亀","万年子亀","大地の支配者","大地の浄水","大王バグラム","大王の近衛隊","大王の頭脳","永遠の炎","風刃の一番弟子","水占い師の泡 ","None.","風刃","風刃","食い意地ゾンビ","腐乱死体","万年子亀",],
 };
 AreaData = {
-	10043: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10102: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":4,"name":"1","area_name":"","access_map":"","is_secret":0,"real_posx":20.03,"real_posx2":64.52,"real_posy":0.19,"real_posy2":43.41,"posx":20.03,"posx2":64.52,"posy":0.19,"posy2":43.41},
 	{"id":"3","type":4,"name":"불","area_name":"","access_map":"","is_secret":0,"real_posx":0.09,"real_posx2":35.64,"real_posy":183.44,"real_posy2":236.22,"posx":0.09,"posx2":35.64,"posy":183.44,"posy2":236.22},

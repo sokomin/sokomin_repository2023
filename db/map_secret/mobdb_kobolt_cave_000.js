@@ -1,5 +1,5 @@
 MobData = {
-	10046: [ {"id":"0","inid":0,"type":2,"name":"グレムリン警備兵","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":22.42,"real_posy":79.66,"posx":22.42,"posy":79.66},
+	10104: [ {"id":"0","inid":0,"type":2,"name":"グレムリン警備兵","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":22.42,"real_posy":79.66,"posx":22.42,"posy":79.66},
 	{"id":"1","inid":0,"type":2,"name":"グレムリン警備兵","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":24.73,"real_posy":81.62,"posx":24.73,"posy":81.62},
 	{"id":"2","inid":1,"type":2,"name":"警備隊長ジェリ","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":22.36,"real_posy":82.62,"posx":22.36,"posy":82.62},
 	{"id":"3","inid":0,"type":2,"name":"グレムリン警備兵","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.3,"real_posy":66.88,"posx":28.3,"posy":66.88},
@@ -65,10 +65,10 @@ MobData = {
 	{"id":"64","inid":8,"type":2,"name":"上級グレムリン","repop":120,"id_area":39,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.45,"real_posy":42.94,"posx":15.45,"posy":42.94},
 ]};
 MobList = {
-	10046: ["モンスター", "グレムリン警備兵","警備隊長ジェリ","グレムリン警備兵","警備隊長ジェツ","警備隊長ガルン","病気のコボルト","倉庫番ハイファン","副族長ベス","上級グレムリン","副族長ネッシュ","胸幅な洞窟狼","新兵助教ベンチ","ゲリブ","族長ゲリド","シャーモンテル",],
+	10104: ["モンスター", "グレムリン警備兵","警備隊長ジェリ","グレムリン警備兵","警備隊長ジェツ","警備隊長ガルン","病気のコボルト","倉庫番ハイファン","副族長ベス","上級グレムリン","副族長ネッシュ","胸幅な洞窟狼","新兵助教ベンチ","ゲリブ","族長ゲリド","シャーモンテル",],
 };
 AreaData = {
-	10046: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10104: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":12.7,"real_posx2":15.62,"real_posy":85.88,"real_posy2":90.66,"posx":12.7,"posx2":15.62,"posy":85.88,"posy2":90.66},
 	{"id":"3","type":4,"name":"제릴 리젠 지역","area_name":"","access_map":"","is_secret":0,"real_posx":19.83,"real_posx2":26.75,"real_posy":75.59,"real_posy2":86.03,"posx":19.83,"posx2":26.75,"posy":75.59,"posy2":86.03},

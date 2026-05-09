@@ -1,5 +1,5 @@
 MobData = {
-	10016: [ {"id":"0","inid":3,"type":2,"name":"バンシーストーカ","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19,"real_posy":16.97,"posx":19,"posy":16.97},
+	10078: [ {"id":"0","inid":3,"type":2,"name":"バンシーストーカ","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19,"real_posy":16.97,"posx":19,"posy":16.97},
 	{"id":"1","inid":3,"type":2,"name":"バンシーストーカ","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":21.45,"real_posy":26.78,"posx":21.45,"posy":26.78},
 	{"id":"2","inid":3,"type":2,"name":"バンシーストーカ","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.77,"real_posy":26.75,"posx":16.77,"posy":26.75},
 	{"id":"3","inid":3,"type":2,"name":"バンシーストーカ","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":76.69,"real_posy":22.09,"posx":76.69,"posy":22.09},
@@ -106,10 +106,10 @@ MobData = {
 	{"id":"106","inid":10,"type":2,"name":"嘆きの怨霊","repop":120,"id_area":2,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":13.98,"real_posy":23.97,"posx":13.98,"posy":23.97},
 ]};
 MobList = {
-	10016: ["モンスター", "バンシーロード","バンシーリッチ","分裂したバンシー","バンシーストーカ","バンシーオカルト","分裂したバンシー","分裂したバンシー","融合したバンシー","魂保管箱","バンシープリース","嘆きの怨霊","憎悪の怨霊","バン７ーリッチ","バンシ[リッチ","轍きの怨霊","嘆きの怨野",],
+	10078: ["モンスター", "バンシーロード","バンシーリッチ","分裂したバンシー","バンシーストーカ","バンシーオカルト","分裂したバンシー","分裂したバンシー","融合したバンシー","魂保管箱","バンシープリース","嘆きの怨霊","憎悪の怨霊","バン７ーリッチ","バンシ[リッチ","轍きの怨霊","嘆きの怨野",],
 };
 AreaData = {
-	10016: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10078: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":4,"name":"Wave 1","area_name":"","access_map":"","is_secret":0,"real_posx":8.25,"real_posx2":30.39,"real_posy":8.34,"real_posy2":37.25,"posx":8.25,"posx2":30.39,"posy":8.34,"posy2":37.25},
 	{"id":"3","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":15.7,"real_posx2":23.02,"real_posy":17.69,"real_posy2":25.56,"posx":15.7,"posx2":23.02,"posy":17.69,"posy2":25.56},

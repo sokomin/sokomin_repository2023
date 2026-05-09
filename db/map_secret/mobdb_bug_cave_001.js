@@ -1,5 +1,5 @@
 MobData = {
-	10009: [ {"id":"0","inid":0,"type":2,"name":"クローラー","repop":120,"id_area":19,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":7.56,"real_posy":47.25,"posx":7.56,"posy":47.25},
+	10070: [ {"id":"0","inid":0,"type":2,"name":"クローラー","repop":120,"id_area":19,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":7.56,"real_posy":47.25,"posx":7.56,"posy":47.25},
 	{"id":"1","inid":0,"type":2,"name":"クローラー","repop":120,"id_area":19,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":10.56,"real_posy":60.62,"posx":10.56,"posy":60.62},
 	{"id":"2","inid":0,"type":2,"name":"クローラー","repop":120,"id_area":21,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":16.56,"real_posy":50.12,"posx":16.56,"posy":50.12},
 	{"id":"3","inid":0,"type":2,"name":"クローラー","repop":120,"id_area":21,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.25,"real_posy":72.75,"posx":18.25,"posy":72.75},
@@ -25,10 +25,10 @@ MobData = {
 	{"id":"23","inid":1,"type":1,"name":"テルス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":32.61,"real_posy":73.44,"posx":32.61,"posy":73.44},
 ]};
 MobList = {
-	10009: ["モンスター", "クローラー","テルス",],
+	10070: ["モンスター", "クローラー","テルス",],
 };
 AreaData = {
-	10009: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10070: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":3,"name":"이전 층으로","area_name":"","access_map":"expansion\\[bug_cave]000.rmd","is_secret":0,"real_posx":2.64,"real_posx2":4.95,"real_posy":69,"real_posy2":71.31,"posx":2.64,"posx2":4.95,"posy":69,"posy2":71.31},
 	{"id":"3","type":11,"name":"함정00","area_name":"","access_map":"","is_secret":0,"real_posx":3.62,"real_posx2":5.55,"real_posy":32,"real_posy2":39.38,"posx":3.62,"posx2":5.55,"posy":32,"posy2":39.38},

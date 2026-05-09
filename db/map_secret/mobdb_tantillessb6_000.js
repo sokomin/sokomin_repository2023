@@ -1,5 +1,5 @@
 MobData = {
-	10087: [ {"id":"0","inid":16,"type":1,"name":"ストップガデア","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":119.02,"real_posy":12.97,"posx":119.02,"posy":12.97},
+	10139: [ {"id":"0","inid":16,"type":1,"name":"ストップガデア","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":119.02,"real_posy":12.97,"posx":119.02,"posy":12.97},
 	{"id":"1","inid":14,"type":2,"name":"クラッシュガデア","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":134.83,"real_posy":67.22,"posx":134.83,"posy":67.22},
 	{"id":"2","inid":14,"type":2,"name":"クラッシュガデア","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":136.19,"real_posy":67.28,"posx":136.19,"posy":67.28},
 	{"id":"3","inid":14,"type":2,"name":"クラッシュガデア","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":137.56,"real_posy":67.25,"posx":137.56,"posy":67.25},
@@ -242,10 +242,10 @@ MobData = {
 	{"id":"240","inid":26,"type":2,"name":"シャアモの猟犬","repop":120,"id_area":69,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":18.91,"real_posy":46.66,"posx":18.91,"posy":46.66},
 ]};
 MobList = {
-	10087: ["モンスター", "None.","None.","シャアモの知恵","シャアモの知恵","シャアモの剣","シャアモの剣","シャアモの牙","シャアモの牙","シャアモの盾","シャアモの盾","シャアモの力","シャアモの力","シャアモの鐘","シャアモの鐘","クラッシュガデア","パンプキング","ストップガデア","シャアモの狂喜","シャアモの目","シャアモの目","降神術師ムシル","降神術師ムシル","邪念塊","集合邪念塊","発掘隊長バレン","ロザミアの魂","シャアモの猟犬",],
+	10139: ["モンスター", "None.","None.","シャアモの知恵","シャアモの知恵","シャアモの剣","シャアモの剣","シャアモの牙","シャアモの牙","シャアモの盾","シャアモの盾","シャアモの力","シャアモの力","シャアモの鐘","シャアモの鐘","クラッシュガデア","パンプキング","ストップガデア","シャアモの狂喜","シャアモの目","シャアモの目","降神術師ムシル","降神術師ムシル","邪念塊","集合邪念塊","発掘隊長バレン","ロザミアの魂","シャアモの猟犬",],
 };
 AreaData = {
-	10087: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10139: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":131.45,"real_posx2":136.31,"real_posy":2.66,"real_posy2":8.09,"posx":131.45,"posx2":136.31,"posy":2.66,"posy2":8.09},
 	{"id":"3","type":4,"name":"망가진 수호자 대기","area_name":"","access_map":"","is_secret":0,"real_posx":132.36,"real_posx2":139.86,"real_posy":59.31,"real_posy2":73.19,"posx":132.36,"posx2":139.86,"posy":59.31,"posy2":73.19},
