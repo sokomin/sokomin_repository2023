@@ -1,14 +1,14 @@
 MobData = {
-	10087: [ {"id":"0","inid":0,"type":2,"name":"러시펄","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":216.25,"real_posy":105,"posx":216.25,"posy":105},
-	{"id":"1","inid":1,"type":2,"name":"스톤 옵저버","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":182.38,"real_posy":122.62,"posx":182.38,"posy":122.62},
-	{"id":"2","inid":1,"type":2,"name":"스톤 옵저버","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":183.38,"real_posy":94.5,"posx":183.38,"posy":94.5},
-	{"id":"3","inid":1,"type":2,"name":"스톤 옵저버","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":218.38,"real_posy":79,"posx":218.38,"posy":79},
-	{"id":"4","inid":1,"type":2,"name":"스톤 옵저버","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":255.5,"real_posy":96.38,"posx":255.5,"posy":96.38},
-	{"id":"5","inid":2,"type":1,"name":"게일","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":383.38,"real_posy":7.12,"posx":383.38,"posy":7.12},
-	{"id":"6","inid":1,"type":2,"name":"스톤 옵저버","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":241.38,"real_posy":123.5,"posx":241.38,"posy":123.5},
+	10087: [ {"id":"0","inid":0,"type":2,"name":"ルシパル","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":216.25,"real_posy":105,"posx":216.25,"posy":105},
+	{"id":"1","inid":1,"type":2,"name":"ストーン観察者","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":182.38,"real_posy":122.62,"posx":182.38,"posy":122.62},
+	{"id":"2","inid":1,"type":2,"name":"ストーン観察者","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":183.38,"real_posy":94.5,"posx":183.38,"posy":94.5},
+	{"id":"3","inid":1,"type":2,"name":"ストーン観察者","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":218.38,"real_posy":79,"posx":218.38,"posy":79},
+	{"id":"4","inid":1,"type":2,"name":"ストーン観察者","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":255.5,"real_posy":96.38,"posx":255.5,"posy":96.38},
+	{"id":"5","inid":2,"type":1,"name":"ゲール","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":383.38,"real_posy":7.12,"posx":383.38,"posy":7.12},
+	{"id":"6","inid":1,"type":2,"name":"ストーン観察者","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":241.38,"real_posy":123.5,"posx":241.38,"posy":123.5},
 ]};
 MobList = {
-	10087: ["モンスター", "러시펄","스톤 옵저버","게일",],
+	10087: ["モンスター", "ルシパル","ストーン観察者","ゲール",],
 };
 AreaData = {
 	10087: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
