@@ -46,15 +46,15 @@ MobData = {
 	{"id":"50","inid":2,"type":2,"name":"盗賊団射手盗賊","repop":120,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":19.09,"real_posy":87.28,"posx":19.09,"posy":87.28},
 	{"id":"52","inid":3,"type":2,"name":"盗賊団幹部","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":125.77,"real_posy":59.22,"posx":125.77,"posy":59.22},
 	{"id":"53","inid":3,"type":2,"name":"盗賊団幹部","repop":16711800,"id_area":12,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":13.28,"real_posy":26.53,"posx":13.28,"posy":26.53},
-	{"id":"54","inid":5,"type":1,"name":"ならず者のボス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.31,"real_posy":103.31,"posx":14.31,"posy":103.31},
-	{"id":"56","inid":8,"type":2,"name":"ガフ","repop":120,"id_area":18,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":52.41,"real_posy":95.59,"posx":52.41,"posy":95.59},
+	{"id":"54","inid":4,"type":1,"name":"ならず者のボス","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.31,"real_posy":103.31,"posx":14.31,"posy":103.31},
+	{"id":"56","inid":5,"type":2,"name":"ガフ","repop":120,"id_area":18,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":52.41,"real_posy":95.59,"posx":52.41,"posy":95.59},
 	{"id":"57","inid":6,"type":1,"name":"エステル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":57.95,"real_posy":111.5,"posx":57.95,"posy":111.5},
 	{"id":"58","inid":7,"type":1,"name":"リンウード","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":59.19,"real_posy":112.44,"posx":59.19,"posy":112.44},
 	{"id":"59","inid":6,"type":1,"name":"エステル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":15.33,"real_posy":104.66,"posx":15.33,"posy":104.66},
 	{"id":"60","inid":7,"type":1,"name":"リンウード","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":14.28,"real_posy":107.06,"posx":14.28,"posy":107.06},
 ]};
 MobList = {
-	10114: ["モンスター", "盗賊団強盗","盗賊団偵察兵","盗賊団射手盗賊","盗賊団幹部","None.","ならず者のボス","エステル","リンウード","ガフ",],
+	10114: ["モンスター", "盗賊団強盗","盗賊団偵察兵","盗賊団射手盗賊","盗賊団幹部","ならず者のボス","ガフ","エステル","リンウード",],
 };
 AreaData = {
 	10114: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

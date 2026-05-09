@@ -1,14 +1,14 @@
 MobData = {
-	10064: [ {"id":"1","inid":1,"type":2,"name":"スキルキャスター","repop":7200,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":35.09,"real_posy":71.25,"posx":35.09,"posy":71.25},
-	{"id":"2","inid":2,"type":1,"name":"ヴェノムベッセル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":20.78,"real_posy":156.25,"posx":20.78,"posy":156.25},
-	{"id":"3","inid":3,"type":1,"name":"スキルキャスター","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":29.25,"real_posy":156.44,"posx":29.25,"posy":156.44},
-	{"id":"4","inid":6,"type":1,"name":"ヴェノムベッセル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.28,"real_posy":52.69,"posx":28.28,"posy":52.69},
-	{"id":"5","inid":7,"type":1,"name":"ボスへの入口","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":34.81,"real_posy":51.62,"posx":34.81,"posy":51.62},
-	{"id":"6","inid":4,"type":1,"name":"リンク","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.66,"real_posy":85.56,"posx":28.66,"posy":85.56},
-	{"id":"7","inid":5,"type":1,"name":"不思議な水晶が見える。","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":41.47,"real_posy":85.94,"posx":41.47,"posy":85.94},
+	10064: [ {"id":"1","inid":0,"type":2,"name":"スキルキャスター","repop":7200,"id_area":7,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":35.09,"real_posy":71.25,"posx":35.09,"posy":71.25},
+	{"id":"2","inid":1,"type":1,"name":"ヴェノムベッセル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":20.78,"real_posy":156.25,"posx":20.78,"posy":156.25},
+	{"id":"3","inid":0,"type":1,"name":"スキルキャスター","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":29.25,"real_posy":156.44,"posx":29.25,"posy":156.44},
+	{"id":"4","inid":1,"type":1,"name":"ヴェノムベッセル","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.28,"real_posy":52.69,"posx":28.28,"posy":52.69},
+	{"id":"5","inid":2,"type":1,"name":"ボスへの入口","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":34.81,"real_posy":51.62,"posx":34.81,"posy":51.62},
+	{"id":"6","inid":3,"type":1,"name":"リンク","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.66,"real_posy":85.56,"posx":28.66,"posy":85.56},
+	{"id":"7","inid":4,"type":1,"name":"不思議な水晶が見える。","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":41.47,"real_posy":85.94,"posx":41.47,"posy":85.94},
 ]};
 MobList = {
-	10064: ["モンスター", "None.","スキルキャスター","ヴェノムベッセル","スキルキャスター","リンク","不思議な水晶が見える。","ヴェノムベッセル","ボスへの入口",],
+	10064: ["モンスター", "スキルキャスター","ヴェノムベッセル","ボスへの入口","リンク","不思議な水晶が見える。",],
 };
 AreaData = {
 	10064: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

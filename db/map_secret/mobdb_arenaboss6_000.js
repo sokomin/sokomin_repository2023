@@ -1,9 +1,9 @@
 MobData = {
-	10014: [ {"id":"0","inid":1,"type":2,"name":"ゲリオ","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":14.67,"real_posy":26.39,"posx":14.67,"posy":26.39},
-	{"id":"1","inid":0,"type":1,"name":"討伐騎士団員","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":140.17,"real_posy":138.11,"posx":140.17,"posy":138.11},
+	10014: [ {"id":"0","inid":0,"type":2,"name":"ゲリオ","repop":120,"id_area":3,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":14.67,"real_posy":26.39,"posx":14.67,"posy":26.39},
+	{"id":"1","inid":1,"type":1,"name":"討伐騎士団員","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":140.17,"real_posy":138.11,"posx":140.17,"posy":138.11},
 ]};
 MobList = {
-	10014: ["モンスター", "討伐騎士団員","ゲリオ",],
+	10014: ["モンスター", "ゲリオ","討伐騎士団員",],
 };
 AreaData = {
 	10014: [ {"id":"0","type":0,"name":"b'_\\xc7\\xca\\xb5\\xe5 \\xc0\\xfc\\xc3\\xbc\\xff'","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

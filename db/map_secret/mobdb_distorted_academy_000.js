@@ -50,11 +50,11 @@ MobData = {
 	{"id":"48","inid":2,"type":2,"name":"目覚めた亡者","repop":120,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":6.97,"real_posy":49.75,"posx":6.97,"posy":49.75},
 	{"id":"49","inid":2,"type":2,"name":"目覚めた亡者","repop":120,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":8.7,"real_posy":54.03,"posx":8.7,"posy":54.03},
 	{"id":"50","inid":2,"type":2,"name":"目覚めた亡者","repop":120,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":12.72,"real_posy":48.88,"posx":12.72,"posy":48.88},
-	{"id":"51","inid":6,"type":1,"name":"アブネール","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":10.08,"real_posy":18.38,"posx":10.08,"posy":18.38},
-	{"id":"52","inid":5,"type":2,"name":"魂の収穫者","repop":120,"id_area":16,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":41.3,"real_posy":27.16,"posx":41.3,"posy":27.16},
+	{"id":"51","inid":5,"type":1,"name":"アブネール","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":10.08,"real_posy":18.38,"posx":10.08,"posy":18.38},
+	{"id":"52","inid":6,"type":2,"name":"魂の収穫者","repop":120,"id_area":16,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":41.3,"real_posy":27.16,"posx":41.3,"posy":27.16},
 ]};
 MobList = {
-	10027: ["モンスター", "ねじれた騎士","彷徨う亡霊","目覚めた亡者","目覚めた悪霊","ねじれたロック","魂の収穫者","アブネール",],
+	10027: ["モンスター", "ねじれた騎士","彷徨う亡霊","目覚めた亡者","目覚めた悪霊","ねじれたロック","アブネール","魂の収穫者",],
 };
 AreaData = {
 	10027: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

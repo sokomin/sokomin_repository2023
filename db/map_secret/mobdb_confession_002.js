@@ -1,5 +1,5 @@
 MobData = {
-	10085: [ {"id":"0","inid":3,"type":1,"name":"남작 가이수스","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":54.06,"real_posy":128.25,"posx":54.06,"posy":128.25},
+	10085: [ {"id":"0","inid":0,"type":1,"name":"남작 가이수스","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":54.06,"real_posy":128.25,"posx":54.06,"posy":128.25},
 	{"id":"1","inid":1,"type":1,"name":"가이수스 근위병","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":41.81,"real_posy":127.19,"posx":41.81,"posy":127.19},
 	{"id":"2","inid":1,"type":1,"name":"가이수스 근위병","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":39.31,"real_posy":130.12,"posx":39.31,"posy":130.12},
 	{"id":"3","inid":1,"type":1,"name":"가이수스 근위병","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":37.41,"real_posy":132.75,"posx":37.41,"posy":132.75},
@@ -16,7 +16,7 @@ MobData = {
 	{"id":"14","inid":1,"type":2,"name":"가이수스 근위병","repop":120,"id_area":9,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":152.56,"real_posy":180.81,"posx":152.56,"posy":180.81},
 ]};
 MobList = {
-	10085: ["モンスター", "남작 가이수스","가이수스 근위병","세에라","남작 가이수스",],
+	10085: ["モンスター", "남작 가이수스","가이수스 근위병","세에라",],
 };
 AreaData = {
 	10085: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

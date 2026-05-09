@@ -1,5 +1,5 @@
 MobData = {
-	10007: [ {"id":"0","inid":5,"type":1,"name":"진홍의 악마","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":157,"real_posy":75.25,"posx":157,"posy":75.25},
+	10007: [ {"id":"0","inid":0,"type":1,"name":"진홍의 악마","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":157,"real_posy":75.25,"posx":157,"posy":75.25},
 	{"id":"1","inid":0,"type":2,"name":"진홍의 악마","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":157,"real_posy":76.88,"posx":157,"posy":76.88},
 	{"id":"2","inid":1,"type":1,"name":"엘레인","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":138.5,"real_posy":98.38,"posx":138.5,"posy":98.38},
 	{"id":"3","inid":2,"type":1,"name":"에델","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":127.38,"real_posy":106.5,"posx":127.38,"posy":106.5},
@@ -7,7 +7,7 @@ MobData = {
 	{"id":"5","inid":4,"type":1,"name":"아이젤","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":173.5,"real_posy":98.5,"posx":173.5,"posy":98.5},
 ]};
 MobList = {
-	10007: ["モンスター", "진홍의 악마","엘레인","에델","랜스","아이젤","진홍의 악마",],
+	10007: ["モンスター", "진홍의 악마","엘레인","에델","랜스","아이젤",],
 };
 AreaData = {
 	10007: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

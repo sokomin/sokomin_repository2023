@@ -95,12 +95,12 @@ MobData = {
 	{"id":"93","inid":0,"type":2,"name":"峡谷怨霊","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":139.56,"real_posy":69.34,"posx":139.56,"posy":69.34},
 	{"id":"94","inid":0,"type":2,"name":"峡谷怨霊","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":143.98,"real_posy":72.38,"posx":143.98,"posy":72.38},
 	{"id":"95","inid":0,"type":2,"name":"峡谷怨霊","repop":30,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":165.52,"real_posy":116.5,"posx":165.52,"posy":116.5},
-	{"id":"96","inid":6,"type":1,"name":"エルウッド","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":5.52,"real_posy":16.56,"posx":5.52,"posy":16.56},
-	{"id":"97","inid":4,"type":2,"name":"次元略奪者","repop":30,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":92.17,"real_posy":48.91,"posx":92.17,"posy":48.91},
-	{"id":"98","inid":5,"type":2,"name":"次元虐殺者","repop":30,"id_area":15,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":112.72,"real_posy":163.16,"posx":112.72,"posy":163.16},
+	{"id":"96","inid":4,"type":1,"name":"エルウッド","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":5.52,"real_posy":16.56,"posx":5.52,"posy":16.56},
+	{"id":"97","inid":5,"type":2,"name":"次元略奪者","repop":30,"id_area":14,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":92.17,"real_posy":48.91,"posx":92.17,"posy":48.91},
+	{"id":"98","inid":6,"type":2,"name":"次元虐殺者","repop":30,"id_area":15,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":112.72,"real_posy":163.16,"posx":112.72,"posy":163.16},
 ]};
 MobList = {
-	10023: ["モンスター", "峡谷怨霊","峡谷監督官","峡谷サキュバス","峡谷の死","次元略奪者","次元虐殺者","エルウッド",],
+	10023: ["モンスター", "峡谷怨霊","峡谷監督官","峡谷サキュバス","峡谷の死","エルウッド","次元略奪者","次元虐殺者",],
 };
 AreaData = {
 	10023: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

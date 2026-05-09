@@ -1,18 +1,18 @@
 MobData = {
-	10054: [ {"id":"1","inid":1,"type":1,"name":"エルシュカリモコン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":169.12,"real_posy":66.59,"posx":169.12,"posy":66.59},
-	{"id":"2","inid":2,"type":2,"name":"アスタサヴァント","repop":120,"id_area":15,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.41,"real_posy":64.53,"posx":28.41,"posy":64.53},
-	{"id":"4","inid":11,"type":2,"name":"アスタサヴァント","repop":120,"id_area":16,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":89.45,"real_posy":64.56,"posx":89.45,"posy":64.56},
-	{"id":"7","inid":6,"type":2,"name":"深淵の中の星、エルシュカ","repop":5940,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":7.59,"real_posy":10.28,"posx":7.59,"posy":10.28},
-	{"id":"8","inid":5,"type":2,"name":"無秩序サヴァント","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":58.38,"real_posy":46.59,"posx":58.38,"posy":46.59},
-	{"id":"9","inid":7,"type":2,"name":"無秩序サヴァント","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":71.28,"real_posy":80.09,"posx":71.28,"posy":80.09},
-	{"id":"10","inid":8,"type":2,"name":"無秩序サヴァント","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":45.31,"real_posy":80.31,"posx":45.31,"posy":80.31},
-	{"id":"11","inid":9,"type":2,"name":"深い静寂のエルシュカ","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":58.5,"real_posy":66.44,"posx":58.5,"posy":66.44},
-	{"id":"15","inid":12,"type":1,"name":"カットシーンスキップ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":162.94,"real_posy":63.03,"posx":162.94,"posy":63.03},
-	{"id":"16","inid":13,"type":1,"name":"エルシュカ深淵即時テスト","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":162.36,"real_posy":65.84,"posx":162.36,"posy":65.84},
-	{"id":"17","inid":14,"type":1,"name":"カットシーンテスト","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":162.34,"real_posy":69.34,"posx":162.34,"posy":69.34},
+	10054: [ {"id":"1","inid":0,"type":1,"name":"エルシュカリモコン","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":169.12,"real_posy":66.59,"posx":169.12,"posy":66.59},
+	{"id":"2","inid":1,"type":2,"name":"アスタサヴァント","repop":120,"id_area":15,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":28.41,"real_posy":64.53,"posx":28.41,"posy":64.53},
+	{"id":"4","inid":1,"type":2,"name":"アスタサヴァント","repop":120,"id_area":16,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":89.45,"real_posy":64.56,"posx":89.45,"posy":64.56},
+	{"id":"7","inid":2,"type":2,"name":"深淵の中の星、エルシュカ","repop":5940,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":7.59,"real_posy":10.28,"posx":7.59,"posy":10.28},
+	{"id":"8","inid":3,"type":2,"name":"無秩序サヴァント","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":58.38,"real_posy":46.59,"posx":58.38,"posy":46.59},
+	{"id":"9","inid":3,"type":2,"name":"無秩序サヴァント","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":71.28,"real_posy":80.09,"posx":71.28,"posy":80.09},
+	{"id":"10","inid":3,"type":2,"name":"無秩序サヴァント","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":45.31,"real_posy":80.31,"posx":45.31,"posy":80.31},
+	{"id":"11","inid":4,"type":2,"name":"深い静寂のエルシュカ","repop":120,"id_area":5,"lv_min":0,"lv_max":0,"is_npc":true,"real_posx":58.5,"real_posy":66.44,"posx":58.5,"posy":66.44},
+	{"id":"15","inid":5,"type":1,"name":"カットシーンスキップ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":162.94,"real_posy":63.03,"posx":162.94,"posy":63.03},
+	{"id":"16","inid":6,"type":1,"name":"エルシュカ深淵即時テスト","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":162.36,"real_posy":65.84,"posx":162.36,"posy":65.84},
+	{"id":"17","inid":7,"type":1,"name":"カットシーンテスト","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":162.34,"real_posy":69.34,"posx":162.34,"posy":69.34},
 ]};
 MobList = {
-	10054: ["モンスター", "None.","エルシュカリモコン","アスタサヴァント","None.","None.","無秩序サヴァント","深淵の中の星、エルシュカ","無秩序サヴァント","無秩序サヴァント","深い静寂のエルシュカ","None.","アスタサヴァント","カットシーンスキップ","エルシュカ深淵即時テスト","カットシーンテスト",],
+	10054: ["モンスター", "エルシュカリモコン","アスタサヴァント","深淵の中の星、エルシュカ","無秩序サヴァント","深い静寂のエルシュカ","カットシーンスキップ","エルシュカ深淵即時テスト","カットシーンテスト",],
 };
 AreaData = {
 	10054: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},

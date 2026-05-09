@@ -7,10 +7,10 @@ MobData = {
 	{"id":"5","inid":5,"type":1,"name":"基本戦闘指導員","repop":120,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":9.69,"real_posy":50.56,"posx":9.69,"posy":50.56},
 	{"id":"6","inid":6,"type":1,"name":"協会派遣魔法師","repop":120,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":51.44,"real_posy":67.56,"posx":51.44,"posy":67.56},
 	{"id":"8","inid":7,"type":1,"name":"ギルド登録員","repop":120,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":21.16,"real_posy":38.19,"posx":21.16,"posy":38.19},
-	{"id":"9","inid":8,"type":1,"name":"協会派遣魔法師","repop":120,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":40.69,"real_posy":68.19,"posx":40.69,"posy":68.19},
+	{"id":"9","inid":6,"type":1,"name":"協会派遣魔法師","repop":120,"id_area":0,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":40.69,"real_posy":68.19,"posx":40.69,"posy":68.19},
 ]};
 MobList = {
-	10153: ["モンスター", "ペット管理官","アルブレヒト","称号テレポーター","協会事務員","育成指導員","基本戦闘指導員","協会派遣魔法師","ギルド登録員","協会派遣魔法師",],
+	10153: ["モンスター", "ペット管理官","アルブレヒト","称号テレポーター","協会事務員","育成指導員","基本戦闘指導員","協会派遣魔法師","ギルド登録員",],
 };
 AreaData = {
 	10153: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
