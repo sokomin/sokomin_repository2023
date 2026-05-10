@@ -1,6 +1,6 @@
 MobData = {
-	10045: [ {"id":"0","inid":0,"type":1,"name":"タヌマキ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":87.09,"real_posy":55.81,"posx":87.09,"posy":55.81},
-	{"id":"1","inid":0,"type":2,"name":"タヌマキ","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":69.69,"real_posy":77.38,"posx":69.69,"posy":77.38},
+	10045: [ {"id":"0","inid":0,"type":1,"name":"タヌマキ","repop":120,"id_area":256,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":43.55,"real_posy":27.91,"posx":43.55,"posy":27.91},
+	{"id":"1","inid":0,"type":2,"name":"タヌマキ","repop":120,"id_area":4,"lv_min":0,"lv_max":0,"is_npc":false,"real_posx":34.84,"real_posy":38.69,"posx":34.84,"posy":38.69},
 ]};
 MobList = {
 	10045: ["モンスター", "タヌマキ",],
@@ -8,8 +8,8 @@ MobList = {
 AreaData = {
 	10045: [ {"id":"0","type":0,"name":"졛茄\u001a 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
-	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":47.97,"real_posx2":53.56,"real_posy":112.19,"real_posy2":118.56,"posx":47.97,"posx2":53.56,"posy":112.19,"posy2":118.56},
-	{"id":"3","type":12,"name":"점괘 교환","area_name":"","access_map":"","is_secret":0,"real_posx":76.28,"real_posx2":84.78,"real_posy":33,"real_posy2":52.88,"posx":76.28,"posx2":84.78,"posy":33,"posy2":52.88},
-	{"id":"4","type":251,"name":"보스전","area_name":"","access_map":"","is_secret":0,"real_posx":39.47,"real_posx2":122.47,"real_posy":39.25,"real_posy2":143.06,"posx":39.47,"posx2":122.47,"posy":39.25,"posy2":143.06},
-	{"id":"5","type":0,"name":"자동종료","area_name":"","access_map":"","is_secret":0,"real_posx":35.75,"real_posx2":126.69,"real_posy":31.25,"real_posy2":135.38,"posx":35.75,"posx2":126.69,"posy":31.25,"posy2":135.38},
+	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":23.98,"real_posx2":26.78,"real_posy":56.09,"real_posy2":59.28,"posx":23.98,"posx2":26.78,"posy":56.09,"posy2":59.28},
+	{"id":"3","type":12,"name":"점괘 교환","area_name":"","access_map":"","is_secret":0,"real_posx":38.14,"real_posx2":42.39,"real_posy":16.5,"real_posy2":26.44,"posx":38.14,"posx2":42.39,"posy":16.5,"posy2":26.44},
+	{"id":"4","type":251,"name":"보스전","area_name":"","access_map":"","is_secret":0,"real_posx":19.73,"real_posx2":61.23,"real_posy":19.62,"real_posy2":71.53,"posx":19.73,"posx2":61.23,"posy":19.62,"posy2":71.53},
+	{"id":"5","type":0,"name":"자동종료","area_name":"","access_map":"","is_secret":0,"real_posx":17.88,"real_posx2":63.34,"real_posy":15.62,"real_posy2":67.69,"posx":17.88,"posx2":63.34,"posy":15.62,"posy2":67.69},
 ]};
