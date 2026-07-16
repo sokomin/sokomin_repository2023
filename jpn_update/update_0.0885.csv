@@ -1,0 +1,84 @@
+Red Stone\Data/characterResInfo.dat
+Red Stone\Data/ContentsOpen.dat
+Red Stone\Data/costume.dat
+Red Stone\Data/DecorateSkin.dat
+Red Stone\Data/effect_data.dat
+Red Stone\Data/item_option_open.dat
+Red Stone\Data/magicCarpetInfo.dat
+Red Stone\Data/PrefixEnchant.dat
+Red Stone\Data/Prefix_fate.dat
+Red Stone\Data/questEX_Data.dat
+Red Stone\Data/rb.dat
+Red Stone\Data/simpleGameText.dat
+Red Stone\Data/skill.dat
+Red Stone\Data/skillSign.dat
+Red Stone\Data/subjugation_Gold.dat
+Red Stone\Data/summonGlobalMonster.dat
+Red Stone\Data/textData.dat
+Red Stone\Data/textData2.dat
+Red Stone\Data\cosbody/04_CH_Collabo03.sad
+Red Stone\Data\cosbody/12_CH_Cos09_FX.sad
+Red Stone\Data\cosbody\Elemental Ruler/26_Canoneer_Cos_11_F01_CHfx.sad
+Red Stone\Data\cosbody\Elemental Ruler/26_Canoneer_Cos_11_F04_CHptfx.sad
+Red Stone\Data\cosequipment/26_Canoneer_Cos_11_F07_Wing_Lfx.sad
+Red Stone\Data\cosequipment/26_Canoneer_Cos_11_F08_Wing_Rfx.sad
+Red Stone\Data\cosequipment/26_Canoneer_Cos_11_F09_MW_Bfx.sad
+Red Stone\Data\cosequipment/26_Canoneer_Cos_11_F10_MW_Ffx.sad
+Red Stone\Data\cosequipment/26_Canoneer_Cos_11_F11_Wing_L_ptfx.sad
+Red Stone\Data\cosequipment/26_Canoneer_Cos_11_F12_Wing_R_ptfx.sad
+Red Stone\Data\cosequipment/26_Canoneer_Cos_11_F13_MW_B_ptfx.sad
+Red Stone\Data\cosequipment/26_Canoneer_Cos_11_F14_MW_F_ptfx.sad
+Red Stone\Data\cosequipment/26_Canoneer_Cos_11_fx.plt
+Red Stone\Data\cosequipment/26_Canoneer_Cos_11_Swing_Fx.sad
+Red Stone\Data\cosequipment/26_Canoneer_Cos_11_Swing_PT_Fx.sad
+Red Stone\Data\cosequipment/Cannoneer_Cos_StarRevelator_swing_eff.sad
+Red Stone\Data\cosequipment/Cannoneer_Cos_StarRevelator_weapon_F_eff.sad
+Red Stone\Data\Effects/designation_2026_Ladder.sad
+Red Stone\Data\Interface\game/interface2.sd
+Red Stone\Data\Interface\game/Magic_carpet37.sad
+Red Stone\Data\Interface\game/Magic_carpet38.sad
+Red Stone\Data\language/japanese.llt
+Red Stone\Data\Misc/iconItem.smi
+Red Stone\Data\monsters/Nuckelon.sad
+Red Stone\Data\monsters/Nuckelon01.sad
+Red Stone\Data\monsters/Nuckelon01_01.sad
+Red Stone\Data\monsters/Nuckelon_02.sad
+Red Stone\Data\Scenario/Red Stone.rpd
+Red Stone\Data\Scenario\Red Stone/item.dat
+Red Stone\Data\Scenario\Red Stone/job.dat
+Red Stone\Data\Scenario\Red Stone/quest.dat
+Red Stone\Data\Scenario\Red Stone\Map/[000]T01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1134]IsolatedGround.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1134]IsolatedGround.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1135]IsolatedGround.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1135]IsolatedGround.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1136]IsolatedGround.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1136]IsolatedGround.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[1143]Festival_of_Glory.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[1143]Festival_of_Glory.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[128]G32.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[128]G32.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[321]D16_C08_B01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[502] T01_I01.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[743]R02.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[743]R02.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[744]R03.rmd
+Red Stone\Data\Scenario\Red Stone\Map/[744]R03.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map/[745]R01.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss4]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[ArenaBoss4]000.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Ladder_Inarhis_01]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Ladder_Inarhis_01]000.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Ladder_Inarhis_02]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Ladder_Inarhis_02]000.rmd.terrain
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Tomb_of_Klippe]000.rmd
+Red Stone\Data\Scenario\Red Stone\Map\expansion/[Tomb_of_Klippe]000.rmd.terrain
+Red Stone\Data\UI/MiniGameEventUI.dat
+Red Stone\Data\UI/phaseconqueror.dat
+Red Stone\Data\UI/Subjugation_Renewal.dat
+Red Stone\Data\UI/willprefix_amplify.dat
+Red Stone\Data\UI/Willprefix_Frame.dat
+Red Stone\Data\UI/Willprefix_Recon.dat
+Red Stone\Data\UI/willprefix_reinforceamplify.dat
+Red Stone\Data\UI/Willprefix_Result.dat
