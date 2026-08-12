@@ -14,10 +14,10 @@ MobList = {
 	10004: ["モンスター", "エレイン","カシェル","ランス","エーデル","アイゼル",],
 };
 AreaData = {
-	10004: [ {"id":"0","type":0,"name":"b'_\\xc7\\xca\\xb5\\x1a \\xc0\\xfc\\xc3\\xbc'","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10004: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
-	{"id":"2","type":250,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":50.31,"real_posx2":55.66,"real_posy":70.69,"real_posy2":74.69,"posx":50.31,"posx2":55.66,"posy":70.69,"posy2":74.69},
-	{"id":"3","type":251,"name":"카쉘","area_name":"","access_map":"","is_secret":0,"real_posx":24.44,"real_posx2":80.06,"real_posy":11.84,"real_posy2":47.25,"posx":24.44,"posx2":80.06,"posy":11.84,"posy2":47.25},
-	{"id":"4","type":252,"name":"1층으로","area_name":"","access_map":"expansion\\[A溝d]001.rmd","is_secret":0,"real_posx":49.41,"real_posx2":54.69,"real_posy":4.62,"real_posy2":7.75,"posx":49.41,"posx2":54.69,"posy":4.62,"posy2":7.75},
+	{"id":"2","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":50.31,"real_posx2":55.66,"real_posy":70.69,"real_posy2":74.69,"posx":50.31,"posx2":55.66,"posy":70.69,"posy2":74.69},
+	{"id":"3","type":4,"name":"카쉘","area_name":"","access_map":"","is_secret":0,"real_posx":24.44,"real_posx2":80.06,"real_posy":11.84,"real_posy2":47.25,"posx":24.44,"posx2":80.06,"posy":11.84,"posy2":47.25},
+	{"id":"4","type":3,"name":"1층으로","area_name":"","access_map":"expansion\\[Arad]001.rmd","is_secret":0,"real_posx":49.41,"real_posx2":54.69,"real_posy":4.62,"real_posy2":7.75,"posx":49.41,"posx2":54.69,"posy":4.62,"posy2":7.75},
 	{"id":"5","type":2,"name":"성문","area_name":"","access_map":"","is_secret":0,"real_posx":48.44,"real_posx2":55.94,"real_posy":7.81,"real_posy2":12.81,"posx":48.44,"posx2":55.94,"posy":7.81,"posy2":12.81},
 ]};

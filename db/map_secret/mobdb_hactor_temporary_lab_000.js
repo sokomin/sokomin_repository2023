@@ -24,16 +24,16 @@ MobList = {
 	10041: ["モンスター", "ヘクトル","ハミングトーン","臨時変異体","臨時実験体",],
 };
 AreaData = {
-	10041: [ {"id":"0","type":255,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
-	{"id":"1","type":0,"name":"b'_\\xc8\\xad\\xb8\\x16'","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	10041: [ {"id":"0","type":0,"name":"_필드 전체","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
+	{"id":"1","type":0,"name":"_화면","area_name":"","access_map":"","is_secret":0,"real_posx":0,"real_posx2":0,"real_posy":0,"real_posy2":0,"posx":0,"posx2":0,"posy":0,"posy2":0},
 	{"id":"2","type":12,"name":"ヘクトルの登場","area_name":"","access_map":"","is_secret":0,"real_posx":5.08,"real_posx2":10.02,"real_posy":9.97,"real_posy2":17.56,"posx":5.08,"posx2":10.02,"posy":9.97,"posy2":17.56},
 	{"id":"3","type":4,"name":"헥토르 보스전","area_name":"","access_map":"","is_secret":0,"real_posx":26.83,"real_posx2":44.23,"real_posy":18.09,"real_posy2":47.5,"posx":26.83,"posx2":44.23,"posy":18.09,"posy2":47.5},
-	{"id":"4","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":3.31,"real_posx2":4.97,"real_posy":15.91,"real_posy2":12.12,"posx":3.31,"posx2":4.97,"posy":15.91,"posy2":12.12},
-	{"id":"5","type":251,"name":"대기실","area_name":"","access_map":"","is_secret":0,"real_posx":0.97,"real_posx2":9.94,"real_posy":45,"real_posy2":48.88,"posx":0.97,"posx2":9.94,"posy":45,"posy2":48.88},
-	{"id":"249","type":0,"name":"이동 지점","area_name":"","access_map":"","is_secret":0,"real_posx":34.83,"real_posx2":36.19,"real_posy":28.88,"real_posy2":32.38,"posx":34.83,"posx2":36.19,"posy":28.88,"posy2":32.38},
+	{"id":"4","type":5,"name":"시작 영역","area_name":"","access_map":"","is_secret":0,"real_posx":3.31,"real_posx2":4.97,"real_posy":8.06,"real_posy2":12.12,"posx":3.31,"posx2":4.97,"posy":8.06,"posy2":12.12},
+	{"id":"5","type":4,"name":"대기실","area_name":"","access_map":"","is_secret":0,"real_posx":0.97,"real_posx2":9.94,"real_posy":45,"real_posy2":48.88,"posx":0.97,"posx2":9.94,"posy":45,"posy2":48.88},
+	{"id":"6","type":0,"name":"이동 지점","area_name":"","access_map":"","is_secret":0,"real_posx":34.83,"real_posx2":36.19,"real_posy":28.88,"real_posy2":32.38,"posx":34.83,"posx2":36.19,"posy":28.88,"posy2":32.38},
 	{"id":"7","type":4,"name":"헥토르 스폰","area_name":"","access_map":"","is_secret":0,"real_posx":33.55,"real_posx2":37.12,"real_posy":22.22,"real_posy2":28.81,"posx":33.55,"posx2":37.12,"posy":22.22,"posy2":28.81},
 	{"id":"8","type":0,"name":"임시 실험체(도끼해골)","area_name":"","access_map":"","is_secret":0,"real_posx":30.91,"real_posx2":32.64,"real_posy":27.09,"real_posy2":33.62,"posx":30.91,"posx2":32.64,"posy":27.09,"posy2":33.62},
-	{"id":"9","type":0,"name":"임시 실험체(쌍검해골)","area_name":"","access_map":"","is_secret":0,"real_posx":38.64,"real_posx2":40.23,"real_posy":28.72,"real_posy2":33.88,"posx":38.64,"posx2":40.23,"posy":28.72,"posy2":33.88},
+	{"id":"9","type":0,"name":"임시 실험체(쌍검해골)","area_name":"","access_map":"","is_secret":0,"real_posx":38.64,"real_posx2":40.23,"real_posy":27.25,"real_posy2":33.88,"posx":38.64,"posx2":40.23,"posy":27.25,"posy2":33.88},
 	{"id":"10","type":0,"name":"임시 실험체(좀비)","area_name":"","access_map":"","is_secret":0,"real_posx":34.2,"real_posx2":37.03,"real_posy":34.38,"real_posy2":37.59,"posx":34.2,"posx2":37.03,"posy":34.38,"posy2":37.59},
-	{"id":"244","type":4,"name":"해밍턴 스폰","area_name":"","access_map":"","is_secret":0,"real_posx":32.73,"real_posx2":34.86,"real_posy":28.81,"real_posy2":32.69,"posx":32.73,"posx2":34.86,"posy":28.81,"posy2":32.69},
+	{"id":"11","type":4,"name":"해밍턴 스폰","area_name":"","access_map":"","is_secret":0,"real_posx":32.73,"real_posx2":34.86,"real_posy":28.81,"real_posy2":32.69,"posx":32.73,"posx2":34.86,"posy":28.81,"posy2":32.69},
 ]};
